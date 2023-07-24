@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:00:00+00:00",
+        "open": 345.92,
+        "high": 345.92,
+        "low": 345.92,
+        "close": 345.92,
+        "volume": 611.0,
+        "trade_count": 16.0,
+        "vwap": 345.941244
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:03:00+00:00",
+        "open": 346.0,
+        "high": 346.0,
+        "low": 346.0,
+        "close": 346.0,
+        "volume": 173.0,
+        "trade_count": 5.0,
+        "vwap": 346.0
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:07:00+00:00",
+        "open": 346.1,
+        "high": 346.1,
+        "low": 346.1,
+        "close": 346.1,
+        "volume": 500.0,
+        "trade_count": 3.0,
+        "vwap": 346.1
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:08:00+00:00",
+        "open": 346.09,
+        "high": 346.25,
+        "low": 346.09,
+        "close": 346.25,
+        "volume": 1369.0,
+        "trade_count": 33.0,
+        "vwap": 346.172739
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:09:00+00:00",
+        "open": 346.21,
+        "high": 346.25,
+        "low": 346.2,
+        "close": 346.2,
+        "volume": 656.0,
+        "trade_count": 13.0,
+        "vwap": 346.216265
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:11:00+00:00",
+        "open": 346.05,
+        "high": 346.05,
+        "low": 346.05,
+        "close": 346.05,
+        "volume": 448.0,
+        "trade_count": 13.0,
+        "vwap": 346.130826
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:15:00+00:00",
+        "open": 346.18,
+        "high": 346.18,
+        "low": 346.18,
+        "close": 346.18,
+        "volume": 250.0,
+        "trade_count": 11.0,
+        "vwap": 346.20664
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:17:00+00:00",
+        "open": 346.01,
+        "high": 346.01,
+        "low": 346.0,
+        "close": 346.0,
+        "volume": 1061.0,
+        "trade_count": 25.0,
+        "vwap": 346.020924
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:22:00+00:00",
+        "open": 346.09,
+        "high": 346.09,
+        "low": 346.09,
+        "close": 346.09,
+        "volume": 202.0,
+        "trade_count": 8.0,
+        "vwap": 346.061733
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:26:00+00:00",
+        "open": 345.9,
+        "high": 345.9,
+        "low": 345.79,
+        "close": 345.79,
+        "volume": 660.0,
+        "trade_count": 25.0,
+        "vwap": 345.866621
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:28:00+00:00",
+        "open": 345.68,
+        "high": 345.68,
+        "low": 345.68,
+        "close": 345.68,
+        "volume": 419.0,
+        "trade_count": 16.0,
+        "vwap": 345.693103
+    },
+    {
+        "symbol": "MSFT",
+        "timestamp": "2023-07-24T10:29:00+00:00",
+        "open": 345.68,
+        "high": 345.68,
+        "low": 345.68,
+        "close": 345.68,
+        "volume": 310.0,
+        "trade_count": 7.0,
+        "vwap": 345.679677
+    }
+]
