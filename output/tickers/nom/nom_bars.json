@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "NOM",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 10.56,
+        "high": 10.56,
+        "low": 10.56,
+        "close": 10.56,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.56
+    },
+    {
+        "symbol": "NOM",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 10.55,
+        "high": 10.5503,
+        "low": 10.48,
+        "close": 10.4803,
+        "volume": 5881.0,
+        "trade_count": 18.0,
+        "vwap": 10.497058
+    }
+]

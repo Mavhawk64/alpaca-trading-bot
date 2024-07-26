@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "NETD",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 10.6045,
+        "high": 10.6045,
+        "low": 10.6045,
+        "close": 10.6045,
+        "volume": 893.0,
+        "trade_count": 1.0,
+        "vwap": 10.6045
+    },
+    {
+        "symbol": "NETD",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 10.6,
+        "high": 10.6,
+        "low": 10.6,
+        "close": 10.6,
+        "volume": 893.0,
+        "trade_count": 1.0,
+        "vwap": 10.6
+    },
+    {
+        "symbol": "NETD",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 10.6,
+        "high": 10.6134,
+        "low": 10.6,
+        "close": 10.6134,
+        "volume": 1130.0,
+        "trade_count": 3.0,
+        "vwap": 10.612214
+    }
+]

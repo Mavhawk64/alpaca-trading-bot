@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "KTCC",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 3.905,
+        "high": 3.905,
+        "low": 3.905,
+        "close": 3.905,
+        "volume": 900.0,
+        "trade_count": 1.0,
+        "vwap": 3.905
+    },
+    {
+        "symbol": "KTCC",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 3.941,
+        "high": 3.941,
+        "low": 3.941,
+        "close": 3.941,
+        "volume": 105.0,
+        "trade_count": 1.0,
+        "vwap": 3.941
+    },
+    {
+        "symbol": "KTCC",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 3.87,
+        "high": 3.87,
+        "low": 3.87,
+        "close": 3.87,
+        "volume": 245.0,
+        "trade_count": 1.0,
+        "vwap": 3.87
+    }
+]

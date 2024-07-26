@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "TLSI",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 5.68,
+        "high": 5.7,
+        "low": 5.68,
+        "close": 5.7,
+        "volume": 326.0,
+        "trade_count": 4.0,
+        "vwap": 5.686135
+    },
+    {
+        "symbol": "TLSI",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 5.7,
+        "high": 5.7,
+        "low": 5.7,
+        "close": 5.7,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 5.7
+    },
+    {
+        "symbol": "TLSI",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 5.77,
+        "high": 5.79,
+        "low": 5.77,
+        "close": 5.79,
+        "volume": 456.0,
+        "trade_count": 4.0,
+        "vwap": 5.778377
+    },
+    {
+        "symbol": "TLSI",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 5.74,
+        "high": 5.74,
+        "low": 5.74,
+        "close": 5.74,
+        "volume": 234.0,
+        "trade_count": 2.0,
+        "vwap": 5.732735
+    }
+]

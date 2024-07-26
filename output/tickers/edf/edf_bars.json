@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 5.27,
+        "high": 5.27,
+        "low": 5.27,
+        "close": 5.27,
+        "volume": 318.0,
+        "trade_count": 2.0,
+        "vwap": 5.27
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 5.26,
+        "high": 5.26,
+        "low": 5.26,
+        "close": 5.26,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.26
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 5.2601,
+        "high": 5.2601,
+        "low": 5.2601,
+        "close": 5.2601,
+        "volume": 2914.0,
+        "trade_count": 2.0,
+        "vwap": 5.260191
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 5.29,
+        "high": 5.29,
+        "low": 5.29,
+        "close": 5.29,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.29
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 5.29,
+        "high": 5.29,
+        "low": 5.29,
+        "close": 5.29,
+        "volume": 1500.0,
+        "trade_count": 5.0,
+        "vwap": 5.29
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 5.28,
+        "high": 5.28,
+        "low": 5.28,
+        "close": 5.28,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.28
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 5.285,
+        "high": 5.285,
+        "low": 5.285,
+        "close": 5.285,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 5.285
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 5.29,
+        "high": 5.29,
+        "low": 5.29,
+        "close": 5.29,
+        "volume": 320.0,
+        "trade_count": 3.0,
+        "vwap": 5.29
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 5.295,
+        "high": 5.295,
+        "low": 5.295,
+        "close": 5.295,
+        "volume": 201.0,
+        "trade_count": 2.0,
+        "vwap": 5.295008
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 5.2912,
+        "high": 5.2912,
+        "low": 5.2912,
+        "close": 5.2912,
+        "volume": 174.0,
+        "trade_count": 2.0,
+        "vwap": 5.290833
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 5.29,
+        "high": 5.29,
+        "low": 5.29,
+        "close": 5.29,
+        "volume": 155.0,
+        "trade_count": 2.0,
+        "vwap": 5.293548
+    },
+    {
+        "symbol": "EDF",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 5.29,
+        "high": 5.29,
+        "low": 5.28,
+        "close": 5.28,
+        "volume": 1686.0,
+        "trade_count": 6.0,
+        "vwap": 5.284069
+    }
+]

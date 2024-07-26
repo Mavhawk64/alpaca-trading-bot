@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "RPAR",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 19.3,
+        "high": 19.3,
+        "low": 19.3,
+        "close": 19.3,
+        "volume": 244.0,
+        "trade_count": 2.0,
+        "vwap": 19.300041
+    },
+    {
+        "symbol": "RPAR",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 19.305,
+        "high": 19.305,
+        "low": 19.305,
+        "close": 19.305,
+        "volume": 664.0,
+        "trade_count": 2.0,
+        "vwap": 19.305151
+    },
+    {
+        "symbol": "RPAR",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 19.32,
+        "high": 19.32,
+        "low": 19.32,
+        "close": 19.32,
+        "volume": 422.0,
+        "trade_count": 4.0,
+        "vwap": 19.32
+    },
+    {
+        "symbol": "RPAR",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 19.33,
+        "high": 19.33,
+        "low": 19.33,
+        "close": 19.33,
+        "volume": 224.0,
+        "trade_count": 1.0,
+        "vwap": 19.33
+    },
+    {
+        "symbol": "RPAR",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 19.2801,
+        "high": 19.29,
+        "low": 19.2801,
+        "close": 19.29,
+        "volume": 500.0,
+        "trade_count": 4.0,
+        "vwap": 19.28802
+    }
+]

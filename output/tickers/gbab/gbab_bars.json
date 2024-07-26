@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 16.26,
+        "high": 16.26,
+        "low": 16.26,
+        "close": 16.26,
+        "volume": 308.0,
+        "trade_count": 1.0,
+        "vwap": 16.26
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 16.178,
+        "high": 16.178,
+        "low": 16.178,
+        "close": 16.178,
+        "volume": 434.0,
+        "trade_count": 3.0,
+        "vwap": 16.177995
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 16.25,
+        "high": 16.25,
+        "low": 16.25,
+        "close": 16.25,
+        "volume": 325.0,
+        "trade_count": 2.0,
+        "vwap": 16.249231
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 16.29,
+        "high": 16.29,
+        "low": 16.29,
+        "close": 16.29,
+        "volume": 215.0,
+        "trade_count": 4.0,
+        "vwap": 16.287209
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 16.3,
+        "high": 16.3,
+        "low": 16.3,
+        "close": 16.3,
+        "volume": 1656.0,
+        "trade_count": 7.0,
+        "vwap": 16.3
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 16.27,
+        "high": 16.27,
+        "low": 16.2699,
+        "close": 16.2699,
+        "volume": 3619.0,
+        "trade_count": 6.0,
+        "vwap": 16.269956
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 16.33,
+        "high": 16.33,
+        "low": 16.33,
+        "close": 16.33,
+        "volume": 929.0,
+        "trade_count": 8.0,
+        "vwap": 16.33
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 16.345,
+        "high": 16.345,
+        "low": 16.3426,
+        "close": 16.3426,
+        "volume": 781.0,
+        "trade_count": 4.0,
+        "vwap": 16.343215
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 16.34,
+        "high": 16.34,
+        "low": 16.34,
+        "close": 16.34,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.34
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 16.345,
+        "high": 16.365,
+        "low": 16.345,
+        "close": 16.35,
+        "volume": 2228.0,
+        "trade_count": 18.0,
+        "vwap": 16.350224
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 16.34,
+        "high": 16.34,
+        "low": 16.325,
+        "close": 16.33,
+        "volume": 1257.0,
+        "trade_count": 9.0,
+        "vwap": 16.338011
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 16.31,
+        "high": 16.31,
+        "low": 16.31,
+        "close": 16.31,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 16.31
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 16.31,
+        "high": 16.31,
+        "low": 16.31,
+        "close": 16.31,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.31
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 16.335,
+        "high": 16.335,
+        "low": 16.3286,
+        "close": 16.3286,
+        "volume": 2000.0,
+        "trade_count": 2.0,
+        "vwap": 16.3334
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 16.33,
+        "high": 16.33,
+        "low": 16.33,
+        "close": 16.33,
+        "volume": 1400.0,
+        "trade_count": 1.0,
+        "vwap": 16.33
+    },
+    {
+        "symbol": "GBAB",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 16.3358,
+        "high": 16.3358,
+        "low": 16.31,
+        "close": 16.31,
+        "volume": 422.0,
+        "trade_count": 2.0,
+        "vwap": 16.329686
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "ENLV",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 1.3901,
+        "high": 1.3901,
+        "low": 1.3901,
+        "close": 1.3901,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 1.3901
+    },
+    {
+        "symbol": "ENLV",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 1.4,
+        "high": 1.4,
+        "low": 1.4,
+        "close": 1.4,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.4
+    },
+    {
+        "symbol": "ENLV",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 1.4126,
+        "high": 1.4126,
+        "low": 1.4126,
+        "close": 1.4126,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 1.4126
+    },
+    {
+        "symbol": "ENLV",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 1.4,
+        "high": 1.4,
+        "low": 1.4,
+        "close": 1.4,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.4
+    },
+    {
+        "symbol": "ENLV",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 1.39,
+        "high": 1.39,
+        "low": 1.39,
+        "close": 1.39,
+        "volume": 426.0,
+        "trade_count": 5.0,
+        "vwap": 1.39
+    }
+]

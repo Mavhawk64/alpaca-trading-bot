@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "UAE",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 14.53,
+        "high": 14.53,
+        "low": 14.53,
+        "close": 14.53,
+        "volume": 118.0,
+        "trade_count": 1.0,
+        "vwap": 14.53
+    },
+    {
+        "symbol": "UAE",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 14.56,
+        "high": 14.56,
+        "low": 14.56,
+        "close": 14.56,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 14.562
+    },
+    {
+        "symbol": "UAE",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 14.58,
+        "high": 14.58,
+        "low": 14.58,
+        "close": 14.58,
+        "volume": 110.0,
+        "trade_count": 1.0,
+        "vwap": 14.58
+    },
+    {
+        "symbol": "UAE",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 14.57,
+        "high": 14.57,
+        "low": 14.57,
+        "close": 14.57,
+        "volume": 230.0,
+        "trade_count": 4.0,
+        "vwap": 14.575217
+    },
+    {
+        "symbol": "UAE",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 14.6,
+        "high": 14.6,
+        "low": 14.6,
+        "close": 14.6,
+        "volume": 110.0,
+        "trade_count": 2.0,
+        "vwap": 14.599091
+    },
+    {
+        "symbol": "UAE",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 14.559,
+        "high": 14.57,
+        "low": 14.559,
+        "close": 14.57,
+        "volume": 4380.0,
+        "trade_count": 13.0,
+        "vwap": 14.568005
+    }
+]

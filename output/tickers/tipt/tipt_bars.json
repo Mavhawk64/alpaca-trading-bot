@@ -1,0 +1,189 @@
+[
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 18.95,
+        "high": 18.95,
+        "low": 18.93,
+        "close": 18.93,
+        "volume": 904.0,
+        "trade_count": 16.0,
+        "vwap": 18.928131
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 18.95,
+        "high": 18.95,
+        "low": 18.95,
+        "close": 18.95,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 18.95
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 19.0,
+        "high": 19.18,
+        "low": 19.0,
+        "close": 19.18,
+        "volume": 4126.0,
+        "trade_count": 22.0,
+        "vwap": 19.008691
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 19.18,
+        "high": 19.18,
+        "low": 19.18,
+        "close": 19.18,
+        "volume": 164.0,
+        "trade_count": 3.0,
+        "vwap": 19.16939
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 19.1135,
+        "high": 19.1135,
+        "low": 19.1135,
+        "close": 19.1135,
+        "volume": 166.0,
+        "trade_count": 1.0,
+        "vwap": 19.1135
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 19.18,
+        "high": 19.18,
+        "low": 19.18,
+        "close": 19.18,
+        "volume": 418.0,
+        "trade_count": 5.0,
+        "vwap": 19.178565
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 19.04,
+        "high": 19.07,
+        "low": 19.0,
+        "close": 19.07,
+        "volume": 740.0,
+        "trade_count": 19.0,
+        "vwap": 19.036108
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 19.005,
+        "high": 19.005,
+        "low": 19.005,
+        "close": 19.005,
+        "volume": 106.0,
+        "trade_count": 3.0,
+        "vwap": 19.004906
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 19.02,
+        "high": 19.02,
+        "low": 19.02,
+        "close": 19.02,
+        "volume": 190.0,
+        "trade_count": 5.0,
+        "vwap": 18.992105
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 19.08,
+        "high": 19.08,
+        "low": 19.08,
+        "close": 19.08,
+        "volume": 1929.0,
+        "trade_count": 75.0,
+        "vwap": 19.089072
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 19.13,
+        "high": 19.13,
+        "low": 19.13,
+        "close": 19.13,
+        "volume": 105.0,
+        "trade_count": 4.0,
+        "vwap": 19.132619
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 19.06,
+        "high": 19.06,
+        "low": 19.05,
+        "close": 19.05,
+        "volume": 1232.0,
+        "trade_count": 43.0,
+        "vwap": 19.060227
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 19.23,
+        "high": 19.24,
+        "low": 19.23,
+        "close": 19.24,
+        "volume": 1674.0,
+        "trade_count": 33.0,
+        "vwap": 19.235209
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 19.19,
+        "high": 19.19,
+        "low": 19.19,
+        "close": 19.19,
+        "volume": 109.0,
+        "trade_count": 4.0,
+        "vwap": 19.189633
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 19.18,
+        "high": 19.18,
+        "low": 19.18,
+        "close": 19.18,
+        "volume": 342.0,
+        "trade_count": 17.0,
+        "vwap": 19.178538
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 19.055,
+        "high": 19.055,
+        "low": 19.055,
+        "close": 19.055,
+        "volume": 102.0,
+        "trade_count": 3.0,
+        "vwap": 19.054853
+    },
+    {
+        "symbol": "TIPT",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 19.06,
+        "high": 19.06,
+        "low": 19.06,
+        "close": 19.06,
+        "volume": 256.0,
+        "trade_count": 4.0,
+        "vwap": 19.06
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "CULP",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 5.1,
+        "high": 5.11,
+        "low": 5.1,
+        "close": 5.1,
+        "volume": 1656.0,
+        "trade_count": 15.0,
+        "vwap": 5.104227
+    },
+    {
+        "symbol": "CULP",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 5.075,
+        "high": 5.075,
+        "low": 5.075,
+        "close": 5.075,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 5.073333
+    },
+    {
+        "symbol": "CULP",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 5.07,
+        "high": 5.07,
+        "low": 5.07,
+        "close": 5.07,
+        "volume": 120.0,
+        "trade_count": 3.0,
+        "vwap": 5.068333
+    },
+    {
+        "symbol": "CULP",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 5.07,
+        "high": 5.07,
+        "low": 5.07,
+        "close": 5.07,
+        "volume": 287.0,
+        "trade_count": 5.0,
+        "vwap": 5.058711
+    }
+]

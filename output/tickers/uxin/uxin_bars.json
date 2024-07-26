@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "UXIN",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.72,
+        "high": 1.72,
+        "low": 1.72,
+        "close": 1.72,
+        "volume": 321.0,
+        "trade_count": 13.0,
+        "vwap": 1.725187
+    },
+    {
+        "symbol": "UXIN",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 1.755,
+        "high": 1.755,
+        "low": 1.755,
+        "close": 1.755,
+        "volume": 117.0,
+        "trade_count": 1.0,
+        "vwap": 1.755
+    },
+    {
+        "symbol": "UXIN",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 1.7589,
+        "high": 1.7589,
+        "low": 1.7589,
+        "close": 1.7589,
+        "volume": 580.0,
+        "trade_count": 2.0,
+        "vwap": 1.7589
+    },
+    {
+        "symbol": "UXIN",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 1.735,
+        "high": 1.735,
+        "low": 1.735,
+        "close": 1.735,
+        "volume": 197.0,
+        "trade_count": 3.0,
+        "vwap": 1.762081
+    },
+    {
+        "symbol": "UXIN",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 1.78,
+        "high": 1.78,
+        "low": 1.78,
+        "close": 1.78,
+        "volume": 150.0,
+        "trade_count": 1.0,
+        "vwap": 1.78
+    },
+    {
+        "symbol": "UXIN",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 1.785,
+        "high": 1.785,
+        "low": 1.76,
+        "close": 1.76,
+        "volume": 1641.0,
+        "trade_count": 4.0,
+        "vwap": 1.779668
+    },
+    {
+        "symbol": "UXIN",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 1.8,
+        "high": 1.8,
+        "low": 1.8,
+        "close": 1.8,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.8
+    }
+]

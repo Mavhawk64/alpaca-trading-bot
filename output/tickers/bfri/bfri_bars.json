@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "BFRI",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 1.09,
+        "high": 1.09,
+        "low": 1.09,
+        "close": 1.09,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 1.09
+    },
+    {
+        "symbol": "BFRI",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 1.0817,
+        "high": 1.09,
+        "low": 1.0817,
+        "close": 1.09,
+        "volume": 1146.0,
+        "trade_count": 2.0,
+        "vwap": 1.088943
+    },
+    {
+        "symbol": "BFRI",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 1.1,
+        "high": 1.1,
+        "low": 1.08,
+        "close": 1.08,
+        "volume": 4182.0,
+        "trade_count": 5.0,
+        "vwap": 1.099362
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "DIST",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 10.8,
+        "high": 10.8,
+        "low": 10.8,
+        "close": 10.8,
+        "volume": 245.0,
+        "trade_count": 1.0,
+        "vwap": 10.8
+    },
+    {
+        "symbol": "DIST",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 10.82,
+        "high": 10.82,
+        "low": 10.8048,
+        "close": 10.8048,
+        "volume": 799.0,
+        "trade_count": 2.0,
+        "vwap": 10.810507
+    }
+]

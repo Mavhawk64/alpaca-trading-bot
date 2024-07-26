@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 15.92,
+        "high": 15.92,
+        "low": 15.92,
+        "close": 15.92,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 15.92
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 15.9,
+        "high": 15.9,
+        "low": 15.82,
+        "close": 15.82,
+        "volume": 1711.0,
+        "trade_count": 4.0,
+        "vwap": 15.895091
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 15.92,
+        "high": 15.92,
+        "low": 15.92,
+        "close": 15.92,
+        "volume": 316.0,
+        "trade_count": 1.0,
+        "vwap": 15.92
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 15.82,
+        "high": 15.82,
+        "low": 15.82,
+        "close": 15.82,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.82
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 15.81,
+        "high": 15.8665,
+        "low": 15.77,
+        "close": 15.86,
+        "volume": 2321.0,
+        "trade_count": 22.0,
+        "vwap": 15.815546
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 15.75,
+        "high": 15.75,
+        "low": 15.75,
+        "close": 15.75,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.75
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 15.79,
+        "high": 15.79,
+        "low": 15.79,
+        "close": 15.79,
+        "volume": 403.0,
+        "trade_count": 6.0,
+        "vwap": 15.777122
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 15.75,
+        "high": 15.75,
+        "low": 15.75,
+        "close": 15.75,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.75
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 15.7868,
+        "high": 15.7868,
+        "low": 15.7868,
+        "close": 15.7868,
+        "volume": 700.0,
+        "trade_count": 1.0,
+        "vwap": 15.7868
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 15.75,
+        "high": 15.75,
+        "low": 15.75,
+        "close": 15.75,
+        "volume": 1610.0,
+        "trade_count": 4.0,
+        "vwap": 15.750259
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 15.775,
+        "high": 15.83,
+        "low": 15.72,
+        "close": 15.72,
+        "volume": 1700.0,
+        "trade_count": 3.0,
+        "vwap": 15.797647
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 15.7904,
+        "high": 15.7904,
+        "low": 15.7904,
+        "close": 15.7904,
+        "volume": 600.0,
+        "trade_count": 1.0,
+        "vwap": 15.7904
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 15.775,
+        "high": 15.8399,
+        "low": 15.775,
+        "close": 15.8399,
+        "volume": 1200.0,
+        "trade_count": 2.0,
+        "vwap": 15.80745
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 15.74,
+        "high": 15.8499,
+        "low": 15.74,
+        "close": 15.8499,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 15.813267
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 15.78,
+        "high": 15.78,
+        "low": 15.78,
+        "close": 15.78,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.78
+    },
+    {
+        "symbol": "MXF",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 15.78,
+        "high": 15.78,
+        "low": 15.78,
+        "close": 15.78,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.78
+    }
+]

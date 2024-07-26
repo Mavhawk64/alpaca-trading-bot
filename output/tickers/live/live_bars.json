@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "LIVE",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 19.3,
+        "high": 19.3,
+        "low": 19.045,
+        "close": 19.045,
+        "volume": 488.0,
+        "trade_count": 2.0,
+        "vwap": 19.247746
+    },
+    {
+        "symbol": "LIVE",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 19.4,
+        "high": 19.4,
+        "low": 18.79,
+        "close": 19.16,
+        "volume": 1680.0,
+        "trade_count": 18.0,
+        "vwap": 19.095179
+    },
+    {
+        "symbol": "LIVE",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 19.02,
+        "high": 19.02,
+        "low": 18.85,
+        "close": 18.85,
+        "volume": 361.0,
+        "trade_count": 4.0,
+        "vwap": 18.904183
+    }
+]

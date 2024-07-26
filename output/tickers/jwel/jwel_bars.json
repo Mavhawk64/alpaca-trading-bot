@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "JWEL",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 1.79,
+        "high": 1.79,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 163.0,
+        "trade_count": 2.0,
+        "vwap": 1.79
+    },
+    {
+        "symbol": "JWEL",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 1.76,
+        "high": 1.76,
+        "low": 1.75,
+        "close": 1.75,
+        "volume": 2086.0,
+        "trade_count": 5.0,
+        "vwap": 1.756242
+    },
+    {
+        "symbol": "JWEL",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 1.75,
+        "high": 1.8,
+        "low": 1.725,
+        "close": 1.75,
+        "volume": 28392.0,
+        "trade_count": 26.0,
+        "vwap": 1.773721
+    },
+    {
+        "symbol": "JWEL",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 1.7,
+        "high": 1.7,
+        "low": 1.7,
+        "close": 1.7,
+        "volume": 931.0,
+        "trade_count": 3.0,
+        "vwap": 1.7
+    },
+    {
+        "symbol": "JWEL",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 1.6,
+        "high": 1.6,
+        "low": 1.6,
+        "close": 1.6,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.6
+    },
+    {
+        "symbol": "JWEL",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 1.6,
+        "high": 1.601,
+        "low": 1.56,
+        "close": 1.56,
+        "volume": 633.0,
+        "trade_count": 6.0,
+        "vwap": 1.593839
+    },
+    {
+        "symbol": "JWEL",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 1.59,
+        "high": 1.61,
+        "low": 1.59,
+        "close": 1.6,
+        "volume": 18277.0,
+        "trade_count": 15.0,
+        "vwap": 1.600671
+    },
+    {
+        "symbol": "JWEL",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 1.6,
+        "high": 1.6,
+        "low": 1.5,
+        "close": 1.5,
+        "volume": 2926.0,
+        "trade_count": 11.0,
+        "vwap": 1.51577
+    },
+    {
+        "symbol": "JWEL",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 1.5,
+        "high": 1.53,
+        "low": 1.5,
+        "close": 1.53,
+        "volume": 6700.0,
+        "trade_count": 9.0,
+        "vwap": 1.500448
+    },
+    {
+        "symbol": "JWEL",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 1.7,
+        "high": 1.7,
+        "low": 1.7,
+        "close": 1.7,
+        "volume": 315.0,
+        "trade_count": 4.0,
+        "vwap": 1.690444
+    }
+]

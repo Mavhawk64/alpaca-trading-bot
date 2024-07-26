@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "PRPH",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 3.01,
+        "high": 3.01,
+        "low": 3.01,
+        "close": 3.01,
+        "volume": 160.0,
+        "trade_count": 3.0,
+        "vwap": 3.0105
+    },
+    {
+        "symbol": "PRPH",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 3.089,
+        "high": 3.12,
+        "low": 3.06,
+        "close": 3.12,
+        "volume": 2099.0,
+        "trade_count": 23.0,
+        "vwap": 3.089428
+    },
+    {
+        "symbol": "PRPH",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 3.11,
+        "high": 3.11,
+        "low": 3.1,
+        "close": 3.1,
+        "volume": 419.0,
+        "trade_count": 4.0,
+        "vwap": 3.104773
+    },
+    {
+        "symbol": "PRPH",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 3.19,
+        "high": 3.21,
+        "low": 3.18,
+        "close": 3.21,
+        "volume": 2437.0,
+        "trade_count": 26.0,
+        "vwap": 3.187251
+    },
+    {
+        "symbol": "PRPH",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 3.25,
+        "high": 3.28,
+        "low": 3.21,
+        "close": 3.21,
+        "volume": 1115.0,
+        "trade_count": 13.0,
+        "vwap": 3.25
+    },
+    {
+        "symbol": "PRPH",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 3.2982,
+        "high": 3.2982,
+        "low": 3.2982,
+        "close": 3.2982,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 3.2982
+    }
+]

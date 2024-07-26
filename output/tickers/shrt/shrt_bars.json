@@ -1,0 +1,13 @@
+[
+    {
+        "symbol": "SHRT",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 8.29,
+        "high": 8.29,
+        "low": 8.29,
+        "close": 8.29,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 8.29
+    }
+]

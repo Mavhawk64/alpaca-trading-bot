@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 18.43,
+        "high": 18.43,
+        "low": 18.4299,
+        "close": 18.4299,
+        "volume": 533.0,
+        "trade_count": 6.0,
+        "vwap": 18.431773
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 18.445,
+        "high": 18.47,
+        "low": 18.445,
+        "close": 18.4699,
+        "volume": 354.0,
+        "trade_count": 5.0,
+        "vwap": 18.462846
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 18.36,
+        "high": 18.36,
+        "low": 18.35,
+        "close": 18.3501,
+        "volume": 942.0,
+        "trade_count": 11.0,
+        "vwap": 18.351195
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 18.41,
+        "high": 18.41,
+        "low": 18.41,
+        "close": 18.41,
+        "volume": 102.0,
+        "trade_count": 3.0,
+        "vwap": 18.409999
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 18.4,
+        "high": 18.41,
+        "low": 18.4,
+        "close": 18.4,
+        "volume": 1200.0,
+        "trade_count": 9.0,
+        "vwap": 18.401667
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 18.445,
+        "high": 18.445,
+        "low": 18.445,
+        "close": 18.445,
+        "volume": 165.0,
+        "trade_count": 2.0,
+        "vwap": 18.445455
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 18.45,
+        "high": 18.45,
+        "low": 18.45,
+        "close": 18.45,
+        "volume": 143.0,
+        "trade_count": 2.0,
+        "vwap": 18.45
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 18.4653,
+        "high": 18.4653,
+        "low": 18.4653,
+        "close": 18.4653,
+        "volume": 201.0,
+        "trade_count": 2.0,
+        "vwap": 18.465373
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 18.5,
+        "high": 18.5,
+        "low": 18.49,
+        "close": 18.49,
+        "volume": 500.0,
+        "trade_count": 2.0,
+        "vwap": 18.495
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 18.4631,
+        "high": 18.4631,
+        "low": 18.4631,
+        "close": 18.4631,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 18.4599
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 18.45,
+        "high": 18.45,
+        "low": 18.45,
+        "close": 18.45,
+        "volume": 145.0,
+        "trade_count": 1.0,
+        "vwap": 18.45
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 18.4,
+        "high": 18.4,
+        "low": 18.4,
+        "close": 18.4,
+        "volume": 221.0,
+        "trade_count": 6.0,
+        "vwap": 18.401584
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 18.3599,
+        "high": 18.3599,
+        "low": 18.3599,
+        "close": 18.3599,
+        "volume": 140.0,
+        "trade_count": 4.0,
+        "vwap": 18.359901
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 18.4396,
+        "high": 18.4396,
+        "low": 18.4396,
+        "close": 18.4396,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 18.4396
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 18.41,
+        "high": 18.4198,
+        "low": 18.41,
+        "close": 18.4198,
+        "volume": 1683.0,
+        "trade_count": 8.0,
+        "vwap": 18.413041
+    },
+    {
+        "symbol": "GDXY",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 18.3901,
+        "high": 18.3901,
+        "low": 18.3901,
+        "close": 18.3901,
+        "volume": 159.0,
+        "trade_count": 2.0,
+        "vwap": 18.390847
+    }
+]

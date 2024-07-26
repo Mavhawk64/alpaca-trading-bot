@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "RAYC",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 13.1,
+        "high": 13.1,
+        "low": 13.1,
+        "close": 13.1,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 13.1
+    },
+    {
+        "symbol": "RAYC",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 13.1,
+        "high": 13.1,
+        "low": 13.1,
+        "close": 13.1,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 13.1
+    },
+    {
+        "symbol": "RAYC",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 13.09,
+        "high": 13.0901,
+        "low": 13.09,
+        "close": 13.0901,
+        "volume": 500.0,
+        "trade_count": 2.0,
+        "vwap": 13.09005
+    },
+    {
+        "symbol": "RAYC",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 13.13,
+        "high": 13.13,
+        "low": 13.13,
+        "close": 13.13,
+        "volume": 1288.0,
+        "trade_count": 1.0,
+        "vwap": 13.13
+    },
+    {
+        "symbol": "RAYC",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 13.13,
+        "high": 13.13,
+        "low": 13.13,
+        "close": 13.13,
+        "volume": 1326.0,
+        "trade_count": 2.0,
+        "vwap": 13.13
+    }
+]

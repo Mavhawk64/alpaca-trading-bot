@@ -1,0 +1,189 @@
+[
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.32,
+        "high": 4.32,
+        "low": 4.32,
+        "close": 4.32,
+        "volume": 120.0,
+        "trade_count": 5.0,
+        "vwap": 4.319042
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 4.24,
+        "high": 4.24,
+        "low": 4.21,
+        "close": 4.21,
+        "volume": 3123.0,
+        "trade_count": 9.0,
+        "vwap": 4.21845
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 4.05,
+        "high": 4.105,
+        "low": 4.05,
+        "close": 4.06,
+        "volume": 1219.0,
+        "trade_count": 8.0,
+        "vwap": 4.065209
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 4.0588,
+        "high": 4.0588,
+        "low": 4.0588,
+        "close": 4.0588,
+        "volume": 719.0,
+        "trade_count": 2.0,
+        "vwap": 4.060153
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 4.1,
+        "high": 4.1,
+        "low": 4.1,
+        "close": 4.1,
+        "volume": 102.0,
+        "trade_count": 2.0,
+        "vwap": 4.10098
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 4.12,
+        "high": 4.12,
+        "low": 4.12,
+        "close": 4.12,
+        "volume": 137.0,
+        "trade_count": 2.0,
+        "vwap": 4.111898
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 4.12,
+        "high": 4.12,
+        "low": 4.12,
+        "close": 4.12,
+        "volume": 1500.0,
+        "trade_count": 1.0,
+        "vwap": 4.12
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 4.13,
+        "high": 4.13,
+        "low": 4.13,
+        "close": 4.13,
+        "volume": 614.0,
+        "trade_count": 2.0,
+        "vwap": 4.13
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 4.1,
+        "high": 4.1,
+        "low": 4.1,
+        "close": 4.1,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 4.1
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 4.13,
+        "high": 4.13,
+        "low": 4.13,
+        "close": 4.13,
+        "volume": 202.0,
+        "trade_count": 3.0,
+        "vwap": 4.130262
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 4.1191,
+        "high": 4.1191,
+        "low": 4.1191,
+        "close": 4.1191,
+        "volume": 254.0,
+        "trade_count": 3.0,
+        "vwap": 4.119429
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 4.115,
+        "high": 4.115,
+        "low": 4.115,
+        "close": 4.115,
+        "volume": 803.0,
+        "trade_count": 3.0,
+        "vwap": 4.115093
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 4.1,
+        "high": 4.1,
+        "low": 4.08,
+        "close": 4.09,
+        "volume": 1487.0,
+        "trade_count": 24.0,
+        "vwap": 4.090229
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 4.05,
+        "high": 4.0515,
+        "low": 4.05,
+        "close": 4.0515,
+        "volume": 1209.0,
+        "trade_count": 16.0,
+        "vwap": 4.0527
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 4.1,
+        "high": 4.1,
+        "low": 4.1,
+        "close": 4.1,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.1
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 4.12,
+        "high": 4.12,
+        "low": 4.12,
+        "close": 4.12,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.12
+    },
+    {
+        "symbol": "DRCT",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 4.04,
+        "high": 4.04,
+        "low": 4.04,
+        "close": 4.04,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.04
+    }
+]

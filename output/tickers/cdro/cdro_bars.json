@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "CDRO",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 7.52,
+        "high": 7.64,
+        "low": 7.52,
+        "close": 7.64,
+        "volume": 211.0,
+        "trade_count": 2.0,
+        "vwap": 7.576872
+    },
+    {
+        "symbol": "CDRO",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 7.8569,
+        "high": 7.8569,
+        "low": 7.8569,
+        "close": 7.8569,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 7.8569
+    },
+    {
+        "symbol": "CDRO",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 7.535,
+        "high": 7.535,
+        "low": 7.535,
+        "close": 7.535,
+        "volume": 666.0,
+        "trade_count": 1.0,
+        "vwap": 7.535
+    },
+    {
+        "symbol": "CDRO",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 7.6899,
+        "high": 7.6899,
+        "low": 7.6899,
+        "close": 7.6899,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.6899
+    }
+]

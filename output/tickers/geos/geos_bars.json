@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "GEOS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 9.7,
+        "high": 9.7,
+        "low": 9.7,
+        "close": 9.7,
+        "volume": 717.0,
+        "trade_count": 1.0,
+        "vwap": 9.7
+    },
+    {
+        "symbol": "GEOS",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 9.8,
+        "high": 9.8,
+        "low": 9.8,
+        "close": 9.8,
+        "volume": 104.0,
+        "trade_count": 4.0,
+        "vwap": 9.800192
+    },
+    {
+        "symbol": "GEOS",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 9.68,
+        "high": 9.68,
+        "low": 9.68,
+        "close": 9.68,
+        "volume": 311.0,
+        "trade_count": 5.0,
+        "vwap": 9.679656
+    },
+    {
+        "symbol": "GEOS",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 9.74,
+        "high": 9.74,
+        "low": 9.74,
+        "close": 9.74,
+        "volume": 750.0,
+        "trade_count": 33.0,
+        "vwap": 9.724787
+    },
+    {
+        "symbol": "GEOS",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 9.765,
+        "high": 9.765,
+        "low": 9.76,
+        "close": 9.76,
+        "volume": 452.0,
+        "trade_count": 11.0,
+        "vwap": 9.765066
+    },
+    {
+        "symbol": "GEOS",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 9.71,
+        "high": 9.71,
+        "low": 9.71,
+        "close": 9.71,
+        "volume": 780.0,
+        "trade_count": 26.0,
+        "vwap": 9.70601
+    }
+]

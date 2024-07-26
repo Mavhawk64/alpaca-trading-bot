@@ -1,0 +1,211 @@
+[
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 6.37,
+        "high": 6.37,
+        "low": 6.37,
+        "close": 6.37,
+        "volume": 454.0,
+        "trade_count": 1.0,
+        "vwap": 6.37
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 6.27,
+        "high": 6.27,
+        "low": 6.27,
+        "close": 6.27,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.27
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 6.44,
+        "high": 6.44,
+        "low": 6.365,
+        "close": 6.365,
+        "volume": 1065.0,
+        "trade_count": 2.0,
+        "vwap": 6.372042
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 6.45,
+        "high": 6.5,
+        "low": 6.45,
+        "close": 6.49,
+        "volume": 9008.0,
+        "trade_count": 22.0,
+        "vwap": 6.485654
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 6.54,
+        "high": 6.54,
+        "low": 6.54,
+        "close": 6.54,
+        "volume": 236.0,
+        "trade_count": 3.0,
+        "vwap": 6.540275
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 6.69,
+        "high": 6.69,
+        "low": 6.69,
+        "close": 6.69,
+        "volume": 438.0,
+        "trade_count": 2.0,
+        "vwap": 6.671564
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 6.65,
+        "high": 6.65,
+        "low": 6.65,
+        "close": 6.65,
+        "volume": 210.0,
+        "trade_count": 1.0,
+        "vwap": 6.65
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 6.64,
+        "high": 6.64,
+        "low": 6.64,
+        "close": 6.64,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.64
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 6.6499,
+        "high": 6.6499,
+        "low": 6.6499,
+        "close": 6.6499,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 6.647425
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 6.56,
+        "high": 6.56,
+        "low": 6.56,
+        "close": 6.56,
+        "volume": 600.0,
+        "trade_count": 1.0,
+        "vwap": 6.56
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 6.5503,
+        "high": 6.5503,
+        "low": 6.5503,
+        "close": 6.5503,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 6.5503
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 6.56,
+        "high": 6.56,
+        "low": 6.56,
+        "close": 6.56,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 6.56
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 6.48,
+        "high": 6.48,
+        "low": 6.48,
+        "close": 6.48,
+        "volume": 343.0,
+        "trade_count": 2.0,
+        "vwap": 6.48
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 6.51,
+        "high": 6.51,
+        "low": 6.51,
+        "close": 6.51,
+        "volume": 248.0,
+        "trade_count": 5.0,
+        "vwap": 6.511008
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 6.63,
+        "high": 6.7,
+        "low": 6.63,
+        "close": 6.7,
+        "volume": 4131.0,
+        "trade_count": 22.0,
+        "vwap": 6.655116
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 6.77,
+        "high": 6.78,
+        "low": 6.7681,
+        "close": 6.77,
+        "volume": 601.0,
+        "trade_count": 6.0,
+        "vwap": 6.771065
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 6.7799,
+        "high": 6.7799,
+        "low": 6.7799,
+        "close": 6.7799,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.7799
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 6.723,
+        "high": 6.723,
+        "low": 6.695,
+        "close": 6.695,
+        "volume": 738.0,
+        "trade_count": 2.0,
+        "vwap": 6.707824
+    },
+    {
+        "symbol": "KINS",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 6.78,
+        "high": 6.8,
+        "low": 6.78,
+        "close": 6.8,
+        "volume": 1019.0,
+        "trade_count": 5.0,
+        "vwap": 6.783329
+    }
+]

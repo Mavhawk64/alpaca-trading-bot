@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "LVTX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.1,
+        "high": 2.1,
+        "low": 2.1,
+        "close": 2.1,
+        "volume": 661.0,
+        "trade_count": 3.0,
+        "vwap": 2.100136
+    },
+    {
+        "symbol": "LVTX",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 2.1112,
+        "high": 2.1112,
+        "low": 2.1112,
+        "close": 2.1112,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 2.1112
+    },
+    {
+        "symbol": "LVTX",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 2.14,
+        "high": 2.14,
+        "low": 2.11,
+        "close": 2.11,
+        "volume": 2043.0,
+        "trade_count": 6.0,
+        "vwap": 2.115962
+    },
+    {
+        "symbol": "LVTX",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 2.1114,
+        "high": 2.1114,
+        "low": 2.11,
+        "close": 2.11,
+        "volume": 1138.0,
+        "trade_count": 6.0,
+        "vwap": 2.110123
+    },
+    {
+        "symbol": "LVTX",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 2.0615,
+        "high": 2.0615,
+        "low": 2.0615,
+        "close": 2.0615,
+        "volume": 202.0,
+        "trade_count": 2.0,
+        "vwap": 2.061708
+    },
+    {
+        "symbol": "LVTX",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 2.108,
+        "high": 2.108,
+        "low": 2.108,
+        "close": 2.108,
+        "volume": 714.0,
+        "trade_count": 1.0,
+        "vwap": 2.108
+    }
+]

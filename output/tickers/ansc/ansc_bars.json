@@ -1,0 +1,123 @@
+[
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 10.304,
+        "high": 10.304,
+        "low": 10.304,
+        "close": 10.304,
+        "volume": 340.0,
+        "trade_count": 1.0,
+        "vwap": 10.304
+    },
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 10.3,
+        "high": 10.3,
+        "low": 10.3,
+        "close": 10.3,
+        "volume": 1463.0,
+        "trade_count": 3.0,
+        "vwap": 10.300342
+    },
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 10.3,
+        "high": 10.305,
+        "low": 10.3,
+        "close": 10.3,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 10.301667
+    },
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 10.31,
+        "high": 10.31,
+        "low": 10.31,
+        "close": 10.31,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 10.31
+    },
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 10.3095,
+        "high": 10.3095,
+        "low": 10.305,
+        "close": 10.305,
+        "volume": 5200.0,
+        "trade_count": 4.0,
+        "vwap": 10.309327
+    },
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 10.305,
+        "high": 10.31,
+        "low": 10.305,
+        "close": 10.305,
+        "volume": 9150.0,
+        "trade_count": 13.0,
+        "vwap": 10.30959
+    },
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 10.31,
+        "high": 10.315,
+        "low": 10.305,
+        "close": 10.315,
+        "volume": 15590.0,
+        "trade_count": 26.0,
+        "vwap": 10.309904
+    },
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 10.3195,
+        "high": 10.3195,
+        "low": 10.3195,
+        "close": 10.3195,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.3195
+    },
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:48:00+00:00",
+        "open": 10.315,
+        "high": 10.315,
+        "low": 10.315,
+        "close": 10.315,
+        "volume": 600.0,
+        "trade_count": 6.0,
+        "vwap": 10.315
+    },
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 10.315,
+        "high": 10.315,
+        "low": 10.315,
+        "close": 10.315,
+        "volume": 103.0,
+        "trade_count": 2.0,
+        "vwap": 10.315
+    },
+    {
+        "symbol": "ANSC",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 10.315,
+        "high": 10.315,
+        "low": 10.315,
+        "close": 10.315,
+        "volume": 112.0,
+        "trade_count": 2.0,
+        "vwap": 10.315
+    }
+]

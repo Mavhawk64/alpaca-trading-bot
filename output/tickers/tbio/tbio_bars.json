@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "TBIO",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 4.07,
+        "high": 4.07,
+        "low": 4.07,
+        "close": 4.07,
+        "volume": 401.0,
+        "trade_count": 5.0,
+        "vwap": 4.070298
+    },
+    {
+        "symbol": "TBIO",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 4.0899,
+        "high": 4.0899,
+        "low": 4.07,
+        "close": 4.07,
+        "volume": 423.0,
+        "trade_count": 4.0,
+        "vwap": 4.081626
+    },
+    {
+        "symbol": "TBIO",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 4.02,
+        "high": 4.03,
+        "low": 4.02,
+        "close": 4.03,
+        "volume": 353.0,
+        "trade_count": 4.0,
+        "vwap": 4.017167
+    },
+    {
+        "symbol": "TBIO",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 4.04,
+        "high": 4.04,
+        "low": 4.03,
+        "close": 4.03,
+        "volume": 728.0,
+        "trade_count": 5.0,
+        "vwap": 4.03319
+    },
+    {
+        "symbol": "TBIO",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 4.03,
+        "high": 4.03,
+        "low": 4.03,
+        "close": 4.03,
+        "volume": 124.0,
+        "trade_count": 2.0,
+        "vwap": 4.031935
+    },
+    {
+        "symbol": "TBIO",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 4.03,
+        "high": 4.03,
+        "low": 4.03,
+        "close": 4.03,
+        "volume": 144.0,
+        "trade_count": 3.0,
+        "vwap": 4.031667
+    }
+]

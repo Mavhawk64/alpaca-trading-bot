@@ -1,0 +1,233 @@
+[
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.11,
+        "high": 2.11,
+        "low": 2.11,
+        "close": 2.11,
+        "volume": 1340.0,
+        "trade_count": 5.0,
+        "vwap": 2.110027
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 2.129,
+        "high": 2.13,
+        "low": 2.129,
+        "close": 2.13,
+        "volume": 624.0,
+        "trade_count": 5.0,
+        "vwap": 2.128141
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 2.1264,
+        "high": 2.1264,
+        "low": 2.1264,
+        "close": 2.1264,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 2.1264
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 2.1257,
+        "high": 2.1257,
+        "low": 2.1257,
+        "close": 2.1257,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.1257
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 2.1298,
+        "high": 2.1298,
+        "low": 2.1298,
+        "close": 2.1298,
+        "volume": 501.0,
+        "trade_count": 2.0,
+        "vwap": 2.129779
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 2.13,
+        "high": 2.13,
+        "low": 2.13,
+        "close": 2.13,
+        "volume": 202.0,
+        "trade_count": 3.0,
+        "vwap": 2.13
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 2.1389,
+        "high": 2.1389,
+        "low": 2.1389,
+        "close": 2.1389,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.1389
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 2.1208,
+        "high": 2.1208,
+        "low": 2.1208,
+        "close": 2.1208,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 2.1208
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 2.1075,
+        "high": 2.1075,
+        "low": 2.1075,
+        "close": 2.1075,
+        "volume": 139.0,
+        "trade_count": 1.0,
+        "vwap": 2.1075
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 2.14,
+        "high": 2.14,
+        "low": 2.14,
+        "close": 2.14,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.14
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 2.13,
+        "high": 2.13,
+        "low": 2.13,
+        "close": 2.13,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.13
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 2.1368,
+        "high": 2.1368,
+        "low": 2.1309,
+        "close": 2.1309,
+        "volume": 596.0,
+        "trade_count": 4.0,
+        "vwap": 2.136336
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 2.13,
+        "high": 2.13,
+        "low": 2.13,
+        "close": 2.13,
+        "volume": 666.0,
+        "trade_count": 11.0,
+        "vwap": 2.129024
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 2.14,
+        "high": 2.14,
+        "low": 2.12,
+        "close": 2.1396,
+        "volume": 1624.0,
+        "trade_count": 9.0,
+        "vwap": 2.134393
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 2.14,
+        "high": 2.14,
+        "low": 2.14,
+        "close": 2.14,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.14
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 2.13,
+        "high": 2.13,
+        "low": 2.13,
+        "close": 2.13,
+        "volume": 540.0,
+        "trade_count": 3.0,
+        "vwap": 2.130022
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 2.12,
+        "high": 2.12,
+        "low": 2.12,
+        "close": 2.12,
+        "volume": 1001.0,
+        "trade_count": 3.0,
+        "vwap": 2.119991
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 2.1199,
+        "high": 2.1199,
+        "low": 2.1199,
+        "close": 2.1199,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.1199
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 2.0958,
+        "high": 2.0958,
+        "low": 2.0958,
+        "close": 2.0958,
+        "volume": 194.0,
+        "trade_count": 1.0,
+        "vwap": 2.0958
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 2.1,
+        "high": 2.11,
+        "low": 2.1,
+        "close": 2.11,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 2.1025
+    },
+    {
+        "symbol": "SCYX",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 2.1093,
+        "high": 2.1093,
+        "low": 2.1093,
+        "close": 2.1093,
+        "volume": 600.0,
+        "trade_count": 2.0,
+        "vwap": 2.1093
+    }
+]

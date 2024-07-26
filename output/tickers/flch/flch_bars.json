@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "FLCH",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 16.13,
+        "high": 16.13,
+        "low": 16.13,
+        "close": 16.13,
+        "volume": 306.0,
+        "trade_count": 3.0,
+        "vwap": 16.13
+    },
+    {
+        "symbol": "FLCH",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 16.1537,
+        "high": 16.1537,
+        "low": 16.13,
+        "close": 16.13,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 16.14185
+    },
+    {
+        "symbol": "FLCH",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 16.14,
+        "high": 16.14,
+        "low": 16.14,
+        "close": 16.14,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.14
+    },
+    {
+        "symbol": "FLCH",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 16.13,
+        "high": 16.13,
+        "low": 16.13,
+        "close": 16.13,
+        "volume": 608.0,
+        "trade_count": 5.0,
+        "vwap": 16.130016
+    },
+    {
+        "symbol": "FLCH",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 16.1094,
+        "high": 16.1094,
+        "low": 16.1094,
+        "close": 16.1094,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.1094
+    },
+    {
+        "symbol": "FLCH",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 16.14,
+        "high": 16.14,
+        "low": 16.14,
+        "close": 16.14,
+        "volume": 156.0,
+        "trade_count": 3.0,
+        "vwap": 16.13514
+    },
+    {
+        "symbol": "FLCH",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 16.135,
+        "high": 16.135,
+        "low": 16.135,
+        "close": 16.135,
+        "volume": 489.0,
+        "trade_count": 3.0,
+        "vwap": 16.134969
+    },
+    {
+        "symbol": "FLCH",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 16.14,
+        "high": 16.14,
+        "low": 16.14,
+        "close": 16.14,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 16.14
+    },
+    {
+        "symbol": "FLCH",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 16.13,
+        "high": 16.1301,
+        "low": 16.13,
+        "close": 16.1301,
+        "volume": 759.0,
+        "trade_count": 5.0,
+        "vwap": 16.13005
+    },
+    {
+        "symbol": "FLCH",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 16.14,
+        "high": 16.14,
+        "low": 16.14,
+        "close": 16.14,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.14
+    }
+]

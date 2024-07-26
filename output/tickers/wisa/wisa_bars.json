@@ -1,0 +1,211 @@
+[
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.31,
+        "high": 2.31,
+        "low": 2.31,
+        "close": 2.31,
+        "volume": 433.0,
+        "trade_count": 4.0,
+        "vwap": 2.326363
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 2.35,
+        "high": 2.35,
+        "low": 2.33,
+        "close": 2.33,
+        "volume": 825.0,
+        "trade_count": 6.0,
+        "vwap": 2.334242
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 2.34,
+        "high": 2.34,
+        "low": 2.33,
+        "close": 2.33,
+        "volume": 4438.0,
+        "trade_count": 42.0,
+        "vwap": 2.334304
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 2.3699,
+        "high": 2.3699,
+        "low": 2.3699,
+        "close": 2.3699,
+        "volume": 114.0,
+        "trade_count": 3.0,
+        "vwap": 2.366404
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 2.3691,
+        "high": 2.3691,
+        "low": 2.3691,
+        "close": 2.3691,
+        "volume": 2164.0,
+        "trade_count": 3.0,
+        "vwap": 2.368845
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 2.3499,
+        "high": 2.3499,
+        "low": 2.3499,
+        "close": 2.3499,
+        "volume": 221.0,
+        "trade_count": 2.0,
+        "vwap": 2.350805
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 2.3325,
+        "high": 2.3538,
+        "low": 2.3325,
+        "close": 2.3538,
+        "volume": 307.0,
+        "trade_count": 4.0,
+        "vwap": 2.339666
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 2.3357,
+        "high": 2.3357,
+        "low": 2.3357,
+        "close": 2.3357,
+        "volume": 125.0,
+        "trade_count": 1.0,
+        "vwap": 2.3357
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 2.35,
+        "high": 2.35,
+        "low": 2.3499,
+        "close": 2.35,
+        "volume": 1344.0,
+        "trade_count": 10.0,
+        "vwap": 2.349711
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 2.3559,
+        "high": 2.3559,
+        "low": 2.3559,
+        "close": 2.3559,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.3559
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 2.34,
+        "high": 2.34,
+        "low": 2.34,
+        "close": 2.34,
+        "volume": 314.0,
+        "trade_count": 3.0,
+        "vwap": 2.339617
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 2.34,
+        "high": 2.34,
+        "low": 2.34,
+        "close": 2.34,
+        "volume": 129.0,
+        "trade_count": 2.0,
+        "vwap": 2.34
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 2.33,
+        "high": 2.33,
+        "low": 2.33,
+        "close": 2.33,
+        "volume": 102.0,
+        "trade_count": 2.0,
+        "vwap": 2.330196
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 2.35,
+        "high": 2.35,
+        "low": 2.35,
+        "close": 2.35,
+        "volume": 170.0,
+        "trade_count": 1.0,
+        "vwap": 2.35
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 2.33,
+        "high": 2.335,
+        "low": 2.33,
+        "close": 2.335,
+        "volume": 895.0,
+        "trade_count": 23.0,
+        "vwap": 2.330547
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 2.33,
+        "high": 2.33,
+        "low": 2.33,
+        "close": 2.33,
+        "volume": 429.0,
+        "trade_count": 2.0,
+        "vwap": 2.33
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 2.32,
+        "high": 2.32,
+        "low": 2.32,
+        "close": 2.32,
+        "volume": 1119.0,
+        "trade_count": 9.0,
+        "vwap": 2.32
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 2.32,
+        "high": 2.32,
+        "low": 2.32,
+        "close": 2.32,
+        "volume": 155.0,
+        "trade_count": 6.0,
+        "vwap": 2.32
+    },
+    {
+        "symbol": "WISA",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 2.3298,
+        "high": 2.3298,
+        "low": 2.3298,
+        "close": 2.3298,
+        "volume": 143.0,
+        "trade_count": 7.0,
+        "vwap": 2.329092
+    }
+]

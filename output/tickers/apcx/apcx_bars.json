@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "APCX",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 1.0301,
+        "high": 1.0301,
+        "low": 1.0301,
+        "close": 1.0301,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 1.0301
+    },
+    {
+        "symbol": "APCX",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 1.035,
+        "high": 1.035,
+        "low": 1.035,
+        "close": 1.035,
+        "volume": 382.0,
+        "trade_count": 1.0,
+        "vwap": 1.035
+    },
+    {
+        "symbol": "APCX",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 1.0397,
+        "high": 1.0397,
+        "low": 1.0397,
+        "close": 1.0397,
+        "volume": 348.0,
+        "trade_count": 1.0,
+        "vwap": 1.0397
+    },
+    {
+        "symbol": "APCX",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 1.03,
+        "high": 1.0301,
+        "low": 1.02,
+        "close": 1.0301,
+        "volume": 9396.0,
+        "trade_count": 21.0,
+        "vwap": 1.029771
+    },
+    {
+        "symbol": "APCX",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 0.9987,
+        "high": 0.9987,
+        "low": 0.9987,
+        "close": 0.9987,
+        "volume": 203.0,
+        "trade_count": 1.0,
+        "vwap": 0.9987
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "GNPX",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 1.99,
+        "high": 1.99,
+        "low": 1.99,
+        "close": 1.99,
+        "volume": 403.0,
+        "trade_count": 2.0,
+        "vwap": 1.989814
+    },
+    {
+        "symbol": "GNPX",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 1.9591,
+        "high": 1.9592,
+        "low": 1.9591,
+        "close": 1.9592,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 1.959144
+    },
+    {
+        "symbol": "GNPX",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 1.9562,
+        "high": 1.9562,
+        "low": 1.9562,
+        "close": 1.9562,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 1.9562
+    },
+    {
+        "symbol": "GNPX",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 1.95,
+        "high": 1.95,
+        "low": 1.94,
+        "close": 1.95,
+        "volume": 1629.0,
+        "trade_count": 20.0,
+        "vwap": 1.947844
+    },
+    {
+        "symbol": "GNPX",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 1.95,
+        "high": 1.95,
+        "low": 1.95,
+        "close": 1.95,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.95
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "GSUN",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 7.91,
+        "high": 7.91,
+        "low": 7.91,
+        "close": 7.91,
+        "volume": 414.0,
+        "trade_count": 8.0,
+        "vwap": 7.912077
+    },
+    {
+        "symbol": "GSUN",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 7.88,
+        "high": 7.88,
+        "low": 7.88,
+        "close": 7.88,
+        "volume": 208.0,
+        "trade_count": 3.0,
+        "vwap": 7.8663
+    },
+    {
+        "symbol": "GSUN",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 7.82,
+        "high": 7.82,
+        "low": 7.82,
+        "close": 7.82,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 7.82
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "HIE",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 11.49,
+        "high": 11.49,
+        "low": 11.49,
+        "close": 11.49,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 11.49
+    },
+    {
+        "symbol": "HIE",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 11.49,
+        "high": 11.49,
+        "low": 11.49,
+        "close": 11.49,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.49
+    },
+    {
+        "symbol": "HIE",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 11.5,
+        "high": 11.5,
+        "low": 11.5,
+        "close": 11.5,
+        "volume": 880.0,
+        "trade_count": 5.0,
+        "vwap": 11.5
+    },
+    {
+        "symbol": "HIE",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 11.49,
+        "high": 11.5,
+        "low": 11.49,
+        "close": 11.49,
+        "volume": 751.0,
+        "trade_count": 4.0,
+        "vwap": 11.493342
+    }
+]

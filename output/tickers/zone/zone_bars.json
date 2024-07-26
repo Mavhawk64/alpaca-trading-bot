@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:29:00+00:00",
+        "open": 2.31,
+        "high": 2.36,
+        "low": 2.31,
+        "close": 2.36,
+        "volume": 640.0,
+        "trade_count": 20.0,
+        "vwap": 2.329313
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 2.2,
+        "high": 2.2,
+        "low": 2.17,
+        "close": 2.17,
+        "volume": 819.0,
+        "trade_count": 12.0,
+        "vwap": 2.193639
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 2.32,
+        "high": 2.32,
+        "low": 2.22,
+        "close": 2.26,
+        "volume": 1377.0,
+        "trade_count": 26.0,
+        "vwap": 2.262527
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 2.28,
+        "high": 2.28,
+        "low": 2.2,
+        "close": 2.2,
+        "volume": 2016.0,
+        "trade_count": 45.0,
+        "vwap": 2.254067
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 2.1,
+        "high": 2.1,
+        "low": 2.1,
+        "close": 2.1,
+        "volume": 631.0,
+        "trade_count": 13.0,
+        "vwap": 2.102828
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 2.05,
+        "high": 2.05,
+        "low": 2.05,
+        "close": 2.05,
+        "volume": 911.0,
+        "trade_count": 11.0,
+        "vwap": 2.050911
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 2.01,
+        "high": 2.03,
+        "low": 2.0,
+        "close": 2.01,
+        "volume": 2602.0,
+        "trade_count": 31.0,
+        "vwap": 2.002738
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 2.0,
+        "high": 2.007,
+        "low": 1.92,
+        "close": 2.007,
+        "volume": 1200.0,
+        "trade_count": 17.0,
+        "vwap": 1.988179
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 2.05,
+        "high": 2.05,
+        "low": 2.05,
+        "close": 2.05,
+        "volume": 1462.0,
+        "trade_count": 8.0,
+        "vwap": 2.050752
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 1.975,
+        "high": 1.975,
+        "low": 1.975,
+        "close": 1.975,
+        "volume": 323.0,
+        "trade_count": 40.0,
+        "vwap": 2.000279
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.97,
+        "high": 1.97,
+        "low": 1.97,
+        "close": 1.97,
+        "volume": 310.0,
+        "trade_count": 5.0,
+        "vwap": 1.97129
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 1.95,
+        "high": 1.95,
+        "low": 1.95,
+        "close": 1.95,
+        "volume": 513.0,
+        "trade_count": 11.0,
+        "vwap": 1.95191
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 1.95,
+        "high": 1.97,
+        "low": 1.95,
+        "close": 1.95,
+        "volume": 1359.0,
+        "trade_count": 18.0,
+        "vwap": 1.955824
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 1.97,
+        "high": 1.97,
+        "low": 1.97,
+        "close": 1.97,
+        "volume": 238.0,
+        "trade_count": 10.0,
+        "vwap": 1.971387
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 1.95,
+        "high": 1.95,
+        "low": 1.95,
+        "close": 1.95,
+        "volume": 281.0,
+        "trade_count": 14.0,
+        "vwap": 1.950641
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 1.93,
+        "high": 1.93,
+        "low": 1.93,
+        "close": 1.93,
+        "volume": 204.0,
+        "trade_count": 6.0,
+        "vwap": 1.937353
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 1.9,
+        "high": 1.9,
+        "low": 1.88,
+        "close": 1.8999,
+        "volume": 1618.0,
+        "trade_count": 15.0,
+        "vwap": 1.892614
+    },
+    {
+        "symbol": "ZONE",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 1.89,
+        "high": 1.89,
+        "low": 1.89,
+        "close": 1.89,
+        "volume": 164.0,
+        "trade_count": 1.0,
+        "vwap": 1.89
+    }
+]

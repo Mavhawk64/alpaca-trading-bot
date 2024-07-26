@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "ZHDG",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 19.41,
+        "high": 19.41,
+        "low": 19.41,
+        "close": 19.41,
+        "volume": 426.0,
+        "trade_count": 1.0,
+        "vwap": 19.41
+    },
+    {
+        "symbol": "ZHDG",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 19.46,
+        "high": 19.46,
+        "low": 19.46,
+        "close": 19.46,
+        "volume": 900.0,
+        "trade_count": 2.0,
+        "vwap": 19.46
+    },
+    {
+        "symbol": "ZHDG",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 19.45,
+        "high": 19.45,
+        "low": 19.45,
+        "close": 19.45,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.45
+    },
+    {
+        "symbol": "ZHDG",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 19.44,
+        "high": 19.44,
+        "low": 19.44,
+        "close": 19.44,
+        "volume": 2198.0,
+        "trade_count": 1.0,
+        "vwap": 19.44
+    }
+]

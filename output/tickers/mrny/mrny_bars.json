@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "MRNY",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 15.5201,
+        "high": 15.5201,
+        "low": 15.5201,
+        "close": 15.5201,
+        "volume": 118.0,
+        "trade_count": 4.0,
+        "vwap": 15.520267
+    },
+    {
+        "symbol": "MRNY",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 15.53,
+        "high": 15.54,
+        "low": 15.53,
+        "close": 15.54,
+        "volume": 1205.0,
+        "trade_count": 10.0,
+        "vwap": 15.538291
+    },
+    {
+        "symbol": "MRNY",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 15.5192,
+        "high": 15.5192,
+        "low": 15.5192,
+        "close": 15.5192,
+        "volume": 230.0,
+        "trade_count": 3.0,
+        "vwap": 15.50278
+    },
+    {
+        "symbol": "MRNY",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 15.5101,
+        "high": 15.5101,
+        "low": 15.5101,
+        "close": 15.5101,
+        "volume": 135.0,
+        "trade_count": 1.0,
+        "vwap": 15.5101
+    },
+    {
+        "symbol": "MRNY",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 15.46,
+        "high": 15.46,
+        "low": 15.46,
+        "close": 15.46,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.46
+    },
+    {
+        "symbol": "MRNY",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 15.47,
+        "high": 15.47,
+        "low": 15.47,
+        "close": 15.47,
+        "volume": 1501.0,
+        "trade_count": 9.0,
+        "vwap": 15.47
+    },
+    {
+        "symbol": "MRNY",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 15.4949,
+        "high": 15.4949,
+        "low": 15.4949,
+        "close": 15.4949,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.4949
+    },
+    {
+        "symbol": "MRNY",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 15.49,
+        "high": 15.49,
+        "low": 15.49,
+        "close": 15.49,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.49
+    },
+    {
+        "symbol": "MRNY",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 15.476,
+        "high": 15.476,
+        "low": 15.4596,
+        "close": 15.4596,
+        "volume": 502.0,
+        "trade_count": 3.0,
+        "vwap": 15.472788
+    }
+]

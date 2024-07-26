@@ -1,0 +1,123 @@
+[
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T13:25:00+00:00",
+        "open": 6.93,
+        "high": 6.93,
+        "low": 6.93,
+        "close": 6.93,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 6.93
+    },
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 6.96,
+        "high": 6.9959,
+        "low": 6.96,
+        "close": 6.9959,
+        "volume": 4143.0,
+        "trade_count": 14.0,
+        "vwap": 6.961454
+    },
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 6.826,
+        "high": 6.826,
+        "low": 6.826,
+        "close": 6.826,
+        "volume": 103.0,
+        "trade_count": 3.0,
+        "vwap": 6.823959
+    },
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 6.84,
+        "high": 6.99,
+        "low": 6.84,
+        "close": 6.99,
+        "volume": 779.0,
+        "trade_count": 22.0,
+        "vwap": 6.913432
+    },
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 6.98,
+        "high": 6.98,
+        "low": 6.98,
+        "close": 6.98,
+        "volume": 120.0,
+        "trade_count": 1.0,
+        "vwap": 6.98
+    },
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 6.92,
+        "high": 6.98,
+        "low": 6.92,
+        "close": 6.98,
+        "volume": 1231.0,
+        "trade_count": 22.0,
+        "vwap": 6.949074
+    },
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 6.94,
+        "high": 6.94,
+        "low": 6.94,
+        "close": 6.94,
+        "volume": 324.0,
+        "trade_count": 14.0,
+        "vwap": 6.959815
+    },
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 6.945,
+        "high": 6.945,
+        "low": 6.945,
+        "close": 6.945,
+        "volume": 250.0,
+        "trade_count": 10.0,
+        "vwap": 6.95792
+    },
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 6.93,
+        "high": 6.99,
+        "low": 6.9,
+        "close": 6.99,
+        "volume": 1400.0,
+        "trade_count": 55.0,
+        "vwap": 6.933589
+    },
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 6.985,
+        "high": 6.985,
+        "low": 6.974,
+        "close": 6.974,
+        "volume": 301.0,
+        "trade_count": 4.0,
+        "vwap": 6.98113
+    },
+    {
+        "symbol": "XBIT",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 6.93,
+        "high": 6.99,
+        "low": 6.92,
+        "close": 6.99,
+        "volume": 967.0,
+        "trade_count": 13.0,
+        "vwap": 6.95743
+    }
+]

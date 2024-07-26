@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 10.88,
+        "high": 10.88,
+        "low": 9.79,
+        "close": 10.57,
+        "volume": 858.0,
+        "trade_count": 6.0,
+        "vwap": 10.649324
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 10.92,
+        "high": 10.92,
+        "low": 10.92,
+        "close": 10.92,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.92
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 10.85,
+        "high": 10.85,
+        "low": 10.85,
+        "close": 10.85,
+        "volume": 132.0,
+        "trade_count": 3.0,
+        "vwap": 10.850227
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 10.96,
+        "high": 10.99,
+        "low": 10.955,
+        "close": 10.99,
+        "volume": 413.0,
+        "trade_count": 11.0,
+        "vwap": 10.96678
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 11.015,
+        "high": 11.015,
+        "low": 11.015,
+        "close": 11.015,
+        "volume": 157.0,
+        "trade_count": 3.0,
+        "vwap": 11.015
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 10.98,
+        "high": 10.995,
+        "low": 10.98,
+        "close": 10.995,
+        "volume": 925.0,
+        "trade_count": 18.0,
+        "vwap": 10.983259
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 11.04,
+        "high": 11.04,
+        "low": 11.04,
+        "close": 11.04,
+        "volume": 203.0,
+        "trade_count": 7.0,
+        "vwap": 11.030887
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 11.015,
+        "high": 11.015,
+        "low": 10.95,
+        "close": 10.99,
+        "volume": 2073.0,
+        "trade_count": 30.0,
+        "vwap": 10.977741
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 10.91,
+        "high": 10.91,
+        "low": 10.9,
+        "close": 10.9,
+        "volume": 508.0,
+        "trade_count": 9.0,
+        "vwap": 10.917795
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 10.92,
+        "high": 10.92,
+        "low": 10.88,
+        "close": 10.88,
+        "volume": 713.0,
+        "trade_count": 12.0,
+        "vwap": 10.902987
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 10.879,
+        "high": 10.879,
+        "low": 10.879,
+        "close": 10.879,
+        "volume": 206.0,
+        "trade_count": 1.0,
+        "vwap": 10.879
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 10.82,
+        "high": 10.82,
+        "low": 10.78,
+        "close": 10.78,
+        "volume": 611.0,
+        "trade_count": 10.0,
+        "vwap": 10.7991
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 10.78,
+        "high": 10.78,
+        "low": 10.78,
+        "close": 10.78,
+        "volume": 362.0,
+        "trade_count": 5.0,
+        "vwap": 10.78
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 10.82,
+        "high": 10.82,
+        "low": 10.815,
+        "close": 10.815,
+        "volume": 301.0,
+        "trade_count": 4.0,
+        "vwap": 10.817674
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 10.81,
+        "high": 10.81,
+        "low": 10.81,
+        "close": 10.81,
+        "volume": 344.0,
+        "trade_count": 7.0,
+        "vwap": 10.810872
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 10.805,
+        "high": 10.805,
+        "low": 10.805,
+        "close": 10.805,
+        "volume": 203.0,
+        "trade_count": 5.0,
+        "vwap": 10.806946
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 10.76,
+        "high": 10.76,
+        "low": 10.76,
+        "close": 10.76,
+        "volume": 177.0,
+        "trade_count": 3.0,
+        "vwap": 10.779576
+    },
+    {
+        "symbol": "OPRX",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 10.8024,
+        "high": 10.8024,
+        "low": 10.8024,
+        "close": 10.8024,
+        "volume": 1094.0,
+        "trade_count": 2.0,
+        "vwap": 10.804771
+    }
+]

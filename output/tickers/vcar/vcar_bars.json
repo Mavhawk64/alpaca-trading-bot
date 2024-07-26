@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "VCAR",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 10.7,
+        "high": 10.7,
+        "low": 10.7,
+        "close": 10.7,
+        "volume": 3700.0,
+        "trade_count": 2.0,
+        "vwap": 10.7
+    },
+    {
+        "symbol": "VCAR",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 10.7199,
+        "high": 10.7199,
+        "low": 10.7199,
+        "close": 10.7199,
+        "volume": 900.0,
+        "trade_count": 1.0,
+        "vwap": 10.7199
+    },
+    {
+        "symbol": "VCAR",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 10.6599,
+        "high": 10.6599,
+        "low": 10.6599,
+        "close": 10.6599,
+        "volume": 1100.0,
+        "trade_count": 1.0,
+        "vwap": 10.6599
+    },
+    {
+        "symbol": "VCAR",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 10.6308,
+        "high": 10.6308,
+        "low": 10.6308,
+        "close": 10.6308,
+        "volume": 695.0,
+        "trade_count": 1.0,
+        "vwap": 10.6308
+    }
+]

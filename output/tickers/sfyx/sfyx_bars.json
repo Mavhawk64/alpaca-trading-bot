@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "SFYX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 13.87,
+        "high": 13.87,
+        "low": 13.87,
+        "close": 13.87,
+        "volume": 432.0,
+        "trade_count": 83.0,
+        "vwap": 13.892789
+    },
+    {
+        "symbol": "SFYX",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 13.9,
+        "high": 13.9,
+        "low": 13.9,
+        "close": 13.9,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 13.9
+    },
+    {
+        "symbol": "SFYX",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 13.92,
+        "high": 13.92,
+        "low": 13.9199,
+        "close": 13.9199,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 13.91995
+    },
+    {
+        "symbol": "SFYX",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 13.91,
+        "high": 13.91,
+        "low": 13.91,
+        "close": 13.91,
+        "volume": 400.0,
+        "trade_count": 4.0,
+        "vwap": 13.91
+    },
+    {
+        "symbol": "SFYX",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 13.9001,
+        "high": 13.9001,
+        "low": 13.9001,
+        "close": 13.9001,
+        "volume": 3099.0,
+        "trade_count": 1.0,
+        "vwap": 13.9001
+    },
+    {
+        "symbol": "SFYX",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 13.89,
+        "high": 13.89,
+        "low": 13.89,
+        "close": 13.89,
+        "volume": 3450.0,
+        "trade_count": 2.0,
+        "vwap": 13.89
+    },
+    {
+        "symbol": "SFYX",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 13.87,
+        "high": 13.87,
+        "low": 13.87,
+        "close": 13.87,
+        "volume": 280.0,
+        "trade_count": 3.0,
+        "vwap": 13.871429
+    },
+    {
+        "symbol": "SFYX",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 13.8527,
+        "high": 13.8527,
+        "low": 13.8527,
+        "close": 13.8527,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 13.8527
+    },
+    {
+        "symbol": "SFYX",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 13.8401,
+        "high": 13.8401,
+        "low": 13.8401,
+        "close": 13.8401,
+        "volume": 202.0,
+        "trade_count": 1.0,
+        "vwap": 13.8401
+    }
+]

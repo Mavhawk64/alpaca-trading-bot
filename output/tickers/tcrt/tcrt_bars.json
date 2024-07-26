@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "TCRT",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 3.865,
+        "high": 3.865,
+        "low": 3.865,
+        "close": 3.865,
+        "volume": 1002.0,
+        "trade_count": 3.0,
+        "vwap": 3.864819
+    },
+    {
+        "symbol": "TCRT",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 3.77,
+        "high": 3.77,
+        "low": 3.76,
+        "close": 3.76,
+        "volume": 223.0,
+        "trade_count": 5.0,
+        "vwap": 3.764484
+    },
+    {
+        "symbol": "TCRT",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 3.8699,
+        "high": 3.8699,
+        "low": 3.8699,
+        "close": 3.8699,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 3.8699
+    }
+]

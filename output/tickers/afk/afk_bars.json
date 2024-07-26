@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "AFK",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 15.86,
+        "high": 15.86,
+        "low": 15.86,
+        "close": 15.86,
+        "volume": 266.0,
+        "trade_count": 2.0,
+        "vwap": 15.860301
+    },
+    {
+        "symbol": "AFK",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 15.99,
+        "high": 15.99,
+        "low": 15.99,
+        "close": 15.99,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 15.99
+    },
+    {
+        "symbol": "AFK",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 15.9,
+        "high": 15.9,
+        "low": 15.9,
+        "close": 15.9,
+        "volume": 302.0,
+        "trade_count": 2.0,
+        "vwap": 15.899404
+    }
+]

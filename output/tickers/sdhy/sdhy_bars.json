@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 15.57,
+        "high": 15.57,
+        "low": 15.57,
+        "close": 15.57,
+        "volume": 266.0,
+        "trade_count": 4.0,
+        "vwap": 15.570752
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 15.5786,
+        "high": 15.5799,
+        "low": 15.5786,
+        "close": 15.5799,
+        "volume": 402.0,
+        "trade_count": 3.0,
+        "vwap": 15.57925
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 15.58,
+        "high": 15.58,
+        "low": 15.5786,
+        "close": 15.5799,
+        "volume": 500.0,
+        "trade_count": 4.0,
+        "vwap": 15.5794
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 15.57,
+        "high": 15.57,
+        "low": 15.57,
+        "close": 15.57,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.57
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 15.575,
+        "high": 15.575,
+        "low": 15.575,
+        "close": 15.575,
+        "volume": 402.0,
+        "trade_count": 2.0,
+        "vwap": 15.575
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 15.58,
+        "high": 15.58,
+        "low": 15.58,
+        "close": 15.58,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 15.58
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 15.58,
+        "high": 15.58,
+        "low": 15.58,
+        "close": 15.58,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.58
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 15.5789,
+        "high": 15.5789,
+        "low": 15.5789,
+        "close": 15.5789,
+        "volume": 700.0,
+        "trade_count": 1.0,
+        "vwap": 15.5789
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 15.5716,
+        "high": 15.5716,
+        "low": 15.5716,
+        "close": 15.5716,
+        "volume": 404.0,
+        "trade_count": 1.0,
+        "vwap": 15.5716
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 15.58,
+        "high": 15.58,
+        "low": 15.58,
+        "close": 15.58,
+        "volume": 261.0,
+        "trade_count": 3.0,
+        "vwap": 15.579042
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 15.5786,
+        "high": 15.5786,
+        "low": 15.5786,
+        "close": 15.5786,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 15.5786
+    },
+    {
+        "symbol": "SDHY",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 15.575,
+        "high": 15.575,
+        "low": 15.575,
+        "close": 15.575,
+        "volume": 225.0,
+        "trade_count": 1.0,
+        "vwap": 15.575
+    }
+]

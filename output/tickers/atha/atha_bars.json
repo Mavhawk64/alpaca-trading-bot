@@ -1,0 +1,222 @@
+[
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 3.36,
+        "high": 3.36,
+        "low": 3.36,
+        "close": 3.36,
+        "volume": 520.0,
+        "trade_count": 2.0,
+        "vwap": 3.36
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 3.361,
+        "high": 3.375,
+        "low": 3.3449,
+        "close": 3.3449,
+        "volume": 501.0,
+        "trade_count": 6.0,
+        "vwap": 3.353597
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 3.3504,
+        "high": 3.3504,
+        "low": 3.3504,
+        "close": 3.3504,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.3504
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 3.365,
+        "high": 3.365,
+        "low": 3.322,
+        "close": 3.322,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 3.3435
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 3.36,
+        "high": 3.36,
+        "low": 3.36,
+        "close": 3.36,
+        "volume": 110.0,
+        "trade_count": 2.0,
+        "vwap": 3.358182
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 3.34,
+        "high": 3.34,
+        "low": 3.34,
+        "close": 3.34,
+        "volume": 144.0,
+        "trade_count": 8.0,
+        "vwap": 3.34
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 3.32,
+        "high": 3.32,
+        "low": 3.31,
+        "close": 3.31,
+        "volume": 9000.0,
+        "trade_count": 7.0,
+        "vwap": 3.311001
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 3.3196,
+        "high": 3.3196,
+        "low": 3.3196,
+        "close": 3.3196,
+        "volume": 3000.0,
+        "trade_count": 1.0,
+        "vwap": 3.3196
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 3.32,
+        "high": 3.32,
+        "low": 3.32,
+        "close": 3.32,
+        "volume": 698.0,
+        "trade_count": 9.0,
+        "vwap": 3.32
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 3.32,
+        "high": 3.32,
+        "low": 3.32,
+        "close": 3.32,
+        "volume": 500.0,
+        "trade_count": 4.0,
+        "vwap": 3.32
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 3.3101,
+        "high": 3.3101,
+        "low": 3.3101,
+        "close": 3.3101,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 3.3101
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 3.32,
+        "high": 3.32,
+        "low": 3.32,
+        "close": 3.32,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.32
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 3.32,
+        "high": 3.32,
+        "low": 3.31,
+        "close": 3.31,
+        "volume": 314.0,
+        "trade_count": 4.0,
+        "vwap": 3.313185
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 3.31,
+        "high": 3.31,
+        "low": 3.3,
+        "close": 3.3,
+        "volume": 1263.0,
+        "trade_count": 11.0,
+        "vwap": 3.308401
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 3.3,
+        "high": 3.3,
+        "low": 3.3,
+        "close": 3.3,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.3
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 3.29,
+        "high": 3.29,
+        "low": 3.28,
+        "close": 3.29,
+        "volume": 1624.0,
+        "trade_count": 13.0,
+        "vwap": 3.281392
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 3.275,
+        "high": 3.275,
+        "low": 3.275,
+        "close": 3.275,
+        "volume": 201.0,
+        "trade_count": 2.0,
+        "vwap": 3.274876
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 3.2741,
+        "high": 3.2741,
+        "low": 3.2741,
+        "close": 3.2741,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 3.2741
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 3.2999,
+        "high": 3.2999,
+        "low": 3.2999,
+        "close": 3.2999,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 3.2999
+    },
+    {
+        "symbol": "ATHA",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 3.2999,
+        "high": 3.2999,
+        "low": 3.2999,
+        "close": 3.2999,
+        "volume": 227.0,
+        "trade_count": 1.0,
+        "vwap": 3.2999
+    }
+]

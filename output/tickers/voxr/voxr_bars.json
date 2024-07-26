@@ -1,0 +1,189 @@
+[
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.91,
+        "high": 2.91,
+        "low": 2.91,
+        "close": 2.91,
+        "volume": 366.0,
+        "trade_count": 1.0,
+        "vwap": 2.91
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 2.92,
+        "high": 2.92,
+        "low": 2.92,
+        "close": 2.92,
+        "volume": 720.0,
+        "trade_count": 6.0,
+        "vwap": 2.919028
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 2.93,
+        "high": 2.93,
+        "low": 2.91,
+        "close": 2.91,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 2.92
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 2.92,
+        "high": 2.92,
+        "low": 2.92,
+        "close": 2.92,
+        "volume": 1164.0,
+        "trade_count": 5.0,
+        "vwap": 2.92
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 2.95,
+        "high": 2.95,
+        "low": 2.9499,
+        "close": 2.9499,
+        "volume": 275.0,
+        "trade_count": 2.0,
+        "vwap": 2.949936
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 2.945,
+        "high": 2.9497,
+        "low": 2.94,
+        "close": 2.94,
+        "volume": 350.0,
+        "trade_count": 3.0,
+        "vwap": 2.945586
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 2.94,
+        "high": 3.04,
+        "low": 2.94,
+        "close": 3.0,
+        "volume": 43145.0,
+        "trade_count": 145.0,
+        "vwap": 2.997992
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 2.9563,
+        "high": 2.9563,
+        "low": 2.95,
+        "close": 2.95,
+        "volume": 1501.0,
+        "trade_count": 7.0,
+        "vwap": 2.954204
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 2.96,
+        "high": 2.96,
+        "low": 2.96,
+        "close": 2.96,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 2.96
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 2.96,
+        "high": 2.96,
+        "low": 2.92,
+        "close": 2.9583,
+        "volume": 2879.0,
+        "trade_count": 30.0,
+        "vwap": 2.952813
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 2.96,
+        "high": 2.97,
+        "low": 2.9505,
+        "close": 2.97,
+        "volume": 723.0,
+        "trade_count": 7.0,
+        "vwap": 2.96115
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 2.965,
+        "high": 2.965,
+        "low": 2.965,
+        "close": 2.965,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 2.965
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 2.9653,
+        "high": 2.9653,
+        "low": 2.9653,
+        "close": 2.9653,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.9653
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 2.9686,
+        "high": 2.98,
+        "low": 2.89,
+        "close": 2.94,
+        "volume": 69676.0,
+        "trade_count": 155.0,
+        "vwap": 2.943928
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 2.9,
+        "high": 2.91,
+        "low": 2.9,
+        "close": 2.91,
+        "volume": 328.0,
+        "trade_count": 5.0,
+        "vwap": 2.903476
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 2.91,
+        "high": 2.91,
+        "low": 2.91,
+        "close": 2.91,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.91
+    },
+    {
+        "symbol": "VOXR",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 2.9299,
+        "high": 2.9299,
+        "low": 2.9299,
+        "close": 2.9299,
+        "volume": 175.0,
+        "trade_count": 1.0,
+        "vwap": 2.9299
+    }
+]

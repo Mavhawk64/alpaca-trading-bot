@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "UPAR",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 13.7,
+        "high": 13.7,
+        "low": 13.7,
+        "close": 13.7,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 13.7
+    },
+    {
+        "symbol": "UPAR",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 13.63,
+        "high": 13.63,
+        "low": 13.63,
+        "close": 13.63,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 13.63
+    }
+]

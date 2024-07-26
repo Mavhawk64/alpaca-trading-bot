@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "CIF",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 1.73,
+        "high": 1.73,
+        "low": 1.73,
+        "close": 1.73,
+        "volume": 1500.0,
+        "trade_count": 5.0,
+        "vwap": 1.73
+    },
+    {
+        "symbol": "CIF",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 1.73,
+        "high": 1.73,
+        "low": 1.73,
+        "close": 1.73,
+        "volume": 1500.0,
+        "trade_count": 2.0,
+        "vwap": 1.73
+    },
+    {
+        "symbol": "CIF",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 1.73,
+        "high": 1.73,
+        "low": 1.73,
+        "close": 1.73,
+        "volume": 1500.0,
+        "trade_count": 2.0,
+        "vwap": 1.73
+    },
+    {
+        "symbol": "CIF",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 1.73,
+        "high": 1.73,
+        "low": 1.73,
+        "close": 1.73,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.73
+    },
+    {
+        "symbol": "CIF",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 1.7295,
+        "high": 1.7295,
+        "low": 1.7295,
+        "close": 1.7295,
+        "volume": 1500.0,
+        "trade_count": 2.0,
+        "vwap": 1.7295
+    },
+    {
+        "symbol": "CIF",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 1.7299,
+        "high": 1.7299,
+        "low": 1.7299,
+        "close": 1.7299,
+        "volume": 433.0,
+        "trade_count": 1.0,
+        "vwap": 1.7299
+    }
+]

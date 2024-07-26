@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "SSBI",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 9.9,
+        "high": 9.9,
+        "low": 9.9,
+        "close": 9.9,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.9
+    },
+    {
+        "symbol": "SSBI",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 9.9,
+        "high": 9.9,
+        "low": 9.89,
+        "close": 9.89,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 9.895
+    },
+    {
+        "symbol": "SSBI",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 9.9,
+        "high": 9.9,
+        "low": 9.9,
+        "close": 9.9,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 9.8999
+    },
+    {
+        "symbol": "SSBI",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 9.89,
+        "high": 9.89,
+        "low": 9.89,
+        "close": 9.89,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.89
+    },
+    {
+        "symbol": "SSBI",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 9.89,
+        "high": 9.89,
+        "low": 9.89,
+        "close": 9.89,
+        "volume": 225.0,
+        "trade_count": 3.0,
+        "vwap": 9.89
+    },
+    {
+        "symbol": "SSBI",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 9.89,
+        "high": 9.89,
+        "low": 9.89,
+        "close": 9.89,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.89
+    },
+    {
+        "symbol": "SSBI",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 9.89,
+        "high": 9.89,
+        "low": 9.89,
+        "close": 9.89,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.89
+    },
+    {
+        "symbol": "SSBI",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 9.89,
+        "high": 9.89,
+        "low": 9.89,
+        "close": 9.89,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.89
+    },
+    {
+        "symbol": "SSBI",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 9.89,
+        "high": 9.89,
+        "low": 9.89,
+        "close": 9.89,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.89
+    }
+]

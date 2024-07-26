@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "BATL",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 3.89,
+        "high": 3.89,
+        "low": 3.89,
+        "close": 3.89,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 3.89
+    },
+    {
+        "symbol": "BATL",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 3.71,
+        "high": 3.7537,
+        "low": 3.65,
+        "close": 3.7537,
+        "volume": 800.0,
+        "trade_count": 8.0,
+        "vwap": 3.716588
+    },
+    {
+        "symbol": "BATL",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 3.76,
+        "high": 3.76,
+        "low": 3.76,
+        "close": 3.76,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 3.76
+    }
+]

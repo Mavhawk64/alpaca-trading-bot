@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "CARD",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 10.99,
+        "high": 10.99,
+        "low": 10.99,
+        "close": 10.99,
+        "volume": 116.0,
+        "trade_count": 1.0,
+        "vwap": 10.99
+    },
+    {
+        "symbol": "CARD",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 11.11,
+        "high": 11.11,
+        "low": 11.11,
+        "close": 11.11,
+        "volume": 116.0,
+        "trade_count": 1.0,
+        "vwap": 11.11
+    },
+    {
+        "symbol": "CARD",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 11.15,
+        "high": 11.15,
+        "low": 11.15,
+        "close": 11.15,
+        "volume": 116.0,
+        "trade_count": 1.0,
+        "vwap": 11.15
+    },
+    {
+        "symbol": "CARD",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 11.1,
+        "high": 11.1,
+        "low": 11.1,
+        "close": 11.1,
+        "volume": 116.0,
+        "trade_count": 1.0,
+        "vwap": 11.1
+    },
+    {
+        "symbol": "CARD",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 11.18,
+        "high": 11.1894,
+        "low": 11.18,
+        "close": 11.1894,
+        "volume": 363.0,
+        "trade_count": 4.0,
+        "vwap": 11.183884
+    },
+    {
+        "symbol": "CARD",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 11.18,
+        "high": 11.18,
+        "low": 11.18,
+        "close": 11.18,
+        "volume": 246.0,
+        "trade_count": 2.0,
+        "vwap": 11.181972
+    },
+    {
+        "symbol": "CARD",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 11.11,
+        "high": 11.11,
+        "low": 11.11,
+        "close": 11.11,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.11
+    }
+]

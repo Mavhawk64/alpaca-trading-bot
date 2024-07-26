@@ -1,0 +1,13 @@
+[
+    {
+        "symbol": "NURO",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 3.69,
+        "high": 3.69,
+        "low": 3.69,
+        "close": 3.69,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 3.69
+    }
+]

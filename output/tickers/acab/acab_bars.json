@@ -1,0 +1,167 @@
+[
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 11.2,
+        "high": 11.2,
+        "low": 11.2,
+        "close": 11.2,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 11.152
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 11.0,
+        "high": 11.0,
+        "low": 10.99,
+        "close": 10.99,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 10.995
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 11.11,
+        "high": 11.11,
+        "low": 10.95,
+        "close": 10.95,
+        "volume": 2900.0,
+        "trade_count": 25.0,
+        "vwap": 11.038959
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 10.95,
+        "high": 10.96,
+        "low": 10.95,
+        "close": 10.96,
+        "volume": 1200.0,
+        "trade_count": 12.0,
+        "vwap": 10.955
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 10.95,
+        "high": 10.95,
+        "low": 10.95,
+        "close": 10.95,
+        "volume": 500.0,
+        "trade_count": 5.0,
+        "vwap": 10.95
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 11.0,
+        "high": 11.0,
+        "low": 11.0,
+        "close": 11.0,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 11.0
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 10.98,
+        "high": 10.98,
+        "low": 10.97,
+        "close": 10.97,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 10.975
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 10.99,
+        "high": 10.99,
+        "low": 10.99,
+        "close": 10.99,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 10.99
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 10.95,
+        "high": 10.95,
+        "low": 10.95,
+        "close": 10.95,
+        "volume": 800.0,
+        "trade_count": 8.0,
+        "vwap": 10.95
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 10.95,
+        "high": 10.95,
+        "low": 10.95,
+        "close": 10.95,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 10.95
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 10.95,
+        "high": 10.95,
+        "low": 10.95,
+        "close": 10.95,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 10.95
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 10.95,
+        "high": 10.97,
+        "low": 10.95,
+        "close": 10.95,
+        "volume": 12112.0,
+        "trade_count": 49.0,
+        "vwap": 10.952115
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 10.95,
+        "high": 10.95,
+        "low": 10.95,
+        "close": 10.95,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 10.95
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 10.9,
+        "high": 10.9,
+        "low": 10.9,
+        "close": 10.9,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 10.9
+    },
+    {
+        "symbol": "ACAB",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 10.95,
+        "high": 10.95,
+        "low": 10.95,
+        "close": 10.95,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 10.95
+    }
+]

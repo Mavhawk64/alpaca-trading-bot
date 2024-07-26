@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "XIN",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 2.95,
+        "high": 2.95,
+        "low": 2.95,
+        "close": 2.95,
+        "volume": 225.0,
+        "trade_count": 5.0,
+        "vwap": 2.983822
+    },
+    {
+        "symbol": "XIN",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 3.0532,
+        "high": 3.0532,
+        "low": 3.0532,
+        "close": 3.0532,
+        "volume": 111.0,
+        "trade_count": 1.0,
+        "vwap": 3.0532
+    },
+    {
+        "symbol": "XIN",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 3.05,
+        "high": 3.065,
+        "low": 3.05,
+        "close": 3.065,
+        "volume": 1022.0,
+        "trade_count": 9.0,
+        "vwap": 3.051908
+    },
+    {
+        "symbol": "XIN",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 3.0293,
+        "high": 3.0293,
+        "low": 3.0293,
+        "close": 3.0293,
+        "volume": 111.0,
+        "trade_count": 1.0,
+        "vwap": 3.0293
+    },
+    {
+        "symbol": "XIN",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 3.075,
+        "high": 3.075,
+        "low": 3.05,
+        "close": 3.05,
+        "volume": 223.0,
+        "trade_count": 3.0,
+        "vwap": 3.062556
+    },
+    {
+        "symbol": "XIN",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 3.1132,
+        "high": 3.1132,
+        "low": 3.1132,
+        "close": 3.1132,
+        "volume": 222.0,
+        "trade_count": 3.0,
+        "vwap": 3.0716
+    },
+    {
+        "symbol": "XIN",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 3.0,
+        "high": 3.0,
+        "low": 3.0,
+        "close": 3.0,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.0
+    }
+]

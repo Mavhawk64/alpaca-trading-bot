@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "FPAY",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 1.1199,
+        "high": 1.1199,
+        "low": 1.1199,
+        "close": 1.1199,
+        "volume": 2511.0,
+        "trade_count": 3.0,
+        "vwap": 1.119817
+    },
+    {
+        "symbol": "FPAY",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 1.09,
+        "high": 1.09,
+        "low": 1.09,
+        "close": 1.09,
+        "volume": 130.0,
+        "trade_count": 2.0,
+        "vwap": 1.09
+    },
+    {
+        "symbol": "FPAY",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 1.08,
+        "high": 1.08,
+        "low": 1.08,
+        "close": 1.08,
+        "volume": 284.0,
+        "trade_count": 2.0,
+        "vwap": 1.08
+    }
+]

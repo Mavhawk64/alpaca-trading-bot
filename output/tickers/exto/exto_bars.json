@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "EXTO",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.18,
+        "high": 4.24,
+        "low": 4.18,
+        "close": 4.24,
+        "volume": 469.0,
+        "trade_count": 4.0,
+        "vwap": 4.208049
+    },
+    {
+        "symbol": "EXTO",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 4.2732,
+        "high": 4.2732,
+        "low": 4.2732,
+        "close": 4.2732,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.2732
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 2.16,
+        "high": 2.16,
+        "low": 2.16,
+        "close": 2.16,
+        "volume": 158.0,
+        "trade_count": 2.0,
+        "vwap": 2.16
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 2.1603,
+        "high": 2.185,
+        "low": 2.1602,
+        "close": 2.185,
+        "volume": 900.0,
+        "trade_count": 3.0,
+        "vwap": 2.171244
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 2.14,
+        "high": 2.14,
+        "low": 2.14,
+        "close": 2.14,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.14
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 2.146,
+        "high": 2.146,
+        "low": 2.146,
+        "close": 2.146,
+        "volume": 189.0,
+        "trade_count": 1.0,
+        "vwap": 2.146
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 2.13,
+        "high": 2.13,
+        "low": 2.13,
+        "close": 2.13,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 2.13
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 2.13,
+        "high": 2.17,
+        "low": 2.13,
+        "close": 2.13,
+        "volume": 1890.0,
+        "trade_count": 18.0,
+        "vwap": 2.14163
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 2.11,
+        "high": 2.12,
+        "low": 2.11,
+        "close": 2.11,
+        "volume": 728.0,
+        "trade_count": 13.0,
+        "vwap": 2.114451
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 2.11,
+        "high": 2.11,
+        "low": 2.11,
+        "close": 2.11,
+        "volume": 547.0,
+        "trade_count": 4.0,
+        "vwap": 2.110859
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 2.11,
+        "high": 2.11,
+        "low": 2.1,
+        "close": 2.1,
+        "volume": 810.0,
+        "trade_count": 4.0,
+        "vwap": 2.102469
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 2.11,
+        "high": 2.1396,
+        "low": 2.1,
+        "close": 2.1396,
+        "volume": 570.0,
+        "trade_count": 6.0,
+        "vwap": 2.114982
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 2.135,
+        "high": 2.135,
+        "low": 2.135,
+        "close": 2.135,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.135
+    },
+    {
+        "symbol": "BON",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 2.13,
+        "high": 2.13,
+        "low": 2.13,
+        "close": 2.13,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.13
+    }
+]

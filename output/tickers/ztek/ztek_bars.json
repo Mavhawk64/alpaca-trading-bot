@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "ZTEK",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.03,
+        "high": 1.03,
+        "low": 0.9645,
+        "close": 1.01,
+        "volume": 3905.0,
+        "trade_count": 16.0,
+        "vwap": 1.018726
+    },
+    {
+        "symbol": "ZTEK",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.04,
+        "high": 1.04,
+        "low": 1.04,
+        "close": 1.04,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 1.04
+    },
+    {
+        "symbol": "ZTEK",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 1.0,
+        "high": 1.0,
+        "low": 0.9801,
+        "close": 0.9801,
+        "volume": 4200.0,
+        "trade_count": 3.0,
+        "vwap": 0.999052
+    },
+    {
+        "symbol": "ZTEK",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 0.99,
+        "high": 0.99,
+        "low": 0.98,
+        "close": 0.99,
+        "volume": 4200.0,
+        "trade_count": 6.0,
+        "vwap": 0.980476
+    },
+    {
+        "symbol": "ZTEK",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 1.02,
+        "high": 1.02,
+        "low": 1.02,
+        "close": 1.02,
+        "volume": 102.0,
+        "trade_count": 1.0,
+        "vwap": 1.02
+    },
+    {
+        "symbol": "ZTEK",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 1.005,
+        "high": 1.005,
+        "low": 1.005,
+        "close": 1.005,
+        "volume": 105.0,
+        "trade_count": 1.0,
+        "vwap": 1.005
+    },
+    {
+        "symbol": "ZTEK",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 0.99,
+        "high": 0.99,
+        "low": 0.98,
+        "close": 0.98,
+        "volume": 804.0,
+        "trade_count": 7.0,
+        "vwap": 0.981306
+    },
+    {
+        "symbol": "ZTEK",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 0.98,
+        "high": 0.98,
+        "low": 0.98,
+        "close": 0.98,
+        "volume": 110.0,
+        "trade_count": 2.0,
+        "vwap": 0.98
+    },
+    {
+        "symbol": "ZTEK",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 0.96,
+        "high": 0.96,
+        "low": 0.96,
+        "close": 0.96,
+        "volume": 400.0,
+        "trade_count": 4.0,
+        "vwap": 0.96025
+    },
+    {
+        "symbol": "ZTEK",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 1.0099,
+        "high": 1.0099,
+        "low": 1.0099,
+        "close": 1.0099,
+        "volume": 567.0,
+        "trade_count": 1.0,
+        "vwap": 1.0099
+    }
+]

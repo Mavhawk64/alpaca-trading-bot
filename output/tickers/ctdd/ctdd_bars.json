@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "CTDD",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 10.6067,
+        "high": 10.6067,
+        "low": 10.6067,
+        "close": 10.6067,
+        "volume": 255.0,
+        "trade_count": 9.0,
+        "vwap": 10.615478
+    },
+    {
+        "symbol": "CTDD",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 10.705,
+        "high": 10.79,
+        "low": 10.705,
+        "close": 10.71,
+        "volume": 1054.0,
+        "trade_count": 7.0,
+        "vwap": 10.751359
+    },
+    {
+        "symbol": "CTDD",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 10.79,
+        "high": 10.8,
+        "low": 10.7,
+        "close": 10.78,
+        "volume": 1235.0,
+        "trade_count": 11.0,
+        "vwap": 10.761134
+    },
+    {
+        "symbol": "CTDD",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 10.69,
+        "high": 10.69,
+        "low": 10.69,
+        "close": 10.69,
+        "volume": 400.0,
+        "trade_count": 4.0,
+        "vwap": 10.69
+    },
+    {
+        "symbol": "CTDD",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 10.72,
+        "high": 10.72,
+        "low": 10.72,
+        "close": 10.72,
+        "volume": 790.0,
+        "trade_count": 11.0,
+        "vwap": 10.720658
+    },
+    {
+        "symbol": "CTDD",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 10.69,
+        "high": 10.69,
+        "low": 10.69,
+        "close": 10.69,
+        "volume": 174.0,
+        "trade_count": 5.0,
+        "vwap": 10.69
+    },
+    {
+        "symbol": "CTDD",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 10.65,
+        "high": 10.65,
+        "low": 10.65,
+        "close": 10.65,
+        "volume": 103.0,
+        "trade_count": 2.0,
+        "vwap": 10.65
+    },
+    {
+        "symbol": "CTDD",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 10.67,
+        "high": 10.67,
+        "low": 10.67,
+        "close": 10.67,
+        "volume": 400.0,
+        "trade_count": 5.0,
+        "vwap": 10.67
+    },
+    {
+        "symbol": "CTDD",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 10.65,
+        "high": 10.65,
+        "low": 10.65,
+        "close": 10.65,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.65
+    },
+    {
+        "symbol": "CTDD",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 10.65,
+        "high": 10.65,
+        "low": 10.6218,
+        "close": 10.6218,
+        "volume": 1000.0,
+        "trade_count": 7.0,
+        "vwap": 10.627716
+    }
+]

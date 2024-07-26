@@ -1,0 +1,145 @@
+[
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T13:25:00+00:00",
+        "open": 1.9,
+        "high": 1.9,
+        "low": 1.9,
+        "close": 1.9,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 1.9
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.93,
+        "high": 1.93,
+        "low": 1.93,
+        "close": 1.93,
+        "volume": 6586.0,
+        "trade_count": 2.0,
+        "vwap": 1.929995
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 1.912,
+        "high": 1.9795,
+        "low": 1.912,
+        "close": 1.9795,
+        "volume": 1220.0,
+        "trade_count": 2.0,
+        "vwap": 1.967328
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 1.8,
+        "high": 1.81,
+        "low": 1.8,
+        "close": 1.8,
+        "volume": 10000.0,
+        "trade_count": 12.0,
+        "vwap": 1.800352
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 1.94,
+        "high": 1.94,
+        "low": 1.94,
+        "close": 1.94,
+        "volume": 2500.0,
+        "trade_count": 1.0,
+        "vwap": 1.94
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 1.8535,
+        "high": 1.8535,
+        "low": 1.8535,
+        "close": 1.8535,
+        "volume": 500.0,
+        "trade_count": 2.0,
+        "vwap": 1.8535
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 1.91,
+        "high": 1.91,
+        "low": 1.91,
+        "close": 1.91,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.91
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 1.92,
+        "high": 1.92,
+        "low": 1.92,
+        "close": 1.92,
+        "volume": 700.0,
+        "trade_count": 2.0,
+        "vwap": 1.92
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 1.91,
+        "high": 1.91,
+        "low": 1.91,
+        "close": 1.91,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 1.91
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 1.8901,
+        "high": 1.8901,
+        "low": 1.8901,
+        "close": 1.8901,
+        "volume": 102.0,
+        "trade_count": 3.0,
+        "vwap": 1.889977
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 1.87,
+        "high": 1.8799,
+        "low": 1.87,
+        "close": 1.8799,
+        "volume": 4000.0,
+        "trade_count": 11.0,
+        "vwap": 1.878158
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 1.87,
+        "high": 1.87,
+        "low": 1.87,
+        "close": 1.87,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.87
+    },
+    {
+        "symbol": "ZENV",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 1.8638,
+        "high": 1.8638,
+        "low": 1.8638,
+        "close": 1.8638,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 1.8638
+    }
+]

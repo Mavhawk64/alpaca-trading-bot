@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "ESSA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 20.18,
+        "high": 20.18,
+        "low": 20.13,
+        "close": 20.15,
+        "volume": 589.0,
+        "trade_count": 3.0,
+        "vwap": 20.166418
+    },
+    {
+        "symbol": "ESSA",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 19.85,
+        "high": 20.06,
+        "low": 19.79,
+        "close": 19.82,
+        "volume": 1070.0,
+        "trade_count": 12.0,
+        "vwap": 19.936841
+    },
+    {
+        "symbol": "ESSA",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 19.97,
+        "high": 19.97,
+        "low": 19.97,
+        "close": 19.97,
+        "volume": 772.0,
+        "trade_count": 8.0,
+        "vwap": 19.967422
+    },
+    {
+        "symbol": "ESSA",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 19.87,
+        "high": 19.87,
+        "low": 19.87,
+        "close": 19.87,
+        "volume": 102.0,
+        "trade_count": 3.0,
+        "vwap": 19.870392
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "symbol": "JUNE",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 4.82,
+        "high": 4.82,
+        "low": 4.82,
+        "close": 4.82,
+        "volume": 4000.0,
+        "trade_count": 2.0,
+        "vwap": 4.82
+    }
+]

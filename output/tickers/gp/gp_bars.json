@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "GP",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 1.1097,
+        "high": 1.1097,
+        "low": 1.1097,
+        "close": 1.1097,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 1.1097
+    },
+    {
+        "symbol": "GP",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 1.1097,
+        "high": 1.1097,
+        "low": 1.1097,
+        "close": 1.1097,
+        "volume": 183.0,
+        "trade_count": 1.0,
+        "vwap": 1.1097
+    },
+    {
+        "symbol": "GP",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 1.11,
+        "high": 1.11,
+        "low": 1.11,
+        "close": 1.11,
+        "volume": 118.0,
+        "trade_count": 4.0,
+        "vwap": 1.108814
+    },
+    {
+        "symbol": "GP",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 1.1,
+        "high": 1.1,
+        "low": 1.1,
+        "close": 1.1,
+        "volume": 6350.0,
+        "trade_count": 8.0,
+        "vwap": 1.1
+    },
+    {
+        "symbol": "GP",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 1.09,
+        "high": 1.09,
+        "low": 1.09,
+        "close": 1.09,
+        "volume": 109.0,
+        "trade_count": 2.0,
+        "vwap": 1.090173
+    },
+    {
+        "symbol": "GP",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 1.1,
+        "high": 1.1,
+        "low": 1.1,
+        "close": 1.1,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.1
+    },
+    {
+        "symbol": "GP",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 1.0921,
+        "high": 1.0921,
+        "low": 1.0921,
+        "close": 1.0921,
+        "volume": 380.0,
+        "trade_count": 1.0,
+        "vwap": 1.0921
+    },
+    {
+        "symbol": "GP",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 1.09,
+        "high": 1.09,
+        "low": 1.09,
+        "close": 1.09,
+        "volume": 527.0,
+        "trade_count": 11.0,
+        "vwap": 1.09
+    },
+    {
+        "symbol": "GP",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 1.09,
+        "high": 1.09,
+        "low": 1.09,
+        "close": 1.09,
+        "volume": 341.0,
+        "trade_count": 8.0,
+        "vwap": 1.090225
+    }
+]

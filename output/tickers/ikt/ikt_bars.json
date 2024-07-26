@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "IKT",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 1.73,
+        "high": 1.73,
+        "low": 1.73,
+        "close": 1.73,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.73
+    },
+    {
+        "symbol": "IKT",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 1.7008,
+        "high": 1.7008,
+        "low": 1.7008,
+        "close": 1.7008,
+        "volume": 142.0,
+        "trade_count": 1.0,
+        "vwap": 1.7008
+    },
+    {
+        "symbol": "IKT",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 1.7,
+        "high": 1.7,
+        "low": 1.7,
+        "close": 1.7,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.7
+    },
+    {
+        "symbol": "IKT",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 1.66,
+        "high": 1.66,
+        "low": 1.66,
+        "close": 1.66,
+        "volume": 186.0,
+        "trade_count": 3.0,
+        "vwap": 1.66
+    }
+]

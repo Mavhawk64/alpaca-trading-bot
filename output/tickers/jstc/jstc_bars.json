@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "JSTC",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 17.89,
+        "high": 17.89,
+        "low": 17.89,
+        "close": 17.89,
+        "volume": 169.0,
+        "trade_count": 3.0,
+        "vwap": 17.889533
+    },
+    {
+        "symbol": "JSTC",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 17.937,
+        "high": 17.937,
+        "low": 17.83,
+        "close": 17.83,
+        "volume": 6623.0,
+        "trade_count": 3.0,
+        "vwap": 17.935332
+    }
+]

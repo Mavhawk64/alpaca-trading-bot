@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "RSSS",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 2.7,
+        "high": 2.7301,
+        "low": 2.69,
+        "close": 2.7301,
+        "volume": 3184.0,
+        "trade_count": 18.0,
+        "vwap": 2.717503
+    },
+    {
+        "symbol": "RSSS",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 2.6921,
+        "high": 2.6921,
+        "low": 2.6921,
+        "close": 2.6921,
+        "volume": 6000.0,
+        "trade_count": 1.0,
+        "vwap": 2.6921
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "ESGL",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 1.21,
+        "high": 1.21,
+        "low": 1.2,
+        "close": 1.2,
+        "volume": 2000.0,
+        "trade_count": 4.0,
+        "vwap": 1.2005
+    },
+    {
+        "symbol": "ESGL",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 1.23,
+        "high": 1.23,
+        "low": 1.23,
+        "close": 1.23,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.23
+    },
+    {
+        "symbol": "ESGL",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 1.215,
+        "high": 1.215,
+        "low": 1.2001,
+        "close": 1.2001,
+        "volume": 1666.0,
+        "trade_count": 4.0,
+        "vwap": 1.203373
+    },
+    {
+        "symbol": "ESGL",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 1.2252,
+        "high": 1.2252,
+        "low": 1.2252,
+        "close": 1.2252,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.2252
+    }
+]

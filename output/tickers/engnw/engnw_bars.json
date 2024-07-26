@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "ENGNW",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 1.35,
+        "high": 1.35,
+        "low": 1.35,
+        "close": 1.35,
+        "volume": 500.0,
+        "trade_count": 3.0,
+        "vwap": 1.35
+    },
+    {
+        "symbol": "ENGNW",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 1.35,
+        "high": 1.35,
+        "low": 1.35,
+        "close": 1.35,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.35
+    },
+    {
+        "symbol": "ENGNW",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 1.35,
+        "high": 1.35,
+        "low": 1.35,
+        "close": 1.35,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 1.35
+    }
+]

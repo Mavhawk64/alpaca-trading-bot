@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "ODV",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.095,
+        "high": 2.1,
+        "low": 2.095,
+        "close": 2.0957,
+        "volume": 357.0,
+        "trade_count": 5.0,
+        "vwap": 2.096849
+    },
+    {
+        "symbol": "ODV",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 2.1,
+        "high": 2.1,
+        "low": 2.1,
+        "close": 2.1,
+        "volume": 496.0,
+        "trade_count": 3.0,
+        "vwap": 2.1
+    },
+    {
+        "symbol": "ODV",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 2.11,
+        "high": 2.11,
+        "low": 2.11,
+        "close": 2.11,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 2.11
+    },
+    {
+        "symbol": "ODV",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 2.1,
+        "high": 2.1,
+        "low": 2.1,
+        "close": 2.1,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 2.1
+    },
+    {
+        "symbol": "ODV",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 2.1,
+        "high": 2.13,
+        "low": 2.1,
+        "close": 2.13,
+        "volume": 1100.0,
+        "trade_count": 7.0,
+        "vwap": 2.105455
+    },
+    {
+        "symbol": "ODV",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 2.1109,
+        "high": 2.1109,
+        "low": 2.1109,
+        "close": 2.1109,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 2.1109
+    },
+    {
+        "symbol": "ODV",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 2.13,
+        "high": 2.15,
+        "low": 2.13,
+        "close": 2.14,
+        "volume": 7414.0,
+        "trade_count": 18.0,
+        "vwap": 2.141888
+    },
+    {
+        "symbol": "ODV",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 2.14,
+        "high": 2.14,
+        "low": 2.12,
+        "close": 2.14,
+        "volume": 36438.0,
+        "trade_count": 72.0,
+        "vwap": 2.139945
+    },
+    {
+        "symbol": "ODV",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 2.13,
+        "high": 2.16,
+        "low": 2.12,
+        "close": 2.12,
+        "volume": 3238.0,
+        "trade_count": 13.0,
+        "vwap": 2.137295
+    },
+    {
+        "symbol": "ODV",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 2.11,
+        "high": 2.11,
+        "low": 2.11,
+        "close": 2.11,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 2.11
+    }
+]

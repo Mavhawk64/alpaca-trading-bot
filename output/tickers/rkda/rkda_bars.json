@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "RKDA",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 2.8001,
+        "high": 3.0388,
+        "low": 2.8,
+        "close": 3.0388,
+        "volume": 1952.0,
+        "trade_count": 13.0,
+        "vwap": 2.896632
+    },
+    {
+        "symbol": "RKDA",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 2.8001,
+        "high": 2.8035,
+        "low": 2.79,
+        "close": 2.79,
+        "volume": 3239.0,
+        "trade_count": 6.0,
+        "vwap": 2.797904
+    },
+    {
+        "symbol": "RKDA",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 2.76,
+        "high": 2.775,
+        "low": 2.58,
+        "close": 2.775,
+        "volume": 1142.0,
+        "trade_count": 13.0,
+        "vwap": 2.699959
+    },
+    {
+        "symbol": "RKDA",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 2.5703,
+        "high": 2.5703,
+        "low": 2.5703,
+        "close": 2.5703,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 2.5703
+    },
+    {
+        "symbol": "RKDA",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 2.7,
+        "high": 2.7,
+        "low": 2.7,
+        "close": 2.7,
+        "volume": 218.0,
+        "trade_count": 4.0,
+        "vwap": 2.718867
+    },
+    {
+        "symbol": "RKDA",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 2.8067,
+        "high": 2.8067,
+        "low": 2.67,
+        "close": 2.73,
+        "volume": 1138.0,
+        "trade_count": 16.0,
+        "vwap": 2.716471
+    }
+]

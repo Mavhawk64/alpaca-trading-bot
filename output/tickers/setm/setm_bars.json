@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "SETM",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 16.59,
+        "high": 16.59,
+        "low": 16.59,
+        "close": 16.59,
+        "volume": 1142.0,
+        "trade_count": 1.0,
+        "vwap": 16.59
+    },
+    {
+        "symbol": "SETM",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 16.5472,
+        "high": 16.5472,
+        "low": 16.5472,
+        "close": 16.5472,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.5472
+    },
+    {
+        "symbol": "SETM",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 16.51,
+        "high": 16.51,
+        "low": 16.51,
+        "close": 16.51,
+        "volume": 600.0,
+        "trade_count": 6.0,
+        "vwap": 16.51
+    },
+    {
+        "symbol": "SETM",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 16.52,
+        "high": 16.52,
+        "low": 16.52,
+        "close": 16.52,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 16.52
+    }
+]

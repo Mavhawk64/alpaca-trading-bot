@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "EVAX",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 2.9202,
+        "high": 2.9202,
+        "low": 2.9202,
+        "close": 2.9202,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.9202
+    },
+    {
+        "symbol": "EVAX",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 2.97,
+        "high": 2.97,
+        "low": 2.97,
+        "close": 2.97,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 2.97
+    },
+    {
+        "symbol": "EVAX",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 2.93,
+        "high": 2.93,
+        "low": 2.93,
+        "close": 2.93,
+        "volume": 172.0,
+        "trade_count": 10.0,
+        "vwap": 2.934507
+    }
+]

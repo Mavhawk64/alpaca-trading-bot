@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "GBR",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 1.565,
+        "high": 1.565,
+        "low": 1.565,
+        "close": 1.565,
+        "volume": 378.0,
+        "trade_count": 1.0,
+        "vwap": 1.565
+    },
+    {
+        "symbol": "GBR",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 1.565,
+        "high": 1.565,
+        "low": 1.565,
+        "close": 1.565,
+        "volume": 369.0,
+        "trade_count": 1.0,
+        "vwap": 1.565
+    }
+]

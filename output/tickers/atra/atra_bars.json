@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 9.67,
+        "high": 9.67,
+        "low": 9.67,
+        "close": 9.67,
+        "volume": 1898.0,
+        "trade_count": 2.0,
+        "vwap": 9.669816
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 9.72,
+        "high": 9.72,
+        "low": 9.72,
+        "close": 9.72,
+        "volume": 342.0,
+        "trade_count": 6.0,
+        "vwap": 9.723684
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 9.76,
+        "high": 9.8094,
+        "low": 9.76,
+        "close": 9.8094,
+        "volume": 323.0,
+        "trade_count": 3.0,
+        "vwap": 9.765332
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 9.8099,
+        "high": 9.8099,
+        "low": 9.8099,
+        "close": 9.8099,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.8099
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 9.93,
+        "high": 9.93,
+        "low": 9.73,
+        "close": 9.73,
+        "volume": 693.0,
+        "trade_count": 2.0,
+        "vwap": 9.75886
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 9.7999,
+        "high": 9.9148,
+        "low": 9.7883,
+        "close": 9.9148,
+        "volume": 728.0,
+        "trade_count": 8.0,
+        "vwap": 9.836999
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 9.845,
+        "high": 9.845,
+        "low": 9.845,
+        "close": 9.845,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 9.845
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 9.845,
+        "high": 9.845,
+        "low": 9.845,
+        "close": 9.845,
+        "volume": 275.0,
+        "trade_count": 3.0,
+        "vwap": 9.845
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 9.85,
+        "high": 9.85,
+        "low": 9.85,
+        "close": 9.85,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.85
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 9.775,
+        "high": 9.775,
+        "low": 9.775,
+        "close": 9.775,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.775
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 9.84,
+        "high": 9.84,
+        "low": 9.76,
+        "close": 9.84,
+        "volume": 459.0,
+        "trade_count": 7.0,
+        "vwap": 9.815425
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 9.75,
+        "high": 9.76,
+        "low": 9.7,
+        "close": 9.75,
+        "volume": 3513.0,
+        "trade_count": 46.0,
+        "vwap": 9.749852
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 9.8,
+        "high": 9.8,
+        "low": 9.8,
+        "close": 9.8,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.8
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 9.82,
+        "high": 9.82,
+        "low": 9.82,
+        "close": 9.82,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.82
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T14:48:00+00:00",
+        "open": 9.7685,
+        "high": 9.7685,
+        "low": 9.7685,
+        "close": 9.7685,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 9.7685
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 9.775,
+        "high": 9.775,
+        "low": 9.775,
+        "close": 9.775,
+        "volume": 115.0,
+        "trade_count": 2.0,
+        "vwap": 9.78087
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 9.74,
+        "high": 9.75,
+        "low": 9.74,
+        "close": 9.75,
+        "volume": 2646.0,
+        "trade_count": 30.0,
+        "vwap": 9.749218
+    },
+    {
+        "symbol": "ATRA",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 9.8699,
+        "high": 9.8699,
+        "low": 9.8699,
+        "close": 9.8699,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.8699
+    }
+]

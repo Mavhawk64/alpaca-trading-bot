@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "COCP",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 377.0,
+        "trade_count": 2.0,
+        "vwap": 2.213074
+    },
+    {
+        "symbol": "COCP",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 2.215,
+        "high": 2.215,
+        "low": 2.215,
+        "close": 2.215,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.215
+    },
+    {
+        "symbol": "COCP",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.21
+    }
+]

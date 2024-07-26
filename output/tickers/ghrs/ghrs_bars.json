@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 11.6,
+        "high": 11.6,
+        "low": 11.6,
+        "close": 11.6,
+        "volume": 577.0,
+        "trade_count": 24.0,
+        "vwap": 11.602357
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 11.77,
+        "high": 11.77,
+        "low": 11.77,
+        "close": 11.77,
+        "volume": 953.0,
+        "trade_count": 37.0,
+        "vwap": 11.634155
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 11.49,
+        "high": 11.49,
+        "low": 11.49,
+        "close": 11.49,
+        "volume": 1017.0,
+        "trade_count": 43.0,
+        "vwap": 11.556515
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 11.79,
+        "high": 11.79,
+        "low": 11.79,
+        "close": 11.79,
+        "volume": 1799.0,
+        "trade_count": 75.0,
+        "vwap": 11.66841
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 11.63,
+        "high": 11.68,
+        "low": 11.63,
+        "close": 11.68,
+        "volume": 303.0,
+        "trade_count": 6.0,
+        "vwap": 11.649868
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 11.74,
+        "high": 11.74,
+        "low": 11.74,
+        "close": 11.74,
+        "volume": 347.0,
+        "trade_count": 8.0,
+        "vwap": 11.738146
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 11.79,
+        "high": 11.83,
+        "low": 11.79,
+        "close": 11.83,
+        "volume": 803.0,
+        "trade_count": 7.0,
+        "vwap": 11.803618
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 11.85,
+        "high": 11.95,
+        "low": 11.85,
+        "close": 11.94,
+        "volume": 1035.0,
+        "trade_count": 27.0,
+        "vwap": 11.887031
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 11.85,
+        "high": 11.85,
+        "low": 11.85,
+        "close": 11.85,
+        "volume": 700.0,
+        "trade_count": 24.0,
+        "vwap": 11.845714
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 11.78,
+        "high": 11.78,
+        "low": 11.78,
+        "close": 11.78,
+        "volume": 162.0,
+        "trade_count": 15.0,
+        "vwap": 11.758395
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 11.9,
+        "high": 11.9,
+        "low": 11.88,
+        "close": 11.88,
+        "volume": 388.0,
+        "trade_count": 20.0,
+        "vwap": 11.89317
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 11.88,
+        "high": 11.945,
+        "low": 11.76,
+        "close": 11.875,
+        "volume": 2703.0,
+        "trade_count": 20.0,
+        "vwap": 11.857495
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 11.86,
+        "high": 11.8675,
+        "low": 11.85,
+        "close": 11.8675,
+        "volume": 445.0,
+        "trade_count": 14.0,
+        "vwap": 11.859865
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 11.76,
+        "high": 11.76,
+        "low": 11.725,
+        "close": 11.725,
+        "volume": 398.0,
+        "trade_count": 9.0,
+        "vwap": 11.773078
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 11.83,
+        "high": 11.94,
+        "low": 11.83,
+        "close": 11.94,
+        "volume": 687.0,
+        "trade_count": 10.0,
+        "vwap": 11.912955
+    },
+    {
+        "symbol": "GHRS",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 11.8,
+        "high": 11.8,
+        "low": 11.8,
+        "close": 11.8,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.8
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "MHI",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 9.12,
+        "high": 9.12,
+        "low": 9.08,
+        "close": 9.08,
+        "volume": 2049.0,
+        "trade_count": 2.0,
+        "vwap": 9.116096
+    },
+    {
+        "symbol": "MHI",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 9.08,
+        "high": 9.08,
+        "low": 9.08,
+        "close": 9.08,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 9.07515
+    },
+    {
+        "symbol": "MHI",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 9.07,
+        "high": 9.07,
+        "low": 9.06,
+        "close": 9.06,
+        "volume": 400.0,
+        "trade_count": 5.0,
+        "vwap": 9.065225
+    },
+    {
+        "symbol": "MHI",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 9.07,
+        "high": 9.07,
+        "low": 9.07,
+        "close": 9.07,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 9.0701
+    },
+    {
+        "symbol": "MHI",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 9.07,
+        "high": 9.14,
+        "low": 9.07,
+        "close": 9.11,
+        "volume": 5199.0,
+        "trade_count": 22.0,
+        "vwap": 9.124572
+    },
+    {
+        "symbol": "MHI",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 9.11,
+        "high": 9.14,
+        "low": 9.11,
+        "close": 9.11,
+        "volume": 1895.0,
+        "trade_count": 17.0,
+        "vwap": 9.123456
+    },
+    {
+        "symbol": "MHI",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 9.14,
+        "high": 9.14,
+        "low": 9.14,
+        "close": 9.14,
+        "volume": 197.0,
+        "trade_count": 1.0,
+        "vwap": 9.14
+    },
+    {
+        "symbol": "MHI",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 9.14,
+        "high": 9.14,
+        "low": 9.14,
+        "close": 9.14,
+        "volume": 500.0,
+        "trade_count": 5.0,
+        "vwap": 9.14
+    },
+    {
+        "symbol": "MHI",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 9.1393,
+        "high": 9.14,
+        "low": 9.1393,
+        "close": 9.14,
+        "volume": 729.0,
+        "trade_count": 2.0,
+        "vwap": 9.139492
+    },
+    {
+        "symbol": "MHI",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 9.14,
+        "high": 9.14,
+        "low": 9.13,
+        "close": 9.14,
+        "volume": 6333.0,
+        "trade_count": 34.0,
+        "vwap": 9.138363
+    }
+]

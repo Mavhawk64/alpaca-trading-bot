@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "SELX",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 1.35,
+        "high": 1.35,
+        "low": 1.35,
+        "close": 1.35,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.35
+    },
+    {
+        "symbol": "SELX",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 1.37,
+        "high": 1.51,
+        "low": 1.37,
+        "close": 1.51,
+        "volume": 300.0,
+        "trade_count": 4.0,
+        "vwap": 1.463333
+    },
+    {
+        "symbol": "SELX",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 1.44,
+        "high": 1.46,
+        "low": 1.44,
+        "close": 1.46,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.45
+    },
+    {
+        "symbol": "SELX",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 1.4599,
+        "high": 1.4599,
+        "low": 1.4599,
+        "close": 1.4599,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 1.4599
+    },
+    {
+        "symbol": "SELX",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 1.4001,
+        "high": 1.4001,
+        "low": 1.4001,
+        "close": 1.4001,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 1.4001
+    }
+]

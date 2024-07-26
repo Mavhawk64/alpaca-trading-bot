@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "STIM",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.94,
+        "high": 1.94,
+        "low": 1.91,
+        "close": 1.91,
+        "volume": 3225.0,
+        "trade_count": 9.0,
+        "vwap": 1.924677
+    },
+    {
+        "symbol": "STIM",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 1.91,
+        "high": 1.91,
+        "low": 1.91,
+        "close": 1.91,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 1.91
+    },
+    {
+        "symbol": "STIM",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 1.9297,
+        "high": 1.9297,
+        "low": 1.9297,
+        "close": 1.9297,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.9297
+    },
+    {
+        "symbol": "STIM",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 1.9113,
+        "high": 1.9114,
+        "low": 1.9113,
+        "close": 1.9114,
+        "volume": 6095.0,
+        "trade_count": 3.0,
+        "vwap": 1.911755
+    },
+    {
+        "symbol": "STIM",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 1.925,
+        "high": 1.93,
+        "low": 1.925,
+        "close": 1.93,
+        "volume": 3337.0,
+        "trade_count": 8.0,
+        "vwap": 1.929212
+    },
+    {
+        "symbol": "STIM",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 1.9212,
+        "high": 1.9212,
+        "low": 1.9212,
+        "close": 1.9212,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 1.9256
+    },
+    {
+        "symbol": "STIM",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 1.93,
+        "high": 1.93,
+        "low": 1.93,
+        "close": 1.93,
+        "volume": 604.0,
+        "trade_count": 1.0,
+        "vwap": 1.93
+    },
+    {
+        "symbol": "STIM",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 1.93,
+        "high": 1.935,
+        "low": 1.93,
+        "close": 1.935,
+        "volume": 708.0,
+        "trade_count": 5.0,
+        "vwap": 1.9331
+    },
+    {
+        "symbol": "STIM",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 1.93,
+        "high": 1.93,
+        "low": 1.93,
+        "close": 1.93,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.93
+    }
+]

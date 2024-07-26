@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "APT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 5.901,
+        "high": 5.901,
+        "low": 5.901,
+        "close": 5.901,
+        "volume": 178.0,
+        "trade_count": 3.0,
+        "vwap": 5.902539
+    },
+    {
+        "symbol": "APT",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 5.9303,
+        "high": 5.9303,
+        "low": 5.9303,
+        "close": 5.9303,
+        "volume": 105.0,
+        "trade_count": 3.0,
+        "vwap": 5.931229
+    },
+    {
+        "symbol": "APT",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 5.925,
+        "high": 5.925,
+        "low": 5.925,
+        "close": 5.925,
+        "volume": 751.0,
+        "trade_count": 3.0,
+        "vwap": 5.925
+    },
+    {
+        "symbol": "APT",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 5.925,
+        "high": 5.925,
+        "low": 5.925,
+        "close": 5.925,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 5.925248
+    },
+    {
+        "symbol": "APT",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 5.93,
+        "high": 5.93,
+        "low": 5.93,
+        "close": 5.93,
+        "volume": 455.0,
+        "trade_count": 7.0,
+        "vwap": 5.93
+    },
+    {
+        "symbol": "APT",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 5.95,
+        "high": 5.95,
+        "low": 5.95,
+        "close": 5.95,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 5.94991
+    },
+    {
+        "symbol": "APT",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 5.94,
+        "high": 5.945,
+        "low": 5.94,
+        "close": 5.945,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 5.9425
+    }
+]

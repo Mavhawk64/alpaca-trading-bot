@@ -1,0 +1,233 @@
+[
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 2.7,
+        "high": 2.7,
+        "low": 2.7,
+        "close": 2.7,
+        "volume": 161.0,
+        "trade_count": 1.0,
+        "vwap": 2.7
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 2.77,
+        "high": 2.77,
+        "low": 2.77,
+        "close": 2.77,
+        "volume": 303.0,
+        "trade_count": 8.0,
+        "vwap": 2.783549
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 2.7201,
+        "high": 2.7201,
+        "low": 2.7201,
+        "close": 2.7201,
+        "volume": 105.0,
+        "trade_count": 2.0,
+        "vwap": 2.724381
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 2.82,
+        "high": 2.82,
+        "low": 2.82,
+        "close": 2.82,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 2.819754
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 2.82,
+        "high": 2.82,
+        "low": 2.8073,
+        "close": 2.8073,
+        "volume": 1537.0,
+        "trade_count": 4.0,
+        "vwap": 2.812915
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 2.8187,
+        "high": 2.8187,
+        "low": 2.8187,
+        "close": 2.8187,
+        "volume": 139.0,
+        "trade_count": 3.0,
+        "vwap": 2.816342
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 2.75,
+        "high": 2.75,
+        "low": 2.75,
+        "close": 2.75,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.75
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 2.75,
+        "high": 2.75,
+        "low": 2.75,
+        "close": 2.75,
+        "volume": 146.0,
+        "trade_count": 2.0,
+        "vwap": 2.750479
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 2.8,
+        "high": 2.8,
+        "low": 2.78,
+        "close": 2.78,
+        "volume": 294.0,
+        "trade_count": 4.0,
+        "vwap": 2.794517
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 2.785,
+        "high": 2.785,
+        "low": 2.785,
+        "close": 2.785,
+        "volume": 115.0,
+        "trade_count": 2.0,
+        "vwap": 2.780448
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 2.75,
+        "high": 2.75,
+        "low": 2.75,
+        "close": 2.75,
+        "volume": 209.0,
+        "trade_count": 6.0,
+        "vwap": 2.759234
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 2.77,
+        "high": 2.77,
+        "low": 2.77,
+        "close": 2.77,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.77
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 2.77,
+        "high": 2.77,
+        "low": 2.77,
+        "close": 2.77,
+        "volume": 1152.0,
+        "trade_count": 4.0,
+        "vwap": 2.764957
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 2.77,
+        "high": 2.775,
+        "low": 2.77,
+        "close": 2.775,
+        "volume": 219.0,
+        "trade_count": 3.0,
+        "vwap": 2.772511
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 2.7347,
+        "high": 2.7347,
+        "low": 2.7347,
+        "close": 2.7347,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 2.7347
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 2.8099,
+        "high": 2.8099,
+        "low": 2.8099,
+        "close": 2.8099,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.8099
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 2.8017,
+        "high": 2.8017,
+        "low": 2.8017,
+        "close": 2.8017,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.8017
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 2.775,
+        "high": 2.82,
+        "low": 2.77,
+        "close": 2.82,
+        "volume": 4455.0,
+        "trade_count": 54.0,
+        "vwap": 2.799154
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 2.82,
+        "high": 2.82,
+        "low": 2.82,
+        "close": 2.82,
+        "volume": 229.0,
+        "trade_count": 7.0,
+        "vwap": 2.82
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 2.81,
+        "high": 2.81,
+        "low": 2.81,
+        "close": 2.81,
+        "volume": 842.0,
+        "trade_count": 12.0,
+        "vwap": 2.812827
+    },
+    {
+        "symbol": "BNAI",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 2.84,
+        "high": 2.84,
+        "low": 2.84,
+        "close": 2.84,
+        "volume": 502.0,
+        "trade_count": 2.0,
+        "vwap": 2.83994
+    }
+]

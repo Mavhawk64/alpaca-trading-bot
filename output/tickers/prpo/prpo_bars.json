@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "PRPO",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 5.518,
+        "high": 5.53,
+        "low": 5.518,
+        "close": 5.53,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 5.524
+    },
+    {
+        "symbol": "PRPO",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 5.5336,
+        "high": 5.5336,
+        "low": 5.5336,
+        "close": 5.5336,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.5336
+    },
+    {
+        "symbol": "PRPO",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 5.36,
+        "high": 5.36,
+        "low": 5.19,
+        "close": 5.19,
+        "volume": 374.0,
+        "trade_count": 7.0,
+        "vwap": 5.304118
+    }
+]

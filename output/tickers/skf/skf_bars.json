@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 11.4,
+        "high": 11.4,
+        "low": 11.4,
+        "close": 11.4,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 11.4
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 11.33,
+        "high": 11.33,
+        "low": 11.33,
+        "close": 11.33,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 11.33
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 11.31,
+        "high": 11.31,
+        "low": 11.31,
+        "close": 11.31,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 11.31
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 11.31,
+        "high": 11.31,
+        "low": 11.31,
+        "close": 11.31,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 11.31
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 11.27,
+        "high": 11.27,
+        "low": 11.27,
+        "close": 11.27,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.27
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 11.2701,
+        "high": 11.2701,
+        "low": 11.26,
+        "close": 11.26,
+        "volume": 450.0,
+        "trade_count": 3.0,
+        "vwap": 11.2678
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 11.2589,
+        "high": 11.2589,
+        "low": 11.2589,
+        "close": 11.2589,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.2589
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 11.2829,
+        "high": 11.2829,
+        "low": 11.2829,
+        "close": 11.2829,
+        "volume": 316.0,
+        "trade_count": 2.0,
+        "vwap": 11.283259
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 11.2587,
+        "high": 11.2587,
+        "low": 11.2587,
+        "close": 11.2587,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.2587
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 11.1901,
+        "high": 11.1901,
+        "low": 11.19,
+        "close": 11.19,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 11.190033
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 11.21,
+        "high": 11.21,
+        "low": 11.21,
+        "close": 11.21,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.21
+    },
+    {
+        "symbol": "SKF",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 11.16,
+        "high": 11.16,
+        "low": 11.16,
+        "close": 11.16,
+        "volume": 270.0,
+        "trade_count": 2.0,
+        "vwap": 11.16
+    }
+]

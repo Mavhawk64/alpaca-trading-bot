@@ -1,0 +1,156 @@
+[
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 6.07,
+        "high": 6.07,
+        "low": 6.07,
+        "close": 6.07,
+        "volume": 749.0,
+        "trade_count": 5.0,
+        "vwap": 6.07032
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 6.0999,
+        "high": 6.0999,
+        "low": 6.0999,
+        "close": 6.0999,
+        "volume": 1552.0,
+        "trade_count": 4.0,
+        "vwap": 6.099816
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 6.1,
+        "high": 6.22,
+        "low": 6.1,
+        "close": 6.22,
+        "volume": 1228.0,
+        "trade_count": 10.0,
+        "vwap": 6.178526
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 6.115,
+        "high": 6.115,
+        "low": 6.115,
+        "close": 6.115,
+        "volume": 227.0,
+        "trade_count": 2.0,
+        "vwap": 6.115
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 6.1213,
+        "high": 6.1213,
+        "low": 6.1213,
+        "close": 6.1213,
+        "volume": 106.0,
+        "trade_count": 3.0,
+        "vwap": 6.121509
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 6.23,
+        "high": 6.31,
+        "low": 6.23,
+        "close": 6.31,
+        "volume": 2063.0,
+        "trade_count": 15.0,
+        "vwap": 6.250528
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 6.275,
+        "high": 6.275,
+        "low": 6.275,
+        "close": 6.275,
+        "volume": 1543.0,
+        "trade_count": 2.0,
+        "vwap": 6.275053
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 6.31,
+        "high": 6.31,
+        "low": 6.31,
+        "close": 6.31,
+        "volume": 303.0,
+        "trade_count": 2.0,
+        "vwap": 6.308911
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 6.265,
+        "high": 6.265,
+        "low": 6.2201,
+        "close": 6.2201,
+        "volume": 1001.0,
+        "trade_count": 5.0,
+        "vwap": 6.248317
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 6.225,
+        "high": 6.225,
+        "low": 6.225,
+        "close": 6.225,
+        "volume": 162.0,
+        "trade_count": 2.0,
+        "vwap": 6.224444
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 6.17,
+        "high": 6.17,
+        "low": 6.17,
+        "close": 6.17,
+        "volume": 202.0,
+        "trade_count": 10.0,
+        "vwap": 6.173267
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 6.1509,
+        "high": 6.1509,
+        "low": 6.1509,
+        "close": 6.1509,
+        "volume": 304.0,
+        "trade_count": 5.0,
+        "vwap": 6.150493
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 6.1,
+        "high": 6.1,
+        "low": 6.1,
+        "close": 6.1,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.1
+    },
+    {
+        "symbol": "SYRS",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 6.155,
+        "high": 6.155,
+        "low": 6.145,
+        "close": 6.145,
+        "volume": 425.0,
+        "trade_count": 9.0,
+        "vwap": 6.151553
+    }
+]

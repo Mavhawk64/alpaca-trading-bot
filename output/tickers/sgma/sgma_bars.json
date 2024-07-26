@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "SGMA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.88,
+        "high": 4.88,
+        "low": 4.88,
+        "close": 4.88,
+        "volume": 510.0,
+        "trade_count": 5.0,
+        "vwap": 4.892157
+    },
+    {
+        "symbol": "SGMA",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 5.035,
+        "high": 5.035,
+        "low": 4.93,
+        "close": 4.93,
+        "volume": 2535.0,
+        "trade_count": 13.0,
+        "vwap": 4.994059
+    },
+    {
+        "symbol": "SGMA",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 4.9656,
+        "high": 4.9656,
+        "low": 4.9656,
+        "close": 4.9656,
+        "volume": 406.0,
+        "trade_count": 1.0,
+        "vwap": 4.9656
+    },
+    {
+        "symbol": "SGMA",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 4.95,
+        "high": 4.95,
+        "low": 4.95,
+        "close": 4.95,
+        "volume": 352.0,
+        "trade_count": 5.0,
+        "vwap": 4.95
+    },
+    {
+        "symbol": "SGMA",
+        "timestamp": "2024-07-26T14:48:00+00:00",
+        "open": 4.98,
+        "high": 4.98,
+        "low": 4.98,
+        "close": 4.98,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.98
+    },
+    {
+        "symbol": "SGMA",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 4.94,
+        "high": 4.94,
+        "low": 4.94,
+        "close": 4.94,
+        "volume": 327.0,
+        "trade_count": 5.0,
+        "vwap": 4.94
+    },
+    {
+        "symbol": "SGMA",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 4.94,
+        "high": 4.9401,
+        "low": 4.94,
+        "close": 4.9401,
+        "volume": 1392.0,
+        "trade_count": 26.0,
+        "vwap": 4.938969
+    },
+    {
+        "symbol": "SGMA",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 4.9,
+        "high": 4.9,
+        "low": 4.9,
+        "close": 4.9,
+        "volume": 429.0,
+        "trade_count": 4.0,
+        "vwap": 4.9
+    },
+    {
+        "symbol": "SGMA",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 4.9,
+        "high": 4.9,
+        "low": 4.9,
+        "close": 4.9,
+        "volume": 400.0,
+        "trade_count": 4.0,
+        "vwap": 4.9
+    }
+]

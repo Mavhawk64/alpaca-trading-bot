@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "AACT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 10.72,
+        "high": 10.72,
+        "low": 10.72,
+        "close": 10.72,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.72
+    },
+    {
+        "symbol": "AACT",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 10.721,
+        "high": 10.721,
+        "low": 10.721,
+        "close": 10.721,
+        "volume": 748.0,
+        "trade_count": 1.0,
+        "vwap": 10.721
+    },
+    {
+        "symbol": "AACT",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 10.725,
+        "high": 10.725,
+        "low": 10.725,
+        "close": 10.725,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 10.725
+    },
+    {
+        "symbol": "AACT",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 10.725,
+        "high": 10.725,
+        "low": 10.72,
+        "close": 10.72,
+        "volume": 748.0,
+        "trade_count": 5.0,
+        "vwap": 10.722166
+    },
+    {
+        "symbol": "AACT",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 10.72,
+        "high": 10.72,
+        "low": 10.72,
+        "close": 10.72,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.72
+    },
+    {
+        "symbol": "AACT",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 10.721,
+        "high": 10.721,
+        "low": 10.721,
+        "close": 10.721,
+        "volume": 1285.0,
+        "trade_count": 2.0,
+        "vwap": 10.720969
+    },
+    {
+        "symbol": "AACT",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 10.72,
+        "high": 10.72,
+        "low": 10.72,
+        "close": 10.72,
+        "volume": 934.0,
+        "trade_count": 2.0,
+        "vwap": 10.72
+    },
+    {
+        "symbol": "AACT",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 10.72,
+        "high": 10.72,
+        "low": 10.72,
+        "close": 10.72,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.72
+    },
+    {
+        "symbol": "AACT",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 10.72,
+        "high": 10.72,
+        "low": 10.72,
+        "close": 10.72,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 10.72005
+    },
+    {
+        "symbol": "AACT",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 10.72,
+        "high": 10.72,
+        "low": 10.72,
+        "close": 10.72,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.72
+    }
+]

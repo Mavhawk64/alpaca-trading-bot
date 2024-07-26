@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "BANX",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 19.4139,
+        "high": 19.4139,
+        "low": 19.4139,
+        "close": 19.4139,
+        "volume": 225.0,
+        "trade_count": 1.0,
+        "vwap": 19.4139
+    },
+    {
+        "symbol": "BANX",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 19.42,
+        "high": 19.42,
+        "low": 19.42,
+        "close": 19.42,
+        "volume": 500.0,
+        "trade_count": 7.0,
+        "vwap": 19.42
+    },
+    {
+        "symbol": "BANX",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 19.4,
+        "high": 19.4,
+        "low": 19.4,
+        "close": 19.4,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 19.4
+    },
+    {
+        "symbol": "BANX",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 19.4001,
+        "high": 19.4138,
+        "low": 19.4001,
+        "close": 19.4138,
+        "volume": 600.0,
+        "trade_count": 2.0,
+        "vwap": 19.40695
+    },
+    {
+        "symbol": "BANX",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 19.4001,
+        "high": 19.4001,
+        "low": 19.4001,
+        "close": 19.4001,
+        "volume": 133.0,
+        "trade_count": 1.0,
+        "vwap": 19.4001
+    },
+    {
+        "symbol": "BANX",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 19.4001,
+        "high": 19.4125,
+        "low": 19.4001,
+        "close": 19.4125,
+        "volume": 900.0,
+        "trade_count": 3.0,
+        "vwap": 19.405611
+    },
+    {
+        "symbol": "BANX",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 19.4125,
+        "high": 19.415,
+        "low": 19.4,
+        "close": 19.4,
+        "volume": 1241.0,
+        "trade_count": 12.0,
+        "vwap": 19.408864
+    },
+    {
+        "symbol": "BANX",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 19.4,
+        "high": 19.4,
+        "low": 19.4,
+        "close": 19.4,
+        "volume": 609.0,
+        "trade_count": 6.0,
+        "vwap": 19.388834
+    },
+    {
+        "symbol": "BANX",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 19.4,
+        "high": 19.4,
+        "low": 19.4,
+        "close": 19.4,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.4
+    },
+    {
+        "symbol": "BANX",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 19.4,
+        "high": 19.4,
+        "low": 19.4,
+        "close": 19.4,
+        "volume": 136.0,
+        "trade_count": 1.0,
+        "vwap": 19.4
+    }
+]

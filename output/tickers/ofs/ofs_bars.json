@@ -1,0 +1,189 @@
+[
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 8.61,
+        "high": 8.61,
+        "low": 8.61,
+        "close": 8.61,
+        "volume": 210.0,
+        "trade_count": 7.0,
+        "vwap": 8.613279
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 8.56,
+        "high": 8.56,
+        "low": 8.55,
+        "close": 8.5501,
+        "volume": 1968.0,
+        "trade_count": 24.0,
+        "vwap": 8.551249
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 8.55,
+        "high": 8.55,
+        "low": 8.51,
+        "close": 8.51,
+        "volume": 2627.0,
+        "trade_count": 19.0,
+        "vwap": 8.52713
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 8.51,
+        "high": 8.51,
+        "low": 8.51,
+        "close": 8.51,
+        "volume": 1614.0,
+        "trade_count": 2.0,
+        "vwap": 8.51
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 8.59,
+        "high": 8.59,
+        "low": 8.59,
+        "close": 8.59,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 8.59
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 8.54,
+        "high": 8.54,
+        "low": 8.54,
+        "close": 8.54,
+        "volume": 311.0,
+        "trade_count": 5.0,
+        "vwap": 8.543569
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 8.538,
+        "high": 8.54,
+        "low": 8.532,
+        "close": 8.54,
+        "volume": 5604.0,
+        "trade_count": 8.0,
+        "vwap": 8.539429
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 8.54,
+        "high": 8.54,
+        "low": 8.54,
+        "close": 8.54,
+        "volume": 152.0,
+        "trade_count": 3.0,
+        "vwap": 8.544342
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 8.5157,
+        "high": 8.5157,
+        "low": 8.5157,
+        "close": 8.5157,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 8.5157
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 8.58,
+        "high": 8.58,
+        "low": 8.58,
+        "close": 8.58,
+        "volume": 202.0,
+        "trade_count": 2.0,
+        "vwap": 8.580297
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 8.58,
+        "high": 8.58,
+        "low": 8.58,
+        "close": 8.58,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 8.58
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 8.565,
+        "high": 8.565,
+        "low": 8.565,
+        "close": 8.565,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 8.565
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 8.5857,
+        "high": 8.5857,
+        "low": 8.5857,
+        "close": 8.5857,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 8.5857
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 8.56,
+        "high": 8.56,
+        "low": 8.56,
+        "close": 8.56,
+        "volume": 320.0,
+        "trade_count": 4.0,
+        "vwap": 8.575
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 8.6,
+        "high": 8.6,
+        "low": 8.6,
+        "close": 8.6,
+        "volume": 350.0,
+        "trade_count": 2.0,
+        "vwap": 8.6
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 8.6074,
+        "high": 8.6074,
+        "low": 8.6074,
+        "close": 8.6074,
+        "volume": 500.0,
+        "trade_count": 2.0,
+        "vwap": 8.6074
+    },
+    {
+        "symbol": "OFS",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 8.5871,
+        "high": 8.5871,
+        "low": 8.5871,
+        "close": 8.5871,
+        "volume": 466.0,
+        "trade_count": 3.0,
+        "vwap": 8.587039
+    }
+]

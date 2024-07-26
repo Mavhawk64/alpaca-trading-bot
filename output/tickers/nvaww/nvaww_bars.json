@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "NVAWW",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 2.17,
+        "high": 2.19,
+        "low": 2.16,
+        "close": 2.16,
+        "volume": 1220.0,
+        "trade_count": 7.0,
+        "vwap": 2.163115
+    },
+    {
+        "symbol": "NVAWW",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 2.03,
+        "high": 2.03,
+        "low": 1.62,
+        "close": 1.62,
+        "volume": 5095.0,
+        "trade_count": 14.0,
+        "vwap": 1.680157
+    },
+    {
+        "symbol": "NVAWW",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 1.045,
+        "high": 1.045,
+        "low": 1.045,
+        "close": 1.045,
+        "volume": 3780.0,
+        "trade_count": 1.0,
+        "vwap": 1.045
+    },
+    {
+        "symbol": "NVAWW",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 1.5,
+        "high": 1.5,
+        "low": 1.5,
+        "close": 1.5,
+        "volume": 218.0,
+        "trade_count": 4.0,
+        "vwap": 1.559174
+    },
+    {
+        "symbol": "NVAWW",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 1.52,
+        "high": 1.52,
+        "low": 1.22,
+        "close": 1.23,
+        "volume": 4783.0,
+        "trade_count": 29.0,
+        "vwap": 1.263236
+    },
+    {
+        "symbol": "NVAWW",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 1.33,
+        "high": 1.33,
+        "low": 1.33,
+        "close": 1.33,
+        "volume": 184.0,
+        "trade_count": 2.0,
+        "vwap": 1.33
+    },
+    {
+        "symbol": "NVAWW",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 1.9,
+        "high": 1.9,
+        "low": 1.9,
+        "close": 1.9,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.9
+    },
+    {
+        "symbol": "NVAWW",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 1.4,
+        "high": 1.4,
+        "low": 1.4,
+        "close": 1.4,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 1.4
+    },
+    {
+        "symbol": "NVAWW",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 1.78,
+        "high": 1.95,
+        "low": 1.74,
+        "close": 1.95,
+        "volume": 8662.0,
+        "trade_count": 38.0,
+        "vwap": 1.858478
+    },
+    {
+        "symbol": "NVAWW",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 1.95,
+        "high": 1.95,
+        "low": 1.95,
+        "close": 1.95,
+        "volume": 140.0,
+        "trade_count": 2.0,
+        "vwap": 1.95
+    }
+]

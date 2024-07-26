@@ -1,0 +1,156 @@
+[
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 11.83,
+        "high": 11.855,
+        "low": 11.83,
+        "close": 11.855,
+        "volume": 2421.0,
+        "trade_count": 3.0,
+        "vwap": 11.831249
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 11.835,
+        "high": 11.835,
+        "low": 11.835,
+        "close": 11.835,
+        "volume": 713.0,
+        "trade_count": 1.0,
+        "vwap": 11.835
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 11.83,
+        "high": 11.83,
+        "low": 11.83,
+        "close": 11.83,
+        "volume": 105.0,
+        "trade_count": 1.0,
+        "vwap": 11.83
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 11.83,
+        "high": 11.83,
+        "low": 11.83,
+        "close": 11.83,
+        "volume": 206.0,
+        "trade_count": 1.0,
+        "vwap": 11.83
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 11.8287,
+        "high": 11.8287,
+        "low": 11.8287,
+        "close": 11.8287,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 11.8287
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 11.83,
+        "high": 11.83,
+        "low": 11.83,
+        "close": 11.83,
+        "volume": 2313.0,
+        "trade_count": 16.0,
+        "vwap": 11.830164
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 11.842,
+        "high": 11.855,
+        "low": 11.84,
+        "close": 11.84,
+        "volume": 2099.0,
+        "trade_count": 8.0,
+        "vwap": 11.846203
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 11.85,
+        "high": 11.85,
+        "low": 11.85,
+        "close": 11.85,
+        "volume": 395.0,
+        "trade_count": 9.0,
+        "vwap": 11.85
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 11.8681,
+        "high": 11.8681,
+        "low": 11.8681,
+        "close": 11.8681,
+        "volume": 190.0,
+        "trade_count": 1.0,
+        "vwap": 11.8681
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 11.86,
+        "high": 11.87,
+        "low": 11.86,
+        "close": 11.87,
+        "volume": 4185.0,
+        "trade_count": 12.0,
+        "vwap": 11.865546
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 11.88,
+        "high": 11.88,
+        "low": 11.87,
+        "close": 11.87,
+        "volume": 677.0,
+        "trade_count": 4.0,
+        "vwap": 11.874357
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 11.86,
+        "high": 11.86,
+        "low": 11.86,
+        "close": 11.86,
+        "volume": 410.0,
+        "trade_count": 5.0,
+        "vwap": 11.862683
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 11.84,
+        "high": 11.84,
+        "low": 11.84,
+        "close": 11.84,
+        "volume": 241.0,
+        "trade_count": 1.0,
+        "vwap": 11.84
+    },
+    {
+        "symbol": "EWZS",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 11.8856,
+        "high": 11.8856,
+        "low": 11.8856,
+        "close": 11.8856,
+        "volume": 367.0,
+        "trade_count": 5.0,
+        "vwap": 11.866975
+    }
+]

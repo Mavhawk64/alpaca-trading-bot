@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "YXI",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 17.742,
+        "high": 17.742,
+        "low": 17.742,
+        "close": 17.742,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 17.742
+    },
+    {
+        "symbol": "YXI",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 17.76,
+        "high": 17.79,
+        "low": 17.76,
+        "close": 17.79,
+        "volume": 322.0,
+        "trade_count": 4.0,
+        "vwap": 17.776516
+    },
+    {
+        "symbol": "YXI",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 17.8,
+        "high": 17.8,
+        "low": 17.8,
+        "close": 17.8,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 17.8
+    },
+    {
+        "symbol": "YXI",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 17.79,
+        "high": 17.79,
+        "low": 17.79,
+        "close": 17.79,
+        "volume": 120.0,
+        "trade_count": 2.0,
+        "vwap": 17.793167
+    },
+    {
+        "symbol": "YXI",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 17.81,
+        "high": 17.82,
+        "low": 17.81,
+        "close": 17.82,
+        "volume": 1124.0,
+        "trade_count": 6.0,
+        "vwap": 17.816441
+    }
+]

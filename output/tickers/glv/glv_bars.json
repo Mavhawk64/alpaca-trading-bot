@@ -1,0 +1,167 @@
+[
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 5.7,
+        "high": 5.71,
+        "low": 5.7,
+        "close": 5.71,
+        "volume": 359.0,
+        "trade_count": 4.0,
+        "vwap": 5.68454
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 5.7145,
+        "high": 5.7145,
+        "low": 5.7145,
+        "close": 5.7145,
+        "volume": 2085.0,
+        "trade_count": 2.0,
+        "vwap": 5.71452
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 5.72,
+        "high": 5.72,
+        "low": 5.72,
+        "close": 5.72,
+        "volume": 2697.0,
+        "trade_count": 4.0,
+        "vwap": 5.72
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 5.7163,
+        "high": 5.7163,
+        "low": 5.7163,
+        "close": 5.7163,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 5.7163
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 5.72,
+        "high": 5.72,
+        "low": 5.72,
+        "close": 5.72,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.72
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 5.72,
+        "high": 5.72,
+        "low": 5.711,
+        "close": 5.711,
+        "volume": 2100.0,
+        "trade_count": 5.0,
+        "vwap": 5.719571
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 5.715,
+        "high": 5.715,
+        "low": 5.715,
+        "close": 5.715,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.715
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 5.715,
+        "high": 5.715,
+        "low": 5.715,
+        "close": 5.715,
+        "volume": 102.0,
+        "trade_count": 1.0,
+        "vwap": 5.715
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 5.72,
+        "high": 5.72,
+        "low": 5.719,
+        "close": 5.72,
+        "volume": 4686.0,
+        "trade_count": 18.0,
+        "vwap": 5.71977
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 5.72,
+        "high": 5.72,
+        "low": 5.72,
+        "close": 5.72,
+        "volume": 900.0,
+        "trade_count": 4.0,
+        "vwap": 5.72
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 5.72,
+        "high": 5.72,
+        "low": 5.72,
+        "close": 5.72,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 5.72
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 5.72,
+        "high": 5.72,
+        "low": 5.72,
+        "close": 5.72,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 5.72
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 5.72,
+        "high": 5.72,
+        "low": 5.72,
+        "close": 5.72,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.72
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 5.72,
+        "high": 5.72,
+        "low": 5.72,
+        "close": 5.72,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 5.72
+    },
+    {
+        "symbol": "GLV",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 5.72,
+        "high": 5.72,
+        "low": 5.72,
+        "close": 5.72,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.72
+    }
+]

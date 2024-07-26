@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "TBMC",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 10.83,
+        "high": 10.83,
+        "low": 10.83,
+        "close": 10.83,
+        "volume": 737.0,
+        "trade_count": 1.0,
+        "vwap": 10.83
+    },
+    {
+        "symbol": "TBMC",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 10.83,
+        "high": 10.83,
+        "low": 10.83,
+        "close": 10.83,
+        "volume": 737.0,
+        "trade_count": 1.0,
+        "vwap": 10.83
+    },
+    {
+        "symbol": "TBMC",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 10.855,
+        "high": 10.855,
+        "low": 10.855,
+        "close": 10.855,
+        "volume": 780.0,
+        "trade_count": 2.0,
+        "vwap": 10.854038
+    },
+    {
+        "symbol": "TBMC",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 10.83,
+        "high": 10.84,
+        "low": 10.83,
+        "close": 10.84,
+        "volume": 1536.0,
+        "trade_count": 6.0,
+        "vwap": 10.835182
+    }
+]

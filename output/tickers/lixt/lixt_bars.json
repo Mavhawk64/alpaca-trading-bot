@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "LIXT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.33,
+        "high": 2.33,
+        "low": 2.33,
+        "close": 2.33,
+        "volume": 430.0,
+        "trade_count": 2.0,
+        "vwap": 2.310814
+    },
+    {
+        "symbol": "LIXT",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 2.3821,
+        "high": 2.3821,
+        "low": 2.3821,
+        "close": 2.3821,
+        "volume": 113.0,
+        "trade_count": 3.0,
+        "vwap": 2.379732
+    },
+    {
+        "symbol": "LIXT",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 2.3486,
+        "high": 2.3486,
+        "low": 2.3486,
+        "close": 2.3486,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.3486
+    }
+]

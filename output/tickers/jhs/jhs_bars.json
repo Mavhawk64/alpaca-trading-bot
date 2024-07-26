@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "JHS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 11.23,
+        "high": 11.23,
+        "low": 11.23,
+        "close": 11.23,
+        "volume": 354.0,
+        "trade_count": 1.0,
+        "vwap": 11.23
+    },
+    {
+        "symbol": "JHS",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 11.29,
+        "high": 11.3,
+        "low": 11.29,
+        "close": 11.3,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 11.295
+    },
+    {
+        "symbol": "JHS",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 11.3,
+        "high": 11.3,
+        "low": 11.3,
+        "close": 11.3,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.3
+    },
+    {
+        "symbol": "JHS",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 11.28,
+        "high": 11.28,
+        "low": 11.28,
+        "close": 11.28,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.28
+    },
+    {
+        "symbol": "JHS",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 11.3,
+        "high": 11.3,
+        "low": 11.3,
+        "close": 11.3,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.3
+    },
+    {
+        "symbol": "JHS",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 11.3,
+        "high": 11.3,
+        "low": 11.3,
+        "close": 11.3,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.3
+    },
+    {
+        "symbol": "JHS",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 11.29,
+        "high": 11.29,
+        "low": 11.29,
+        "close": 11.29,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.29
+    },
+    {
+        "symbol": "JHS",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 11.29,
+        "high": 11.29,
+        "low": 11.29,
+        "close": 11.29,
+        "volume": 410.0,
+        "trade_count": 2.0,
+        "vwap": 11.29
+    },
+    {
+        "symbol": "JHS",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 11.272,
+        "high": 11.272,
+        "low": 11.272,
+        "close": 11.272,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 11.272
+    },
+    {
+        "symbol": "JHS",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 11.2809,
+        "high": 11.2809,
+        "low": 11.2809,
+        "close": 11.2809,
+        "volume": 576.0,
+        "trade_count": 1.0,
+        "vwap": 11.2809
+    }
+]

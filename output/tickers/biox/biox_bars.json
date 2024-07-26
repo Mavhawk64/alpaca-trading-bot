@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "BIOX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 11.0,
+        "high": 11.0,
+        "low": 10.99,
+        "close": 11.0,
+        "volume": 581.0,
+        "trade_count": 15.0,
+        "vwap": 10.998279
+    },
+    {
+        "symbol": "BIOX",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 11.0,
+        "high": 11.0,
+        "low": 11.0,
+        "close": 11.0,
+        "volume": 469.0,
+        "trade_count": 7.0,
+        "vwap": 11.0
+    },
+    {
+        "symbol": "BIOX",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 11.0,
+        "high": 11.0,
+        "low": 11.0,
+        "close": 11.0,
+        "volume": 140.0,
+        "trade_count": 2.0,
+        "vwap": 11.0
+    },
+    {
+        "symbol": "BIOX",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 11.23,
+        "high": 11.26,
+        "low": 11.15,
+        "close": 11.15,
+        "volume": 3107.0,
+        "trade_count": 46.0,
+        "vwap": 11.171944
+    },
+    {
+        "symbol": "BIOX",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 11.15,
+        "high": 11.15,
+        "low": 11.15,
+        "close": 11.15,
+        "volume": 103.0,
+        "trade_count": 1.0,
+        "vwap": 11.15
+    }
+]

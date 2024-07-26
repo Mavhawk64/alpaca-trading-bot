@@ -1,0 +1,189 @@
+[
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 2.19,
+        "high": 2.19,
+        "low": 2.1801,
+        "close": 2.1801,
+        "volume": 208.0,
+        "trade_count": 4.0,
+        "vwap": 2.18505
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 2.1801,
+        "high": 2.1801,
+        "low": 2.1801,
+        "close": 2.1801,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.1801
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 2.18,
+        "high": 2.18,
+        "low": 2.18,
+        "close": 2.18,
+        "volume": 960.0,
+        "trade_count": 1.0,
+        "vwap": 2.18
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 2.1809,
+        "high": 2.1809,
+        "low": 2.1809,
+        "close": 2.1809,
+        "volume": 226.0,
+        "trade_count": 1.0,
+        "vwap": 2.1809
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 2.2,
+        "high": 2.2,
+        "low": 2.2,
+        "close": 2.2,
+        "volume": 532.0,
+        "trade_count": 3.0,
+        "vwap": 2.2
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 134.0,
+        "trade_count": 4.0,
+        "vwap": 2.210373
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 2.18,
+        "high": 2.18,
+        "low": 2.18,
+        "close": 2.18,
+        "volume": 560.0,
+        "trade_count": 2.0,
+        "vwap": 2.18
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 2.19,
+        "high": 2.19,
+        "low": 2.19,
+        "close": 2.19,
+        "volume": 1250.0,
+        "trade_count": 6.0,
+        "vwap": 2.19
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 2.1901,
+        "high": 2.1901,
+        "low": 2.1901,
+        "close": 2.1901,
+        "volume": 2000.0,
+        "trade_count": 2.0,
+        "vwap": 2.1901
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 2.19,
+        "high": 2.19,
+        "low": 2.19,
+        "close": 2.19,
+        "volume": 361.0,
+        "trade_count": 2.0,
+        "vwap": 2.19
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 2.18,
+        "high": 2.18,
+        "low": 2.17,
+        "close": 2.175,
+        "volume": 2003.0,
+        "trade_count": 6.0,
+        "vwap": 2.173924
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 2.175,
+        "high": 2.175,
+        "low": 2.175,
+        "close": 2.175,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 2.175
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 2.16,
+        "high": 2.16,
+        "low": 2.16,
+        "close": 2.16,
+        "volume": 2309.0,
+        "trade_count": 12.0,
+        "vwap": 2.160645
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 2.16,
+        "high": 2.16,
+        "low": 2.15,
+        "close": 2.15,
+        "volume": 713.0,
+        "trade_count": 4.0,
+        "vwap": 2.152511
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 2.145,
+        "high": 2.145,
+        "low": 2.14,
+        "close": 2.14,
+        "volume": 1200.0,
+        "trade_count": 3.0,
+        "vwap": 2.142542
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 2.145,
+        "high": 2.1499,
+        "low": 2.1301,
+        "close": 2.1499,
+        "volume": 19808.0,
+        "trade_count": 21.0,
+        "vwap": 2.136577
+    },
+    {
+        "symbol": "IZM",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 2.14,
+        "high": 2.14,
+        "low": 2.14,
+        "close": 2.14,
+        "volume": 500.0,
+        "trade_count": 3.0,
+        "vwap": 2.14
+    }
+]

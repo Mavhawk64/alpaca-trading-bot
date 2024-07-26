@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "NEPH",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 109.0,
+        "trade_count": 4.0,
+        "vwap": 2.213028
+    },
+    {
+        "symbol": "NEPH",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 2.19,
+        "high": 2.2,
+        "low": 2.19,
+        "close": 2.19,
+        "volume": 1000.0,
+        "trade_count": 9.0,
+        "vwap": 2.192
+    },
+    {
+        "symbol": "NEPH",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 2.2,
+        "high": 2.2,
+        "low": 2.2,
+        "close": 2.2,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 2.2
+    },
+    {
+        "symbol": "NEPH",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 2.2415,
+        "high": 2.2415,
+        "low": 2.2,
+        "close": 2.2,
+        "volume": 1700.0,
+        "trade_count": 4.0,
+        "vwap": 2.236618
+    }
+]

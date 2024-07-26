@@ -1,0 +1,167 @@
+[
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T13:28:00+00:00",
+        "open": 1.56,
+        "high": 1.56,
+        "low": 1.56,
+        "close": 1.56,
+        "volume": 128.0,
+        "trade_count": 1.0,
+        "vwap": 1.56
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.42,
+        "high": 1.42,
+        "low": 1.42,
+        "close": 1.42,
+        "volume": 618.0,
+        "trade_count": 12.0,
+        "vwap": 1.420079
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 1.42,
+        "high": 1.44,
+        "low": 1.4152,
+        "close": 1.44,
+        "volume": 689.0,
+        "trade_count": 14.0,
+        "vwap": 1.425707
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 1.48,
+        "high": 1.488,
+        "low": 1.465,
+        "close": 1.48,
+        "volume": 2009.0,
+        "trade_count": 7.0,
+        "vwap": 1.478402
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 1.42,
+        "high": 1.42,
+        "low": 1.42,
+        "close": 1.42,
+        "volume": 168.0,
+        "trade_count": 6.0,
+        "vwap": 1.421964
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 1.4377,
+        "high": 1.4377,
+        "low": 1.4377,
+        "close": 1.4377,
+        "volume": 233.0,
+        "trade_count": 2.0,
+        "vwap": 1.43737
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 1.4383,
+        "high": 1.44,
+        "low": 1.4383,
+        "close": 1.44,
+        "volume": 373.0,
+        "trade_count": 7.0,
+        "vwap": 1.439464
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 1.44,
+        "high": 1.44,
+        "low": 1.44,
+        "close": 1.44,
+        "volume": 183.0,
+        "trade_count": 3.0,
+        "vwap": 1.44
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 1.45,
+        "high": 1.48,
+        "low": 1.45,
+        "close": 1.48,
+        "volume": 1545.0,
+        "trade_count": 11.0,
+        "vwap": 1.470518
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 1.46,
+        "high": 1.46,
+        "low": 1.46,
+        "close": 1.46,
+        "volume": 167.0,
+        "trade_count": 4.0,
+        "vwap": 1.464653
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 1.44,
+        "high": 1.4771,
+        "low": 1.44,
+        "close": 1.46,
+        "volume": 400.0,
+        "trade_count": 3.0,
+        "vwap": 1.46355
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 1.4781,
+        "high": 1.4781,
+        "low": 1.4781,
+        "close": 1.4781,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.4781
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 1.46,
+        "high": 1.46,
+        "low": 1.46,
+        "close": 1.46,
+        "volume": 253.0,
+        "trade_count": 1.0,
+        "vwap": 1.46
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 1.44,
+        "high": 1.44,
+        "low": 1.44,
+        "close": 1.44,
+        "volume": 503.0,
+        "trade_count": 4.0,
+        "vwap": 1.440089
+    },
+    {
+        "symbol": "INBS",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 1.46,
+        "high": 1.46,
+        "low": 1.455,
+        "close": 1.46,
+        "volume": 828.0,
+        "trade_count": 9.0,
+        "vwap": 1.458702
+    }
+]

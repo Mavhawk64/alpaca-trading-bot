@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "FT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 6.9,
+        "high": 6.9,
+        "low": 6.9,
+        "close": 6.9,
+        "volume": 274.0,
+        "trade_count": 2.0,
+        "vwap": 6.900018
+    },
+    {
+        "symbol": "FT",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 6.91,
+        "high": 6.91,
+        "low": 6.91,
+        "close": 6.91,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 6.91
+    },
+    {
+        "symbol": "FT",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 6.92,
+        "high": 6.92,
+        "low": 6.9139,
+        "close": 6.9195,
+        "volume": 4913.0,
+        "trade_count": 9.0,
+        "vwap": 6.91906
+    },
+    {
+        "symbol": "FT",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 6.959,
+        "high": 6.96,
+        "low": 6.95,
+        "close": 6.95,
+        "volume": 4400.0,
+        "trade_count": 6.0,
+        "vwap": 6.951114
+    },
+    {
+        "symbol": "FT",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 6.91,
+        "high": 6.91,
+        "low": 6.91,
+        "close": 6.91,
+        "volume": 107.0,
+        "trade_count": 1.0,
+        "vwap": 6.91
+    },
+    {
+        "symbol": "FT",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 6.95,
+        "high": 6.95,
+        "low": 6.95,
+        "close": 6.95,
+        "volume": 450.0,
+        "trade_count": 1.0,
+        "vwap": 6.95
+    },
+    {
+        "symbol": "FT",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 6.93,
+        "high": 6.93,
+        "low": 6.93,
+        "close": 6.93,
+        "volume": 1200.0,
+        "trade_count": 1.0,
+        "vwap": 6.93
+    },
+    {
+        "symbol": "FT",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 6.93,
+        "high": 6.93,
+        "low": 6.93,
+        "close": 6.93,
+        "volume": 442.0,
+        "trade_count": 4.0,
+        "vwap": 6.92848
+    },
+    {
+        "symbol": "FT",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 6.93,
+        "high": 6.93,
+        "low": 6.93,
+        "close": 6.93,
+        "volume": 1261.0,
+        "trade_count": 2.0,
+        "vwap": 6.930087
+    }
+]

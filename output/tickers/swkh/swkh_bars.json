@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "SWKH",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 17.99,
+        "high": 17.99,
+        "low": 17.99,
+        "close": 17.99,
+        "volume": 436.0,
+        "trade_count": 4.0,
+        "vwap": 17.989954
+    },
+    {
+        "symbol": "SWKH",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 17.92,
+        "high": 17.92,
+        "low": 17.92,
+        "close": 17.92,
+        "volume": 150.0,
+        "trade_count": 1.0,
+        "vwap": 17.92
+    },
+    {
+        "symbol": "SWKH",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 18.055,
+        "high": 18.055,
+        "low": 17.9826,
+        "close": 17.9826,
+        "volume": 450.0,
+        "trade_count": 11.0,
+        "vwap": 17.969444
+    },
+    {
+        "symbol": "SWKH",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 18.06,
+        "high": 18.06,
+        "low": 18.06,
+        "close": 18.06,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 18.06
+    },
+    {
+        "symbol": "SWKH",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 18.0537,
+        "high": 18.0537,
+        "low": 18.0537,
+        "close": 18.0537,
+        "volume": 102.0,
+        "trade_count": 2.0,
+        "vwap": 18.052647
+    },
+    {
+        "symbol": "SWKH",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 18.06,
+        "high": 18.06,
+        "low": 18.06,
+        "close": 18.06,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 18.06
+    },
+    {
+        "symbol": "SWKH",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 18.06,
+        "high": 18.06,
+        "low": 18.06,
+        "close": 18.06,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 18.06
+    },
+    {
+        "symbol": "SWKH",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 17.9,
+        "high": 18.0486,
+        "low": 17.88,
+        "close": 18.0486,
+        "volume": 604.0,
+        "trade_count": 14.0,
+        "vwap": 17.942169
+    },
+    {
+        "symbol": "SWKH",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 18.0022,
+        "high": 18.0022,
+        "low": 18.0022,
+        "close": 18.0022,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 18.0022
+    },
+    {
+        "symbol": "SWKH",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 17.9622,
+        "high": 17.9622,
+        "low": 17.9622,
+        "close": 17.9622,
+        "volume": 200.0,
+        "trade_count": 4.0,
+        "vwap": 17.9166
+    }
+]

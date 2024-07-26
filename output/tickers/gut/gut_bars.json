@@ -1,0 +1,233 @@
+[
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 6.07,
+        "high": 6.07,
+        "low": 6.07,
+        "close": 6.07,
+        "volume": 6883.0,
+        "trade_count": 4.0,
+        "vwap": 6.07
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 6.08,
+        "high": 6.08,
+        "low": 6.07,
+        "close": 6.07,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 6.07824
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 6.08,
+        "high": 6.09,
+        "low": 6.08,
+        "close": 6.09,
+        "volume": 1327.0,
+        "trade_count": 5.0,
+        "vwap": 6.084671
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 6.1,
+        "high": 6.1,
+        "low": 6.1,
+        "close": 6.1,
+        "volume": 2213.0,
+        "trade_count": 7.0,
+        "vwap": 6.1
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 6.105,
+        "high": 6.105,
+        "low": 6.105,
+        "close": 6.105,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 6.105
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 6.1005,
+        "high": 6.1005,
+        "low": 6.1005,
+        "close": 6.1005,
+        "volume": 750.0,
+        "trade_count": 1.0,
+        "vwap": 6.1005
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 6.11,
+        "high": 6.11,
+        "low": 6.11,
+        "close": 6.11,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 6.11
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 6.1,
+        "high": 6.1,
+        "low": 6.1,
+        "close": 6.1,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 6.1
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 6.1099,
+        "high": 6.1099,
+        "low": 6.1099,
+        "close": 6.1099,
+        "volume": 3306.0,
+        "trade_count": 2.0,
+        "vwap": 6.109899
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 6.1041,
+        "high": 6.11,
+        "low": 6.1037,
+        "close": 6.11,
+        "volume": 1563.0,
+        "trade_count": 7.0,
+        "vwap": 6.10496
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 6.1099,
+        "high": 6.1099,
+        "low": 6.1099,
+        "close": 6.1099,
+        "volume": 157.0,
+        "trade_count": 1.0,
+        "vwap": 6.1099
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 6.1087,
+        "high": 6.1087,
+        "low": 6.1087,
+        "close": 6.1087,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.1087
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 6.105,
+        "high": 6.105,
+        "low": 6.105,
+        "close": 6.105,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.105
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 6.105,
+        "high": 6.11,
+        "low": 6.105,
+        "close": 6.11,
+        "volume": 8590.0,
+        "trade_count": 16.0,
+        "vwap": 6.109792
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 6.116,
+        "high": 6.116,
+        "low": 6.116,
+        "close": 6.116,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.116
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 6.1107,
+        "high": 6.1107,
+        "low": 6.1107,
+        "close": 6.1107,
+        "volume": 1046.0,
+        "trade_count": 5.0,
+        "vwap": 6.110748
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 6.115,
+        "high": 6.12,
+        "low": 6.115,
+        "close": 6.115,
+        "volume": 1400.0,
+        "trade_count": 12.0,
+        "vwap": 6.116629
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 6.12,
+        "high": 6.12,
+        "low": 6.12,
+        "close": 6.12,
+        "volume": 5776.0,
+        "trade_count": 10.0,
+        "vwap": 6.12
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 6.1251,
+        "high": 6.1251,
+        "low": 6.1251,
+        "close": 6.1251,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 6.1251
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 6.121,
+        "high": 6.121,
+        "low": 6.121,
+        "close": 6.121,
+        "volume": 270.0,
+        "trade_count": 4.0,
+        "vwap": 6.121056
+    },
+    {
+        "symbol": "GUT",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 6.1207,
+        "high": 6.1207,
+        "low": 6.1207,
+        "close": 6.1207,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 6.1207
+    }
+]

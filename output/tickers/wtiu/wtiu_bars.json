@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 18.54,
+        "high": 18.54,
+        "low": 18.54,
+        "close": 18.54,
+        "volume": 1453.0,
+        "trade_count": 8.0,
+        "vwap": 18.539959
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 18.63,
+        "high": 18.63,
+        "low": 18.63,
+        "close": 18.63,
+        "volume": 633.0,
+        "trade_count": 5.0,
+        "vwap": 18.629131
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 18.4217,
+        "high": 18.4217,
+        "low": 18.4217,
+        "close": 18.4217,
+        "volume": 177.0,
+        "trade_count": 3.0,
+        "vwap": 18.429605
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 18.71,
+        "high": 18.71,
+        "low": 18.7099,
+        "close": 18.7099,
+        "volume": 220.0,
+        "trade_count": 4.0,
+        "vwap": 18.70695
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 18.6286,
+        "high": 18.6286,
+        "low": 18.6286,
+        "close": 18.6286,
+        "volume": 545.0,
+        "trade_count": 2.0,
+        "vwap": 18.628639
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 18.6,
+        "high": 18.61,
+        "low": 18.6,
+        "close": 18.61,
+        "volume": 962.0,
+        "trade_count": 3.0,
+        "vwap": 18.609012
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 18.7,
+        "high": 18.7,
+        "low": 18.7,
+        "close": 18.7,
+        "volume": 152.0,
+        "trade_count": 2.0,
+        "vwap": 18.699934
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 18.7,
+        "high": 18.7,
+        "low": 18.7,
+        "close": 18.7,
+        "volume": 1200.0,
+        "trade_count": 3.0,
+        "vwap": 18.7
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 18.6,
+        "high": 18.6,
+        "low": 18.6,
+        "close": 18.6,
+        "volume": 998.0,
+        "trade_count": 1.0,
+        "vwap": 18.6
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 18.67,
+        "high": 18.67,
+        "low": 18.65,
+        "close": 18.65,
+        "volume": 1375.0,
+        "trade_count": 4.0,
+        "vwap": 18.659985
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 18.57,
+        "high": 18.59,
+        "low": 18.57,
+        "close": 18.59,
+        "volume": 600.0,
+        "trade_count": 3.0,
+        "vwap": 18.58
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 18.63,
+        "high": 18.63,
+        "low": 18.63,
+        "close": 18.63,
+        "volume": 303.0,
+        "trade_count": 2.0,
+        "vwap": 18.629802
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 18.59,
+        "high": 18.59,
+        "low": 18.59,
+        "close": 18.59,
+        "volume": 187.0,
+        "trade_count": 1.0,
+        "vwap": 18.59
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 18.5,
+        "high": 18.5,
+        "low": 18.5,
+        "close": 18.5,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 18.5
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 18.35,
+        "high": 18.35,
+        "low": 18.35,
+        "close": 18.35,
+        "volume": 710.0,
+        "trade_count": 3.0,
+        "vwap": 18.349437
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 18.3,
+        "high": 18.3,
+        "low": 18.3,
+        "close": 18.3,
+        "volume": 203.0,
+        "trade_count": 3.0,
+        "vwap": 18.299852
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 18.4,
+        "high": 18.4,
+        "low": 18.3999,
+        "close": 18.4,
+        "volume": 20490.0,
+        "trade_count": 32.0,
+        "vwap": 18.399997
+    },
+    {
+        "symbol": "WTIU",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 18.4785,
+        "high": 18.4785,
+        "low": 18.4785,
+        "close": 18.4785,
+        "volume": 271.0,
+        "trade_count": 2.0,
+        "vwap": 18.478506
+    }
+]

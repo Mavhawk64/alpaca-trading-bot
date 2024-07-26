@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "CNBS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.64,
+        "high": 4.64,
+        "low": 4.64,
+        "close": 4.64,
+        "volume": 493.0,
+        "trade_count": 4.0,
+        "vwap": 4.640233
+    },
+    {
+        "symbol": "CNBS",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 4.68,
+        "high": 4.68,
+        "low": 4.67,
+        "close": 4.6701,
+        "volume": 3600.0,
+        "trade_count": 14.0,
+        "vwap": 4.671156
+    },
+    {
+        "symbol": "CNBS",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 4.683,
+        "high": 4.683,
+        "low": 4.683,
+        "close": 4.683,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 4.683
+    },
+    {
+        "symbol": "CNBS",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 4.67,
+        "high": 4.67,
+        "low": 4.67,
+        "close": 4.67,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.67
+    },
+    {
+        "symbol": "CNBS",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 4.695,
+        "high": 4.695,
+        "low": 4.695,
+        "close": 4.695,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 4.695
+    },
+    {
+        "symbol": "CNBS",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 4.68,
+        "high": 4.68,
+        "low": 4.68,
+        "close": 4.68,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.68
+    },
+    {
+        "symbol": "CNBS",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 4.67,
+        "high": 4.6701,
+        "low": 4.67,
+        "close": 4.6701,
+        "volume": 800.0,
+        "trade_count": 2.0,
+        "vwap": 4.67005
+    },
+    {
+        "symbol": "CNBS",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 4.65,
+        "high": 4.65,
+        "low": 4.65,
+        "close": 4.65,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.65
+    },
+    {
+        "symbol": "CNBS",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 4.655,
+        "high": 4.655,
+        "low": 4.655,
+        "close": 4.655,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 4.655
+    },
+    {
+        "symbol": "CNBS",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 4.63,
+        "high": 4.63,
+        "low": 4.63,
+        "close": 4.63,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.63
+    }
+]

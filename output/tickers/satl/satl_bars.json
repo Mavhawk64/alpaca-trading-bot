@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "SATL",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 1.13,
+        "high": 1.14,
+        "low": 1.1,
+        "close": 1.1,
+        "volume": 18600.0,
+        "trade_count": 37.0,
+        "vwap": 1.110648
+    },
+    {
+        "symbol": "SATL",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.11,
+        "high": 1.11,
+        "low": 1.1,
+        "close": 1.1,
+        "volume": 1400.0,
+        "trade_count": 3.0,
+        "vwap": 1.101429
+    },
+    {
+        "symbol": "SATL",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 1.155,
+        "high": 1.155,
+        "low": 1.155,
+        "close": 1.155,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 1.155
+    },
+    {
+        "symbol": "SATL",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 1.1007,
+        "high": 1.1007,
+        "low": 1.1007,
+        "close": 1.1007,
+        "volume": 3185.0,
+        "trade_count": 2.0,
+        "vwap": 1.100696
+    }
+]

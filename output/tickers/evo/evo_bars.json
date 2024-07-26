@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "EVO",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.79,
+        "high": 4.79,
+        "low": 4.79,
+        "close": 4.79,
+        "volume": 338.0,
+        "trade_count": 4.0,
+        "vwap": 4.790059
+    },
+    {
+        "symbol": "EVO",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 4.805,
+        "high": 4.805,
+        "low": 4.805,
+        "close": 4.805,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.805
+    },
+    {
+        "symbol": "EVO",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 4.8103,
+        "high": 4.8103,
+        "low": 4.8103,
+        "close": 4.8103,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.8103
+    },
+    {
+        "symbol": "EVO",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 4.82,
+        "high": 4.82,
+        "low": 4.82,
+        "close": 4.82,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 4.8201
+    },
+    {
+        "symbol": "EVO",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 4.82,
+        "high": 4.82,
+        "low": 4.82,
+        "close": 4.82,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 4.82
+    },
+    {
+        "symbol": "EVO",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 4.74,
+        "high": 4.74,
+        "low": 4.74,
+        "close": 4.74,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.74
+    }
+]

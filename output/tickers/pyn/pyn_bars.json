@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "PYN",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 5.96,
+        "high": 5.96,
+        "low": 5.96,
+        "close": 5.96,
+        "volume": 792.0,
+        "trade_count": 5.0,
+        "vwap": 5.96
+    },
+    {
+        "symbol": "PYN",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 5.96,
+        "high": 5.96,
+        "low": 5.96,
+        "close": 5.96,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 5.96
+    }
+]

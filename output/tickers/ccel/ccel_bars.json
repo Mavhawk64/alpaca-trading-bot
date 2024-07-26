@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "CCEL",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 7.53,
+        "high": 7.53,
+        "low": 7.53,
+        "close": 7.53,
+        "volume": 1135.0,
+        "trade_count": 18.0,
+        "vwap": 7.536203
+    },
+    {
+        "symbol": "CCEL",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 7.6,
+        "high": 7.6,
+        "low": 7.6,
+        "close": 7.6,
+        "volume": 231.0,
+        "trade_count": 3.0,
+        "vwap": 7.600693
+    }
+]

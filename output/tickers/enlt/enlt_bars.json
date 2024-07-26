@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "ENLT",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 16.22,
+        "high": 16.22,
+        "low": 16.22,
+        "close": 16.22,
+        "volume": 114.0,
+        "trade_count": 3.0,
+        "vwap": 16.218772
+    },
+    {
+        "symbol": "ENLT",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 16.48,
+        "high": 16.48,
+        "low": 16.48,
+        "close": 16.48,
+        "volume": 170.0,
+        "trade_count": 1.0,
+        "vwap": 16.48
+    },
+    {
+        "symbol": "ENLT",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 16.35,
+        "high": 16.35,
+        "low": 16.35,
+        "close": 16.35,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 16.35
+    }
+]

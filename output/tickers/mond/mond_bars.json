@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.79,
+        "high": 2.79,
+        "low": 2.79,
+        "close": 2.79,
+        "volume": 858.0,
+        "trade_count": 2.0,
+        "vwap": 2.789907
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 2.735,
+        "high": 2.735,
+        "low": 2.735,
+        "close": 2.735,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.735
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 2.74,
+        "high": 2.74,
+        "low": 2.74,
+        "close": 2.74,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.74
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 2.74,
+        "high": 2.74,
+        "low": 2.74,
+        "close": 2.74,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 2.74
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 2.75,
+        "high": 2.76,
+        "low": 2.75,
+        "close": 2.76,
+        "volume": 633.0,
+        "trade_count": 6.0,
+        "vwap": 2.755814
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 2.75,
+        "high": 2.75,
+        "low": 2.75,
+        "close": 2.75,
+        "volume": 17219.0,
+        "trade_count": 15.0,
+        "vwap": 2.75
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 2.75,
+        "high": 2.75,
+        "low": 2.75,
+        "close": 2.75,
+        "volume": 4250.0,
+        "trade_count": 5.0,
+        "vwap": 2.75
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 2.79,
+        "high": 2.79,
+        "low": 2.78,
+        "close": 2.78,
+        "volume": 600.0,
+        "trade_count": 3.0,
+        "vwap": 2.783333
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 2.8,
+        "high": 2.8,
+        "low": 2.8,
+        "close": 2.8,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 2.8
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 2.8,
+        "high": 2.8,
+        "low": 2.8,
+        "close": 2.8,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 2.8
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 2.8,
+        "high": 2.8,
+        "low": 2.8,
+        "close": 2.8,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.8
+    },
+    {
+        "symbol": "MOND",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 2.8,
+        "high": 2.8,
+        "low": 2.8,
+        "close": 2.8,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.8
+    }
+]

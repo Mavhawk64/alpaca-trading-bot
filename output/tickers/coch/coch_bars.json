@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "COCH",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 2.2,
+        "high": 2.2,
+        "low": 2.2,
+        "close": 2.2,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 2.2
+    },
+    {
+        "symbol": "COCH",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 2.25,
+        "high": 2.25,
+        "low": 2.25,
+        "close": 2.25,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 2.25
+    },
+    {
+        "symbol": "COCH",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 2.195,
+        "high": 2.195,
+        "low": 2.195,
+        "close": 2.195,
+        "volume": 290.0,
+        "trade_count": 1.0,
+        "vwap": 2.195
+    },
+    {
+        "symbol": "COCH",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 2.1401,
+        "high": 2.1401,
+        "low": 2.1401,
+        "close": 2.1401,
+        "volume": 800.0,
+        "trade_count": 1.0,
+        "vwap": 2.1401
+    }
+]

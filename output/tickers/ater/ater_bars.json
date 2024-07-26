@@ -1,0 +1,123 @@
+[
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.91,
+        "high": 2.91,
+        "low": 2.91,
+        "close": 2.91,
+        "volume": 557.0,
+        "trade_count": 5.0,
+        "vwap": 2.912702
+    },
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 2.92,
+        "high": 2.92,
+        "low": 2.92,
+        "close": 2.92,
+        "volume": 216.0,
+        "trade_count": 2.0,
+        "vwap": 2.92037
+    },
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 2.98,
+        "high": 2.98,
+        "low": 2.98,
+        "close": 2.98,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.98
+    },
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 2.955,
+        "high": 2.955,
+        "low": 2.955,
+        "close": 2.955,
+        "volume": 537.0,
+        "trade_count": 1.0,
+        "vwap": 2.955
+    },
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 2.97,
+        "high": 2.97,
+        "low": 2.97,
+        "close": 2.97,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.97
+    },
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 2.98,
+        "high": 2.98,
+        "low": 2.98,
+        "close": 2.98,
+        "volume": 232.0,
+        "trade_count": 7.0,
+        "vwap": 2.98569
+    },
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 2.985,
+        "high": 2.985,
+        "low": 2.985,
+        "close": 2.985,
+        "volume": 103.0,
+        "trade_count": 2.0,
+        "vwap": 2.984272
+    },
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 2.975,
+        "high": 2.975,
+        "low": 2.96,
+        "close": 2.96,
+        "volume": 817.0,
+        "trade_count": 6.0,
+        "vwap": 2.965508
+    },
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 2.95,
+        "high": 2.95,
+        "low": 2.95,
+        "close": 2.95,
+        "volume": 500.0,
+        "trade_count": 4.0,
+        "vwap": 2.95
+    },
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 2.95,
+        "high": 2.95,
+        "low": 2.95,
+        "close": 2.95,
+        "volume": 814.0,
+        "trade_count": 1.0,
+        "vwap": 2.95
+    },
+    {
+        "symbol": "ATER",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 2.935,
+        "high": 2.935,
+        "low": 2.935,
+        "close": 2.935,
+        "volume": 251.0,
+        "trade_count": 2.0,
+        "vwap": 2.935
+    }
+]

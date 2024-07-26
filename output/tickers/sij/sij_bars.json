@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "SIJ",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 9.4138,
+        "high": 9.4138,
+        "low": 9.4138,
+        "close": 9.4138,
+        "volume": 121.0,
+        "trade_count": 3.0,
+        "vwap": 9.413471
+    },
+    {
+        "symbol": "SIJ",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 9.37,
+        "high": 9.37,
+        "low": 9.37,
+        "close": 9.37,
+        "volume": 125.0,
+        "trade_count": 1.0,
+        "vwap": 9.37
+    },
+    {
+        "symbol": "SIJ",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 9.33,
+        "high": 9.33,
+        "low": 9.33,
+        "close": 9.33,
+        "volume": 135.0,
+        "trade_count": 1.0,
+        "vwap": 9.33
+    },
+    {
+        "symbol": "SIJ",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 9.38,
+        "high": 9.38,
+        "low": 9.38,
+        "close": 9.38,
+        "volume": 525.0,
+        "trade_count": 1.0,
+        "vwap": 9.38
+    }
+]

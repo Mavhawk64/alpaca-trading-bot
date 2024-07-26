@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "CTCX",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 1.0,
+        "high": 1.0,
+        "low": 1.0,
+        "close": 1.0,
+        "volume": 1603.0,
+        "trade_count": 11.0,
+        "vwap": 1.0
+    },
+    {
+        "symbol": "CTCX",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 1.0,
+        "high": 1.0,
+        "low": 1.0,
+        "close": 1.0,
+        "volume": 397.0,
+        "trade_count": 3.0,
+        "vwap": 1.0
+    },
+    {
+        "symbol": "CTCX",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 1.005,
+        "high": 1.005,
+        "low": 1.005,
+        "close": 1.005,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 1.005
+    },
+    {
+        "symbol": "CTCX",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 1.0043,
+        "high": 1.0043,
+        "low": 1.0043,
+        "close": 1.0043,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 1.0043
+    },
+    {
+        "symbol": "CTCX",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 1.0001,
+        "high": 1.0001,
+        "low": 1.0001,
+        "close": 1.0001,
+        "volume": 123.0,
+        "trade_count": 1.0,
+        "vwap": 1.0001
+    },
+    {
+        "symbol": "CTCX",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 1.0,
+        "high": 1.005,
+        "low": 1.0,
+        "close": 1.0,
+        "volume": 1317.0,
+        "trade_count": 12.0,
+        "vwap": 1.001405
+    },
+    {
+        "symbol": "CTCX",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 1.0,
+        "high": 1.0033,
+        "low": 1.0,
+        "close": 1.0,
+        "volume": 2618.0,
+        "trade_count": 7.0,
+        "vwap": 1.001261
+    }
+]

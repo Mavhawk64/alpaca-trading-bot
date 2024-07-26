@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T13:25:00+00:00",
+        "open": 14.38,
+        "high": 14.38,
+        "low": 14.38,
+        "close": 14.38,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.38
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 14.48,
+        "high": 14.48,
+        "low": 14.48,
+        "close": 14.48,
+        "volume": 105.0,
+        "trade_count": 2.0,
+        "vwap": 14.479905
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 14.451,
+        "high": 14.452,
+        "low": 14.4507,
+        "close": 14.4512,
+        "volume": 3000.0,
+        "trade_count": 5.0,
+        "vwap": 14.451023
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 14.4299,
+        "high": 14.4299,
+        "low": 14.4299,
+        "close": 14.4299,
+        "volume": 420.0,
+        "trade_count": 3.0,
+        "vwap": 14.428952
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 14.445,
+        "high": 14.445,
+        "low": 14.445,
+        "close": 14.445,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 14.445
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 14.4672,
+        "high": 14.4672,
+        "low": 14.4672,
+        "close": 14.4672,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.4672
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 14.39,
+        "high": 14.39,
+        "low": 14.39,
+        "close": 14.39,
+        "volume": 125.0,
+        "trade_count": 1.0,
+        "vwap": 14.39
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 14.4401,
+        "high": 14.4401,
+        "low": 14.4401,
+        "close": 14.4401,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 14.4401
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 14.43,
+        "high": 14.43,
+        "low": 14.43,
+        "close": 14.43,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.43
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 14.46,
+        "high": 14.46,
+        "low": 14.45,
+        "close": 14.45,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 14.455
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 14.44,
+        "high": 14.44,
+        "low": 14.44,
+        "close": 14.44,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.44
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 14.45,
+        "high": 14.45,
+        "low": 14.45,
+        "close": 14.45,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.45
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 14.405,
+        "high": 14.405,
+        "low": 14.405,
+        "close": 14.405,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 14.405
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 14.44,
+        "high": 14.44,
+        "low": 14.44,
+        "close": 14.44,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.44
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 14.42,
+        "high": 14.42,
+        "low": 14.4186,
+        "close": 14.4186,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 14.4193
+    },
+    {
+        "symbol": "AMZD",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 14.42,
+        "high": 14.42,
+        "low": 14.42,
+        "close": 14.42,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.42
+    }
+]

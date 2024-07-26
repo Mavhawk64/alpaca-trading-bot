@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "MAMO",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 4.2,
+        "high": 4.2,
+        "low": 4.2,
+        "close": 4.2,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 4.2
+    },
+    {
+        "symbol": "MAMO",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 4.155,
+        "high": 4.155,
+        "low": 4.155,
+        "close": 4.155,
+        "volume": 237.0,
+        "trade_count": 1.0,
+        "vwap": 4.155
+    },
+    {
+        "symbol": "MAMO",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 4.155,
+        "high": 4.155,
+        "low": 4.155,
+        "close": 4.155,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.155
+    }
+]

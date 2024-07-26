@@ -1,0 +1,156 @@
+[
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 19.51,
+        "high": 19.51,
+        "low": 19.51,
+        "close": 19.51,
+        "volume": 730.0,
+        "trade_count": 1.0,
+        "vwap": 19.51
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 19.5201,
+        "high": 19.5201,
+        "low": 19.5201,
+        "close": 19.5201,
+        "volume": 120.0,
+        "trade_count": 2.0,
+        "vwap": 19.520238
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 19.53,
+        "high": 19.53,
+        "low": 19.53,
+        "close": 19.53,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.53
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 19.5174,
+        "high": 19.5174,
+        "low": 19.5174,
+        "close": 19.5174,
+        "volume": 2690.0,
+        "trade_count": 1.0,
+        "vwap": 19.5174
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 19.53,
+        "high": 19.53,
+        "low": 19.53,
+        "close": 19.53,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.53
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 19.53,
+        "high": 19.53,
+        "low": 19.53,
+        "close": 19.53,
+        "volume": 1800.0,
+        "trade_count": 3.0,
+        "vwap": 19.529972
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 19.5213,
+        "high": 19.5213,
+        "low": 19.5213,
+        "close": 19.5213,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 19.5213
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 19.53,
+        "high": 19.53,
+        "low": 19.53,
+        "close": 19.53,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.53
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 19.525,
+        "high": 19.525,
+        "low": 19.525,
+        "close": 19.525,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.525
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 19.523,
+        "high": 19.523,
+        "low": 19.523,
+        "close": 19.523,
+        "volume": 519.0,
+        "trade_count": 1.0,
+        "vwap": 19.523
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 19.5288,
+        "high": 19.5288,
+        "low": 19.5288,
+        "close": 19.5288,
+        "volume": 159.0,
+        "trade_count": 1.0,
+        "vwap": 19.5288
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 19.5288,
+        "high": 19.5288,
+        "low": 19.5288,
+        "close": 19.5288,
+        "volume": 163.0,
+        "trade_count": 1.0,
+        "vwap": 19.5288
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 19.52,
+        "high": 19.52,
+        "low": 19.52,
+        "close": 19.52,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 19.52
+    },
+    {
+        "symbol": "IBTK",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 19.5199,
+        "high": 19.5199,
+        "low": 19.5144,
+        "close": 19.515,
+        "volume": 2048.0,
+        "trade_count": 14.0,
+        "vwap": 19.516054
+    }
+]

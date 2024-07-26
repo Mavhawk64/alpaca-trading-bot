@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 10.45,
+        "high": 10.45,
+        "low": 10.2,
+        "close": 10.2,
+        "volume": 1377.0,
+        "trade_count": 6.0,
+        "vwap": 10.353217
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 10.44,
+        "high": 10.44,
+        "low": 10.44,
+        "close": 10.44,
+        "volume": 300.0,
+        "trade_count": 4.0,
+        "vwap": 10.4492
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 10.3218,
+        "high": 10.3218,
+        "low": 10.3218,
+        "close": 10.3218,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 10.3218
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 10.3437,
+        "high": 10.415,
+        "low": 10.3437,
+        "close": 10.41,
+        "volume": 792.0,
+        "trade_count": 6.0,
+        "vwap": 10.367438
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 10.3922,
+        "high": 10.425,
+        "low": 10.3922,
+        "close": 10.425,
+        "volume": 248.0,
+        "trade_count": 3.0,
+        "vwap": 10.405426
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 10.47,
+        "high": 10.475,
+        "low": 10.47,
+        "close": 10.47,
+        "volume": 700.0,
+        "trade_count": 11.0,
+        "vwap": 10.4846
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 10.36,
+        "high": 10.36,
+        "low": 10.33,
+        "close": 10.33,
+        "volume": 242.0,
+        "trade_count": 6.0,
+        "vwap": 10.347314
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 10.36,
+        "high": 10.36,
+        "low": 10.36,
+        "close": 10.36,
+        "volume": 344.0,
+        "trade_count": 11.0,
+        "vwap": 10.36
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 10.45,
+        "high": 10.45,
+        "low": 10.45,
+        "close": 10.45,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.45
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 10.34,
+        "high": 10.35,
+        "low": 10.3,
+        "close": 10.35,
+        "volume": 529.0,
+        "trade_count": 11.0,
+        "vwap": 10.326163
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 10.315,
+        "high": 10.315,
+        "low": 10.315,
+        "close": 10.315,
+        "volume": 131.0,
+        "trade_count": 2.0,
+        "vwap": 10.309084
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 10.19,
+        "high": 10.25,
+        "low": 10.19,
+        "close": 10.25,
+        "volume": 486.0,
+        "trade_count": 18.0,
+        "vwap": 10.204897
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 10.26,
+        "high": 10.26,
+        "low": 10.26,
+        "close": 10.26,
+        "volume": 261.0,
+        "trade_count": 9.0,
+        "vwap": 10.252261
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 10.23,
+        "high": 10.23,
+        "low": 10.23,
+        "close": 10.23,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 10.229901
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:48:00+00:00",
+        "open": 10.26,
+        "high": 10.26,
+        "low": 10.26,
+        "close": 10.26,
+        "volume": 436.0,
+        "trade_count": 10.0,
+        "vwap": 10.256881
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 10.2,
+        "high": 10.2,
+        "low": 10.17,
+        "close": 10.17,
+        "volume": 382.0,
+        "trade_count": 9.0,
+        "vwap": 10.202801
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 10.15,
+        "high": 10.15,
+        "low": 10.15,
+        "close": 10.15,
+        "volume": 545.0,
+        "trade_count": 1.0,
+        "vwap": 10.15
+    },
+    {
+        "symbol": "RCEL",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 10.16,
+        "high": 10.16,
+        "low": 10.16,
+        "close": 10.16,
+        "volume": 458.0,
+        "trade_count": 12.0,
+        "vwap": 10.171092
+    }
+]

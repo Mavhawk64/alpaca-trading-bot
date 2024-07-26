@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "HOFV",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 2.891,
+        "high": 2.891,
+        "low": 2.891,
+        "close": 2.891,
+        "volume": 237.0,
+        "trade_count": 1.0,
+        "vwap": 2.891
+    },
+    {
+        "symbol": "HOFV",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 2.8901,
+        "high": 2.8901,
+        "low": 2.8901,
+        "close": 2.8901,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 2.8901
+    },
+    {
+        "symbol": "HOFV",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 2.8901,
+        "high": 2.9599,
+        "low": 2.8901,
+        "close": 2.9599,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 2.913367
+    },
+    {
+        "symbol": "HOFV",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 2.9495,
+        "high": 2.9495,
+        "low": 2.9495,
+        "close": 2.9495,
+        "volume": 157.0,
+        "trade_count": 3.0,
+        "vwap": 2.951752
+    }
+]

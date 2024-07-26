@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "CREG",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 1.0,
+        "high": 1.0,
+        "low": 1.0,
+        "close": 1.0,
+        "volume": 1193.0,
+        "trade_count": 1.0,
+        "vwap": 1.0
+    },
+    {
+        "symbol": "CREG",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 1.01,
+        "high": 1.01,
+        "low": 1.01,
+        "close": 1.01,
+        "volume": 802.0,
+        "trade_count": 2.0,
+        "vwap": 1.009975
+    },
+    {
+        "symbol": "CREG",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 1.0,
+        "high": 1.0,
+        "low": 1.0,
+        "close": 1.0,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.0
+    },
+    {
+        "symbol": "CREG",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 1.0014,
+        "high": 1.0014,
+        "low": 1.0014,
+        "close": 1.0014,
+        "volume": 103.0,
+        "trade_count": 1.0,
+        "vwap": 1.0014
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "ELVA",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 2.55,
+        "high": 2.55,
+        "low": 2.55,
+        "close": 2.55,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.55
+    },
+    {
+        "symbol": "ELVA",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 2.55,
+        "high": 2.55,
+        "low": 2.5496,
+        "close": 2.55,
+        "volume": 1000.0,
+        "trade_count": 6.0,
+        "vwap": 2.54996
+    }
+]

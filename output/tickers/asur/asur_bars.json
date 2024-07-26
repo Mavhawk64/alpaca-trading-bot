@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "ASUR",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 10.17,
+        "high": 10.17,
+        "low": 10.17,
+        "close": 10.17,
+        "volume": 656.0,
+        "trade_count": 4.0,
+        "vwap": 10.160446
+    },
+    {
+        "symbol": "ASUR",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 10.17,
+        "high": 10.17,
+        "low": 10.17,
+        "close": 10.17,
+        "volume": 173.0,
+        "trade_count": 3.0,
+        "vwap": 10.14948
+    },
+    {
+        "symbol": "ASUR",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 10.202,
+        "high": 10.202,
+        "low": 10.202,
+        "close": 10.202,
+        "volume": 248.0,
+        "trade_count": 3.0,
+        "vwap": 10.194274
+    },
+    {
+        "symbol": "ASUR",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 10.15,
+        "high": 10.15,
+        "low": 10.135,
+        "close": 10.135,
+        "volume": 301.0,
+        "trade_count": 6.0,
+        "vwap": 10.144755
+    },
+    {
+        "symbol": "ASUR",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 10.135,
+        "high": 10.135,
+        "low": 10.125,
+        "close": 10.125,
+        "volume": 344.0,
+        "trade_count": 9.0,
+        "vwap": 10.127573
+    },
+    {
+        "symbol": "ASUR",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 10.12,
+        "high": 10.12,
+        "low": 10.12,
+        "close": 10.12,
+        "volume": 102.0,
+        "trade_count": 2.0,
+        "vwap": 10.119608
+    },
+    {
+        "symbol": "ASUR",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 10.12,
+        "high": 10.12,
+        "low": 10.12,
+        "close": 10.12,
+        "volume": 103.0,
+        "trade_count": 2.0,
+        "vwap": 10.119417
+    },
+    {
+        "symbol": "ASUR",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 10.135,
+        "high": 10.135,
+        "low": 10.135,
+        "close": 10.135,
+        "volume": 107.0,
+        "trade_count": 2.0,
+        "vwap": 10.13271
+    },
+    {
+        "symbol": "ASUR",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 10.135,
+        "high": 10.135,
+        "low": 10.135,
+        "close": 10.135,
+        "volume": 107.0,
+        "trade_count": 2.0,
+        "vwap": 10.13271
+    },
+    {
+        "symbol": "ASUR",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 10.135,
+        "high": 10.135,
+        "low": 10.135,
+        "close": 10.135,
+        "volume": 199.0,
+        "trade_count": 4.0,
+        "vwap": 10.133819
+    }
+]

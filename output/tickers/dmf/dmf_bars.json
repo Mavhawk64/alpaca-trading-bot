@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "DMF",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 7.17,
+        "high": 7.17,
+        "low": 7.17,
+        "close": 7.17,
+        "volume": 638.0,
+        "trade_count": 2.0,
+        "vwap": 7.17
+    },
+    {
+        "symbol": "DMF",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 7.17,
+        "high": 7.17,
+        "low": 7.17,
+        "close": 7.17,
+        "volume": 702.0,
+        "trade_count": 1.0,
+        "vwap": 7.17
+    },
+    {
+        "symbol": "DMF",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 7.17,
+        "high": 7.17,
+        "low": 7.17,
+        "close": 7.17,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 7.17
+    },
+    {
+        "symbol": "DMF",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 7.1729,
+        "high": 7.1729,
+        "low": 7.1729,
+        "close": 7.1729,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 7.1729
+    },
+    {
+        "symbol": "DMF",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 7.175,
+        "high": 7.175,
+        "low": 7.175,
+        "close": 7.175,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 7.175
+    },
+    {
+        "symbol": "DMF",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 7.19,
+        "high": 7.2,
+        "low": 7.19,
+        "close": 7.2,
+        "volume": 2839.0,
+        "trade_count": 9.0,
+        "vwap": 7.198239
+    },
+    {
+        "symbol": "DMF",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 7.22,
+        "high": 7.22,
+        "low": 7.22,
+        "close": 7.22,
+        "volume": 1300.0,
+        "trade_count": 1.0,
+        "vwap": 7.22
+    },
+    {
+        "symbol": "DMF",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 7.205,
+        "high": 7.22,
+        "low": 7.205,
+        "close": 7.22,
+        "volume": 5444.0,
+        "trade_count": 15.0,
+        "vwap": 7.214042
+    },
+    {
+        "symbol": "DMF",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 7.235,
+        "high": 7.235,
+        "low": 7.235,
+        "close": 7.235,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 7.235
+    },
+    {
+        "symbol": "DMF",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 7.211,
+        "high": 7.211,
+        "low": 7.211,
+        "close": 7.211,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.211
+    }
+]

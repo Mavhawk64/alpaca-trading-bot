@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "FSI",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 2.0632,
+        "high": 2.0632,
+        "low": 2.0632,
+        "close": 2.0632,
+        "volume": 1020.0,
+        "trade_count": 2.0,
+        "vwap": 2.062745
+    },
+    {
+        "symbol": "FSI",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 2.05,
+        "high": 2.05,
+        "low": 2.05,
+        "close": 2.05,
+        "volume": 445.0,
+        "trade_count": 1.0,
+        "vwap": 2.05
+    },
+    {
+        "symbol": "FSI",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 2.04,
+        "high": 2.04,
+        "low": 2.04,
+        "close": 2.04,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.04
+    },
+    {
+        "symbol": "FSI",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 2.04,
+        "high": 2.04,
+        "low": 2.04,
+        "close": 2.04,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.04
+    },
+    {
+        "symbol": "FSI",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 2.04,
+        "high": 2.04,
+        "low": 2.04,
+        "close": 2.04,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.04
+    }
+]

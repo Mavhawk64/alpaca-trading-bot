@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 12.2,
+        "high": 12.2,
+        "low": 12.16,
+        "close": 12.16,
+        "volume": 2191.0,
+        "trade_count": 5.0,
+        "vwap": 12.198202
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 12.1099,
+        "high": 12.1099,
+        "low": 12.1099,
+        "close": 12.1099,
+        "volume": 825.0,
+        "trade_count": 1.0,
+        "vwap": 12.1099
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 12.15,
+        "high": 12.17,
+        "low": 12.131,
+        "close": 12.131,
+        "volume": 1026.0,
+        "trade_count": 8.0,
+        "vwap": 12.155224
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 12.17,
+        "high": 12.17,
+        "low": 12.17,
+        "close": 12.17,
+        "volume": 333.0,
+        "trade_count": 6.0,
+        "vwap": 12.165749
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 12.1422,
+        "high": 12.18,
+        "low": 12.1422,
+        "close": 12.145,
+        "volume": 1327.0,
+        "trade_count": 12.0,
+        "vwap": 12.170989
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 12.17,
+        "high": 12.17,
+        "low": 12.1298,
+        "close": 12.1298,
+        "volume": 234.0,
+        "trade_count": 2.0,
+        "vwap": 12.1499
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 12.1157,
+        "high": 12.1157,
+        "low": 12.115,
+        "close": 12.115,
+        "volume": 925.0,
+        "trade_count": 2.0,
+        "vwap": 12.115624
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 12.15,
+        "high": 12.15,
+        "low": 12.1235,
+        "close": 12.15,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 12.141167
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 12.125,
+        "high": 12.125,
+        "low": 12.125,
+        "close": 12.125,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 12.125
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 12.12,
+        "high": 12.12,
+        "low": 12.12,
+        "close": 12.12,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 12.12
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 12.15,
+        "high": 12.15,
+        "low": 12.15,
+        "close": 12.15,
+        "volume": 301.0,
+        "trade_count": 3.0,
+        "vwap": 12.150066
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 12.15,
+        "high": 12.15,
+        "low": 12.14,
+        "close": 12.14,
+        "volume": 618.0,
+        "trade_count": 4.0,
+        "vwap": 12.148382
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 12.17,
+        "high": 12.17,
+        "low": 12.15,
+        "close": 12.15,
+        "volume": 1272.0,
+        "trade_count": 6.0,
+        "vwap": 12.168428
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 12.1566,
+        "high": 12.1566,
+        "low": 12.14,
+        "close": 12.14,
+        "volume": 1100.0,
+        "trade_count": 2.0,
+        "vwap": 12.155091
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 12.17,
+        "high": 12.17,
+        "low": 12.17,
+        "close": 12.17,
+        "volume": 253.0,
+        "trade_count": 4.0,
+        "vwap": 12.17
+    },
+    {
+        "symbol": "RFI",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 12.14,
+        "high": 12.15,
+        "low": 12.14,
+        "close": 12.15,
+        "volume": 295.0,
+        "trade_count": 5.0,
+        "vwap": 12.14339
+    }
+]

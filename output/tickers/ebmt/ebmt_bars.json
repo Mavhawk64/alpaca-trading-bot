@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "EBMT",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 14.44,
+        "high": 14.44,
+        "low": 14.44,
+        "close": 14.44,
+        "volume": 104.0,
+        "trade_count": 4.0,
+        "vwap": 14.442404
+    },
+    {
+        "symbol": "EBMT",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 14.71,
+        "high": 14.71,
+        "low": 14.71,
+        "close": 14.71,
+        "volume": 390.0,
+        "trade_count": 7.0,
+        "vwap": 14.676462
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 4.0,
+        "high": 4.0,
+        "low": 4.0,
+        "close": 4.0,
+        "volume": 872.0,
+        "trade_count": 11.0,
+        "vwap": 4.004954
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 4.0,
+        "high": 4.0,
+        "low": 4.0,
+        "close": 4.0,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 4.0
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 4.0,
+        "high": 4.0214,
+        "low": 4.0,
+        "close": 4.0214,
+        "volume": 1164.0,
+        "trade_count": 13.0,
+        "vwap": 4.022457
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 4.035,
+        "high": 4.16,
+        "low": 3.94,
+        "close": 4.045,
+        "volume": 8189.0,
+        "trade_count": 55.0,
+        "vwap": 4.082646
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 3.93,
+        "high": 4.01,
+        "low": 3.93,
+        "close": 3.9896,
+        "volume": 2276.0,
+        "trade_count": 12.0,
+        "vwap": 3.951185
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 3.95,
+        "high": 3.95,
+        "low": 3.93,
+        "close": 3.93,
+        "volume": 2619.0,
+        "trade_count": 5.0,
+        "vwap": 3.930764
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 3.9018,
+        "high": 3.9018,
+        "low": 3.9,
+        "close": 3.9,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 3.9009
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 3.9899,
+        "high": 3.9899,
+        "low": 3.9899,
+        "close": 3.9899,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 3.9899
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 3.955,
+        "high": 3.955,
+        "low": 3.955,
+        "close": 3.955,
+        "volume": 178.0,
+        "trade_count": 1.0,
+        "vwap": 3.955
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 3.946,
+        "high": 3.946,
+        "low": 3.946,
+        "close": 3.946,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 3.946
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 3.955,
+        "high": 3.9934,
+        "low": 3.95,
+        "close": 3.95,
+        "volume": 1200.0,
+        "trade_count": 4.0,
+        "vwap": 3.966133
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 4.0,
+        "high": 4.0,
+        "low": 3.89,
+        "close": 3.89,
+        "volume": 1005.0,
+        "trade_count": 4.0,
+        "vwap": 3.920846
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 3.85,
+        "high": 3.896,
+        "low": 3.72,
+        "close": 3.896,
+        "volume": 3160.0,
+        "trade_count": 25.0,
+        "vwap": 3.860731
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 3.814,
+        "high": 3.814,
+        "low": 3.814,
+        "close": 3.814,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.814
+    },
+    {
+        "symbol": "ALZN",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 3.8,
+        "high": 3.8,
+        "low": 3.8,
+        "close": 3.8,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 3.8
+    }
+]

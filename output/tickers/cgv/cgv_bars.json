@@ -1,0 +1,13 @@
+[
+    {
+        "symbol": "CGV",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 13.03,
+        "high": 13.03,
+        "low": 13.03,
+        "close": 13.03,
+        "volume": 190.0,
+        "trade_count": 1.0,
+        "vwap": 13.03
+    }
+]

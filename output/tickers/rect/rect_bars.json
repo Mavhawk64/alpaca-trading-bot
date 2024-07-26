@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "RECT",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 3.24,
+        "high": 3.24,
+        "low": 3.24,
+        "close": 3.24,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.24
+    },
+    {
+        "symbol": "RECT",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 3.2786,
+        "high": 3.2786,
+        "low": 3.25,
+        "close": 3.25,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 3.2643
+    },
+    {
+        "symbol": "RECT",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 3.29,
+        "high": 3.29,
+        "low": 3.29,
+        "close": 3.29,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.29
+    },
+    {
+        "symbol": "RECT",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 3.25,
+        "high": 3.25,
+        "low": 3.25,
+        "close": 3.25,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.25
+    },
+    {
+        "symbol": "RECT",
+        "timestamp": "2024-07-26T14:48:00+00:00",
+        "open": 3.25,
+        "high": 3.25,
+        "low": 3.25,
+        "close": 3.25,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.25
+    },
+    {
+        "symbol": "RECT",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 3.25,
+        "high": 3.25,
+        "low": 3.25,
+        "close": 3.25,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 3.25
+    },
+    {
+        "symbol": "RECT",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 3.25,
+        "high": 3.25,
+        "low": 3.25,
+        "close": 3.25,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 3.25
+    },
+    {
+        "symbol": "RECT",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 3.25,
+        "high": 3.25,
+        "low": 3.25,
+        "close": 3.25,
+        "volume": 1228.0,
+        "trade_count": 1.0,
+        "vwap": 3.25
+    },
+    {
+        "symbol": "RECT",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 3.25,
+        "high": 3.25,
+        "low": 3.25,
+        "close": 3.25,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.25
+    },
+    {
+        "symbol": "RECT",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 3.2797,
+        "high": 3.2797,
+        "low": 3.2797,
+        "close": 3.2797,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.2797
+    }
+]

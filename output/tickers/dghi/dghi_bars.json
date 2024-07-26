@@ -1,0 +1,156 @@
+[
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 1.3601,
+        "high": 1.39,
+        "low": 1.3601,
+        "close": 1.39,
+        "volume": 2366.0,
+        "trade_count": 4.0,
+        "vwap": 1.368946
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 1.39,
+        "high": 1.39,
+        "low": 1.39,
+        "close": 1.39,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.39
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.38,
+        "high": 1.38,
+        "low": 1.38,
+        "close": 1.38,
+        "volume": 181.0,
+        "trade_count": 2.0,
+        "vwap": 1.380055
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 1.36,
+        "high": 1.36,
+        "low": 1.36,
+        "close": 1.36,
+        "volume": 132.0,
+        "trade_count": 2.0,
+        "vwap": 1.360024
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 1.3898,
+        "high": 1.3898,
+        "low": 1.3898,
+        "close": 1.3898,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.3898
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 1.39,
+        "high": 1.42,
+        "low": 1.39,
+        "close": 1.42,
+        "volume": 1094.0,
+        "trade_count": 8.0,
+        "vwap": 1.393583
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 1.4016,
+        "high": 1.4016,
+        "low": 1.4016,
+        "close": 1.4016,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 1.4016
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 1.42,
+        "high": 1.42,
+        "low": 1.42,
+        "close": 1.42,
+        "volume": 400.0,
+        "trade_count": 7.0,
+        "vwap": 1.42
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 1.4,
+        "high": 1.4,
+        "low": 1.4,
+        "close": 1.4,
+        "volume": 934.0,
+        "trade_count": 4.0,
+        "vwap": 1.4
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 1.3801,
+        "high": 1.3801,
+        "low": 1.3801,
+        "close": 1.3801,
+        "volume": 177.0,
+        "trade_count": 3.0,
+        "vwap": 1.380324
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 1.389,
+        "high": 1.39,
+        "low": 1.38,
+        "close": 1.38,
+        "volume": 5213.0,
+        "trade_count": 23.0,
+        "vwap": 1.385622
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 1.3811,
+        "high": 1.3811,
+        "low": 1.3811,
+        "close": 1.3811,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 1.3811
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 1.4,
+        "high": 1.4,
+        "low": 1.4,
+        "close": 1.4,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.4
+    },
+    {
+        "symbol": "DGHI",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 1.4,
+        "high": 1.4,
+        "low": 1.4,
+        "close": 1.4,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.4
+    }
+]

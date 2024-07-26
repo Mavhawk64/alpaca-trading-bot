@@ -1,0 +1,167 @@
+[
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T13:29:00+00:00",
+        "open": 2.5,
+        "high": 2.5,
+        "low": 2.5,
+        "close": 2.5,
+        "volume": 232.0,
+        "trade_count": 18.0,
+        "vwap": 2.496552
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.53,
+        "high": 2.53,
+        "low": 2.475,
+        "close": 2.5,
+        "volume": 2601.0,
+        "trade_count": 18.0,
+        "vwap": 2.524302
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 2.47,
+        "high": 2.47,
+        "low": 2.47,
+        "close": 2.47,
+        "volume": 253.0,
+        "trade_count": 2.0,
+        "vwap": 2.47035
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 2.47,
+        "high": 2.47,
+        "low": 2.47,
+        "close": 2.47,
+        "volume": 379.0,
+        "trade_count": 5.0,
+        "vwap": 2.47
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 2.475,
+        "high": 2.475,
+        "low": 2.475,
+        "close": 2.475,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.475
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 2.46,
+        "high": 2.46,
+        "low": 2.46,
+        "close": 2.46,
+        "volume": 110.0,
+        "trade_count": 1.0,
+        "vwap": 2.46
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 2.475,
+        "high": 2.475,
+        "low": 2.475,
+        "close": 2.475,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 2.475
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 2.4889,
+        "high": 2.4889,
+        "low": 2.4889,
+        "close": 2.4889,
+        "volume": 401.0,
+        "trade_count": 2.0,
+        "vwap": 2.488865
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 2.49,
+        "high": 2.49,
+        "low": 2.49,
+        "close": 2.49,
+        "volume": 134.0,
+        "trade_count": 3.0,
+        "vwap": 2.48653
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 2.48,
+        "high": 2.48,
+        "low": 2.48,
+        "close": 2.48,
+        "volume": 1003.0,
+        "trade_count": 8.0,
+        "vwap": 2.479771
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 2.4759,
+        "high": 2.4759,
+        "low": 2.4759,
+        "close": 2.4759,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.4759
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 2.49,
+        "high": 2.49,
+        "low": 2.49,
+        "close": 2.49,
+        "volume": 102.0,
+        "trade_count": 2.0,
+        "vwap": 2.489608
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 2.45,
+        "high": 2.45,
+        "low": 2.42,
+        "close": 2.42,
+        "volume": 1104.0,
+        "trade_count": 17.0,
+        "vwap": 2.433225
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 2.47,
+        "high": 2.47,
+        "low": 2.47,
+        "close": 2.47,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.47
+    },
+    {
+        "symbol": "XELA",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 2.47,
+        "high": 2.49,
+        "low": 2.47,
+        "close": 2.49,
+        "volume": 6172.0,
+        "trade_count": 20.0,
+        "vwap": 2.488815
+    }
+]

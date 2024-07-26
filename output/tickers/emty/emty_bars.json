@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "EMTY",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 13.7799,
+        "high": 13.7799,
+        "low": 13.7799,
+        "close": 13.7799,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 13.7799
+    },
+    {
+        "symbol": "EMTY",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 13.7715,
+        "high": 13.7715,
+        "low": 13.7715,
+        "close": 13.7715,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 13.7715
+    },
+    {
+        "symbol": "EMTY",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 13.74,
+        "high": 13.7401,
+        "low": 13.71,
+        "close": 13.71,
+        "volume": 1360.0,
+        "trade_count": 13.0,
+        "vwap": 13.720331
+    },
+    {
+        "symbol": "EMTY",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 13.76,
+        "high": 13.7601,
+        "low": 13.76,
+        "close": 13.7601,
+        "volume": 278.0,
+        "trade_count": 3.0,
+        "vwap": 13.760036
+    },
+    {
+        "symbol": "EMTY",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 13.7701,
+        "high": 13.7701,
+        "low": 13.7701,
+        "close": 13.7701,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 13.7701
+    }
+]

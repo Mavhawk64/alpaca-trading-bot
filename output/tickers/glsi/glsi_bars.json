@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 16.8,
+        "high": 16.8,
+        "low": 16.8,
+        "close": 16.8,
+        "volume": 376.0,
+        "trade_count": 4.0,
+        "vwap": 16.765066
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 16.7253,
+        "high": 16.7253,
+        "low": 16.7246,
+        "close": 16.7246,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 16.72495
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 16.77,
+        "high": 16.8,
+        "low": 16.7485,
+        "close": 16.7485,
+        "volume": 1341.0,
+        "trade_count": 24.0,
+        "vwap": 16.76965
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 16.925,
+        "high": 16.925,
+        "low": 16.925,
+        "close": 16.925,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 16.925
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 16.85,
+        "high": 16.85,
+        "low": 16.85,
+        "close": 16.85,
+        "volume": 289.0,
+        "trade_count": 12.0,
+        "vwap": 16.872716
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 16.6884,
+        "high": 16.6884,
+        "low": 16.6884,
+        "close": 16.6884,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.6884
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 16.67,
+        "high": 16.67,
+        "low": 16.67,
+        "close": 16.67,
+        "volume": 376.0,
+        "trade_count": 10.0,
+        "vwap": 16.645798
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 16.525,
+        "high": 16.525,
+        "low": 16.5,
+        "close": 16.5,
+        "volume": 405.0,
+        "trade_count": 5.0,
+        "vwap": 16.51734
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 16.38,
+        "high": 16.38,
+        "low": 16.2,
+        "close": 16.2,
+        "volume": 1511.0,
+        "trade_count": 14.0,
+        "vwap": 16.249649
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 16.235,
+        "high": 16.235,
+        "low": 16.21,
+        "close": 16.23,
+        "volume": 450.0,
+        "trade_count": 5.0,
+        "vwap": 16.223333
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 16.21,
+        "high": 16.45,
+        "low": 16.2,
+        "close": 16.45,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 16.286667
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 16.2,
+        "high": 16.2,
+        "low": 16.2,
+        "close": 16.2,
+        "volume": 160.0,
+        "trade_count": 2.0,
+        "vwap": 16.20375
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 16.2,
+        "high": 16.2,
+        "low": 16.2,
+        "close": 16.2,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.2
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 16.21,
+        "high": 16.21,
+        "low": 16.2,
+        "close": 16.2,
+        "volume": 433.0,
+        "trade_count": 3.0,
+        "vwap": 16.202309
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 16.69,
+        "high": 16.69,
+        "low": 16.2,
+        "close": 16.2,
+        "volume": 1185.0,
+        "trade_count": 10.0,
+        "vwap": 16.439873
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 16.2,
+        "high": 16.2,
+        "low": 16.2,
+        "close": 16.2,
+        "volume": 346.0,
+        "trade_count": 2.0,
+        "vwap": 16.259827
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 16.1901,
+        "high": 16.1901,
+        "low": 16.1901,
+        "close": 16.1901,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.1901
+    },
+    {
+        "symbol": "GLSI",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 16.21,
+        "high": 16.21,
+        "low": 16.21,
+        "close": 16.21,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 16.21
+    }
+]

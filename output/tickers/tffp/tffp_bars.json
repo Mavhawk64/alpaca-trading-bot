@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "TFFP",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 1.79,
+        "high": 1.8,
+        "low": 1.79,
+        "close": 1.7984,
+        "volume": 1000.0,
+        "trade_count": 5.0,
+        "vwap": 1.79612
+    },
+    {
+        "symbol": "TFFP",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 1.7847,
+        "high": 1.7847,
+        "low": 1.7847,
+        "close": 1.7847,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 1.7847
+    },
+    {
+        "symbol": "TFFP",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 1.82,
+        "high": 1.86,
+        "low": 1.82,
+        "close": 1.84,
+        "volume": 1000.0,
+        "trade_count": 7.0,
+        "vwap": 1.843
+    },
+    {
+        "symbol": "TFFP",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 1.845,
+        "high": 1.845,
+        "low": 1.845,
+        "close": 1.845,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 1.845
+    },
+    {
+        "symbol": "TFFP",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 1.82,
+        "high": 1.84,
+        "low": 1.82,
+        "close": 1.84,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.83
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "SDD",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 15.51,
+        "high": 15.51,
+        "low": 15.51,
+        "close": 15.51,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 15.51
+    },
+    {
+        "symbol": "SDD",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 15.5,
+        "high": 15.5,
+        "low": 15.5,
+        "close": 15.5,
+        "volume": 2700.0,
+        "trade_count": 1.0,
+        "vwap": 15.5
+    },
+    {
+        "symbol": "SDD",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 15.545,
+        "high": 15.545,
+        "low": 15.545,
+        "close": 15.545,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 15.545
+    },
+    {
+        "symbol": "SDD",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 15.72,
+        "high": 15.72,
+        "low": 15.72,
+        "close": 15.72,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.72
+    }
+]

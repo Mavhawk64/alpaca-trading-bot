@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "LNSR",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 5.38,
+        "high": 5.38,
+        "low": 5.29,
+        "close": 5.36,
+        "volume": 2101.0,
+        "trade_count": 8.0,
+        "vwap": 5.361242
+    },
+    {
+        "symbol": "LNSR",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 5.31,
+        "high": 5.31,
+        "low": 5.31,
+        "close": 5.31,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 5.31
+    },
+    {
+        "symbol": "LNSR",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 5.295,
+        "high": 5.295,
+        "low": 5.22,
+        "close": 5.23,
+        "volume": 3823.0,
+        "trade_count": 19.0,
+        "vwap": 5.233216
+    },
+    {
+        "symbol": "LNSR",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 5.0844,
+        "high": 5.0844,
+        "low": 5.0844,
+        "close": 5.0844,
+        "volume": 2001.0,
+        "trade_count": 2.0,
+        "vwap": 5.08447
+    },
+    {
+        "symbol": "LNSR",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 5.27,
+        "high": 5.27,
+        "low": 5.25,
+        "close": 5.25,
+        "volume": 710.0,
+        "trade_count": 6.0,
+        "vwap": 5.25507
+    }
+]

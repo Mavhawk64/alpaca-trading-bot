@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "GLAC",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 10.32,
+        "high": 10.32,
+        "low": 10.32,
+        "close": 10.32,
+        "volume": 613.0,
+        "trade_count": 1.0,
+        "vwap": 10.32
+    },
+    {
+        "symbol": "GLAC",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 10.3204,
+        "high": 10.3204,
+        "low": 10.32,
+        "close": 10.32,
+        "volume": 613.0,
+        "trade_count": 3.0,
+        "vwap": 10.320204
+    },
+    {
+        "symbol": "GLAC",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 10.321,
+        "high": 10.321,
+        "low": 10.32,
+        "close": 10.3201,
+        "volume": 1657.0,
+        "trade_count": 6.0,
+        "vwap": 10.321679
+    }
+]

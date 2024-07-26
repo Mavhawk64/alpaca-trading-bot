@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "GOCO",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 14.02,
+        "high": 14.02,
+        "low": 14.02,
+        "close": 14.02,
+        "volume": 346.0,
+        "trade_count": 2.0,
+        "vwap": 14.019697
+    },
+    {
+        "symbol": "GOCO",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 13.99,
+        "high": 13.99,
+        "low": 13.99,
+        "close": 13.99,
+        "volume": 358.0,
+        "trade_count": 4.0,
+        "vwap": 13.99
+    }
+]

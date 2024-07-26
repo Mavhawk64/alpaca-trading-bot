@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "DHF",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.48,
+        "high": 2.48,
+        "low": 2.4701,
+        "close": 2.4701,
+        "volume": 10490.0,
+        "trade_count": 3.0,
+        "vwap": 2.479352
+    },
+    {
+        "symbol": "DHF",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 2.4737,
+        "high": 2.4737,
+        "low": 2.4737,
+        "close": 2.4737,
+        "volume": 872.0,
+        "trade_count": 2.0,
+        "vwap": 2.473737
+    },
+    {
+        "symbol": "DHF",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 2.475,
+        "high": 2.475,
+        "low": 2.475,
+        "close": 2.475,
+        "volume": 4065.0,
+        "trade_count": 1.0,
+        "vwap": 2.475
+    },
+    {
+        "symbol": "DHF",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 2.475,
+        "high": 2.475,
+        "low": 2.475,
+        "close": 2.475,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.475
+    },
+    {
+        "symbol": "DHF",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 2.474,
+        "high": 2.474,
+        "low": 2.474,
+        "close": 2.474,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.474
+    },
+    {
+        "symbol": "DHF",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 2.48,
+        "high": 2.48,
+        "low": 2.48,
+        "close": 2.48,
+        "volume": 500.0,
+        "trade_count": 2.0,
+        "vwap": 2.48
+    },
+    {
+        "symbol": "DHF",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 2.48,
+        "high": 2.48,
+        "low": 2.48,
+        "close": 2.48,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 2.48
+    },
+    {
+        "symbol": "DHF",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 2.48,
+        "high": 2.49,
+        "low": 2.475,
+        "close": 2.485,
+        "volume": 21188.0,
+        "trade_count": 104.0,
+        "vwap": 2.480506
+    },
+    {
+        "symbol": "DHF",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 2.485,
+        "high": 2.485,
+        "low": 2.485,
+        "close": 2.485,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 2.485
+    },
+    {
+        "symbol": "DHF",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 2.48,
+        "high": 2.48,
+        "low": 2.48,
+        "close": 2.48,
+        "volume": 1400.0,
+        "trade_count": 4.0,
+        "vwap": 2.48
+    }
+]

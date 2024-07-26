@@ -1,0 +1,189 @@
+[
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 10.78,
+        "high": 10.78,
+        "low": 10.78,
+        "close": 10.78,
+        "volume": 1030.0,
+        "trade_count": 4.0,
+        "vwap": 10.780087
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 10.801,
+        "high": 10.801,
+        "low": 10.8,
+        "close": 10.8001,
+        "volume": 405.0,
+        "trade_count": 5.0,
+        "vwap": 10.800765
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 10.82,
+        "high": 10.82,
+        "low": 10.815,
+        "close": 10.815,
+        "volume": 404.0,
+        "trade_count": 3.0,
+        "vwap": 10.816188
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 10.8,
+        "high": 10.8,
+        "low": 10.8,
+        "close": 10.8,
+        "volume": 157.0,
+        "trade_count": 1.0,
+        "vwap": 10.8
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 10.8,
+        "high": 10.8,
+        "low": 10.781,
+        "close": 10.781,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 10.793667
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 10.7998,
+        "high": 10.7998,
+        "low": 10.7998,
+        "close": 10.7998,
+        "volume": 172.0,
+        "trade_count": 4.0,
+        "vwap": 10.798006
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 10.7802,
+        "high": 10.7802,
+        "low": 10.7802,
+        "close": 10.7802,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.7802
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 10.78,
+        "high": 10.78,
+        "low": 10.78,
+        "close": 10.78,
+        "volume": 121.0,
+        "trade_count": 2.0,
+        "vwap": 10.78
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 10.78,
+        "high": 10.78,
+        "low": 10.78,
+        "close": 10.78,
+        "volume": 179.0,
+        "trade_count": 1.0,
+        "vwap": 10.78
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 10.81,
+        "high": 10.81,
+        "low": 10.81,
+        "close": 10.81,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 10.809851
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 10.79,
+        "high": 10.79,
+        "low": 10.79,
+        "close": 10.79,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 10.79
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 10.81,
+        "high": 10.81,
+        "low": 10.8,
+        "close": 10.8,
+        "volume": 310.0,
+        "trade_count": 7.0,
+        "vwap": 10.806484
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 10.79,
+        "high": 10.79,
+        "low": 10.79,
+        "close": 10.79,
+        "volume": 393.0,
+        "trade_count": 2.0,
+        "vwap": 10.79
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 10.7999,
+        "high": 10.7999,
+        "low": 10.7999,
+        "close": 10.7999,
+        "volume": 185.0,
+        "trade_count": 1.0,
+        "vwap": 10.7999
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 10.8,
+        "high": 10.8,
+        "low": 10.8,
+        "close": 10.8,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 10.800188
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 10.81,
+        "high": 10.81,
+        "low": 10.81,
+        "close": 10.81,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 10.81
+    },
+    {
+        "symbol": "RIET",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 10.78,
+        "high": 10.781,
+        "low": 10.78,
+        "close": 10.7801,
+        "volume": 3911.0,
+        "trade_count": 21.0,
+        "vwap": 10.780082
+    }
+]

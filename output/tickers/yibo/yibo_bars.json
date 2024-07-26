@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "YIBO",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 1.9,
+        "high": 1.9,
+        "low": 1.9,
+        "close": 1.9,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 1.9
+    },
+    {
+        "symbol": "YIBO",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 1.89,
+        "high": 1.9,
+        "low": 1.89,
+        "close": 1.89,
+        "volume": 1893.0,
+        "trade_count": 15.0,
+        "vwap": 1.895837
+    },
+    {
+        "symbol": "YIBO",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 2.0,
+        "high": 2.0,
+        "low": 2.0,
+        "close": 2.0,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 2.0235
+    },
+    {
+        "symbol": "YIBO",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 1.91,
+        "high": 1.91,
+        "low": 1.9045,
+        "close": 1.9045,
+        "volume": 400.0,
+        "trade_count": 3.0,
+        "vwap": 1.90725
+    },
+    {
+        "symbol": "YIBO",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 1.9427,
+        "high": 1.9427,
+        "low": 1.9427,
+        "close": 1.9427,
+        "volume": 610.0,
+        "trade_count": 1.0,
+        "vwap": 1.9427
+    }
+]

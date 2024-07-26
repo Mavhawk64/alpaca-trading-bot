@@ -1,0 +1,123 @@
+[
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 1.2054,
+        "high": 1.2054,
+        "low": 1.2054,
+        "close": 1.2054,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.2054
+    },
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 1.18,
+        "high": 1.18,
+        "low": 1.18,
+        "close": 1.18,
+        "volume": 181.0,
+        "trade_count": 4.0,
+        "vwap": 1.183602
+    },
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 1.16,
+        "high": 1.16,
+        "low": 1.16,
+        "close": 1.16,
+        "volume": 349.0,
+        "trade_count": 2.0,
+        "vwap": 1.16
+    },
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 1.12,
+        "high": 1.12,
+        "low": 1.12,
+        "close": 1.12,
+        "volume": 2007.0,
+        "trade_count": 3.0,
+        "vwap": 1.120035
+    },
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 1.1442,
+        "high": 1.1442,
+        "low": 1.1442,
+        "close": 1.1442,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 1.1442
+    },
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 1.13,
+        "high": 1.13,
+        "low": 1.13,
+        "close": 1.13,
+        "volume": 2400.0,
+        "trade_count": 1.0,
+        "vwap": 1.13
+    },
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 1.2,
+        "high": 1.2,
+        "low": 1.2,
+        "close": 1.2,
+        "volume": 1384.0,
+        "trade_count": 13.0,
+        "vwap": 1.2
+    },
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 1.2,
+        "high": 1.2,
+        "low": 1.2,
+        "close": 1.2,
+        "volume": 3043.0,
+        "trade_count": 12.0,
+        "vwap": 1.199993
+    },
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 1.132,
+        "high": 1.132,
+        "low": 1.132,
+        "close": 1.132,
+        "volume": 798.0,
+        "trade_count": 4.0,
+        "vwap": 1.132031
+    },
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 1.18,
+        "high": 1.18,
+        "low": 1.18,
+        "close": 1.18,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.18
+    },
+    {
+        "symbol": "CYTO",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 1.17,
+        "high": 1.17,
+        "low": 1.17,
+        "close": 1.17,
+        "volume": 206.0,
+        "trade_count": 4.0,
+        "vwap": 1.170243
+    }
+]

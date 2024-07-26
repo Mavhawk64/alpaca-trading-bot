@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "VINP",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 11.6,
+        "high": 11.6,
+        "low": 11.58,
+        "close": 11.58,
+        "volume": 363.0,
+        "trade_count": 8.0,
+        "vwap": 11.522314
+    },
+    {
+        "symbol": "VINP",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 11.3503,
+        "high": 11.3503,
+        "low": 11.3503,
+        "close": 11.3503,
+        "volume": 713.0,
+        "trade_count": 2.0,
+        "vwap": 11.349934
+    },
+    {
+        "symbol": "VINP",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 11.365,
+        "high": 11.365,
+        "low": 11.365,
+        "close": 11.365,
+        "volume": 1029.0,
+        "trade_count": 5.0,
+        "vwap": 11.363766
+    },
+    {
+        "symbol": "VINP",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 11.4399,
+        "high": 11.4399,
+        "low": 11.4399,
+        "close": 11.4399,
+        "volume": 1504.0,
+        "trade_count": 2.0,
+        "vwap": 11.439555
+    },
+    {
+        "symbol": "VINP",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 11.34,
+        "high": 11.34,
+        "low": 11.34,
+        "close": 11.34,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 11.34
+    },
+    {
+        "symbol": "VINP",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 11.28,
+        "high": 11.28,
+        "low": 11.28,
+        "close": 11.28,
+        "volume": 686.0,
+        "trade_count": 13.0,
+        "vwap": 11.28191
+    },
+    {
+        "symbol": "VINP",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 11.3999,
+        "high": 11.3999,
+        "low": 11.3999,
+        "close": 11.3999,
+        "volume": 750.0,
+        "trade_count": 1.0,
+        "vwap": 11.3999
+    },
+    {
+        "symbol": "VINP",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 11.31,
+        "high": 11.31,
+        "low": 11.31,
+        "close": 11.31,
+        "volume": 136.0,
+        "trade_count": 3.0,
+        "vwap": 11.31
+    },
+    {
+        "symbol": "VINP",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 11.32,
+        "high": 11.32,
+        "low": 11.32,
+        "close": 11.32,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.32
+    }
+]

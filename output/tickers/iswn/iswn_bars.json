@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "ISWN",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 19.2701,
+        "high": 19.2701,
+        "low": 19.2701,
+        "close": 19.2701,
+        "volume": 869.0,
+        "trade_count": 2.0,
+        "vwap": 19.2701
+    },
+    {
+        "symbol": "ISWN",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 19.32,
+        "high": 19.32,
+        "low": 19.32,
+        "close": 19.32,
+        "volume": 530.0,
+        "trade_count": 1.0,
+        "vwap": 19.32
+    }
+]

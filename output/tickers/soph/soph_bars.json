@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "SOPH",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 4.655,
+        "high": 4.655,
+        "low": 4.655,
+        "close": 4.655,
+        "volume": 111.0,
+        "trade_count": 4.0,
+        "vwap": 4.654414
+    },
+    {
+        "symbol": "SOPH",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 4.6,
+        "high": 4.6,
+        "low": 4.6,
+        "close": 4.6,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.6
+    },
+    {
+        "symbol": "SOPH",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 4.62,
+        "high": 4.62,
+        "low": 4.62,
+        "close": 4.62,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.62
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "FAT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 5.31,
+        "high": 5.31,
+        "low": 5.31,
+        "close": 5.31,
+        "volume": 741.0,
+        "trade_count": 4.0,
+        "vwap": 5.309907
+    },
+    {
+        "symbol": "FAT",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 5.2576,
+        "high": 5.2576,
+        "low": 5.2576,
+        "close": 5.2576,
+        "volume": 113.0,
+        "trade_count": 3.0,
+        "vwap": 5.258591
+    },
+    {
+        "symbol": "FAT",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 5.2999,
+        "high": 5.2999,
+        "low": 5.2999,
+        "close": 5.2999,
+        "volume": 694.0,
+        "trade_count": 1.0,
+        "vwap": 5.2999
+    },
+    {
+        "symbol": "FAT",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 5.2674,
+        "high": 5.2674,
+        "low": 5.2674,
+        "close": 5.2674,
+        "volume": 1500.0,
+        "trade_count": 1.0,
+        "vwap": 5.2674
+    },
+    {
+        "symbol": "FAT",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 5.2375,
+        "high": 5.2375,
+        "low": 5.2375,
+        "close": 5.2375,
+        "volume": 900.0,
+        "trade_count": 1.0,
+        "vwap": 5.2375
+    },
+    {
+        "symbol": "FAT",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 5.235,
+        "high": 5.235,
+        "low": 5.235,
+        "close": 5.235,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 5.23495
+    },
+    {
+        "symbol": "FAT",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 5.22,
+        "high": 5.22,
+        "low": 5.22,
+        "close": 5.22,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 5.22
+    }
+]

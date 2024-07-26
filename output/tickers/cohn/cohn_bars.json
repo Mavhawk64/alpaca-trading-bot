@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "COHN",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 9.31,
+        "high": 9.31,
+        "low": 9.31,
+        "close": 9.31,
+        "volume": 111.0,
+        "trade_count": 6.0,
+        "vwap": 9.310631
+    },
+    {
+        "symbol": "COHN",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 9.5,
+        "high": 9.5,
+        "low": 9.5,
+        "close": 9.5,
+        "volume": 119.0,
+        "trade_count": 11.0,
+        "vwap": 9.506891
+    }
+]

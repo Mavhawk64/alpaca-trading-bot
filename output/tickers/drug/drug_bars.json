@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "DRUG",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 1.21,
+        "high": 1.21,
+        "low": 1.21,
+        "close": 1.21,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.21
+    },
+    {
+        "symbol": "DRUG",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 1.1803,
+        "high": 1.1803,
+        "low": 1.18,
+        "close": 1.18,
+        "volume": 1543.0,
+        "trade_count": 4.0,
+        "vwap": 1.180079
+    },
+    {
+        "symbol": "DRUG",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 1.2,
+        "high": 1.2,
+        "low": 1.2,
+        "close": 1.2,
+        "volume": 1661.0,
+        "trade_count": 2.0,
+        "vwap": 1.2
+    },
+    {
+        "symbol": "DRUG",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 1.2,
+        "high": 1.2,
+        "low": 1.2,
+        "close": 1.2,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.2
+    },
+    {
+        "symbol": "DRUG",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 1.17,
+        "high": 1.17,
+        "low": 1.17,
+        "close": 1.17,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.17
+    }
+]

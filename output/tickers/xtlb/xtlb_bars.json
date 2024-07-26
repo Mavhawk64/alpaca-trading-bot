@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "XTLB",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.97,
+        "high": 2.97,
+        "low": 2.97,
+        "close": 2.97,
+        "volume": 252.0,
+        "trade_count": 2.0,
+        "vwap": 2.965955
+    },
+    {
+        "symbol": "XTLB",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 2.86,
+        "high": 2.86,
+        "low": 2.86,
+        "close": 2.86,
+        "volume": 119.0,
+        "trade_count": 2.0,
+        "vwap": 2.858403
+    },
+    {
+        "symbol": "XTLB",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 2.62,
+        "high": 2.62,
+        "low": 2.62,
+        "close": 2.62,
+        "volume": 246.0,
+        "trade_count": 1.0,
+        "vwap": 2.62
+    },
+    {
+        "symbol": "XTLB",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 2.81,
+        "high": 2.81,
+        "low": 2.81,
+        "close": 2.81,
+        "volume": 185.0,
+        "trade_count": 2.0,
+        "vwap": 2.796216
+    },
+    {
+        "symbol": "XTLB",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 2.85,
+        "high": 2.85,
+        "low": 2.85,
+        "close": 2.85,
+        "volume": 250.0,
+        "trade_count": 2.0,
+        "vwap": 2.85
+    },
+    {
+        "symbol": "XTLB",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 2.68,
+        "high": 2.68,
+        "low": 2.68,
+        "close": 2.68,
+        "volume": 358.0,
+        "trade_count": 1.0,
+        "vwap": 2.68
+    }
+]

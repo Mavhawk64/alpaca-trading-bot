@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "FTEK",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.065,
+        "high": 1.065,
+        "low": 1.065,
+        "close": 1.065,
+        "volume": 513.0,
+        "trade_count": 4.0,
+        "vwap": 1.063363
+    },
+    {
+        "symbol": "FTEK",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.06,
+        "high": 1.06,
+        "low": 1.06,
+        "close": 1.06,
+        "volume": 290.0,
+        "trade_count": 1.0,
+        "vwap": 1.06
+    },
+    {
+        "symbol": "FTEK",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 1.0598,
+        "high": 1.0598,
+        "low": 1.05,
+        "close": 1.05,
+        "volume": 748.0,
+        "trade_count": 4.0,
+        "vwap": 1.05131
+    },
+    {
+        "symbol": "FTEK",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 1.05,
+        "high": 1.05,
+        "low": 1.05,
+        "close": 1.05,
+        "volume": 135.0,
+        "trade_count": 1.0,
+        "vwap": 1.05
+    },
+    {
+        "symbol": "FTEK",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 1.06,
+        "high": 1.06,
+        "low": 1.06,
+        "close": 1.06,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.06
+    },
+    {
+        "symbol": "FTEK",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 1.05,
+        "high": 1.05,
+        "low": 1.05,
+        "close": 1.05,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 1.05
+    }
+]

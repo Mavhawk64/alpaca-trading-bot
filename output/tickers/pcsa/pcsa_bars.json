@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "PCSA",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 1.71,
+        "high": 1.71,
+        "low": 1.71,
+        "close": 1.71,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 1.71
+    },
+    {
+        "symbol": "PCSA",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 1.72,
+        "high": 1.744,
+        "low": 1.71,
+        "close": 1.71,
+        "volume": 2392.0,
+        "trade_count": 14.0,
+        "vwap": 1.733955
+    }
+]

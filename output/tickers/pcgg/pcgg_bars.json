@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "PCGG",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 11.03,
+        "high": 11.03,
+        "low": 11.03,
+        "close": 11.03,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.03
+    },
+    {
+        "symbol": "PCGG",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 11.0409,
+        "high": 11.0409,
+        "low": 11.0409,
+        "close": 11.0409,
+        "volume": 1204.0,
+        "trade_count": 1.0,
+        "vwap": 11.0409
+    },
+    {
+        "symbol": "PCGG",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 11.07,
+        "high": 11.07,
+        "low": 11.07,
+        "close": 11.07,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.07
+    },
+    {
+        "symbol": "PCGG",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 11.07,
+        "high": 11.07,
+        "low": 11.07,
+        "close": 11.07,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 11.07
+    }
+]

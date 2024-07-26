@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "PCB",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 19.31,
+        "high": 19.31,
+        "low": 19.25,
+        "close": 19.25,
+        "volume": 759.0,
+        "trade_count": 6.0,
+        "vwap": 19.277984
+    },
+    {
+        "symbol": "PCB",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 19.25,
+        "high": 19.25,
+        "low": 19.25,
+        "close": 19.25,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.25
+    },
+    {
+        "symbol": "PCB",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 19.25,
+        "high": 19.25,
+        "low": 19.25,
+        "close": 19.25,
+        "volume": 420.0,
+        "trade_count": 8.0,
+        "vwap": 19.25
+    },
+    {
+        "symbol": "PCB",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 19.12,
+        "high": 19.5,
+        "low": 19.12,
+        "close": 19.475,
+        "volume": 14205.0,
+        "trade_count": 61.0,
+        "vwap": 19.458094
+    },
+    {
+        "symbol": "PCB",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 19.5,
+        "high": 19.5,
+        "low": 19.5,
+        "close": 19.5,
+        "volume": 292.0,
+        "trade_count": 12.0,
+        "vwap": 19.464075
+    },
+    {
+        "symbol": "PCB",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 19.2268,
+        "high": 19.245,
+        "low": 19.2268,
+        "close": 19.245,
+        "volume": 442.0,
+        "trade_count": 15.0,
+        "vwap": 19.260543
+    },
+    {
+        "symbol": "PCB",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 19.2343,
+        "high": 19.5,
+        "low": 19.2343,
+        "close": 19.5,
+        "volume": 457.0,
+        "trade_count": 16.0,
+        "vwap": 19.443665
+    }
+]

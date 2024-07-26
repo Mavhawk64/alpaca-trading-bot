@@ -1,0 +1,189 @@
+[
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.99,
+        "high": 4.99,
+        "low": 4.97,
+        "close": 4.97,
+        "volume": 476.0,
+        "trade_count": 7.0,
+        "vwap": 4.973718
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 4.99,
+        "high": 4.99,
+        "low": 4.9808,
+        "close": 4.9808,
+        "volume": 1100.0,
+        "trade_count": 3.0,
+        "vwap": 4.981636
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 4.9888,
+        "high": 4.9888,
+        "low": 4.9888,
+        "close": 4.9888,
+        "volume": 107.0,
+        "trade_count": 4.0,
+        "vwap": 4.984673
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 4.99,
+        "high": 4.99,
+        "low": 4.99,
+        "close": 4.99,
+        "volume": 5366.0,
+        "trade_count": 13.0,
+        "vwap": 4.989985
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 4.99,
+        "high": 4.99,
+        "low": 4.99,
+        "close": 4.99,
+        "volume": 2097.0,
+        "trade_count": 7.0,
+        "vwap": 4.99
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 4.99,
+        "high": 5.0,
+        "low": 4.988,
+        "close": 5.0,
+        "volume": 8793.0,
+        "trade_count": 30.0,
+        "vwap": 4.993356
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 4.995,
+        "high": 5.04,
+        "low": 4.995,
+        "close": 5.04,
+        "volume": 1342.0,
+        "trade_count": 9.0,
+        "vwap": 5.001963
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 5.0254,
+        "high": 5.04,
+        "low": 5.0254,
+        "close": 5.04,
+        "volume": 1291.0,
+        "trade_count": 7.0,
+        "vwap": 5.036367
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 5.0799,
+        "high": 5.0799,
+        "low": 5.0723,
+        "close": 5.0723,
+        "volume": 3005.0,
+        "trade_count": 4.0,
+        "vwap": 5.076069
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 5.05,
+        "high": 5.07,
+        "low": 5.05,
+        "close": 5.07,
+        "volume": 1018.0,
+        "trade_count": 6.0,
+        "vwap": 5.05722
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 5.0507,
+        "high": 5.08,
+        "low": 5.0507,
+        "close": 5.08,
+        "volume": 2250.0,
+        "trade_count": 4.0,
+        "vwap": 5.0619
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 5.06,
+        "high": 5.08,
+        "low": 5.0,
+        "close": 5.0,
+        "volume": 2724.0,
+        "trade_count": 19.0,
+        "vwap": 5.056522
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 5.06,
+        "high": 5.06,
+        "low": 5.06,
+        "close": 5.06,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.06
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 5.02,
+        "high": 5.02,
+        "low": 5.02,
+        "close": 5.02,
+        "volume": 1500.0,
+        "trade_count": 2.0,
+        "vwap": 5.02
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 5.02,
+        "high": 5.02,
+        "low": 5.02,
+        "close": 5.02,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.02
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 4.9923,
+        "high": 4.9923,
+        "low": 4.9923,
+        "close": 4.9923,
+        "volume": 900.0,
+        "trade_count": 1.0,
+        "vwap": 4.9923
+    },
+    {
+        "symbol": "CREX",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 4.99,
+        "high": 4.99,
+        "low": 4.99,
+        "close": 4.99,
+        "volume": 1007.0,
+        "trade_count": 5.0,
+        "vwap": 4.99007
+    }
+]

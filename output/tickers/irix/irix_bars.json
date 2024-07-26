@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "IRIX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.06,
+        "high": 2.06,
+        "low": 2.06,
+        "close": 2.06,
+        "volume": 117.0,
+        "trade_count": 2.0,
+        "vwap": 2.060684
+    },
+    {
+        "symbol": "IRIX",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 2.05,
+        "high": 2.05,
+        "low": 2.05,
+        "close": 2.05,
+        "volume": 1415.0,
+        "trade_count": 8.0,
+        "vwap": 2.05
+    },
+    {
+        "symbol": "IRIX",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 2.0562,
+        "high": 2.065,
+        "low": 2.0562,
+        "close": 2.065,
+        "volume": 1103.0,
+        "trade_count": 6.0,
+        "vwap": 2.05704
+    }
+]

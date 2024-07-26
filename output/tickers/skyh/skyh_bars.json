@@ -1,0 +1,145 @@
+[
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 9.96,
+        "high": 9.96,
+        "low": 9.96,
+        "close": 9.96,
+        "volume": 367.0,
+        "trade_count": 2.0,
+        "vwap": 9.959823
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 9.89,
+        "high": 9.89,
+        "low": 9.89,
+        "close": 9.89,
+        "volume": 311.0,
+        "trade_count": 3.0,
+        "vwap": 9.891994
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 9.8,
+        "high": 10.0,
+        "low": 9.79,
+        "close": 9.95,
+        "volume": 631.0,
+        "trade_count": 9.0,
+        "vwap": 9.87
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 10.0,
+        "high": 10.0,
+        "low": 9.95,
+        "close": 9.95,
+        "volume": 343.0,
+        "trade_count": 10.0,
+        "vwap": 9.99621
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 9.9,
+        "high": 9.9,
+        "low": 9.9,
+        "close": 9.9,
+        "volume": 316.0,
+        "trade_count": 5.0,
+        "vwap": 9.899051
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 10.0,
+        "high": 10.0,
+        "low": 9.88,
+        "close": 10.0,
+        "volume": 909.0,
+        "trade_count": 28.0,
+        "vwap": 10.087657
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 9.88,
+        "high": 9.88,
+        "low": 9.8,
+        "close": 9.8,
+        "volume": 1503.0,
+        "trade_count": 48.0,
+        "vwap": 9.961058
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 9.9,
+        "high": 9.9,
+        "low": 9.78,
+        "close": 9.78,
+        "volume": 828.0,
+        "trade_count": 20.0,
+        "vwap": 9.877729
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 9.945,
+        "high": 9.945,
+        "low": 9.85,
+        "close": 9.85,
+        "volume": 1175.0,
+        "trade_count": 13.0,
+        "vwap": 9.936638
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 9.84,
+        "high": 9.84,
+        "low": 9.84,
+        "close": 9.84,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.84
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 9.985,
+        "high": 9.985,
+        "low": 9.985,
+        "close": 9.985,
+        "volume": 534.0,
+        "trade_count": 7.0,
+        "vwap": 9.981161
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 10.145,
+        "high": 10.145,
+        "low": 10.145,
+        "close": 10.145,
+        "volume": 852.0,
+        "trade_count": 34.0,
+        "vwap": 10.08483
+    },
+    {
+        "symbol": "SKYH",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 10.07,
+        "high": 10.07,
+        "low": 10.07,
+        "close": 10.07,
+        "volume": 157.0,
+        "trade_count": 15.0,
+        "vwap": 10.072484
+    }
+]

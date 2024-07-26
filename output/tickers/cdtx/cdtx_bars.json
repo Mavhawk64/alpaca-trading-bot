@@ -1,0 +1,211 @@
+[
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 12.21,
+        "high": 12.21,
+        "low": 12.21,
+        "close": 12.21,
+        "volume": 116.0,
+        "trade_count": 5.0,
+        "vwap": 12.219138
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 12.2057,
+        "high": 12.2057,
+        "low": 12.2057,
+        "close": 12.2057,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 12.2057
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 12.3,
+        "high": 12.3,
+        "low": 12.13,
+        "close": 12.13,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 12.19
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 12.128,
+        "high": 12.128,
+        "low": 12.128,
+        "close": 12.128,
+        "volume": 138.0,
+        "trade_count": 4.0,
+        "vwap": 12.12593
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 12.01,
+        "high": 12.01,
+        "low": 12.01,
+        "close": 12.01,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 12.01
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 11.88,
+        "high": 11.88,
+        "low": 11.88,
+        "close": 11.88,
+        "volume": 1014.0,
+        "trade_count": 3.0,
+        "vwap": 11.881657
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 12.11,
+        "high": 12.13,
+        "low": 12.11,
+        "close": 12.13,
+        "volume": 202.0,
+        "trade_count": 4.0,
+        "vwap": 12.120495
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 12.05,
+        "high": 12.05,
+        "low": 12.05,
+        "close": 12.05,
+        "volume": 443.0,
+        "trade_count": 23.0,
+        "vwap": 12.082935
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 12.11,
+        "high": 12.11,
+        "low": 12.11,
+        "close": 12.11,
+        "volume": 138.0,
+        "trade_count": 11.0,
+        "vwap": 12.11
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 12.04,
+        "high": 12.04,
+        "low": 12.04,
+        "close": 12.04,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 12.04
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 12.11,
+        "high": 12.11,
+        "low": 12.11,
+        "close": 12.11,
+        "volume": 155.0,
+        "trade_count": 7.0,
+        "vwap": 12.068065
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 12.08,
+        "high": 12.29,
+        "low": 12.08,
+        "close": 12.13,
+        "volume": 5159.0,
+        "trade_count": 35.0,
+        "vwap": 12.140326
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 12.1,
+        "high": 12.265,
+        "low": 12.1,
+        "close": 12.265,
+        "volume": 5601.0,
+        "trade_count": 8.0,
+        "vwap": 12.22587
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 12.22,
+        "high": 12.22,
+        "low": 12.22,
+        "close": 12.22,
+        "volume": 629.0,
+        "trade_count": 26.0,
+        "vwap": 12.202019
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 12.28,
+        "high": 12.28,
+        "low": 12.28,
+        "close": 12.28,
+        "volume": 5865.0,
+        "trade_count": 37.0,
+        "vwap": 12.283981
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 12.4941,
+        "high": 12.4941,
+        "low": 12.4941,
+        "close": 12.4941,
+        "volume": 5001.0,
+        "trade_count": 2.0,
+        "vwap": 12.493993
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 12.43,
+        "high": 12.5,
+        "low": 12.25,
+        "close": 12.25,
+        "volume": 5000.0,
+        "trade_count": 20.0,
+        "vwap": 12.347438
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 12.57,
+        "high": 12.75,
+        "low": 12.57,
+        "close": 12.75,
+        "volume": 6347.0,
+        "trade_count": 21.0,
+        "vwap": 12.61935
+    },
+    {
+        "symbol": "CDTX",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 12.6,
+        "high": 12.6,
+        "low": 12.6,
+        "close": 12.6,
+        "volume": 136.0,
+        "trade_count": 2.0,
+        "vwap": 12.602022
+    }
+]

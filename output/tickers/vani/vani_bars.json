@@ -1,0 +1,156 @@
+[
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.25,
+        "high": 1.25,
+        "low": 1.25,
+        "close": 1.25,
+        "volume": 351.0,
+        "trade_count": 6.0,
+        "vwap": 1.249957
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 1.2401,
+        "high": 1.25,
+        "low": 1.2401,
+        "close": 1.25,
+        "volume": 2250.0,
+        "trade_count": 3.0,
+        "vwap": 1.248933
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 1.2437,
+        "high": 1.2437,
+        "low": 1.2437,
+        "close": 1.2437,
+        "volume": 505.0,
+        "trade_count": 2.0,
+        "vwap": 1.243668
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 1.245,
+        "high": 1.245,
+        "low": 1.23,
+        "close": 1.23,
+        "volume": 5000.0,
+        "trade_count": 18.0,
+        "vwap": 1.23399
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 1.25,
+        "high": 1.25,
+        "low": 1.25,
+        "close": 1.25,
+        "volume": 293.0,
+        "trade_count": 3.0,
+        "vwap": 1.249966
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 1.24,
+        "high": 1.24,
+        "low": 1.24,
+        "close": 1.24,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.24
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 1.24,
+        "high": 1.24,
+        "low": 1.24,
+        "close": 1.24,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 1.24
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 1.2447,
+        "high": 1.2447,
+        "low": 1.24,
+        "close": 1.24,
+        "volume": 1200.0,
+        "trade_count": 6.0,
+        "vwap": 1.243133
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 1.2301,
+        "high": 1.2301,
+        "low": 1.2301,
+        "close": 1.2301,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 1.2301
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 1.23,
+        "high": 1.23,
+        "low": 1.23,
+        "close": 1.23,
+        "volume": 506.0,
+        "trade_count": 2.0,
+        "vwap": 1.230005
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 1.2355,
+        "high": 1.2355,
+        "low": 1.2355,
+        "close": 1.2355,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 1.2355
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 1.2385,
+        "high": 1.2385,
+        "low": 1.2385,
+        "close": 1.2385,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 1.2385
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 1.24,
+        "high": 1.24,
+        "low": 1.24,
+        "close": 1.24,
+        "volume": 539.0,
+        "trade_count": 5.0,
+        "vwap": 1.24
+    },
+    {
+        "symbol": "VANI",
+        "timestamp": "2024-07-26T14:48:00+00:00",
+        "open": 1.2388,
+        "high": 1.2388,
+        "low": 1.2388,
+        "close": 1.2388,
+        "volume": 115.0,
+        "trade_count": 1.0,
+        "vwap": 1.2388
+    }
+]

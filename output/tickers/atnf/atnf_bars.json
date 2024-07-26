@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "ATNF",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 2.2511,
+        "high": 2.2511,
+        "low": 2.2511,
+        "close": 2.2511,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.2511
+    },
+    {
+        "symbol": "ATNF",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 2.29,
+        "high": 2.29,
+        "low": 2.29,
+        "close": 2.29,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.29
+    },
+    {
+        "symbol": "ATNF",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 2.26,
+        "high": 2.26,
+        "low": 2.26,
+        "close": 2.26,
+        "volume": 1885.0,
+        "trade_count": 11.0,
+        "vwap": 2.260371
+    },
+    {
+        "symbol": "ATNF",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 2.25,
+        "high": 2.25,
+        "low": 2.2101,
+        "close": 2.2101,
+        "volume": 6800.0,
+        "trade_count": 12.0,
+        "vwap": 2.21556
+    },
+    {
+        "symbol": "ATNF",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 2.2699,
+        "high": 2.2699,
+        "low": 2.2699,
+        "close": 2.2699,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 2.2699
+    },
+    {
+        "symbol": "ATNF",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 2.27,
+        "high": 2.36,
+        "low": 2.26,
+        "close": 2.35,
+        "volume": 10438.0,
+        "trade_count": 63.0,
+        "vwap": 2.306745
+    }
+]

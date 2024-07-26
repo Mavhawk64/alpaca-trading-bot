@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "GRIN",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 14.13,
+        "high": 14.13,
+        "low": 14.13,
+        "close": 14.13,
+        "volume": 675.0,
+        "trade_count": 1.0,
+        "vwap": 14.13
+    },
+    {
+        "symbol": "GRIN",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 14.12,
+        "high": 14.12,
+        "low": 14.12,
+        "close": 14.12,
+        "volume": 262.0,
+        "trade_count": 5.0,
+        "vwap": 14.122634
+    },
+    {
+        "symbol": "GRIN",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 14.12,
+        "high": 14.12,
+        "low": 14.12,
+        "close": 14.12,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 14.12
+    },
+    {
+        "symbol": "GRIN",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 14.13,
+        "high": 14.13,
+        "low": 14.1252,
+        "close": 14.1252,
+        "volume": 1602.0,
+        "trade_count": 4.0,
+        "vwap": 14.127603
+    },
+    {
+        "symbol": "GRIN",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 14.1264,
+        "high": 14.1264,
+        "low": 14.1264,
+        "close": 14.1264,
+        "volume": 700.0,
+        "trade_count": 1.0,
+        "vwap": 14.1264
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "symbol": "ANL",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.5
+    }
+]

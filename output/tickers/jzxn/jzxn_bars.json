@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "JZXN",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 2.01,
+        "high": 2.01,
+        "low": 2.0,
+        "close": 2.0,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 2.005
+    },
+    {
+        "symbol": "JZXN",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 2.11,
+        "high": 2.11,
+        "low": 2.11,
+        "close": 2.11,
+        "volume": 294.0,
+        "trade_count": 8.0,
+        "vwap": 2.10881
+    },
+    {
+        "symbol": "JZXN",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 2.15,
+        "high": 2.15,
+        "low": 2.15,
+        "close": 2.15,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.15
+    },
+    {
+        "symbol": "JZXN",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 2.07,
+        "high": 2.07,
+        "low": 2.07,
+        "close": 2.07,
+        "volume": 236.0,
+        "trade_count": 3.0,
+        "vwap": 2.093051
+    },
+    {
+        "symbol": "JZXN",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 2.1399,
+        "high": 2.1399,
+        "low": 2.1399,
+        "close": 2.1399,
+        "volume": 5000.0,
+        "trade_count": 2.0,
+        "vwap": 2.1399
+    },
+    {
+        "symbol": "JZXN",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 2.0248,
+        "high": 2.0248,
+        "low": 2.0248,
+        "close": 2.0248,
+        "volume": 202.0,
+        "trade_count": 3.0,
+        "vwap": 2.02505
+    },
+    {
+        "symbol": "JZXN",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 2.1323,
+        "high": 2.1323,
+        "low": 2.1323,
+        "close": 2.1323,
+        "volume": 180.0,
+        "trade_count": 1.0,
+        "vwap": 2.1323
+    },
+    {
+        "symbol": "JZXN",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 2.0364,
+        "high": 2.0364,
+        "low": 2.0364,
+        "close": 2.0364,
+        "volume": 181.0,
+        "trade_count": 2.0,
+        "vwap": 2.036475
+    },
+    {
+        "symbol": "JZXN",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 2.1323,
+        "high": 2.1323,
+        "low": 2.1323,
+        "close": 2.1323,
+        "volume": 170.0,
+        "trade_count": 1.0,
+        "vwap": 2.1323
+    },
+    {
+        "symbol": "JZXN",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 2.0333,
+        "high": 2.0333,
+        "low": 2.0333,
+        "close": 2.0333,
+        "volume": 170.0,
+        "trade_count": 1.0,
+        "vwap": 2.0333
+    }
+]

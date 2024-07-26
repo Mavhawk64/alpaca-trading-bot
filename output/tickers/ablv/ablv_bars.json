@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "ABLV",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 1.2,
+        "high": 1.2,
+        "low": 1.185,
+        "close": 1.19,
+        "volume": 2578.0,
+        "trade_count": 20.0,
+        "vwap": 1.192221
+    },
+    {
+        "symbol": "ABLV",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 1.18,
+        "high": 1.18,
+        "low": 1.18,
+        "close": 1.18,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.18
+    },
+    {
+        "symbol": "ABLV",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 1.19,
+        "high": 1.19,
+        "low": 1.18,
+        "close": 1.18,
+        "volume": 1244.0,
+        "trade_count": 13.0,
+        "vwap": 1.187588
+    },
+    {
+        "symbol": "ABLV",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 1.1897,
+        "high": 1.1897,
+        "low": 1.1897,
+        "close": 1.1897,
+        "volume": 500.0,
+        "trade_count": 2.0,
+        "vwap": 1.1897
+    },
+    {
+        "symbol": "ABLV",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 1.19,
+        "high": 1.19,
+        "low": 1.1899,
+        "close": 1.1899,
+        "volume": 1191.0,
+        "trade_count": 10.0,
+        "vwap": 1.189983
+    }
+]

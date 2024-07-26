@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "TYO",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 13.82,
+        "high": 13.82,
+        "low": 13.82,
+        "close": 13.82,
+        "volume": 228.0,
+        "trade_count": 2.0,
+        "vwap": 13.82
+    },
+    {
+        "symbol": "TYO",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 13.825,
+        "high": 13.83,
+        "low": 13.825,
+        "close": 13.83,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 13.828
+    },
+    {
+        "symbol": "TYO",
+        "timestamp": "2024-07-26T14:48:00+00:00",
+        "open": 13.811,
+        "high": 13.811,
+        "low": 13.81,
+        "close": 13.8101,
+        "volume": 3000.0,
+        "trade_count": 3.0,
+        "vwap": 13.810367
+    }
+]

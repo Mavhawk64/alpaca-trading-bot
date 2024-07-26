@@ -1,0 +1,222 @@
+[
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.55,
+        "high": 2.55,
+        "low": 2.55,
+        "close": 2.55,
+        "volume": 2860.0,
+        "trade_count": 3.0,
+        "vwap": 2.550009
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 2.59,
+        "high": 2.59,
+        "low": 2.59,
+        "close": 2.59,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.59
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 2.5899,
+        "high": 2.5899,
+        "low": 2.5899,
+        "close": 2.5899,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.5899
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 2.58,
+        "high": 2.58,
+        "low": 2.57,
+        "close": 2.57,
+        "volume": 1200.0,
+        "trade_count": 11.0,
+        "vwap": 2.578333
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 2.57,
+        "high": 2.57,
+        "low": 2.57,
+        "close": 2.57,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.57
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 2.565,
+        "high": 2.565,
+        "low": 2.56,
+        "close": 2.56,
+        "volume": 3951.0,
+        "trade_count": 31.0,
+        "vwap": 2.561898
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 2.56,
+        "high": 2.56,
+        "low": 2.56,
+        "close": 2.56,
+        "volume": 119.0,
+        "trade_count": 2.0,
+        "vwap": 2.56
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 2.565,
+        "high": 2.565,
+        "low": 2.565,
+        "close": 2.565,
+        "volume": 107.0,
+        "trade_count": 2.0,
+        "vwap": 2.564673
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 2.565,
+        "high": 2.565,
+        "low": 2.565,
+        "close": 2.565,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.565
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 2.57,
+        "high": 2.58,
+        "low": 2.57,
+        "close": 2.575,
+        "volume": 1410.0,
+        "trade_count": 15.0,
+        "vwap": 2.574312
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 2.57,
+        "high": 2.575,
+        "low": 2.57,
+        "close": 2.575,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 2.5725
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 2.57,
+        "high": 2.57,
+        "low": 2.57,
+        "close": 2.57,
+        "volume": 3727.0,
+        "trade_count": 26.0,
+        "vwap": 2.57
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 2.575,
+        "high": 2.58,
+        "low": 2.57,
+        "close": 2.58,
+        "volume": 2600.0,
+        "trade_count": 16.0,
+        "vwap": 2.577283
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 2.59,
+        "high": 2.59,
+        "low": 2.59,
+        "close": 2.59,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.59
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 2.58,
+        "high": 2.58,
+        "low": 2.58,
+        "close": 2.58,
+        "volume": 210.0,
+        "trade_count": 3.0,
+        "vwap": 2.58
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 2.59,
+        "high": 2.6,
+        "low": 2.59,
+        "close": 2.6,
+        "volume": 1410.0,
+        "trade_count": 8.0,
+        "vwap": 2.593617
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 2.5985,
+        "high": 2.605,
+        "low": 2.5985,
+        "close": 2.6,
+        "volume": 2580.0,
+        "trade_count": 18.0,
+        "vwap": 2.599853
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 2.6,
+        "high": 2.6,
+        "low": 2.6,
+        "close": 2.6,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 2.6
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 2.6,
+        "high": 2.6,
+        "low": 2.6,
+        "close": 2.6,
+        "volume": 330.0,
+        "trade_count": 5.0,
+        "vwap": 2.6
+    },
+    {
+        "symbol": "ORMP",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 2.61,
+        "high": 2.61,
+        "low": 2.6,
+        "close": 2.61,
+        "volume": 607.0,
+        "trade_count": 8.0,
+        "vwap": 2.608353
+    }
+]

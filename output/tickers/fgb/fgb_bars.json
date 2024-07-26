@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "FGB",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 3.96,
+        "high": 3.96,
+        "low": 3.96,
+        "close": 3.96,
+        "volume": 363.0,
+        "trade_count": 3.0,
+        "vwap": 3.96
+    },
+    {
+        "symbol": "FGB",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 3.9645,
+        "high": 3.9645,
+        "low": 3.9645,
+        "close": 3.9645,
+        "volume": 140.0,
+        "trade_count": 3.0,
+        "vwap": 3.964886
+    }
+]

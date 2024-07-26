@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "LITP",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 7.66,
+        "high": 7.66,
+        "low": 7.66,
+        "close": 7.66,
+        "volume": 854.0,
+        "trade_count": 4.0,
+        "vwap": 7.66
+    },
+    {
+        "symbol": "LITP",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 7.66,
+        "high": 7.66,
+        "low": 7.66,
+        "close": 7.66,
+        "volume": 1000.0,
+        "trade_count": 3.0,
+        "vwap": 7.66
+    },
+    {
+        "symbol": "LITP",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 7.66,
+        "high": 7.66,
+        "low": 7.66,
+        "close": 7.66,
+        "volume": 2007.0,
+        "trade_count": 10.0,
+        "vwap": 7.66007
+    },
+    {
+        "symbol": "LITP",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 7.68,
+        "high": 7.68,
+        "low": 7.68,
+        "close": 7.68,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.68
+    },
+    {
+        "symbol": "LITP",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 7.65,
+        "high": 7.65,
+        "low": 7.65,
+        "close": 7.65,
+        "volume": 195.0,
+        "trade_count": 7.0,
+        "vwap": 7.65
+    }
+]

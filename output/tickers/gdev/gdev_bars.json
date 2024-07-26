@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "GDEV",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 2.52,
+        "high": 2.52,
+        "low": 2.501,
+        "close": 2.501,
+        "volume": 250.0,
+        "trade_count": 3.0,
+        "vwap": 2.5284
+    },
+    {
+        "symbol": "GDEV",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 2.51,
+        "high": 2.51,
+        "low": 2.5,
+        "close": 2.51,
+        "volume": 1287.0,
+        "trade_count": 5.0,
+        "vwap": 2.505357
+    }
+]

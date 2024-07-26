@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "GDTC",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 1.89,
+        "high": 1.89,
+        "low": 1.89,
+        "close": 1.89,
+        "volume": 200.0,
+        "trade_count": 10.0,
+        "vwap": 1.89475
+    },
+    {
+        "symbol": "GDTC",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 1.9,
+        "high": 1.91,
+        "low": 1.9,
+        "close": 1.91,
+        "volume": 843.0,
+        "trade_count": 8.0,
+        "vwap": 1.904638
+    },
+    {
+        "symbol": "GDTC",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 1.91,
+        "high": 1.91,
+        "low": 1.91,
+        "close": 1.91,
+        "volume": 302.0,
+        "trade_count": 2.0,
+        "vwap": 1.91
+    }
+]

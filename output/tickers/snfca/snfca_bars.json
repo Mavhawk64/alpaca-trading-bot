@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "SNFCA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 8.1,
+        "high": 8.1,
+        "low": 8.1,
+        "close": 8.1,
+        "volume": 367.0,
+        "trade_count": 1.0,
+        "vwap": 8.1
+    },
+    {
+        "symbol": "SNFCA",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 8.09,
+        "high": 8.09,
+        "low": 8.09,
+        "close": 8.09,
+        "volume": 373.0,
+        "trade_count": 7.0,
+        "vwap": 8.09
+    },
+    {
+        "symbol": "SNFCA",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 8.1,
+        "high": 8.1,
+        "low": 8.1,
+        "close": 8.1,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 8.1
+    },
+    {
+        "symbol": "SNFCA",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 8.085,
+        "high": 8.085,
+        "low": 8.085,
+        "close": 8.085,
+        "volume": 300.0,
+        "trade_count": 5.0,
+        "vwap": 8.08
+    },
+    {
+        "symbol": "SNFCA",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 8.09,
+        "high": 8.09,
+        "low": 8.09,
+        "close": 8.09,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 8.09
+    },
+    {
+        "symbol": "SNFCA",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 8.08,
+        "high": 8.08,
+        "low": 8.08,
+        "close": 8.08,
+        "volume": 381.0,
+        "trade_count": 5.0,
+        "vwap": 8.079974
+    },
+    {
+        "symbol": "SNFCA",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 8.07,
+        "high": 8.07,
+        "low": 8.07,
+        "close": 8.07,
+        "volume": 445.0,
+        "trade_count": 7.0,
+        "vwap": 8.07
+    },
+    {
+        "symbol": "SNFCA",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 8.06,
+        "high": 8.06,
+        "low": 8.06,
+        "close": 8.06,
+        "volume": 279.0,
+        "trade_count": 6.0,
+        "vwap": 8.06
+    },
+    {
+        "symbol": "SNFCA",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 8.09,
+        "high": 8.09,
+        "low": 8.09,
+        "close": 8.09,
+        "volume": 400.0,
+        "trade_count": 10.0,
+        "vwap": 8.087288
+    }
+]

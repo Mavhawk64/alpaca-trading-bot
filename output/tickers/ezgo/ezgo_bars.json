@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 1.6448,
+        "high": 1.6448,
+        "low": 1.6448,
+        "close": 1.6448,
+        "volume": 458.0,
+        "trade_count": 1.0,
+        "vwap": 1.6448
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 1.651,
+        "high": 1.651,
+        "low": 1.64,
+        "close": 1.6411,
+        "volume": 695.0,
+        "trade_count": 4.0,
+        "vwap": 1.643474
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 1.641,
+        "high": 1.641,
+        "low": 1.64,
+        "close": 1.64,
+        "volume": 803.0,
+        "trade_count": 7.0,
+        "vwap": 1.640461
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.64,
+        "high": 1.64,
+        "low": 1.64,
+        "close": 1.64,
+        "volume": 354.0,
+        "trade_count": 4.0,
+        "vwap": 1.640282
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 1.64,
+        "high": 1.64,
+        "low": 1.64,
+        "close": 1.64,
+        "volume": 1446.0,
+        "trade_count": 2.0,
+        "vwap": 1.64
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 1.63,
+        "high": 1.63,
+        "low": 1.63,
+        "close": 1.63,
+        "volume": 500.0,
+        "trade_count": 2.0,
+        "vwap": 1.63
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 1.62,
+        "high": 1.62,
+        "low": 1.6,
+        "close": 1.6,
+        "volume": 1499.0,
+        "trade_count": 11.0,
+        "vwap": 1.605917
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 1.6,
+        "high": 1.6,
+        "low": 1.6,
+        "close": 1.6,
+        "volume": 1624.0,
+        "trade_count": 6.0,
+        "vwap": 1.6
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 1.58,
+        "high": 1.58,
+        "low": 1.58,
+        "close": 1.58,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 1.58
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 1.6,
+        "high": 1.6,
+        "low": 1.6,
+        "close": 1.6,
+        "volume": 158.0,
+        "trade_count": 2.0,
+        "vwap": 1.6
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 1.6,
+        "high": 1.6,
+        "low": 1.6,
+        "close": 1.6,
+        "volume": 175.0,
+        "trade_count": 2.0,
+        "vwap": 1.6
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 1.5802,
+        "high": 1.5802,
+        "low": 1.5802,
+        "close": 1.5802,
+        "volume": 210.0,
+        "trade_count": 1.0,
+        "vwap": 1.5802
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 1.6,
+        "high": 1.6,
+        "low": 1.6,
+        "close": 1.6,
+        "volume": 283.0,
+        "trade_count": 5.0,
+        "vwap": 1.6
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 1.5801,
+        "high": 1.5801,
+        "low": 1.5801,
+        "close": 1.5801,
+        "volume": 116.0,
+        "trade_count": 1.0,
+        "vwap": 1.5801
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 1.57,
+        "high": 1.57,
+        "low": 1.57,
+        "close": 1.57,
+        "volume": 470.0,
+        "trade_count": 12.0,
+        "vwap": 1.575657
+    },
+    {
+        "symbol": "EZGO",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 1.56,
+        "high": 1.56,
+        "low": 1.56,
+        "close": 1.56,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 1.56
+    }
+]

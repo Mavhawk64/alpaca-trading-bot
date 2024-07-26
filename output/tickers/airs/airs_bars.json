@@ -1,0 +1,156 @@
+[
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.77,
+        "high": 4.77,
+        "low": 4.7,
+        "close": 4.7,
+        "volume": 1006.0,
+        "trade_count": 9.0,
+        "vwap": 4.728946
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 4.7,
+        "high": 4.7,
+        "low": 4.7,
+        "close": 4.7,
+        "volume": 211.0,
+        "trade_count": 4.0,
+        "vwap": 4.7
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 4.7,
+        "high": 4.7,
+        "low": 4.7,
+        "close": 4.7,
+        "volume": 1176.0,
+        "trade_count": 14.0,
+        "vwap": 4.7
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 4.7,
+        "high": 4.7,
+        "low": 4.7,
+        "close": 4.7,
+        "volume": 442.0,
+        "trade_count": 5.0,
+        "vwap": 4.7
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 4.7,
+        "high": 4.7,
+        "low": 4.7,
+        "close": 4.7,
+        "volume": 1010.0,
+        "trade_count": 13.0,
+        "vwap": 4.7
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 4.7,
+        "high": 4.7,
+        "low": 4.7,
+        "close": 4.7,
+        "volume": 1141.0,
+        "trade_count": 14.0,
+        "vwap": 4.7
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 4.7,
+        "high": 4.7,
+        "low": 4.7,
+        "close": 4.7,
+        "volume": 127.0,
+        "trade_count": 2.0,
+        "vwap": 4.7
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 4.69,
+        "high": 4.69,
+        "low": 4.69,
+        "close": 4.69,
+        "volume": 261.0,
+        "trade_count": 6.0,
+        "vwap": 4.686627
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 4.7,
+        "high": 4.75,
+        "low": 4.69,
+        "close": 4.75,
+        "volume": 3735.0,
+        "trade_count": 19.0,
+        "vwap": 4.710522
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 4.72,
+        "high": 4.72,
+        "low": 4.72,
+        "close": 4.72,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 4.715
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 4.71,
+        "high": 4.71,
+        "low": 4.71,
+        "close": 4.71,
+        "volume": 197.0,
+        "trade_count": 4.0,
+        "vwap": 4.71
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 4.7397,
+        "high": 4.7399,
+        "low": 4.7397,
+        "close": 4.7399,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 4.73986
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 4.74,
+        "high": 4.74,
+        "low": 4.72,
+        "close": 4.73,
+        "volume": 903.0,
+        "trade_count": 8.0,
+        "vwap": 4.723322
+    },
+    {
+        "symbol": "AIRS",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 4.71,
+        "high": 4.71,
+        "low": 4.7,
+        "close": 4.7,
+        "volume": 2592.0,
+        "trade_count": 7.0,
+        "vwap": 4.700837
+    }
+]

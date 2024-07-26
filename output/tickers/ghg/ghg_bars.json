@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "GHG",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 2.5099,
+        "high": 2.5099,
+        "low": 2.5099,
+        "close": 2.5099,
+        "volume": 167.0,
+        "trade_count": 1.0,
+        "vwap": 2.5099
+    },
+    {
+        "symbol": "GHG",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 2.49,
+        "high": 2.49,
+        "low": 2.49,
+        "close": 2.49,
+        "volume": 203.0,
+        "trade_count": 6.0,
+        "vwap": 2.490148
+    },
+    {
+        "symbol": "GHG",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 2.5,
+        "high": 2.5,
+        "low": 2.4999,
+        "close": 2.4999,
+        "volume": 600.0,
+        "trade_count": 3.0,
+        "vwap": 2.499967
+    }
+]

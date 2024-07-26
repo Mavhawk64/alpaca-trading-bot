@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "TATT",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 13.97,
+        "high": 13.97,
+        "low": 13.97,
+        "close": 13.97,
+        "volume": 244.0,
+        "trade_count": 4.0,
+        "vwap": 13.972951
+    },
+    {
+        "symbol": "TATT",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 13.9701,
+        "high": 13.9701,
+        "low": 13.9701,
+        "close": 13.9701,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 13.9701
+    }
+]

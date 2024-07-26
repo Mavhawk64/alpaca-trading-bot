@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "PBHC",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 15.934,
+        "high": 15.934,
+        "low": 15.9,
+        "close": 15.91,
+        "volume": 561.0,
+        "trade_count": 7.0,
+        "vwap": 15.908111
+    },
+    {
+        "symbol": "PBHC",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 15.89,
+        "high": 15.89,
+        "low": 15.89,
+        "close": 15.89,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.89
+    }
+]

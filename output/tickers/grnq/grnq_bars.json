@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "GRNQ",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 1.11,
+        "high": 1.11,
+        "low": 1.11,
+        "close": 1.11,
+        "volume": 800.0,
+        "trade_count": 1.0,
+        "vwap": 1.11
+    },
+    {
+        "symbol": "GRNQ",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 1.115,
+        "high": 1.115,
+        "low": 1.0301,
+        "close": 1.0301,
+        "volume": 238.0,
+        "trade_count": 9.0,
+        "vwap": 1.073866
+    },
+    {
+        "symbol": "GRNQ",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 1.197,
+        "high": 1.197,
+        "low": 1.197,
+        "close": 1.197,
+        "volume": 291.0,
+        "trade_count": 1.0,
+        "vwap": 1.197
+    },
+    {
+        "symbol": "GRNQ",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 1.19,
+        "high": 1.19,
+        "low": 1.19,
+        "close": 1.19,
+        "volume": 291.0,
+        "trade_count": 1.0,
+        "vwap": 1.19
+    }
+]

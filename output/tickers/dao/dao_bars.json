@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "DAO",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 3.58,
+        "high": 3.58,
+        "low": 3.58,
+        "close": 3.58,
+        "volume": 229.0,
+        "trade_count": 5.0,
+        "vwap": 3.584432
+    },
+    {
+        "symbol": "DAO",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 3.61,
+        "high": 3.61,
+        "low": 3.61,
+        "close": 3.61,
+        "volume": 205.0,
+        "trade_count": 3.0,
+        "vwap": 3.61
+    },
+    {
+        "symbol": "DAO",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 3.62,
+        "high": 3.63,
+        "low": 3.62,
+        "close": 3.63,
+        "volume": 510.0,
+        "trade_count": 8.0,
+        "vwap": 3.62702
+    },
+    {
+        "symbol": "DAO",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 3.56,
+        "high": 3.56,
+        "low": 3.56,
+        "close": 3.56,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.56
+    }
+]

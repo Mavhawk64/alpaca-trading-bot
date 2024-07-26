@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "LSH",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 2.5001,
+        "high": 2.75,
+        "low": 2.5001,
+        "close": 2.75,
+        "volume": 259.0,
+        "trade_count": 3.0,
+        "vwap": 2.605676
+    },
+    {
+        "symbol": "LSH",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 2.6,
+        "high": 2.6,
+        "low": 2.6,
+        "close": 2.6,
+        "volume": 120.0,
+        "trade_count": 2.0,
+        "vwap": 2.593333
+    },
+    {
+        "symbol": "LSH",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 2.3989,
+        "high": 2.3989,
+        "low": 2.3989,
+        "close": 2.3989,
+        "volume": 1500.0,
+        "trade_count": 1.0,
+        "vwap": 2.3989
+    },
+    {
+        "symbol": "LSH",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 2.3901,
+        "high": 2.3901,
+        "low": 2.39,
+        "close": 2.39,
+        "volume": 1000.0,
+        "trade_count": 3.0,
+        "vwap": 2.394512
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "CLNN",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.42,
+        "high": 4.5307,
+        "low": 4.42,
+        "close": 4.5307,
+        "volume": 1032.0,
+        "trade_count": 15.0,
+        "vwap": 4.45625
+    },
+    {
+        "symbol": "CLNN",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 4.56,
+        "high": 4.56,
+        "low": 4.56,
+        "close": 4.56,
+        "volume": 170.0,
+        "trade_count": 3.0,
+        "vwap": 4.608
+    },
+    {
+        "symbol": "CLNN",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 4.57,
+        "high": 4.6716,
+        "low": 4.57,
+        "close": 4.6716,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 4.6462
+    },
+    {
+        "symbol": "CLNN",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 4.5834,
+        "high": 4.5834,
+        "low": 4.5834,
+        "close": 4.5834,
+        "volume": 328.0,
+        "trade_count": 7.0,
+        "vwap": 4.57674
+    },
+    {
+        "symbol": "CLNN",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 4.565,
+        "high": 4.67,
+        "low": 4.565,
+        "close": 4.67,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 4.6343
+    },
+    {
+        "symbol": "CLNN",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 4.67,
+        "high": 4.67,
+        "low": 4.67,
+        "close": 4.67,
+        "volume": 126.0,
+        "trade_count": 5.0,
+        "vwap": 4.636386
+    },
+    {
+        "symbol": "CLNN",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 4.66,
+        "high": 4.66,
+        "low": 4.66,
+        "close": 4.66,
+        "volume": 195.0,
+        "trade_count": 2.0,
+        "vwap": 4.659185
+    },
+    {
+        "symbol": "CLNN",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 4.5,
+        "high": 4.5,
+        "low": 4.5,
+        "close": 4.5,
+        "volume": 2100.0,
+        "trade_count": 5.0,
+        "vwap": 4.5
+    },
+    {
+        "symbol": "CLNN",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 4.55,
+        "high": 4.55,
+        "low": 4.55,
+        "close": 4.55,
+        "volume": 337.0,
+        "trade_count": 3.0,
+        "vwap": 4.55
+    },
+    {
+        "symbol": "CLNN",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 4.55,
+        "high": 4.55,
+        "low": 4.55,
+        "close": 4.55,
+        "volume": 4664.0,
+        "trade_count": 15.0,
+        "vwap": 4.55
+    }
+]

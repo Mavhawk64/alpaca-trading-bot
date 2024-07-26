@@ -1,0 +1,233 @@
+[
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 9.05,
+        "high": 9.75,
+        "low": 9.05,
+        "close": 9.75,
+        "volume": 1241.0,
+        "trade_count": 7.0,
+        "vwap": 9.176966
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 9.35,
+        "high": 9.415,
+        "low": 9.35,
+        "close": 9.415,
+        "volume": 398.0,
+        "trade_count": 18.0,
+        "vwap": 9.405113
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 9.1501,
+        "high": 9.36,
+        "low": 8.92,
+        "close": 8.92,
+        "volume": 2603.0,
+        "trade_count": 16.0,
+        "vwap": 9.078232
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 9.43,
+        "high": 9.456,
+        "low": 9.025,
+        "close": 9.025,
+        "volume": 8410.0,
+        "trade_count": 37.0,
+        "vwap": 9.296414
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 9.02,
+        "high": 9.05,
+        "low": 9.02,
+        "close": 9.05,
+        "volume": 1756.0,
+        "trade_count": 16.0,
+        "vwap": 9.024276
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 9.364,
+        "high": 9.74,
+        "low": 8.8,
+        "close": 9.04,
+        "volume": 1455.0,
+        "trade_count": 9.0,
+        "vwap": 9.120466
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 9.04,
+        "high": 9.32,
+        "low": 8.82,
+        "close": 8.9952,
+        "volume": 3271.0,
+        "trade_count": 26.0,
+        "vwap": 8.966854
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 8.8,
+        "high": 8.955,
+        "low": 8.7963,
+        "close": 8.7963,
+        "volume": 843.0,
+        "trade_count": 12.0,
+        "vwap": 8.843799
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 8.81,
+        "high": 8.81,
+        "low": 8.8,
+        "close": 8.8,
+        "volume": 5200.0,
+        "trade_count": 7.0,
+        "vwap": 8.800385
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 8.76,
+        "high": 8.76,
+        "low": 8.75,
+        "close": 8.75,
+        "volume": 242.0,
+        "trade_count": 4.0,
+        "vwap": 8.754132
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 8.75,
+        "high": 8.75,
+        "low": 8.68,
+        "close": 8.7065,
+        "volume": 401.0,
+        "trade_count": 6.0,
+        "vwap": 8.750125
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 8.68,
+        "high": 8.68,
+        "low": 8.53,
+        "close": 8.53,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 8.605
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 8.5201,
+        "high": 8.56,
+        "low": 8.5201,
+        "close": 8.56,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 8.5334
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 8.53,
+        "high": 8.53,
+        "low": 8.53,
+        "close": 8.53,
+        "volume": 187.0,
+        "trade_count": 3.0,
+        "vwap": 8.537219
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 8.755,
+        "high": 8.755,
+        "low": 8.755,
+        "close": 8.755,
+        "volume": 499.0,
+        "trade_count": 4.0,
+        "vwap": 8.755
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 8.7,
+        "high": 8.7,
+        "low": 8.7,
+        "close": 8.7,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 8.7
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 8.75,
+        "high": 8.75,
+        "low": 8.75,
+        "close": 8.75,
+        "volume": 201.0,
+        "trade_count": 3.0,
+        "vwap": 8.75
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 8.75,
+        "high": 8.75,
+        "low": 8.75,
+        "close": 8.75,
+        "volume": 146.0,
+        "trade_count": 2.0,
+        "vwap": 8.75
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 8.75,
+        "high": 8.75,
+        "low": 8.75,
+        "close": 8.75,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 8.75
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 8.98,
+        "high": 8.98,
+        "low": 8.98,
+        "close": 8.98,
+        "volume": 105.0,
+        "trade_count": 3.0,
+        "vwap": 8.970095
+    },
+    {
+        "symbol": "ENGN",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 8.86,
+        "high": 8.86,
+        "low": 8.86,
+        "close": 8.86,
+        "volume": 864.0,
+        "trade_count": 7.0,
+        "vwap": 8.851979
+    }
+]

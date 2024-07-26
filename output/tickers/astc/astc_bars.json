@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "ASTC",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 8.92,
+        "high": 8.92,
+        "low": 8.92,
+        "close": 8.92,
+        "volume": 250.0,
+        "trade_count": 3.0,
+        "vwap": 8.92
+    },
+    {
+        "symbol": "ASTC",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 8.67,
+        "high": 8.67,
+        "low": 8.67,
+        "close": 8.67,
+        "volume": 575.0,
+        "trade_count": 2.0,
+        "vwap": 8.67
+    },
+    {
+        "symbol": "ASTC",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 8.9821,
+        "high": 8.9821,
+        "low": 8.9821,
+        "close": 8.9821,
+        "volume": 461.0,
+        "trade_count": 1.0,
+        "vwap": 8.9821
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.28,
+        "high": 4.34,
+        "low": 4.28,
+        "close": 4.34,
+        "volume": 4842.0,
+        "trade_count": 6.0,
+        "vwap": 4.281264
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 4.325,
+        "high": 4.37,
+        "low": 4.325,
+        "close": 4.37,
+        "volume": 558.0,
+        "trade_count": 6.0,
+        "vwap": 4.351935
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 4.37,
+        "high": 4.39,
+        "low": 4.37,
+        "close": 4.39,
+        "volume": 644.0,
+        "trade_count": 15.0,
+        "vwap": 4.373106
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 4.31,
+        "high": 4.31,
+        "low": 4.31,
+        "close": 4.31,
+        "volume": 185.0,
+        "trade_count": 6.0,
+        "vwap": 4.327784
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 4.39,
+        "high": 4.39,
+        "low": 4.39,
+        "close": 4.39,
+        "volume": 102.0,
+        "trade_count": 3.0,
+        "vwap": 4.38951
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 4.33,
+        "high": 4.33,
+        "low": 4.33,
+        "close": 4.33,
+        "volume": 319.0,
+        "trade_count": 6.0,
+        "vwap": 4.327241
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 4.31,
+        "high": 4.31,
+        "low": 4.31,
+        "close": 4.31,
+        "volume": 448.0,
+        "trade_count": 12.0,
+        "vwap": 4.31029
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 4.289,
+        "high": 4.289,
+        "low": 4.289,
+        "close": 4.289,
+        "volume": 199.0,
+        "trade_count": 3.0,
+        "vwap": 4.284658
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 4.25,
+        "high": 4.26,
+        "low": 4.25,
+        "close": 4.26,
+        "volume": 531.0,
+        "trade_count": 5.0,
+        "vwap": 4.255556
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 4.28,
+        "high": 4.28,
+        "low": 4.28,
+        "close": 4.28,
+        "volume": 702.0,
+        "trade_count": 14.0,
+        "vwap": 4.277728
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 4.3,
+        "high": 4.31,
+        "low": 4.29,
+        "close": 4.29,
+        "volume": 711.0,
+        "trade_count": 13.0,
+        "vwap": 4.300352
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 4.3,
+        "high": 4.3,
+        "low": 4.3,
+        "close": 4.3,
+        "volume": 453.0,
+        "trade_count": 6.0,
+        "vwap": 4.3
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 4.28,
+        "high": 4.28,
+        "low": 4.28,
+        "close": 4.28,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.28
+    },
+    {
+        "symbol": "RMBL",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 4.28,
+        "high": 4.28,
+        "low": 4.28,
+        "close": 4.28,
+        "volume": 334.0,
+        "trade_count": 6.0,
+        "vwap": 4.28
+    }
+]

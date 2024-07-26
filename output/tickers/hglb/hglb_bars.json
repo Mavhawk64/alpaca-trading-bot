@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "HGLB",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 7.69,
+        "high": 7.69,
+        "low": 7.69,
+        "close": 7.69,
+        "volume": 526.0,
+        "trade_count": 3.0,
+        "vwap": 7.691901
+    },
+    {
+        "symbol": "HGLB",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 7.7599,
+        "high": 7.7599,
+        "low": 7.7599,
+        "close": 7.7599,
+        "volume": 370.0,
+        "trade_count": 1.0,
+        "vwap": 7.7599
+    },
+    {
+        "symbol": "HGLB",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 7.73,
+        "high": 7.73,
+        "low": 7.73,
+        "close": 7.73,
+        "volume": 305.0,
+        "trade_count": 2.0,
+        "vwap": 7.730075
+    },
+    {
+        "symbol": "HGLB",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 7.735,
+        "high": 7.735,
+        "low": 7.735,
+        "close": 7.735,
+        "volume": 152.0,
+        "trade_count": 1.0,
+        "vwap": 7.735
+    },
+    {
+        "symbol": "HGLB",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 7.74,
+        "high": 7.74,
+        "low": 7.6919,
+        "close": 7.6919,
+        "volume": 1010.0,
+        "trade_count": 4.0,
+        "vwap": 7.732782
+    },
+    {
+        "symbol": "HGLB",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 7.7399,
+        "high": 7.7399,
+        "low": 7.7399,
+        "close": 7.7399,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 7.7399
+    },
+    {
+        "symbol": "HGLB",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 7.7399,
+        "high": 7.7399,
+        "low": 7.69,
+        "close": 7.69,
+        "volume": 2719.0,
+        "trade_count": 3.0,
+        "vwap": 7.691835
+    },
+    {
+        "symbol": "HGLB",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 7.72,
+        "high": 7.72,
+        "low": 7.72,
+        "close": 7.72,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 7.72
+    },
+    {
+        "symbol": "HGLB",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 7.69,
+        "high": 7.69,
+        "low": 7.69,
+        "close": 7.69,
+        "volume": 478.0,
+        "trade_count": 7.0,
+        "vwap": 7.69
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "ALCY",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 10.77,
+        "high": 10.78,
+        "low": 10.77,
+        "close": 10.78,
+        "volume": 1775.0,
+        "trade_count": 7.0,
+        "vwap": 10.775025
+    },
+    {
+        "symbol": "ALCY",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 10.761,
+        "high": 10.761,
+        "low": 10.761,
+        "close": 10.761,
+        "volume": 889.0,
+        "trade_count": 1.0,
+        "vwap": 10.761
+    },
+    {
+        "symbol": "ALCY",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 10.77,
+        "high": 10.77,
+        "low": 10.77,
+        "close": 10.77,
+        "volume": 1042.0,
+        "trade_count": 3.0,
+        "vwap": 10.77
+    }
+]

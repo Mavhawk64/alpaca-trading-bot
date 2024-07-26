@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "MI",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 4.54,
+        "high": 4.54,
+        "low": 4.54,
+        "close": 4.54,
+        "volume": 272.0,
+        "trade_count": 1.0,
+        "vwap": 4.54
+    },
+    {
+        "symbol": "MI",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 4.7275,
+        "high": 4.7275,
+        "low": 4.7275,
+        "close": 4.7275,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.7275
+    },
+    {
+        "symbol": "MI",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 4.54,
+        "high": 4.54,
+        "low": 4.54,
+        "close": 4.54,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 4.54
+    }
+]

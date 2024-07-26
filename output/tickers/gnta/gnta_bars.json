@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "GNTA",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 4.0,
+        "high": 4.0,
+        "low": 4.0,
+        "close": 4.0,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 4.0
+    },
+    {
+        "symbol": "GNTA",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 4.22,
+        "high": 4.22,
+        "low": 4.22,
+        "close": 4.22,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.22
+    },
+    {
+        "symbol": "GNTA",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 4.1311,
+        "high": 4.16,
+        "low": 4.1311,
+        "close": 4.16,
+        "volume": 2144.0,
+        "trade_count": 18.0,
+        "vwap": 4.143708
+    },
+    {
+        "symbol": "GNTA",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 4.26,
+        "high": 4.26,
+        "low": 4.26,
+        "close": 4.26,
+        "volume": 178.0,
+        "trade_count": 5.0,
+        "vwap": 4.255056
+    }
+]

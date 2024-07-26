@@ -1,0 +1,167 @@
+[
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 14.05,
+        "high": 14.05,
+        "low": 14.05,
+        "close": 14.05,
+        "volume": 2330.0,
+        "trade_count": 2.0,
+        "vwap": 14.05
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 14.04,
+        "high": 14.04,
+        "low": 14.04,
+        "close": 14.04,
+        "volume": 860.0,
+        "trade_count": 2.0,
+        "vwap": 14.040047
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 13.9984,
+        "high": 13.9984,
+        "low": 13.9984,
+        "close": 13.9984,
+        "volume": 203.0,
+        "trade_count": 2.0,
+        "vwap": 13.9984
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 14.03,
+        "high": 14.03,
+        "low": 14.03,
+        "close": 14.03,
+        "volume": 180.0,
+        "trade_count": 2.0,
+        "vwap": 14.036844
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 13.9914,
+        "high": 13.9914,
+        "low": 13.9914,
+        "close": 13.9914,
+        "volume": 625.0,
+        "trade_count": 1.0,
+        "vwap": 13.9914
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 14.0615,
+        "high": 14.0615,
+        "low": 14.0615,
+        "close": 14.0615,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.0615
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 14.0162,
+        "high": 14.0162,
+        "low": 14.0162,
+        "close": 14.0162,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 14.0162
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 14.025,
+        "high": 14.025,
+        "low": 14.025,
+        "close": 14.025,
+        "volume": 642.0,
+        "trade_count": 1.0,
+        "vwap": 14.025
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 14.0,
+        "high": 14.0236,
+        "low": 14.0,
+        "close": 14.0053,
+        "volume": 1648.0,
+        "trade_count": 9.0,
+        "vwap": 14.005467
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 14.02,
+        "high": 14.02,
+        "low": 13.99,
+        "close": 13.99,
+        "volume": 1600.0,
+        "trade_count": 4.0,
+        "vwap": 14.01625
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 14.0,
+        "high": 14.0275,
+        "low": 13.99,
+        "close": 14.0275,
+        "volume": 2876.0,
+        "trade_count": 26.0,
+        "vwap": 14.003169
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 14.011,
+        "high": 14.011,
+        "low": 14.011,
+        "close": 14.011,
+        "volume": 1006.0,
+        "trade_count": 1.0,
+        "vwap": 14.011
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 14.0,
+        "high": 14.0056,
+        "low": 14.0,
+        "close": 14.0055,
+        "volume": 1812.0,
+        "trade_count": 4.0,
+        "vwap": 14.004181
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 14.0011,
+        "high": 14.0011,
+        "low": 14.0011,
+        "close": 14.0011,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.0011
+    },
+    {
+        "symbol": "BLW",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 14.01,
+        "high": 14.01,
+        "low": 14.0,
+        "close": 14.0,
+        "volume": 3302.0,
+        "trade_count": 5.0,
+        "vwap": 14.009394
+    }
+]

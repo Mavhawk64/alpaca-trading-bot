@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "TDF",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 7.77,
+        "high": 7.77,
+        "low": 7.77,
+        "close": 7.77,
+        "volume": 747.0,
+        "trade_count": 1.0,
+        "vwap": 7.77
+    },
+    {
+        "symbol": "TDF",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 7.7749,
+        "high": 7.7749,
+        "low": 7.7749,
+        "close": 7.7749,
+        "volume": 392.0,
+        "trade_count": 1.0,
+        "vwap": 7.7749
+    },
+    {
+        "symbol": "TDF",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 7.77,
+        "high": 7.79,
+        "low": 7.77,
+        "close": 7.79,
+        "volume": 2800.0,
+        "trade_count": 12.0,
+        "vwap": 7.786429
+    },
+    {
+        "symbol": "TDF",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 7.7907,
+        "high": 7.8003,
+        "low": 7.7907,
+        "close": 7.8003,
+        "volume": 3501.0,
+        "trade_count": 8.0,
+        "vwap": 7.797561
+    },
+    {
+        "symbol": "TDF",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 7.79,
+        "high": 7.79,
+        "low": 7.79,
+        "close": 7.79,
+        "volume": 1400.0,
+        "trade_count": 1.0,
+        "vwap": 7.79
+    },
+    {
+        "symbol": "TDF",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 7.78,
+        "high": 7.79,
+        "low": 7.77,
+        "close": 7.77,
+        "volume": 3070.0,
+        "trade_count": 22.0,
+        "vwap": 7.779577
+    },
+    {
+        "symbol": "TDF",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 7.7833,
+        "high": 7.7833,
+        "low": 7.7833,
+        "close": 7.7833,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 7.7833
+    },
+    {
+        "symbol": "TDF",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 7.785,
+        "high": 7.785,
+        "low": 7.785,
+        "close": 7.785,
+        "volume": 700.0,
+        "trade_count": 1.0,
+        "vwap": 7.785
+    },
+    {
+        "symbol": "TDF",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 7.79,
+        "high": 7.79,
+        "low": 7.79,
+        "close": 7.79,
+        "volume": 136.0,
+        "trade_count": 1.0,
+        "vwap": 7.79
+    }
+]

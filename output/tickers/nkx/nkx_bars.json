@@ -1,0 +1,222 @@
+[
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 12.66,
+        "high": 12.66,
+        "low": 12.66,
+        "close": 12.66,
+        "volume": 8961.0,
+        "trade_count": 4.0,
+        "vwap": 12.66
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 12.66,
+        "high": 12.66,
+        "low": 12.66,
+        "close": 12.66,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 12.66
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 12.667,
+        "high": 12.675,
+        "low": 12.667,
+        "close": 12.675,
+        "volume": 3101.0,
+        "trade_count": 3.0,
+        "vwap": 12.667256
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 12.675,
+        "high": 12.675,
+        "low": 12.66,
+        "close": 12.66,
+        "volume": 2208.0,
+        "trade_count": 19.0,
+        "vwap": 12.662491
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 12.64,
+        "high": 12.64,
+        "low": 12.64,
+        "close": 12.64,
+        "volume": 400.0,
+        "trade_count": 3.0,
+        "vwap": 12.64
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 12.63,
+        "high": 12.63,
+        "low": 12.63,
+        "close": 12.63,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 12.63
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 12.64,
+        "high": 12.6498,
+        "low": 12.63,
+        "close": 12.63,
+        "volume": 5110.0,
+        "trade_count": 7.0,
+        "vwap": 12.643826
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 12.63,
+        "high": 12.63,
+        "low": 12.63,
+        "close": 12.63,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 12.63
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 12.635,
+        "high": 12.6398,
+        "low": 12.635,
+        "close": 12.635,
+        "volume": 700.0,
+        "trade_count": 4.0,
+        "vwap": 12.638414
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 12.635,
+        "high": 12.635,
+        "low": 12.6101,
+        "close": 12.62,
+        "volume": 8572.0,
+        "trade_count": 28.0,
+        "vwap": 12.621967
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 12.6298,
+        "high": 12.6298,
+        "low": 12.6298,
+        "close": 12.6298,
+        "volume": 600.0,
+        "trade_count": 1.0,
+        "vwap": 12.6298
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 12.62,
+        "high": 12.62,
+        "low": 12.62,
+        "close": 12.62,
+        "volume": 228.0,
+        "trade_count": 4.0,
+        "vwap": 12.62
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 12.62,
+        "high": 12.62,
+        "low": 12.62,
+        "close": 12.62,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 12.62
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 12.625,
+        "high": 12.63,
+        "low": 12.625,
+        "close": 12.6299,
+        "volume": 3752.0,
+        "trade_count": 15.0,
+        "vwap": 12.62685
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 12.63,
+        "high": 12.63,
+        "low": 12.63,
+        "close": 12.63,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 12.63
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 12.635,
+        "high": 12.64,
+        "low": 12.635,
+        "close": 12.64,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 12.6375
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 12.63,
+        "high": 12.63,
+        "low": 12.63,
+        "close": 12.63,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 12.63
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 12.63,
+        "high": 12.63,
+        "low": 12.63,
+        "close": 12.63,
+        "volume": 199.0,
+        "trade_count": 2.0,
+        "vwap": 12.63
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 12.625,
+        "high": 12.65,
+        "low": 12.6239,
+        "close": 12.65,
+        "volume": 3200.0,
+        "trade_count": 35.0,
+        "vwap": 12.639459
+    },
+    {
+        "symbol": "NKX",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 12.645,
+        "high": 12.66,
+        "low": 12.645,
+        "close": 12.66,
+        "volume": 925.0,
+        "trade_count": 2.0,
+        "vwap": 12.646622
+    }
+]

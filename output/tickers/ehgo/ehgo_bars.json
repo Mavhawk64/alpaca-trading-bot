@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "EHGO",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 1.66,
+        "high": 1.66,
+        "low": 1.66,
+        "close": 1.66,
+        "volume": 324.0,
+        "trade_count": 10.0,
+        "vwap": 1.746667
+    },
+    {
+        "symbol": "EHGO",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 1.7846,
+        "high": 1.7846,
+        "low": 1.7846,
+        "close": 1.7846,
+        "volume": 421.0,
+        "trade_count": 1.0,
+        "vwap": 1.7846
+    },
+    {
+        "symbol": "EHGO",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 1.78,
+        "high": 1.78,
+        "low": 1.78,
+        "close": 1.78,
+        "volume": 190.0,
+        "trade_count": 1.0,
+        "vwap": 1.78
+    },
+    {
+        "symbol": "EHGO",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 1.66,
+        "high": 1.66,
+        "low": 1.5998,
+        "close": 1.6,
+        "volume": 5214.0,
+        "trade_count": 25.0,
+        "vwap": 1.621332
+    },
+    {
+        "symbol": "EHGO",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 1.64,
+        "high": 1.65,
+        "low": 1.64,
+        "close": 1.65,
+        "volume": 1500.0,
+        "trade_count": 13.0,
+        "vwap": 1.646373
+    },
+    {
+        "symbol": "EHGO",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 1.62,
+        "high": 1.62,
+        "low": 1.62,
+        "close": 1.62,
+        "volume": 232.0,
+        "trade_count": 1.0,
+        "vwap": 1.62
+    },
+    {
+        "symbol": "EHGO",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 1.543,
+        "high": 1.543,
+        "low": 1.543,
+        "close": 1.543,
+        "volume": 245.0,
+        "trade_count": 1.0,
+        "vwap": 1.543
+    },
+    {
+        "symbol": "EHGO",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 1.64,
+        "high": 1.64,
+        "low": 1.64,
+        "close": 1.64,
+        "volume": 217.0,
+        "trade_count": 1.0,
+        "vwap": 1.64
+    },
+    {
+        "symbol": "EHGO",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 1.62,
+        "high": 1.62,
+        "low": 1.62,
+        "close": 1.62,
+        "volume": 1765.0,
+        "trade_count": 14.0,
+        "vwap": 1.630085
+    },
+    {
+        "symbol": "EHGO",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 1.675,
+        "high": 1.675,
+        "low": 1.6,
+        "close": 1.61,
+        "volume": 1869.0,
+        "trade_count": 12.0,
+        "vwap": 1.639711
+    }
+]

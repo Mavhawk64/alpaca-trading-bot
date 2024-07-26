@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "CALC",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 3.9111,
+        "high": 3.9111,
+        "low": 3.9111,
+        "close": 3.9111,
+        "volume": 510.0,
+        "trade_count": 1.0,
+        "vwap": 3.9111
+    },
+    {
+        "symbol": "CALC",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 3.955,
+        "high": 3.955,
+        "low": 3.955,
+        "close": 3.955,
+        "volume": 352.0,
+        "trade_count": 2.0,
+        "vwap": 3.956989
+    },
+    {
+        "symbol": "CALC",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 3.95,
+        "high": 3.95,
+        "low": 3.95,
+        "close": 3.95,
+        "volume": 130.0,
+        "trade_count": 3.0,
+        "vwap": 3.956923
+    }
+]

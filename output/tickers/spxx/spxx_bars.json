@@ -1,0 +1,189 @@
+[
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 16.35,
+        "high": 16.35,
+        "low": 16.23,
+        "close": 16.23,
+        "volume": 7660.0,
+        "trade_count": 3.0,
+        "vwap": 16.348267
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 16.23,
+        "high": 16.23,
+        "low": 16.23,
+        "close": 16.23,
+        "volume": 600.0,
+        "trade_count": 6.0,
+        "vwap": 16.23
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 16.23,
+        "high": 16.23,
+        "low": 16.23,
+        "close": 16.23,
+        "volume": 115.0,
+        "trade_count": 4.0,
+        "vwap": 16.230348
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 16.2139,
+        "high": 16.2139,
+        "low": 16.2139,
+        "close": 16.2139,
+        "volume": 150.0,
+        "trade_count": 1.0,
+        "vwap": 16.2139
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 16.245,
+        "high": 16.245,
+        "low": 16.245,
+        "close": 16.245,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.245
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 16.1901,
+        "high": 16.1901,
+        "low": 16.1901,
+        "close": 16.1901,
+        "volume": 345.0,
+        "trade_count": 1.0,
+        "vwap": 16.1901
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 16.25,
+        "high": 16.25,
+        "low": 16.25,
+        "close": 16.25,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.25
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 16.29,
+        "high": 16.29,
+        "low": 16.29,
+        "close": 16.29,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 16.29
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 16.29,
+        "high": 16.3,
+        "low": 16.29,
+        "close": 16.3,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 16.295
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 16.3,
+        "high": 16.3,
+        "low": 16.3,
+        "close": 16.3,
+        "volume": 402.0,
+        "trade_count": 7.0,
+        "vwap": 16.299776
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 16.3,
+        "high": 16.3,
+        "low": 16.29,
+        "close": 16.29,
+        "volume": 480.0,
+        "trade_count": 3.0,
+        "vwap": 16.297917
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 16.265,
+        "high": 16.265,
+        "low": 16.265,
+        "close": 16.265,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.265
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 16.2414,
+        "high": 16.2414,
+        "low": 16.2414,
+        "close": 16.2414,
+        "volume": 254.0,
+        "trade_count": 1.0,
+        "vwap": 16.2414
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 16.29,
+        "high": 16.29,
+        "low": 16.29,
+        "close": 16.29,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 16.29
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 16.29,
+        "high": 16.29,
+        "low": 16.29,
+        "close": 16.29,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.29
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 16.29,
+        "high": 16.29,
+        "low": 16.29,
+        "close": 16.29,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.29
+    },
+    {
+        "symbol": "SPXX",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 16.29,
+        "high": 16.3,
+        "low": 16.29,
+        "close": 16.29,
+        "volume": 1000.0,
+        "trade_count": 6.0,
+        "vwap": 16.298
+    }
+]

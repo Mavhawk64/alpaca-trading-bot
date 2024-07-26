@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "WNEB",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 8.49,
+        "high": 8.49,
+        "low": 8.49,
+        "close": 8.49,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 8.49
+    },
+    {
+        "symbol": "WNEB",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 8.51,
+        "high": 8.51,
+        "low": 8.51,
+        "close": 8.51,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 8.509406
+    },
+    {
+        "symbol": "WNEB",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 8.505,
+        "high": 8.505,
+        "low": 8.505,
+        "close": 8.505,
+        "volume": 494.0,
+        "trade_count": 1.0,
+        "vwap": 8.505
+    },
+    {
+        "symbol": "WNEB",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 8.59,
+        "high": 8.59,
+        "low": 8.59,
+        "close": 8.59,
+        "volume": 200.0,
+        "trade_count": 4.0,
+        "vwap": 8.5762
+    },
+    {
+        "symbol": "WNEB",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 8.475,
+        "high": 8.475,
+        "low": 8.475,
+        "close": 8.475,
+        "volume": 144.0,
+        "trade_count": 4.0,
+        "vwap": 8.4775
+    },
+    {
+        "symbol": "WNEB",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 8.4115,
+        "high": 8.4115,
+        "low": 8.4115,
+        "close": 8.4115,
+        "volume": 2319.0,
+        "trade_count": 6.0,
+        "vwap": 8.414069
+    },
+    {
+        "symbol": "WNEB",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 8.4101,
+        "high": 8.4101,
+        "low": 8.4101,
+        "close": 8.4101,
+        "volume": 2256.0,
+        "trade_count": 2.0,
+        "vwap": 8.410392
+    }
+]

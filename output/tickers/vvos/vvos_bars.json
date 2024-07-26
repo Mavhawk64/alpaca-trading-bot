@@ -1,0 +1,90 @@
+[
+    {
+        "symbol": "VVOS",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 2.42,
+        "high": 2.42,
+        "low": 2.42,
+        "close": 2.42,
+        "volume": 502.0,
+        "trade_count": 2.0,
+        "vwap": 2.419857
+    },
+    {
+        "symbol": "VVOS",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 2.4587,
+        "high": 2.4587,
+        "low": 2.4587,
+        "close": 2.4587,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.4587
+    },
+    {
+        "symbol": "VVOS",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 2.43,
+        "high": 2.43,
+        "low": 2.43,
+        "close": 2.43,
+        "volume": 394.0,
+        "trade_count": 5.0,
+        "vwap": 2.428094
+    },
+    {
+        "symbol": "VVOS",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 2.42,
+        "high": 2.42,
+        "low": 2.42,
+        "close": 2.42,
+        "volume": 147.0,
+        "trade_count": 2.0,
+        "vwap": 2.42
+    },
+    {
+        "symbol": "VVOS",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 2.4101,
+        "high": 2.4101,
+        "low": 2.4101,
+        "close": 2.4101,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.4101
+    },
+    {
+        "symbol": "VVOS",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 2.41,
+        "high": 2.41,
+        "low": 2.41,
+        "close": 2.41,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 2.41
+    },
+    {
+        "symbol": "VVOS",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 2.41,
+        "high": 2.41,
+        "low": 2.41,
+        "close": 2.41,
+        "volume": 739.0,
+        "trade_count": 7.0,
+        "vwap": 2.41
+    },
+    {
+        "symbol": "VVOS",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 2.375,
+        "high": 2.3902,
+        "low": 2.37,
+        "close": 2.3852,
+        "volume": 3200.0,
+        "trade_count": 11.0,
+        "vwap": 2.381853
+    }
+]

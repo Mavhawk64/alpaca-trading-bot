@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 18.97,
+        "high": 18.97,
+        "low": 18.97,
+        "close": 18.97,
+        "volume": 2000.0,
+        "trade_count": 2.0,
+        "vwap": 18.97
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 18.975,
+        "high": 18.975,
+        "low": 18.975,
+        "close": 18.975,
+        "volume": 595.0,
+        "trade_count": 4.0,
+        "vwap": 18.975602
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 18.98,
+        "high": 18.98,
+        "low": 18.98,
+        "close": 18.98,
+        "volume": 3000.0,
+        "trade_count": 1.0,
+        "vwap": 18.98
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 18.98,
+        "high": 18.98,
+        "low": 18.98,
+        "close": 18.98,
+        "volume": 2483.0,
+        "trade_count": 4.0,
+        "vwap": 18.98
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 18.94,
+        "high": 18.94,
+        "low": 18.94,
+        "close": 18.94,
+        "volume": 414.0,
+        "trade_count": 4.0,
+        "vwap": 18.939601
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 18.91,
+        "high": 18.91,
+        "low": 18.91,
+        "close": 18.91,
+        "volume": 352.0,
+        "trade_count": 1.0,
+        "vwap": 18.91
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 18.93,
+        "high": 18.93,
+        "low": 18.93,
+        "close": 18.93,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 18.930081
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 18.95,
+        "high": 18.95,
+        "low": 18.95,
+        "close": 18.95,
+        "volume": 377.0,
+        "trade_count": 3.0,
+        "vwap": 18.950318
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 19.02,
+        "high": 19.02,
+        "low": 19.02,
+        "close": 19.02,
+        "volume": 1227.0,
+        "trade_count": 4.0,
+        "vwap": 19.019992
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 18.9499,
+        "high": 18.9499,
+        "low": 18.9499,
+        "close": 18.9499,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 18.9499
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 18.9299,
+        "high": 18.9299,
+        "low": 18.9299,
+        "close": 18.9299,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 18.9299
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 18.94,
+        "high": 18.94,
+        "low": 18.94,
+        "close": 18.94,
+        "volume": 405.0,
+        "trade_count": 2.0,
+        "vwap": 18.94
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 18.9399,
+        "high": 18.9399,
+        "low": 18.9399,
+        "close": 18.9399,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 18.939703
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 18.92,
+        "high": 18.92,
+        "low": 18.92,
+        "close": 18.92,
+        "volume": 260.0,
+        "trade_count": 5.0,
+        "vwap": 18.9193
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 18.9001,
+        "high": 18.9001,
+        "low": 18.9001,
+        "close": 18.9001,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 18.9001
+    },
+    {
+        "symbol": "QQQT",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 18.92,
+        "high": 18.92,
+        "low": 18.92,
+        "close": 18.92,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 18.92
+    }
+]

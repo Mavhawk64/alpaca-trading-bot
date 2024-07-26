@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "NHS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 7.99,
+        "high": 7.99,
+        "low": 7.99,
+        "close": 7.99,
+        "volume": 5333.0,
+        "trade_count": 3.0,
+        "vwap": 7.989998
+    },
+    {
+        "symbol": "NHS",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 7.99,
+        "high": 7.99,
+        "low": 7.99,
+        "close": 7.99,
+        "volume": 198.0,
+        "trade_count": 4.0,
+        "vwap": 7.990038
+    },
+    {
+        "symbol": "NHS",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 7.99,
+        "high": 7.9903,
+        "low": 7.99,
+        "close": 7.99,
+        "volume": 4735.0,
+        "trade_count": 15.0,
+        "vwap": 7.990018
+    },
+    {
+        "symbol": "NHS",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 7.98,
+        "high": 7.985,
+        "low": 7.98,
+        "close": 7.985,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 7.981667
+    },
+    {
+        "symbol": "NHS",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 7.986,
+        "high": 7.986,
+        "low": 7.986,
+        "close": 7.986,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 7.986
+    },
+    {
+        "symbol": "NHS",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 7.98,
+        "high": 7.985,
+        "low": 7.98,
+        "close": 7.98,
+        "volume": 435.0,
+        "trade_count": 5.0,
+        "vwap": 7.981149
+    },
+    {
+        "symbol": "NHS",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 7.9808,
+        "high": 7.9808,
+        "low": 7.9808,
+        "close": 7.9808,
+        "volume": 1020.0,
+        "trade_count": 3.0,
+        "vwap": 7.98098
+    },
+    {
+        "symbol": "NHS",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 7.99,
+        "high": 7.99,
+        "low": 7.99,
+        "close": 7.99,
+        "volume": 1897.0,
+        "trade_count": 19.0,
+        "vwap": 7.99
+    },
+    {
+        "symbol": "NHS",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 7.999,
+        "high": 7.999,
+        "low": 7.99,
+        "close": 7.995,
+        "volume": 7025.0,
+        "trade_count": 11.0,
+        "vwap": 7.99814
+    },
+    {
+        "symbol": "NHS",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 7.99,
+        "high": 7.99,
+        "low": 7.99,
+        "close": 7.99,
+        "volume": 5126.0,
+        "trade_count": 2.0,
+        "vwap": 7.991863
+    }
+]

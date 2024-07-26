@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "NNAG",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 10.52,
+        "high": 10.52,
+        "low": 10.52,
+        "close": 10.52,
+        "volume": 679.0,
+        "trade_count": 2.0,
+        "vwap": 10.52
+    },
+    {
+        "symbol": "NNAG",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 10.5274,
+        "high": 10.5274,
+        "low": 10.5274,
+        "close": 10.5274,
+        "volume": 680.0,
+        "trade_count": 1.0,
+        "vwap": 10.5274
+    },
+    {
+        "symbol": "NNAG",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 10.5277,
+        "high": 10.5277,
+        "low": 10.5277,
+        "close": 10.5277,
+        "volume": 578.0,
+        "trade_count": 1.0,
+        "vwap": 10.5277
+    },
+    {
+        "symbol": "NNAG",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 10.5489,
+        "high": 10.5489,
+        "low": 10.5489,
+        "close": 10.5489,
+        "volume": 1206.0,
+        "trade_count": 1.0,
+        "vwap": 10.5489
+    }
+]

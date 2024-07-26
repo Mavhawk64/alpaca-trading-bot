@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "SUUN",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 5.39,
+        "high": 5.39,
+        "low": 5.39,
+        "close": 5.39,
+        "volume": 989.0,
+        "trade_count": 2.0,
+        "vwap": 5.39
+    },
+    {
+        "symbol": "SUUN",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 5.58,
+        "high": 5.58,
+        "low": 5.58,
+        "close": 5.58,
+        "volume": 272.0,
+        "trade_count": 1.0,
+        "vwap": 5.58
+    },
+    {
+        "symbol": "SUUN",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 5.58,
+        "high": 5.58,
+        "low": 5.58,
+        "close": 5.58,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.58
+    },
+    {
+        "symbol": "SUUN",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 5.5,
+        "high": 5.5,
+        "low": 5.5,
+        "close": 5.5,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.5
+    },
+    {
+        "symbol": "SUUN",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 5.4213,
+        "high": 5.4213,
+        "low": 5.4213,
+        "close": 5.4213,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 5.4213
+    },
+    {
+        "symbol": "SUUN",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 5.4846,
+        "high": 5.4846,
+        "low": 5.4846,
+        "close": 5.4846,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 5.4846
+    }
+]

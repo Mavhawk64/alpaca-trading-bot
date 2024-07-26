@@ -1,0 +1,13 @@
+[
+    {
+        "symbol": "KSTR",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 10.05,
+        "high": 10.05,
+        "low": 10.05,
+        "close": 10.05,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.05
+    }
+]

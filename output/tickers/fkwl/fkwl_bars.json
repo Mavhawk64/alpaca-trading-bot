@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "FKWL",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 4.15,
+        "high": 4.15,
+        "low": 4.15,
+        "close": 4.15,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 4.15
+    },
+    {
+        "symbol": "FKWL",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 4.1298,
+        "high": 4.1298,
+        "low": 4.1298,
+        "close": 4.1298,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 4.1298
+    },
+    {
+        "symbol": "FKWL",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 4.17,
+        "high": 4.17,
+        "low": 4.17,
+        "close": 4.17,
+        "volume": 1414.0,
+        "trade_count": 1.0,
+        "vwap": 4.17
+    }
+]

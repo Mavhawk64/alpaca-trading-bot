@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "NERD",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 16.23,
+        "high": 16.23,
+        "low": 16.23,
+        "close": 16.23,
+        "volume": 600.0,
+        "trade_count": 2.0,
+        "vwap": 16.23
+    },
+    {
+        "symbol": "NERD",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 16.24,
+        "high": 16.24,
+        "low": 16.24,
+        "close": 16.24,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 16.24
+    },
+    {
+        "symbol": "NERD",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 16.25,
+        "high": 16.25,
+        "low": 16.25,
+        "close": 16.25,
+        "volume": 411.0,
+        "trade_count": 3.0,
+        "vwap": 16.250047
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 7.44,
+        "high": 7.44,
+        "low": 7.37,
+        "close": 7.37,
+        "volume": 4871.0,
+        "trade_count": 4.0,
+        "vwap": 7.376356
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 7.3049,
+        "high": 7.3049,
+        "low": 7.3049,
+        "close": 7.3049,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 7.3049
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 7.55,
+        "high": 7.55,
+        "low": 7.55,
+        "close": 7.55,
+        "volume": 519.0,
+        "trade_count": 5.0,
+        "vwap": 7.556628
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 7.58,
+        "high": 7.59,
+        "low": 7.58,
+        "close": 7.58,
+        "volume": 4637.0,
+        "trade_count": 9.0,
+        "vwap": 7.580319
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 7.58,
+        "high": 7.58,
+        "low": 7.58,
+        "close": 7.58,
+        "volume": 5547.0,
+        "trade_count": 10.0,
+        "vwap": 7.580035
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 7.58,
+        "high": 7.58,
+        "low": 7.58,
+        "close": 7.58,
+        "volume": 1461.0,
+        "trade_count": 2.0,
+        "vwap": 7.58
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 7.49,
+        "high": 7.49,
+        "low": 7.49,
+        "close": 7.49,
+        "volume": 226.0,
+        "trade_count": 3.0,
+        "vwap": 7.49
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 7.484,
+        "high": 7.484,
+        "low": 7.484,
+        "close": 7.484,
+        "volume": 201.0,
+        "trade_count": 2.0,
+        "vwap": 7.483686
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 7.4301,
+        "high": 7.4301,
+        "low": 7.4301,
+        "close": 7.4301,
+        "volume": 514.0,
+        "trade_count": 2.0,
+        "vwap": 7.432276
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 7.44,
+        "high": 7.45,
+        "low": 7.44,
+        "close": 7.45,
+        "volume": 971.0,
+        "trade_count": 14.0,
+        "vwap": 7.444954
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 7.47,
+        "high": 7.47,
+        "low": 7.47,
+        "close": 7.47,
+        "volume": 400.0,
+        "trade_count": 4.0,
+        "vwap": 7.47
+    },
+    {
+        "symbol": "MESO",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 7.48,
+        "high": 7.48,
+        "low": 7.47,
+        "close": 7.47,
+        "volume": 745.0,
+        "trade_count": 11.0,
+        "vwap": 7.477315
+    }
+]

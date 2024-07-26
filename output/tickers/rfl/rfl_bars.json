@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "RFL",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 1.51,
+        "high": 1.51,
+        "low": 1.51,
+        "close": 1.51,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.51
+    },
+    {
+        "symbol": "RFL",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 1.48,
+        "high": 1.48,
+        "low": 1.48,
+        "close": 1.48,
+        "volume": 700.0,
+        "trade_count": 1.0,
+        "vwap": 1.48
+    },
+    {
+        "symbol": "RFL",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 1.4838,
+        "high": 1.4838,
+        "low": 1.4838,
+        "close": 1.4838,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 1.4838
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "MUE",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 10.34,
+        "high": 10.34,
+        "low": 10.34,
+        "close": 10.34,
+        "volume": 358.0,
+        "trade_count": 3.0,
+        "vwap": 10.340042
+    },
+    {
+        "symbol": "MUE",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 10.3698,
+        "high": 10.3698,
+        "low": 10.3698,
+        "close": 10.3698,
+        "volume": 1947.0,
+        "trade_count": 1.0,
+        "vwap": 10.3698
+    },
+    {
+        "symbol": "MUE",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 10.36,
+        "high": 10.362,
+        "low": 10.36,
+        "close": 10.362,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 10.361
+    },
+    {
+        "symbol": "MUE",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 10.38,
+        "high": 10.38,
+        "low": 10.37,
+        "close": 10.37,
+        "volume": 400.0,
+        "trade_count": 4.0,
+        "vwap": 10.375
+    },
+    {
+        "symbol": "MUE",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 10.38,
+        "high": 10.38,
+        "low": 10.362,
+        "close": 10.38,
+        "volume": 500.0,
+        "trade_count": 5.0,
+        "vwap": 10.371
+    },
+    {
+        "symbol": "MUE",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 10.38,
+        "high": 10.38,
+        "low": 10.38,
+        "close": 10.38,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.38
+    },
+    {
+        "symbol": "MUE",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 10.37,
+        "high": 10.38,
+        "low": 10.37,
+        "close": 10.38,
+        "volume": 500.0,
+        "trade_count": 5.0,
+        "vwap": 10.3744
+    },
+    {
+        "symbol": "MUE",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 10.37,
+        "high": 10.39,
+        "low": 10.37,
+        "close": 10.38,
+        "volume": 896.0,
+        "trade_count": 7.0,
+        "vwap": 10.376652
+    },
+    {
+        "symbol": "MUE",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 10.36,
+        "high": 10.362,
+        "low": 10.36,
+        "close": 10.362,
+        "volume": 800.0,
+        "trade_count": 2.0,
+        "vwap": 10.36175
+    },
+    {
+        "symbol": "MUE",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 10.39,
+        "high": 10.39,
+        "low": 10.39,
+        "close": 10.39,
+        "volume": 1200.0,
+        "trade_count": 8.0,
+        "vwap": 10.39
+    }
+]

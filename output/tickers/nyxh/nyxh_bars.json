@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "NYXH",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 8.25,
+        "high": 8.36,
+        "low": 8.25,
+        "close": 8.35,
+        "volume": 1100.0,
+        "trade_count": 7.0,
+        "vwap": 8.289091
+    },
+    {
+        "symbol": "NYXH",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 8.35,
+        "high": 8.35,
+        "low": 8.35,
+        "close": 8.35,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 8.35
+    },
+    {
+        "symbol": "NYXH",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 8.3338,
+        "high": 8.4,
+        "low": 8.18,
+        "close": 8.4,
+        "volume": 3422.0,
+        "trade_count": 16.0,
+        "vwap": 8.322116
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "NODK",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 16.2,
+        "high": 16.2,
+        "low": 16.2,
+        "close": 16.2,
+        "volume": 398.0,
+        "trade_count": 1.0,
+        "vwap": 16.2
+    },
+    {
+        "symbol": "NODK",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 16.2,
+        "high": 16.2,
+        "low": 16.2,
+        "close": 16.2,
+        "volume": 216.0,
+        "trade_count": 6.0,
+        "vwap": 16.2
+    },
+    {
+        "symbol": "NODK",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 16.2,
+        "high": 16.25,
+        "low": 16.2,
+        "close": 16.25,
+        "volume": 1821.0,
+        "trade_count": 23.0,
+        "vwap": 16.241455
+    },
+    {
+        "symbol": "NODK",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 16.25,
+        "high": 16.25,
+        "low": 16.25,
+        "close": 16.25,
+        "volume": 107.0,
+        "trade_count": 2.0,
+        "vwap": 16.25
+    },
+    {
+        "symbol": "NODK",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 16.25,
+        "high": 16.25,
+        "low": 16.25,
+        "close": 16.25,
+        "volume": 593.0,
+        "trade_count": 8.0,
+        "vwap": 16.25
+    },
+    {
+        "symbol": "NODK",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 16.24,
+        "high": 16.24,
+        "low": 16.24,
+        "close": 16.24,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.24
+    },
+    {
+        "symbol": "NODK",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 16.2659,
+        "high": 16.2659,
+        "low": 16.2659,
+        "close": 16.2659,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 16.2659
+    },
+    {
+        "symbol": "NODK",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 16.24,
+        "high": 16.24,
+        "low": 16.23,
+        "close": 16.23,
+        "volume": 303.0,
+        "trade_count": 4.0,
+        "vwap": 16.233102
+    },
+    {
+        "symbol": "NODK",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 16.23,
+        "high": 16.2328,
+        "low": 16.23,
+        "close": 16.23,
+        "volume": 1024.0,
+        "trade_count": 6.0,
+        "vwap": 16.231914
+    },
+    {
+        "symbol": "NODK",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 16.19,
+        "high": 16.19,
+        "low": 16.19,
+        "close": 16.19,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 16.1947
+    }
+]

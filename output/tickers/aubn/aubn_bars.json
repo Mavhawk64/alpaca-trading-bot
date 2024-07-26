@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "AUBN",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 18.8997,
+        "high": 18.9108,
+        "low": 18.8997,
+        "close": 18.9108,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 18.909657
+    },
+    {
+        "symbol": "AUBN",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 18.73,
+        "high": 19.0814,
+        "low": 18.69,
+        "close": 18.9108,
+        "volume": 2000.0,
+        "trade_count": 12.0,
+        "vwap": 18.8099
+    },
+    {
+        "symbol": "AUBN",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 18.7255,
+        "high": 18.7255,
+        "low": 18.7255,
+        "close": 18.7255,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 18.7255
+    },
+    {
+        "symbol": "AUBN",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 18.8877,
+        "high": 18.8877,
+        "low": 18.8877,
+        "close": 18.8877,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 18.8877
+    }
+]

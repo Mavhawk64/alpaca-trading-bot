@@ -1,0 +1,211 @@
+[
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 3.75,
+        "high": 3.75,
+        "low": 3.7011,
+        "close": 3.7011,
+        "volume": 4390.0,
+        "trade_count": 3.0,
+        "vwap": 3.705453
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 3.7101,
+        "high": 3.7101,
+        "low": 3.7101,
+        "close": 3.7101,
+        "volume": 600.0,
+        "trade_count": 2.0,
+        "vwap": 3.7101
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 3.77,
+        "high": 3.77,
+        "low": 3.73,
+        "close": 3.73,
+        "volume": 1009.0,
+        "trade_count": 16.0,
+        "vwap": 3.743597
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 3.7737,
+        "high": 3.7737,
+        "low": 3.7737,
+        "close": 3.7737,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 3.7737
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 3.75,
+        "high": 3.7609,
+        "low": 3.74,
+        "close": 3.74,
+        "volume": 2300.0,
+        "trade_count": 17.0,
+        "vwap": 3.751248
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 3.74,
+        "high": 3.7782,
+        "low": 3.605,
+        "close": 3.705,
+        "volume": 3401.0,
+        "trade_count": 15.0,
+        "vwap": 3.712123
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 3.71,
+        "high": 3.71,
+        "low": 3.71,
+        "close": 3.71,
+        "volume": 205.0,
+        "trade_count": 2.0,
+        "vwap": 3.709268
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 3.71,
+        "high": 3.71,
+        "low": 3.7,
+        "close": 3.7,
+        "volume": 250.0,
+        "trade_count": 7.0,
+        "vwap": 3.704
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 3.6975,
+        "high": 3.6975,
+        "low": 3.6975,
+        "close": 3.6975,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 3.6975
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 3.81,
+        "high": 3.81,
+        "low": 3.81,
+        "close": 3.81,
+        "volume": 309.0,
+        "trade_count": 5.0,
+        "vwap": 3.769871
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 3.69,
+        "high": 3.69,
+        "low": 3.665,
+        "close": 3.665,
+        "volume": 466.0,
+        "trade_count": 9.0,
+        "vwap": 3.682457
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 3.68,
+        "high": 3.68,
+        "low": 3.67,
+        "close": 3.67,
+        "volume": 418.0,
+        "trade_count": 9.0,
+        "vwap": 3.6739
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 3.67,
+        "high": 3.67,
+        "low": 3.64,
+        "close": 3.67,
+        "volume": 2399.0,
+        "trade_count": 12.0,
+        "vwap": 3.658508
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 3.66,
+        "high": 3.66,
+        "low": 3.635,
+        "close": 3.635,
+        "volume": 2214.0,
+        "trade_count": 10.0,
+        "vwap": 3.638428
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 3.72,
+        "high": 3.72,
+        "low": 3.72,
+        "close": 3.72,
+        "volume": 316.0,
+        "trade_count": 2.0,
+        "vwap": 3.706205
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 3.6529,
+        "high": 3.6529,
+        "low": 3.6529,
+        "close": 3.6529,
+        "volume": 2697.0,
+        "trade_count": 10.0,
+        "vwap": 3.653673
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 3.7,
+        "high": 3.73,
+        "low": 3.64,
+        "close": 3.73,
+        "volume": 2922.0,
+        "trade_count": 30.0,
+        "vwap": 3.66782
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 3.67,
+        "high": 3.74,
+        "low": 3.67,
+        "close": 3.74,
+        "volume": 7600.0,
+        "trade_count": 5.0,
+        "vwap": 3.687336
+    },
+    {
+        "symbol": "FLUX",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 3.745,
+        "high": 3.77,
+        "low": 3.745,
+        "close": 3.77,
+        "volume": 600.0,
+        "trade_count": 2.0,
+        "vwap": 3.749167
+    }
+]

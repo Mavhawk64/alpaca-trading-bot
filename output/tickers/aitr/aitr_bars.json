@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "AITR",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 10.36,
+        "high": 10.36,
+        "low": 10.36,
+        "close": 10.36,
+        "volume": 909.0,
+        "trade_count": 1.0,
+        "vwap": 10.36
+    },
+    {
+        "symbol": "AITR",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 10.37,
+        "high": 10.37,
+        "low": 10.37,
+        "close": 10.37,
+        "volume": 910.0,
+        "trade_count": 4.0,
+        "vwap": 10.37
+    },
+    {
+        "symbol": "AITR",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 10.3809,
+        "high": 10.3809,
+        "low": 10.3809,
+        "close": 10.3809,
+        "volume": 761.0,
+        "trade_count": 2.0,
+        "vwap": 10.3809
+    },
+    {
+        "symbol": "AITR",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 10.37,
+        "high": 10.37,
+        "low": 10.37,
+        "close": 10.37,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.37
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "IMNN",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.19,
+        "high": 1.19,
+        "low": 1.12,
+        "close": 1.12,
+        "volume": 10883.0,
+        "trade_count": 21.0,
+        "vwap": 1.146178
+    },
+    {
+        "symbol": "IMNN",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 1.155,
+        "high": 1.155,
+        "low": 1.155,
+        "close": 1.155,
+        "volume": 110.0,
+        "trade_count": 2.0,
+        "vwap": 1.156209
+    },
+    {
+        "symbol": "IMNN",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 1.16,
+        "high": 1.16,
+        "low": 1.16,
+        "close": 1.16,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.16
+    },
+    {
+        "symbol": "IMNN",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.16,
+        "high": 1.16,
+        "low": 1.16,
+        "close": 1.16,
+        "volume": 1267.0,
+        "trade_count": 1.0,
+        "vwap": 1.16
+    },
+    {
+        "symbol": "IMNN",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 1.1784,
+        "high": 1.1784,
+        "low": 1.1784,
+        "close": 1.1784,
+        "volume": 209.0,
+        "trade_count": 5.0,
+        "vwap": 1.168807
+    },
+    {
+        "symbol": "IMNN",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 1.18,
+        "high": 1.18,
+        "low": 1.17,
+        "close": 1.17,
+        "volume": 10200.0,
+        "trade_count": 3.0,
+        "vwap": 1.179804
+    },
+    {
+        "symbol": "IMNN",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 1.1794,
+        "high": 1.1794,
+        "low": 1.1794,
+        "close": 1.1794,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.1794
+    },
+    {
+        "symbol": "IMNN",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 1.16,
+        "high": 1.16,
+        "low": 1.16,
+        "close": 1.16,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.16
+    },
+    {
+        "symbol": "IMNN",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 1.1799,
+        "high": 1.1799,
+        "low": 1.1799,
+        "close": 1.1799,
+        "volume": 385.0,
+        "trade_count": 1.0,
+        "vwap": 1.1799
+    }
+]

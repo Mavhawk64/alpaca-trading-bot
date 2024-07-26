@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "AVTX",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 11.9999,
+        "high": 11.9999,
+        "low": 11.9999,
+        "close": 11.9999,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 11.9999
+    },
+    {
+        "symbol": "AVTX",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 11.65,
+        "high": 11.65,
+        "low": 11.65,
+        "close": 11.65,
+        "volume": 461.0,
+        "trade_count": 16.0,
+        "vwap": 11.650087
+    },
+    {
+        "symbol": "AVTX",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 11.82,
+        "high": 11.82,
+        "low": 11.82,
+        "close": 11.82,
+        "volume": 262.0,
+        "trade_count": 4.0,
+        "vwap": 11.817748
+    },
+    {
+        "symbol": "AVTX",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 11.6,
+        "high": 11.63,
+        "low": 11.6,
+        "close": 11.63,
+        "volume": 494.0,
+        "trade_count": 8.0,
+        "vwap": 11.599372
+    },
+    {
+        "symbol": "AVTX",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 11.6,
+        "high": 11.6,
+        "low": 11.58,
+        "close": 11.58,
+        "volume": 305.0,
+        "trade_count": 8.0,
+        "vwap": 11.587279
+    },
+    {
+        "symbol": "AVTX",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 11.53,
+        "high": 11.53,
+        "low": 11.47,
+        "close": 11.47,
+        "volume": 311.0,
+        "trade_count": 8.0,
+        "vwap": 11.636624
+    },
+    {
+        "symbol": "AVTX",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 11.76,
+        "high": 11.76,
+        "low": 11.76,
+        "close": 11.76,
+        "volume": 232.0,
+        "trade_count": 19.0,
+        "vwap": 11.750345
+    }
+]

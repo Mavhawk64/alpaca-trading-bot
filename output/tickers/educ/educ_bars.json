@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "EDUC",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 2.08,
+        "high": 2.08,
+        "low": 2.07,
+        "close": 2.07,
+        "volume": 481.0,
+        "trade_count": 5.0,
+        "vwap": 2.072079
+    },
+    {
+        "symbol": "EDUC",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 2.065,
+        "high": 2.065,
+        "low": 2.065,
+        "close": 2.065,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.065
+    },
+    {
+        "symbol": "EDUC",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 2.0694,
+        "high": 2.0694,
+        "low": 2.0694,
+        "close": 2.0694,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 2.0694
+    }
+]

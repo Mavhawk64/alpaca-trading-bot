@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "LPCN",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 6.0,
+        "high": 6.0,
+        "low": 6.0,
+        "close": 6.0,
+        "volume": 206.0,
+        "trade_count": 3.0,
+        "vwap": 6.000049
+    },
+    {
+        "symbol": "LPCN",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 5.9,
+        "high": 5.91,
+        "low": 5.86,
+        "close": 5.86,
+        "volume": 412.0,
+        "trade_count": 6.0,
+        "vwap": 5.882864
+    }
+]

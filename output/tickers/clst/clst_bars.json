@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "CLST",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 11.98,
+        "high": 11.98,
+        "low": 11.98,
+        "close": 11.98,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 11.98
+    },
+    {
+        "symbol": "CLST",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 12.0,
+        "high": 12.0,
+        "low": 11.98,
+        "close": 11.99,
+        "volume": 500.0,
+        "trade_count": 6.0,
+        "vwap": 11.99197
+    },
+    {
+        "symbol": "CLST",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 11.99,
+        "high": 11.99,
+        "low": 11.99,
+        "close": 11.99,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.99
+    },
+    {
+        "symbol": "CLST",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 11.98,
+        "high": 11.98,
+        "low": 11.98,
+        "close": 11.98,
+        "volume": 3100.0,
+        "trade_count": 3.0,
+        "vwap": 11.98
+    },
+    {
+        "symbol": "CLST",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 12.0,
+        "high": 12.0,
+        "low": 11.9999,
+        "close": 11.9999,
+        "volume": 1206.0,
+        "trade_count": 12.0,
+        "vwap": 11.999983
+    },
+    {
+        "symbol": "CLST",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 12.0,
+        "high": 12.0,
+        "low": 12.0,
+        "close": 12.0,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 12.0
+    },
+    {
+        "symbol": "CLST",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 11.98,
+        "high": 11.98,
+        "low": 11.98,
+        "close": 11.98,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 11.98
+    },
+    {
+        "symbol": "CLST",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 11.98,
+        "high": 11.98,
+        "low": 11.98,
+        "close": 11.98,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 11.98
+    },
+    {
+        "symbol": "CLST",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 12.0,
+        "high": 12.0,
+        "low": 11.9999,
+        "close": 11.9999,
+        "volume": 1400.0,
+        "trade_count": 3.0,
+        "vwap": 11.999929
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "TC",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 1.8201,
+        "high": 1.8201,
+        "low": 1.77,
+        "close": 1.77,
+        "volume": 2103.0,
+        "trade_count": 8.0,
+        "vwap": 1.800014
+    },
+    {
+        "symbol": "TC",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 1.8,
+        "high": 1.8,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.795
+    },
+    {
+        "symbol": "TC",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 1.79,
+        "high": 1.79,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.79
+    }
+]

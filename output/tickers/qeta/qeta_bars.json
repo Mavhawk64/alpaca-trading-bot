@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "QETA",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 10.3,
+        "high": 10.3,
+        "low": 10.3,
+        "close": 10.3,
+        "volume": 1207.0,
+        "trade_count": 2.0,
+        "vwap": 10.300663
+    },
+    {
+        "symbol": "QETA",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 10.32,
+        "high": 10.32,
+        "low": 10.32,
+        "close": 10.32,
+        "volume": 1014.0,
+        "trade_count": 10.0,
+        "vwap": 10.32
+    }
+]

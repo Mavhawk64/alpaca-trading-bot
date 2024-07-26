@@ -1,0 +1,167 @@
+[
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 6.7,
+        "high": 6.7,
+        "low": 6.7,
+        "close": 6.7,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 6.7
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 6.83,
+        "high": 6.83,
+        "low": 6.83,
+        "close": 6.83,
+        "volume": 999.0,
+        "trade_count": 2.0,
+        "vwap": 6.83
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 6.88,
+        "high": 6.88,
+        "low": 6.88,
+        "close": 6.88,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 6.8946
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 6.775,
+        "high": 6.775,
+        "low": 6.775,
+        "close": 6.775,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.775
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 6.9,
+        "high": 6.9,
+        "low": 6.9,
+        "close": 6.9,
+        "volume": 1340.0,
+        "trade_count": 9.0,
+        "vwap": 6.9
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 6.91,
+        "high": 6.91,
+        "low": 6.9,
+        "close": 6.9,
+        "volume": 967.0,
+        "trade_count": 6.0,
+        "vwap": 6.901096
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 7.02,
+        "high": 7.02,
+        "low": 7.02,
+        "close": 7.02,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.02
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 6.92,
+        "high": 6.92,
+        "low": 6.9,
+        "close": 6.9,
+        "volume": 1260.0,
+        "trade_count": 7.0,
+        "vwap": 6.901587
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 6.9,
+        "high": 6.9,
+        "low": 6.9,
+        "close": 6.9,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.9
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 6.9,
+        "high": 6.9,
+        "low": 6.9,
+        "close": 6.9,
+        "volume": 201.0,
+        "trade_count": 2.0,
+        "vwap": 6.90005
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 7.0,
+        "high": 7.02,
+        "low": 7.0,
+        "close": 7.02,
+        "volume": 1501.0,
+        "trade_count": 18.0,
+        "vwap": 7.001392
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 7.01,
+        "high": 7.01,
+        "low": 7.01,
+        "close": 7.01,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.01
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 6.97,
+        "high": 6.97,
+        "low": 6.97,
+        "close": 6.97,
+        "volume": 308.0,
+        "trade_count": 4.0,
+        "vwap": 6.97
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 7.02,
+        "high": 7.02,
+        "low": 7.02,
+        "close": 7.02,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 7.02
+    },
+    {
+        "symbol": "RYDE",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 6.96,
+        "high": 6.96,
+        "low": 6.96,
+        "close": 6.96,
+        "volume": 353.0,
+        "trade_count": 6.0,
+        "vwap": 6.959972
+    }
+]

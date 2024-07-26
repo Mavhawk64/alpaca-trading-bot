@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "LOCL",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.77,
+        "high": 2.77,
+        "low": 2.77,
+        "close": 2.77,
+        "volume": 154.0,
+        "trade_count": 2.0,
+        "vwap": 2.770422
+    },
+    {
+        "symbol": "LOCL",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 2.81,
+        "high": 2.81,
+        "low": 2.81,
+        "close": 2.81,
+        "volume": 112.0,
+        "trade_count": 2.0,
+        "vwap": 2.814286
+    },
+    {
+        "symbol": "LOCL",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 2.7,
+        "high": 2.7,
+        "low": 2.7,
+        "close": 2.7,
+        "volume": 150.0,
+        "trade_count": 3.0,
+        "vwap": 2.699133
+    },
+    {
+        "symbol": "LOCL",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 2.69,
+        "high": 2.69,
+        "low": 2.6431,
+        "close": 2.6431,
+        "volume": 500.0,
+        "trade_count": 5.0,
+        "vwap": 2.68062
+    },
+    {
+        "symbol": "LOCL",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 2.79,
+        "high": 2.8,
+        "low": 2.79,
+        "close": 2.8,
+        "volume": 250.0,
+        "trade_count": 3.0,
+        "vwap": 2.796
+    },
+    {
+        "symbol": "LOCL",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 2.77,
+        "high": 2.77,
+        "low": 2.77,
+        "close": 2.77,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 2.77
+    }
+]

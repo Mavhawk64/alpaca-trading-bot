@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "EFOI",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 1.3001,
+        "high": 1.3001,
+        "low": 1.3001,
+        "close": 1.3001,
+        "volume": 275.0,
+        "trade_count": 1.0,
+        "vwap": 1.3001
+    },
+    {
+        "symbol": "EFOI",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 1.39,
+        "high": 1.39,
+        "low": 1.39,
+        "close": 1.39,
+        "volume": 104.0,
+        "trade_count": 1.0,
+        "vwap": 1.39
+    },
+    {
+        "symbol": "EFOI",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 1.4192,
+        "high": 1.4192,
+        "low": 1.4192,
+        "close": 1.4192,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.4192
+    }
+]

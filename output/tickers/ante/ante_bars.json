@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "ANTE",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 1.1,
+        "high": 1.14,
+        "low": 1.1,
+        "close": 1.12,
+        "volume": 4374.0,
+        "trade_count": 26.0,
+        "vwap": 1.123138
+    },
+    {
+        "symbol": "ANTE",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 1.05,
+        "high": 1.05,
+        "low": 1.05,
+        "close": 1.05,
+        "volume": 105.0,
+        "trade_count": 2.0,
+        "vwap": 1.055714
+    }
+]

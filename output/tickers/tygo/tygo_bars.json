@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "TYGO",
+        "timestamp": "2024-07-26T13:25:00+00:00",
+        "open": 1.67,
+        "high": 1.67,
+        "low": 1.62,
+        "close": 1.62,
+        "volume": 311.0,
+        "trade_count": 4.0,
+        "vwap": 1.635756
+    },
+    {
+        "symbol": "TYGO",
+        "timestamp": "2024-07-26T13:28:00+00:00",
+        "open": 1.59,
+        "high": 1.59,
+        "low": 1.59,
+        "close": 1.59,
+        "volume": 330.0,
+        "trade_count": 3.0,
+        "vwap": 1.59
+    },
+    {
+        "symbol": "TYGO",
+        "timestamp": "2024-07-26T13:29:00+00:00",
+        "open": 1.62,
+        "high": 1.62,
+        "low": 1.62,
+        "close": 1.62,
+        "volume": 532.0,
+        "trade_count": 5.0,
+        "vwap": 1.616692
+    },
+    {
+        "symbol": "TYGO",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.69,
+        "high": 1.69,
+        "low": 1.69,
+        "close": 1.69,
+        "volume": 2398.0,
+        "trade_count": 5.0,
+        "vwap": 1.687231
+    },
+    {
+        "symbol": "TYGO",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 1.6591,
+        "high": 1.6591,
+        "low": 1.6591,
+        "close": 1.6591,
+        "volume": 150.0,
+        "trade_count": 1.0,
+        "vwap": 1.6591
+    },
+    {
+        "symbol": "TYGO",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 1.68,
+        "high": 1.69,
+        "low": 1.68,
+        "close": 1.69,
+        "volume": 366.0,
+        "trade_count": 7.0,
+        "vwap": 1.677705
+    }
+]

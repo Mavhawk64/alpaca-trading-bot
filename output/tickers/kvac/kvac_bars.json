@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "KVAC",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 10.638,
+        "high": 10.638,
+        "low": 10.638,
+        "close": 10.638,
+        "volume": 180.0,
+        "trade_count": 1.0,
+        "vwap": 10.638
+    },
+    {
+        "symbol": "KVAC",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 10.63,
+        "high": 10.6301,
+        "low": 10.63,
+        "close": 10.6301,
+        "volume": 1590.0,
+        "trade_count": 10.0,
+        "vwap": 10.63005
+    }
+]

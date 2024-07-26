@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "XNET",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 1.67,
+        "high": 1.67,
+        "low": 1.67,
+        "close": 1.67,
+        "volume": 361.0,
+        "trade_count": 4.0,
+        "vwap": 1.670194
+    },
+    {
+        "symbol": "XNET",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 1.6874,
+        "high": 1.6874,
+        "low": 1.6874,
+        "close": 1.6874,
+        "volume": 150.0,
+        "trade_count": 1.0,
+        "vwap": 1.6874
+    },
+    {
+        "symbol": "XNET",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 1.68,
+        "high": 1.68,
+        "low": 1.68,
+        "close": 1.68,
+        "volume": 1400.0,
+        "trade_count": 3.0,
+        "vwap": 1.68
+    },
+    {
+        "symbol": "XNET",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 1.6802,
+        "high": 1.6802,
+        "low": 1.68,
+        "close": 1.6801,
+        "volume": 1002.0,
+        "trade_count": 7.0,
+        "vwap": 1.68016
+    },
+    {
+        "symbol": "XNET",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 1.68,
+        "high": 1.68,
+        "low": 1.68,
+        "close": 1.68,
+        "volume": 2000.0,
+        "trade_count": 14.0,
+        "vwap": 1.68
+    },
+    {
+        "symbol": "XNET",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 1.68,
+        "high": 1.68,
+        "low": 1.68,
+        "close": 1.68,
+        "volume": 2601.0,
+        "trade_count": 11.0,
+        "vwap": 1.679998
+    }
+]

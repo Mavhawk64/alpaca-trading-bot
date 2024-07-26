@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "IROQ",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 17.27,
+        "high": 17.27,
+        "low": 17.26,
+        "close": 17.26,
+        "volume": 500.0,
+        "trade_count": 7.0,
+        "vwap": 17.264
+    },
+    {
+        "symbol": "IROQ",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 17.3,
+        "high": 17.3,
+        "low": 17.3,
+        "close": 17.3,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 17.3
+    },
+    {
+        "symbol": "IROQ",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 17.1628,
+        "high": 17.3,
+        "low": 17.1628,
+        "close": 17.1628,
+        "volume": 921.0,
+        "trade_count": 19.0,
+        "vwap": 17.225502
+    },
+    {
+        "symbol": "IROQ",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 17.3,
+        "high": 17.31,
+        "low": 17.3,
+        "close": 17.3,
+        "volume": 699.0,
+        "trade_count": 11.0,
+        "vwap": 17.302403
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "ECX",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 1.6191,
+        "high": 1.6191,
+        "low": 1.6191,
+        "close": 1.6191,
+        "volume": 3000.0,
+        "trade_count": 1.0,
+        "vwap": 1.6191
+    },
+    {
+        "symbol": "ECX",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 1.6185,
+        "high": 1.6185,
+        "low": 1.6185,
+        "close": 1.6185,
+        "volume": 179.0,
+        "trade_count": 1.0,
+        "vwap": 1.6185
+    },
+    {
+        "symbol": "ECX",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 1.6,
+        "high": 1.6,
+        "low": 1.6,
+        "close": 1.6,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 1.6
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "SPRU",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 3.4,
+        "high": 3.4,
+        "low": 3.4,
+        "close": 3.4,
+        "volume": 523.0,
+        "trade_count": 4.0,
+        "vwap": 3.400172
+    },
+    {
+        "symbol": "SPRU",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 3.4367,
+        "high": 3.4367,
+        "low": 3.4367,
+        "close": 3.4367,
+        "volume": 158.0,
+        "trade_count": 2.0,
+        "vwap": 3.438386
+    }
+]

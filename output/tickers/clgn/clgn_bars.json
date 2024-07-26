@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "CLGN",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.78,
+        "high": 4.78,
+        "low": 4.78,
+        "close": 4.78,
+        "volume": 1300.0,
+        "trade_count": 1.0,
+        "vwap": 4.78
+    },
+    {
+        "symbol": "CLGN",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 4.75,
+        "high": 4.75,
+        "low": 4.75,
+        "close": 4.75,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 4.75
+    },
+    {
+        "symbol": "CLGN",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 4.735,
+        "high": 4.735,
+        "low": 4.735,
+        "close": 4.735,
+        "volume": 220.0,
+        "trade_count": 2.0,
+        "vwap": 4.739773
+    },
+    {
+        "symbol": "CLGN",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 4.8,
+        "high": 4.8,
+        "low": 4.8,
+        "close": 4.8,
+        "volume": 500.0,
+        "trade_count": 3.0,
+        "vwap": 4.8
+    }
+]

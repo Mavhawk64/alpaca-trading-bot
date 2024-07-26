@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "PCK",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 5.89,
+        "high": 5.89,
+        "low": 5.89,
+        "close": 5.89,
+        "volume": 1138.0,
+        "trade_count": 1.0,
+        "vwap": 5.89
+    },
+    {
+        "symbol": "PCK",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 5.885,
+        "high": 5.885,
+        "low": 5.885,
+        "close": 5.885,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 5.885
+    },
+    {
+        "symbol": "PCK",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 5.88,
+        "high": 5.89,
+        "low": 5.88,
+        "close": 5.8852,
+        "volume": 1300.0,
+        "trade_count": 3.0,
+        "vwap": 5.887323
+    },
+    {
+        "symbol": "PCK",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 5.89,
+        "high": 5.89,
+        "low": 5.89,
+        "close": 5.89,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.89
+    },
+    {
+        "symbol": "PCK",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 5.8999,
+        "high": 5.8999,
+        "low": 5.8999,
+        "close": 5.8999,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 5.8999
+    },
+    {
+        "symbol": "PCK",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 5.89,
+        "high": 5.89,
+        "low": 5.89,
+        "close": 5.89,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.89
+    },
+    {
+        "symbol": "PCK",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 5.885,
+        "high": 5.889,
+        "low": 5.885,
+        "close": 5.889,
+        "volume": 4000.0,
+        "trade_count": 3.0,
+        "vwap": 5.8851
+    }
+]

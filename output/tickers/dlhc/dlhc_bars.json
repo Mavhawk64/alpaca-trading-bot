@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "DLHC",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 11.79,
+        "high": 11.79,
+        "low": 11.56,
+        "close": 11.56,
+        "volume": 895.0,
+        "trade_count": 8.0,
+        "vwap": 11.725508
+    },
+    {
+        "symbol": "DLHC",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 11.555,
+        "high": 11.555,
+        "low": 11.555,
+        "close": 11.555,
+        "volume": 177.0,
+        "trade_count": 6.0,
+        "vwap": 11.560678
+    }
+]

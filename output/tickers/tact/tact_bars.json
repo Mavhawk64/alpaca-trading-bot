@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "TACT",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 4.13,
+        "high": 4.13,
+        "low": 4.13,
+        "close": 4.13,
+        "volume": 1047.0,
+        "trade_count": 9.0,
+        "vwap": 4.13
+    },
+    {
+        "symbol": "TACT",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 4.13,
+        "high": 4.13,
+        "low": 4.11,
+        "close": 4.11,
+        "volume": 1105.0,
+        "trade_count": 6.0,
+        "vwap": 4.117421
+    },
+    {
+        "symbol": "TACT",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 4.1,
+        "high": 4.1,
+        "low": 4.1,
+        "close": 4.1,
+        "volume": 106.0,
+        "trade_count": 1.0,
+        "vwap": 4.1
+    },
+    {
+        "symbol": "TACT",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 4.12,
+        "high": 4.12,
+        "low": 4.12,
+        "close": 4.12,
+        "volume": 1342.0,
+        "trade_count": 7.0,
+        "vwap": 4.12
+    },
+    {
+        "symbol": "TACT",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 4.17,
+        "high": 4.17,
+        "low": 4.17,
+        "close": 4.17,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 4.17
+    },
+    {
+        "symbol": "TACT",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 4.15,
+        "high": 4.15,
+        "low": 4.15,
+        "close": 4.15,
+        "volume": 1353.0,
+        "trade_count": 6.0,
+        "vwap": 4.150044
+    },
+    {
+        "symbol": "TACT",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 4.07,
+        "high": 4.07,
+        "low": 4.07,
+        "close": 4.07,
+        "volume": 271.0,
+        "trade_count": 3.0,
+        "vwap": 4.07
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "BTCT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.0,
+        "high": 2.0,
+        "low": 2.0,
+        "close": 2.0,
+        "volume": 335.0,
+        "trade_count": 1.0,
+        "vwap": 2.0
+    },
+    {
+        "symbol": "BTCT",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 1.98,
+        "high": 1.9999,
+        "low": 1.98,
+        "close": 1.9999,
+        "volume": 2501.0,
+        "trade_count": 7.0,
+        "vwap": 1.999093
+    },
+    {
+        "symbol": "BTCT",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 1.98,
+        "high": 1.98,
+        "low": 1.98,
+        "close": 1.98,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 1.98
+    },
+    {
+        "symbol": "BTCT",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 1.92,
+        "high": 1.92,
+        "low": 1.91,
+        "close": 1.92,
+        "volume": 3074.0,
+        "trade_count": 16.0,
+        "vwap": 1.916506
+    },
+    {
+        "symbol": "BTCT",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 1.93,
+        "high": 1.93,
+        "low": 1.93,
+        "close": 1.93,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.93
+    }
+]

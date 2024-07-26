@@ -1,0 +1,145 @@
+[
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T13:28:00+00:00",
+        "open": 6.46,
+        "high": 6.46,
+        "low": 6.39,
+        "close": 6.39,
+        "volume": 846.0,
+        "trade_count": 5.0,
+        "vwap": 6.428629
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 6.44,
+        "high": 6.44,
+        "low": 6.33,
+        "close": 6.33,
+        "volume": 1300.0,
+        "trade_count": 4.0,
+        "vwap": 6.347692
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 6.34,
+        "high": 6.35,
+        "low": 6.34,
+        "close": 6.35,
+        "volume": 503.0,
+        "trade_count": 11.0,
+        "vwap": 6.299185
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 6.2,
+        "high": 6.38,
+        "low": 6.2,
+        "close": 6.38,
+        "volume": 2356.0,
+        "trade_count": 24.0,
+        "vwap": 6.302317
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 6.23,
+        "high": 6.315,
+        "low": 6.23,
+        "close": 6.315,
+        "volume": 408.0,
+        "trade_count": 6.0,
+        "vwap": 6.270882
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 6.25,
+        "high": 6.35,
+        "low": 6.249,
+        "close": 6.35,
+        "volume": 512.0,
+        "trade_count": 7.0,
+        "vwap": 6.279297
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 6.27,
+        "high": 6.27,
+        "low": 6.27,
+        "close": 6.27,
+        "volume": 326.0,
+        "trade_count": 4.0,
+        "vwap": 6.269202
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 6.38,
+        "high": 6.4,
+        "low": 6.3552,
+        "close": 6.4,
+        "volume": 2339.0,
+        "trade_count": 25.0,
+        "vwap": 6.384493
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 6.3605,
+        "high": 6.44,
+        "low": 6.3605,
+        "close": 6.43,
+        "volume": 3307.0,
+        "trade_count": 20.0,
+        "vwap": 6.426858
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 6.45,
+        "high": 6.45,
+        "low": 6.42,
+        "close": 6.42,
+        "volume": 600.0,
+        "trade_count": 4.0,
+        "vwap": 6.443333
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 6.53,
+        "high": 6.53,
+        "low": 6.53,
+        "close": 6.53,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 6.516333
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 6.41,
+        "high": 6.45,
+        "low": 6.41,
+        "close": 6.45,
+        "volume": 319.0,
+        "trade_count": 4.0,
+        "vwap": 6.437461
+    },
+    {
+        "symbol": "MOLN",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 6.34,
+        "high": 6.34,
+        "low": 6.34,
+        "close": 6.34,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.34
+    }
+]

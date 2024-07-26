@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "DGZ",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 9.15,
+        "high": 9.15,
+        "low": 9.15,
+        "close": 9.15,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 9.16065
+    },
+    {
+        "symbol": "DGZ",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 9.23,
+        "high": 9.23,
+        "low": 9.23,
+        "close": 9.23,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 9.23
+    }
+]

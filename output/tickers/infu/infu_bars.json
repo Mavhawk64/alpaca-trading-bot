@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 6.99,
+        "high": 6.99,
+        "low": 6.945,
+        "close": 6.945,
+        "volume": 801.0,
+        "trade_count": 4.0,
+        "vwap": 6.97427
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 6.96,
+        "high": 6.96,
+        "low": 6.96,
+        "close": 6.96,
+        "volume": 128.0,
+        "trade_count": 2.0,
+        "vwap": 6.96
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 6.965,
+        "high": 6.965,
+        "low": 6.965,
+        "close": 6.965,
+        "volume": 102.0,
+        "trade_count": 2.0,
+        "vwap": 6.964706
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 6.95,
+        "high": 6.95,
+        "low": 6.91,
+        "close": 6.91,
+        "volume": 1552.0,
+        "trade_count": 19.0,
+        "vwap": 6.934459
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 6.92,
+        "high": 6.92,
+        "low": 6.92,
+        "close": 6.92,
+        "volume": 800.0,
+        "trade_count": 3.0,
+        "vwap": 6.92
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 6.9,
+        "high": 6.91,
+        "low": 6.9,
+        "close": 6.9,
+        "volume": 1195.0,
+        "trade_count": 14.0,
+        "vwap": 6.90123
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 6.905,
+        "high": 6.905,
+        "low": 6.905,
+        "close": 6.905,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.905
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 6.905,
+        "high": 6.905,
+        "low": 6.905,
+        "close": 6.905,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.905
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 6.91,
+        "high": 6.91,
+        "low": 6.91,
+        "close": 6.91,
+        "volume": 128.0,
+        "trade_count": 2.0,
+        "vwap": 6.908906
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 6.915,
+        "high": 6.915,
+        "low": 6.915,
+        "close": 6.915,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.915
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 6.91,
+        "high": 6.91,
+        "low": 6.91,
+        "close": 6.91,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.91
+    },
+    {
+        "symbol": "INFU",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 6.905,
+        "high": 6.92,
+        "low": 6.905,
+        "close": 6.92,
+        "volume": 305.0,
+        "trade_count": 4.0,
+        "vwap": 6.914836
+    }
+]

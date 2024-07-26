@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "INCR",
+        "timestamp": "2024-07-26T13:25:00+00:00",
+        "open": 2.36,
+        "high": 2.36,
+        "low": 2.35,
+        "close": 2.35,
+        "volume": 500.0,
+        "trade_count": 5.0,
+        "vwap": 2.354
+    },
+    {
+        "symbol": "INCR",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.42,
+        "high": 2.42,
+        "low": 2.42,
+        "close": 2.42,
+        "volume": 483.0,
+        "trade_count": 5.0,
+        "vwap": 2.414648
+    },
+    {
+        "symbol": "INCR",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 2.36,
+        "high": 2.36,
+        "low": 2.35,
+        "close": 2.35,
+        "volume": 533.0,
+        "trade_count": 7.0,
+        "vwap": 2.354823
+    },
+    {
+        "symbol": "INCR",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 2.4,
+        "high": 2.4,
+        "low": 2.4,
+        "close": 2.4,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.4
+    }
+]

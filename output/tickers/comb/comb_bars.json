@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "COMB",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 19.55,
+        "high": 19.55,
+        "low": 19.55,
+        "close": 19.55,
+        "volume": 118.0,
+        "trade_count": 3.0,
+        "vwap": 19.550042
+    },
+    {
+        "symbol": "COMB",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 19.55,
+        "high": 19.55,
+        "low": 19.55,
+        "close": 19.55,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.55
+    },
+    {
+        "symbol": "COMB",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 19.54,
+        "high": 19.54,
+        "low": 19.54,
+        "close": 19.54,
+        "volume": 852.0,
+        "trade_count": 2.0,
+        "vwap": 19.54
+    },
+    {
+        "symbol": "COMB",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 19.55,
+        "high": 19.55,
+        "low": 19.55,
+        "close": 19.55,
+        "volume": 1016.0,
+        "trade_count": 3.0,
+        "vwap": 19.55
+    },
+    {
+        "symbol": "COMB",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 19.53,
+        "high": 19.53,
+        "low": 19.53,
+        "close": 19.53,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 19.53
+    },
+    {
+        "symbol": "COMB",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 19.47,
+        "high": 19.47,
+        "low": 19.47,
+        "close": 19.47,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.47
+    },
+    {
+        "symbol": "COMB",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 19.455,
+        "high": 19.455,
+        "low": 19.455,
+        "close": 19.455,
+        "volume": 139.0,
+        "trade_count": 2.0,
+        "vwap": 19.455
+    },
+    {
+        "symbol": "COMB",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 19.451,
+        "high": 19.4587,
+        "low": 19.45,
+        "close": 19.4587,
+        "volume": 851.0,
+        "trade_count": 7.0,
+        "vwap": 19.453995
+    },
+    {
+        "symbol": "COMB",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 19.47,
+        "high": 19.47,
+        "low": 19.47,
+        "close": 19.47,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.47
+    },
+    {
+        "symbol": "COMB",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 19.46,
+        "high": 19.46,
+        "low": 19.46,
+        "close": 19.46,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.46
+    }
+]

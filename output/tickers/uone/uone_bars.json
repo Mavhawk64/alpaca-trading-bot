@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.26,
+        "high": 2.2844,
+        "low": 2.22,
+        "close": 2.22,
+        "volume": 2046.0,
+        "trade_count": 16.0,
+        "vwap": 2.254559
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 2.22,
+        "high": 2.22,
+        "low": 2.22,
+        "close": 2.22,
+        "volume": 103.0,
+        "trade_count": 2.0,
+        "vwap": 2.220087
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 2.274,
+        "high": 2.274,
+        "low": 2.22,
+        "close": 2.22,
+        "volume": 4675.0,
+        "trade_count": 5.0,
+        "vwap": 2.27169
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 2.2298,
+        "high": 2.2298,
+        "low": 2.2298,
+        "close": 2.2298,
+        "volume": 155.0,
+        "trade_count": 1.0,
+        "vwap": 2.2298
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 2.224,
+        "high": 2.27,
+        "low": 2.224,
+        "close": 2.27,
+        "volume": 1033.0,
+        "trade_count": 4.0,
+        "vwap": 2.233577
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 2.2201,
+        "high": 2.2201,
+        "low": 2.2201,
+        "close": 2.2201,
+        "volume": 303.0,
+        "trade_count": 2.0,
+        "vwap": 2.220594
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 2.22,
+        "high": 2.22,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 488.0,
+        "trade_count": 14.0,
+        "vwap": 2.214344
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 2.2136,
+        "high": 2.2136,
+        "low": 2.2136,
+        "close": 2.2136,
+        "volume": 158.0,
+        "trade_count": 2.0,
+        "vwap": 2.215468
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 2.22,
+        "high": 2.25,
+        "low": 2.22,
+        "close": 2.24,
+        "volume": 3557.0,
+        "trade_count": 25.0,
+        "vwap": 2.240725
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 2.25,
+        "high": 2.25,
+        "low": 2.25,
+        "close": 2.25,
+        "volume": 859.0,
+        "trade_count": 8.0,
+        "vwap": 2.25
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 2.27,
+        "high": 2.27,
+        "low": 2.255,
+        "close": 2.255,
+        "volume": 693.0,
+        "trade_count": 11.0,
+        "vwap": 2.260007
+    },
+    {
+        "symbol": "UONE",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 2.24,
+        "high": 2.24,
+        "low": 2.24,
+        "close": 2.24,
+        "volume": 113.0,
+        "trade_count": 2.0,
+        "vwap": 2.241726
+    }
+]

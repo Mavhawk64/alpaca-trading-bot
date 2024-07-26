@@ -1,0 +1,123 @@
+[
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 11.11,
+        "high": 11.11,
+        "low": 11.11,
+        "close": 11.11,
+        "volume": 129.0,
+        "trade_count": 2.0,
+        "vwap": 10.953023
+    },
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 10.655,
+        "high": 10.655,
+        "low": 10.6301,
+        "close": 10.655,
+        "volume": 733.0,
+        "trade_count": 11.0,
+        "vwap": 10.63028
+    },
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 10.3176,
+        "high": 10.3176,
+        "low": 10.3176,
+        "close": 10.3176,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 10.3176
+    },
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 10.48,
+        "high": 10.48,
+        "low": 10.48,
+        "close": 10.48,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 10.48
+    },
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 10.395,
+        "high": 10.395,
+        "low": 10.344,
+        "close": 10.344,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 10.3695
+    },
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 10.32,
+        "high": 10.32,
+        "low": 10.3,
+        "close": 10.3,
+        "volume": 400.0,
+        "trade_count": 2.0,
+        "vwap": 10.305
+    },
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 9.8,
+        "high": 9.8,
+        "low": 9.8,
+        "close": 9.8,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 9.8
+    },
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 10.0,
+        "high": 10.0,
+        "low": 9.8,
+        "close": 9.9,
+        "volume": 1100.0,
+        "trade_count": 6.0,
+        "vwap": 9.873636
+    },
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 10.0,
+        "high": 10.0,
+        "low": 10.0,
+        "close": 10.0,
+        "volume": 260.0,
+        "trade_count": 3.0,
+        "vwap": 9.988462
+    },
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 10.0,
+        "high": 10.0,
+        "low": 10.0,
+        "close": 10.0,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.0
+    },
+    {
+        "symbol": "AACI",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 10.0,
+        "high": 10.0,
+        "low": 10.0,
+        "close": 10.0,
+        "volume": 203.0,
+        "trade_count": 1.0,
+        "vwap": 10.0
+    }
+]

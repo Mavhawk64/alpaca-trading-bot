@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "ECDA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.22,
+        "high": 1.22,
+        "low": 1.22,
+        "close": 1.22,
+        "volume": 440.0,
+        "trade_count": 2.0,
+        "vwap": 1.220773
+    },
+    {
+        "symbol": "ECDA",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 1.2192,
+        "high": 1.2192,
+        "low": 1.2192,
+        "close": 1.2192,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 1.2192
+    },
+    {
+        "symbol": "ECDA",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 1.213,
+        "high": 1.2591,
+        "low": 1.213,
+        "close": 1.2591,
+        "volume": 1127.0,
+        "trade_count": 4.0,
+        "vwap": 1.233462
+    },
+    {
+        "symbol": "ECDA",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 1.25,
+        "high": 1.25,
+        "low": 1.25,
+        "close": 1.25,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.25
+    }
+]

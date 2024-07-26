@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "GAN",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.53,
+        "high": 1.53,
+        "low": 1.53,
+        "close": 1.53,
+        "volume": 410.0,
+        "trade_count": 2.0,
+        "vwap": 1.527829
+    },
+    {
+        "symbol": "GAN",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.5006,
+        "high": 1.5006,
+        "low": 1.5006,
+        "close": 1.5006,
+        "volume": 2750.0,
+        "trade_count": 2.0,
+        "vwap": 1.5006
+    },
+    {
+        "symbol": "GAN",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 1.52,
+        "high": 1.52,
+        "low": 1.52,
+        "close": 1.52,
+        "volume": 1500.0,
+        "trade_count": 1.0,
+        "vwap": 1.52
+    },
+    {
+        "symbol": "GAN",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 1.53,
+        "high": 1.53,
+        "low": 1.53,
+        "close": 1.53,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.53
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "EHI",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 7.08,
+        "high": 7.08,
+        "low": 7.08,
+        "close": 7.08,
+        "volume": 625.0,
+        "trade_count": 1.0,
+        "vwap": 7.08
+    },
+    {
+        "symbol": "EHI",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 7.0985,
+        "high": 7.0985,
+        "low": 7.0985,
+        "close": 7.0985,
+        "volume": 212.0,
+        "trade_count": 2.0,
+        "vwap": 7.098507
+    },
+    {
+        "symbol": "EHI",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 7.08,
+        "high": 7.08,
+        "low": 7.08,
+        "close": 7.08,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.08
+    },
+    {
+        "symbol": "EHI",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 7.09,
+        "high": 7.09,
+        "low": 7.09,
+        "close": 7.09,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.09
+    },
+    {
+        "symbol": "EHI",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 7.0893,
+        "high": 7.0893,
+        "low": 7.0893,
+        "close": 7.0893,
+        "volume": 705.0,
+        "trade_count": 2.0,
+        "vwap": 7.0893
+    },
+    {
+        "symbol": "EHI",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 7.09,
+        "high": 7.09,
+        "low": 7.09,
+        "close": 7.09,
+        "volume": 358.0,
+        "trade_count": 3.0,
+        "vwap": 7.09
+    },
+    {
+        "symbol": "EHI",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 7.085,
+        "high": 7.085,
+        "low": 7.085,
+        "close": 7.085,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.085
+    },
+    {
+        "symbol": "EHI",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 7.09,
+        "high": 7.09,
+        "low": 7.09,
+        "close": 7.09,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.09
+    },
+    {
+        "symbol": "EHI",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 7.09,
+        "high": 7.09,
+        "low": 7.085,
+        "close": 7.09,
+        "volume": 602.0,
+        "trade_count": 6.0,
+        "vwap": 7.089169
+    }
+]

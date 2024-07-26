@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 3.75,
+        "high": 3.75,
+        "low": 3.75,
+        "close": 3.75,
+        "volume": 497.0,
+        "trade_count": 6.0,
+        "vwap": 3.75163
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 3.83,
+        "high": 3.83,
+        "low": 3.83,
+        "close": 3.83,
+        "volume": 252.0,
+        "trade_count": 1.0,
+        "vwap": 3.83
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 3.743,
+        "high": 3.743,
+        "low": 3.743,
+        "close": 3.743,
+        "volume": 225.0,
+        "trade_count": 2.0,
+        "vwap": 3.746556
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 3.82,
+        "high": 3.82,
+        "low": 3.82,
+        "close": 3.82,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 3.82
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 3.7201,
+        "high": 3.7201,
+        "low": 3.7201,
+        "close": 3.7201,
+        "volume": 181.0,
+        "trade_count": 1.0,
+        "vwap": 3.7201
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 3.82,
+        "high": 3.82,
+        "low": 3.82,
+        "close": 3.82,
+        "volume": 412.0,
+        "trade_count": 1.0,
+        "vwap": 3.82
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 3.8199,
+        "high": 3.8299,
+        "low": 3.795,
+        "close": 3.8299,
+        "volume": 2076.0,
+        "trade_count": 12.0,
+        "vwap": 3.813627
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 3.83,
+        "high": 3.84,
+        "low": 3.83,
+        "close": 3.84,
+        "volume": 600.0,
+        "trade_count": 7.0,
+        "vwap": 3.831817
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 3.8399,
+        "high": 3.88,
+        "low": 3.8399,
+        "close": 3.88,
+        "volume": 1093.0,
+        "trade_count": 11.0,
+        "vwap": 3.84538
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 3.9,
+        "high": 3.9,
+        "low": 3.85,
+        "close": 3.85,
+        "volume": 350.0,
+        "trade_count": 3.0,
+        "vwap": 3.871429
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 3.89,
+        "high": 3.89,
+        "low": 3.89,
+        "close": 3.89,
+        "volume": 647.0,
+        "trade_count": 4.0,
+        "vwap": 3.889969
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 3.8953,
+        "high": 3.8953,
+        "low": 3.8787,
+        "close": 3.8787,
+        "volume": 1000.0,
+        "trade_count": 2.0,
+        "vwap": 3.887
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 3.9,
+        "high": 3.9,
+        "low": 3.89,
+        "close": 3.89,
+        "volume": 601.0,
+        "trade_count": 9.0,
+        "vwap": 3.896655
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 3.865,
+        "high": 3.87,
+        "low": 3.84,
+        "close": 3.8612,
+        "volume": 3806.0,
+        "trade_count": 9.0,
+        "vwap": 3.856884
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 3.76,
+        "high": 3.77,
+        "low": 3.7501,
+        "close": 3.7506,
+        "volume": 820.0,
+        "trade_count": 5.0,
+        "vwap": 3.759012
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 3.75,
+        "high": 3.75,
+        "low": 3.72,
+        "close": 3.72,
+        "volume": 1000.0,
+        "trade_count": 14.0,
+        "vwap": 3.72933
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 3.7101,
+        "high": 3.7101,
+        "low": 3.7101,
+        "close": 3.7101,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 3.7101
+    },
+    {
+        "symbol": "ZVSA",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 3.72,
+        "high": 3.72,
+        "low": 3.7101,
+        "close": 3.7106,
+        "volume": 600.0,
+        "trade_count": 12.0,
+        "vwap": 3.715192
+    }
+]

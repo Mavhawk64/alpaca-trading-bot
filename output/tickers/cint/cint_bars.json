@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "CINT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 6.2,
+        "high": 6.2,
+        "low": 6.1899,
+        "close": 6.19,
+        "volume": 742.0,
+        "trade_count": 27.0,
+        "vwap": 6.193986
+    },
+    {
+        "symbol": "CINT",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 6.2,
+        "high": 6.2,
+        "low": 6.2,
+        "close": 6.2,
+        "volume": 535.0,
+        "trade_count": 18.0,
+        "vwap": 6.193794
+    },
+    {
+        "symbol": "CINT",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 6.2481,
+        "high": 6.2481,
+        "low": 6.2481,
+        "close": 6.2481,
+        "volume": 215.0,
+        "trade_count": 1.0,
+        "vwap": 6.2481
+    },
+    {
+        "symbol": "CINT",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 6.25,
+        "high": 6.25,
+        "low": 6.25,
+        "close": 6.25,
+        "volume": 213.0,
+        "trade_count": 7.0,
+        "vwap": 6.25
+    },
+    {
+        "symbol": "CINT",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 6.2384,
+        "high": 6.2384,
+        "low": 6.2384,
+        "close": 6.2384,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.2384
+    },
+    {
+        "symbol": "CINT",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 6.17,
+        "high": 6.17,
+        "low": 6.12,
+        "close": 6.12,
+        "volume": 709.0,
+        "trade_count": 4.0,
+        "vwap": 6.141157
+    },
+    {
+        "symbol": "CINT",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 6.1469,
+        "high": 6.215,
+        "low": 6.1469,
+        "close": 6.215,
+        "volume": 2811.0,
+        "trade_count": 8.0,
+        "vwap": 6.154915
+    },
+    {
+        "symbol": "CINT",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 6.22,
+        "high": 6.22,
+        "low": 6.22,
+        "close": 6.22,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.22
+    },
+    {
+        "symbol": "CINT",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 6.22,
+        "high": 6.22,
+        "low": 6.22,
+        "close": 6.22,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 6.22
+    },
+    {
+        "symbol": "CINT",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 6.22,
+        "high": 6.22,
+        "low": 6.22,
+        "close": 6.22,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.22
+    }
+]

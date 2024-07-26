@@ -1,0 +1,222 @@
+[
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.79,
+        "high": 1.8,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 6810.0,
+        "trade_count": 8.0,
+        "vwap": 1.791097
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 1.795,
+        "high": 1.795,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 221.0,
+        "trade_count": 4.0,
+        "vwap": 1.792738
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 1.8,
+        "high": 1.8,
+        "low": 1.8,
+        "close": 1.8,
+        "volume": 850.0,
+        "trade_count": 14.0,
+        "vwap": 1.798441
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 1.805,
+        "high": 1.805,
+        "low": 1.8,
+        "close": 1.8,
+        "volume": 615.0,
+        "trade_count": 7.0,
+        "vwap": 1.802753
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 1.8199,
+        "high": 1.8199,
+        "low": 1.8199,
+        "close": 1.8199,
+        "volume": 550.0,
+        "trade_count": 1.0,
+        "vwap": 1.8199
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 1.79,
+        "high": 1.79,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 535.0,
+        "trade_count": 6.0,
+        "vwap": 1.790561
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 1.79,
+        "high": 1.79,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 141.0,
+        "trade_count": 2.0,
+        "vwap": 1.791454
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 1.79,
+        "high": 1.79,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 1.791667
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 1.79,
+        "high": 1.79,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 110.0,
+        "trade_count": 2.0,
+        "vwap": 1.790455
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 1.7902,
+        "high": 1.7902,
+        "low": 1.7902,
+        "close": 1.7902,
+        "volume": 487.0,
+        "trade_count": 2.0,
+        "vwap": 1.7902
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 1.7957,
+        "high": 1.7957,
+        "low": 1.7957,
+        "close": 1.7957,
+        "volume": 2150.0,
+        "trade_count": 1.0,
+        "vwap": 1.7957
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 1.79,
+        "high": 1.795,
+        "low": 1.79,
+        "close": 1.795,
+        "volume": 5026.0,
+        "trade_count": 18.0,
+        "vwap": 1.792832
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 1.79,
+        "high": 1.79,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 120.0,
+        "trade_count": 2.0,
+        "vwap": 1.790833
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 1.7999,
+        "high": 1.7999,
+        "low": 1.7999,
+        "close": 1.7999,
+        "volume": 251.0,
+        "trade_count": 1.0,
+        "vwap": 1.7999
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 1.796,
+        "high": 1.796,
+        "low": 1.796,
+        "close": 1.796,
+        "volume": 898.0,
+        "trade_count": 3.0,
+        "vwap": 1.795988
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 1.7927,
+        "high": 1.7927,
+        "low": 1.7927,
+        "close": 1.7927,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 1.7927
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 1.8,
+        "high": 1.8,
+        "low": 1.8,
+        "close": 1.8,
+        "volume": 305.0,
+        "trade_count": 4.0,
+        "vwap": 1.799918
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 1.7901,
+        "high": 1.7901,
+        "low": 1.7901,
+        "close": 1.7901,
+        "volume": 125.0,
+        "trade_count": 2.0,
+        "vwap": 1.79108
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 1.79,
+        "high": 1.7936,
+        "low": 1.79,
+        "close": 1.7936,
+        "volume": 532.0,
+        "trade_count": 6.0,
+        "vwap": 1.79157
+    },
+    {
+        "symbol": "WRAP",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 1.79,
+        "high": 1.79,
+        "low": 1.79,
+        "close": 1.79,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.79
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "EUM",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 13.58,
+        "high": 13.58,
+        "low": 13.58,
+        "close": 13.58,
+        "volume": 907.0,
+        "trade_count": 2.0,
+        "vwap": 13.58
+    },
+    {
+        "symbol": "EUM",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 13.59,
+        "high": 13.59,
+        "low": 13.59,
+        "close": 13.59,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 13.59
+    },
+    {
+        "symbol": "EUM",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 13.5899,
+        "high": 13.5899,
+        "low": 13.5899,
+        "close": 13.5899,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 13.5899
+    },
+    {
+        "symbol": "EUM",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 13.59,
+        "high": 13.59,
+        "low": 13.59,
+        "close": 13.59,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 13.59
+    },
+    {
+        "symbol": "EUM",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 13.6,
+        "high": 13.6,
+        "low": 13.6,
+        "close": 13.6,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 13.6
+    },
+    {
+        "symbol": "EUM",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 13.6006,
+        "high": 13.6006,
+        "low": 13.6006,
+        "close": 13.6006,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 13.6006
+    },
+    {
+        "symbol": "EUM",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 13.5986,
+        "high": 13.5986,
+        "low": 13.5986,
+        "close": 13.5986,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 13.5986
+    },
+    {
+        "symbol": "EUM",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 13.5914,
+        "high": 13.5914,
+        "low": 13.5914,
+        "close": 13.5914,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 13.5914
+    },
+    {
+        "symbol": "EUM",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 13.59,
+        "high": 13.6,
+        "low": 13.59,
+        "close": 13.6,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 13.595
+    }
+]

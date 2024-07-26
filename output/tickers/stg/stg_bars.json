@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "STG",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 8.12,
+        "high": 8.371,
+        "low": 8.07,
+        "close": 8.07,
+        "volume": 1000.0,
+        "trade_count": 11.0,
+        "vwap": 8.179305
+    },
+    {
+        "symbol": "STG",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 7.8069,
+        "high": 8.5,
+        "low": 7.8069,
+        "close": 8.5,
+        "volume": 2596.0,
+        "trade_count": 15.0,
+        "vwap": 8.356572
+    },
+    {
+        "symbol": "STG",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 7.84,
+        "high": 7.84,
+        "low": 7.83,
+        "close": 7.83,
+        "volume": 254.0,
+        "trade_count": 2.0,
+        "vwap": 7.833937
+    }
+]

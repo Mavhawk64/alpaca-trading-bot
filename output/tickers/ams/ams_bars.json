@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "AMS",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 3.225,
+        "high": 3.225,
+        "low": 3.225,
+        "close": 3.225,
+        "volume": 839.0,
+        "trade_count": 2.0,
+        "vwap": 3.225
+    },
+    {
+        "symbol": "AMS",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 3.1729,
+        "high": 3.173,
+        "low": 3.1729,
+        "close": 3.173,
+        "volume": 2500.0,
+        "trade_count": 2.0,
+        "vwap": 3.172976
+    },
+    {
+        "symbol": "AMS",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 3.2,
+        "high": 3.2,
+        "low": 3.2,
+        "close": 3.2,
+        "volume": 296.0,
+        "trade_count": 1.0,
+        "vwap": 3.2
+    }
+]

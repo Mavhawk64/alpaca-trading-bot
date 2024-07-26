@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 10.87,
+        "high": 10.87,
+        "low": 10.87,
+        "close": 10.87,
+        "volume": 251.0,
+        "trade_count": 2.0,
+        "vwap": 10.87
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 10.87,
+        "high": 11.0,
+        "low": 10.87,
+        "close": 11.0,
+        "volume": 584.0,
+        "trade_count": 7.0,
+        "vwap": 10.947226
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 10.965,
+        "high": 10.965,
+        "low": 10.965,
+        "close": 10.965,
+        "volume": 214.0,
+        "trade_count": 3.0,
+        "vwap": 10.969252
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 10.995,
+        "high": 10.995,
+        "low": 10.995,
+        "close": 10.995,
+        "volume": 106.0,
+        "trade_count": 3.0,
+        "vwap": 10.996981
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 11.005,
+        "high": 11.005,
+        "low": 11.005,
+        "close": 11.005,
+        "volume": 103.0,
+        "trade_count": 4.0,
+        "vwap": 11.005243
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 10.98,
+        "high": 10.98,
+        "low": 10.98,
+        "close": 10.98,
+        "volume": 143.0,
+        "trade_count": 5.0,
+        "vwap": 10.991748
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 10.98,
+        "high": 10.98,
+        "low": 10.98,
+        "close": 10.98,
+        "volume": 783.0,
+        "trade_count": 9.0,
+        "vwap": 10.981443
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 10.995,
+        "high": 10.995,
+        "low": 10.995,
+        "close": 10.995,
+        "volume": 183.0,
+        "trade_count": 4.0,
+        "vwap": 10.995
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 10.96,
+        "high": 10.96,
+        "low": 10.96,
+        "close": 10.96,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 10.960347
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 10.9747,
+        "high": 10.9946,
+        "low": 10.96,
+        "close": 10.9946,
+        "volume": 2032.0,
+        "trade_count": 8.0,
+        "vwap": 10.975518
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 10.96,
+        "high": 10.96,
+        "low": 10.96,
+        "close": 10.96,
+        "volume": 502.0,
+        "trade_count": 16.0,
+        "vwap": 10.965406
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 10.96,
+        "high": 10.96,
+        "low": 10.96,
+        "close": 10.96,
+        "volume": 461.0,
+        "trade_count": 16.0,
+        "vwap": 10.958677
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 10.97,
+        "high": 10.97,
+        "low": 10.87,
+        "close": 10.873,
+        "volume": 7638.0,
+        "trade_count": 77.0,
+        "vwap": 10.909269
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 10.91,
+        "high": 10.91,
+        "low": 10.91,
+        "close": 10.91,
+        "volume": 472.0,
+        "trade_count": 7.0,
+        "vwap": 10.909915
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 10.92,
+        "high": 10.92,
+        "low": 10.92,
+        "close": 10.92,
+        "volume": 910.0,
+        "trade_count": 4.0,
+        "vwap": 10.921478
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 10.93,
+        "high": 10.93,
+        "low": 10.93,
+        "close": 10.93,
+        "volume": 105.0,
+        "trade_count": 5.0,
+        "vwap": 10.930381
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 10.93,
+        "high": 10.93,
+        "low": 10.93,
+        "close": 10.93,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 10.93
+    },
+    {
+        "symbol": "HGTY",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 10.94,
+        "high": 10.94,
+        "low": 10.94,
+        "close": 10.94,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.94
+    }
+]

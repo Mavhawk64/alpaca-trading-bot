@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "LICN",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 2.015,
+        "high": 2.015,
+        "low": 2.015,
+        "close": 2.015,
+        "volume": 2400.0,
+        "trade_count": 2.0,
+        "vwap": 2.015
+    },
+    {
+        "symbol": "LICN",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 2.0,
+        "high": 2.01,
+        "low": 2.0,
+        "close": 2.01,
+        "volume": 600.0,
+        "trade_count": 5.0,
+        "vwap": 2.005033
+    },
+    {
+        "symbol": "LICN",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 2.0,
+        "high": 2.0,
+        "low": 2.0,
+        "close": 2.0,
+        "volume": 333.0,
+        "trade_count": 5.0,
+        "vwap": 2.000096
+    }
+]

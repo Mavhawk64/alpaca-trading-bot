@@ -1,0 +1,222 @@
+[
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 5.2,
+        "high": 5.3999,
+        "low": 5.2,
+        "close": 5.3999,
+        "volume": 6110.0,
+        "trade_count": 52.0,
+        "vwap": 5.335268
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 5.4,
+        "high": 5.4,
+        "low": 5.4,
+        "close": 5.4,
+        "volume": 166.0,
+        "trade_count": 4.0,
+        "vwap": 5.384422
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 5.3628,
+        "high": 5.3628,
+        "low": 5.3628,
+        "close": 5.3628,
+        "volume": 183.0,
+        "trade_count": 3.0,
+        "vwap": 5.352472
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 5.3499,
+        "high": 5.3499,
+        "low": 5.3499,
+        "close": 5.3499,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 5.348912
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 5.25,
+        "high": 5.25,
+        "low": 5.25,
+        "close": 5.25,
+        "volume": 107.0,
+        "trade_count": 3.0,
+        "vwap": 5.25589
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 5.2831,
+        "high": 5.2831,
+        "low": 5.2831,
+        "close": 5.2831,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 5.2831
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 5.26,
+        "high": 5.26,
+        "low": 5.26,
+        "close": 5.26,
+        "volume": 152.0,
+        "trade_count": 3.0,
+        "vwap": 5.263171
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 5.26,
+        "high": 5.26,
+        "low": 5.26,
+        "close": 5.26,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 5.26
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 5.251,
+        "high": 5.29,
+        "low": 5.21,
+        "close": 5.29,
+        "volume": 2982.0,
+        "trade_count": 20.0,
+        "vwap": 5.250516
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 5.21,
+        "high": 5.2611,
+        "low": 5.21,
+        "close": 5.2611,
+        "volume": 967.0,
+        "trade_count": 25.0,
+        "vwap": 5.219462
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 5.17,
+        "high": 5.17,
+        "low": 5.17,
+        "close": 5.17,
+        "volume": 113.0,
+        "trade_count": 11.0,
+        "vwap": 5.173014
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 5.235,
+        "high": 5.235,
+        "low": 5.235,
+        "close": 5.235,
+        "volume": 117.0,
+        "trade_count": 3.0,
+        "vwap": 5.234018
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 5.3375,
+        "high": 5.3375,
+        "low": 5.32,
+        "close": 5.32,
+        "volume": 619.0,
+        "trade_count": 4.0,
+        "vwap": 5.329562
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 5.1701,
+        "high": 5.1701,
+        "low": 5.1701,
+        "close": 5.1701,
+        "volume": 634.0,
+        "trade_count": 4.0,
+        "vwap": 5.170121
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 5.19,
+        "high": 5.19,
+        "low": 5.19,
+        "close": 5.19,
+        "volume": 745.0,
+        "trade_count": 4.0,
+        "vwap": 5.189816
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 5.2,
+        "high": 5.2,
+        "low": 5.2,
+        "close": 5.2,
+        "volume": 494.0,
+        "trade_count": 4.0,
+        "vwap": 5.199559
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 5.26,
+        "high": 5.26,
+        "low": 5.26,
+        "close": 5.26,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 5.26
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 5.26,
+        "high": 5.26,
+        "low": 5.26,
+        "close": 5.26,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 5.260611
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 5.29,
+        "high": 5.34,
+        "low": 5.26,
+        "close": 5.26,
+        "volume": 3127.0,
+        "trade_count": 8.0,
+        "vwap": 5.295817
+    },
+    {
+        "symbol": "LUCY",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 5.17,
+        "high": 5.17,
+        "low": 5.17,
+        "close": 5.17,
+        "volume": 109.0,
+        "trade_count": 6.0,
+        "vwap": 5.170782
+    }
+]

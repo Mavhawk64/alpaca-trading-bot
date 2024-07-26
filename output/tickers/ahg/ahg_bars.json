@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "AHG",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 1.03,
+        "high": 1.03,
+        "low": 1.03,
+        "close": 1.03,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.03
+    },
+    {
+        "symbol": "AHG",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 1.05,
+        "high": 1.08,
+        "low": 1.04,
+        "close": 1.07,
+        "volume": 401.0,
+        "trade_count": 5.0,
+        "vwap": 1.06005
+    }
+]

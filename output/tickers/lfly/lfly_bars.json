@@ -1,0 +1,167 @@
+[
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.43,
+        "high": 2.43,
+        "low": 2.43,
+        "close": 2.43,
+        "volume": 159.0,
+        "trade_count": 3.0,
+        "vwap": 2.344717
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 2.2399,
+        "high": 2.2399,
+        "low": 2.2399,
+        "close": 2.2399,
+        "volume": 1003.0,
+        "trade_count": 2.0,
+        "vwap": 2.2399
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 2.17,
+        "high": 2.17,
+        "low": 2.17,
+        "close": 2.17,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.17
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 2.205,
+        "high": 2.205,
+        "low": 2.205,
+        "close": 2.205,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.205
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 445.0,
+        "trade_count": 9.0,
+        "vwap": 2.212247
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 350.0,
+        "trade_count": 5.0,
+        "vwap": 2.21
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 800.0,
+        "trade_count": 8.0,
+        "vwap": 2.21
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 203.0,
+        "trade_count": 3.0,
+        "vwap": 2.21
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 102.0,
+        "trade_count": 2.0,
+        "vwap": 2.210098
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.21
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.21,
+        "close": 2.21,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 2.21
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 2.21,
+        "high": 2.21,
+        "low": 2.17,
+        "close": 2.17,
+        "volume": 787.0,
+        "trade_count": 9.0,
+        "vwap": 2.197827
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 2.17,
+        "high": 2.17,
+        "low": 2.17,
+        "close": 2.17,
+        "volume": 324.0,
+        "trade_count": 3.0,
+        "vwap": 2.17
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 2.16,
+        "high": 2.16,
+        "low": 2.15,
+        "close": 2.15,
+        "volume": 945.0,
+        "trade_count": 13.0,
+        "vwap": 2.153683
+    },
+    {
+        "symbol": "LFLY",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 2.15,
+        "high": 2.15,
+        "low": 2.15,
+        "close": 2.15,
+        "volume": 220.0,
+        "trade_count": 3.0,
+        "vwap": 2.15
+    }
+]

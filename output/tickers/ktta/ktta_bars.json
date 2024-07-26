@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "KTTA",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 5.02,
+        "high": 5.03,
+        "low": 5.02,
+        "close": 5.03,
+        "volume": 207.0,
+        "trade_count": 3.0,
+        "vwap": 5.026522
+    },
+    {
+        "symbol": "KTTA",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 5.03,
+        "high": 5.03,
+        "low": 5.03,
+        "close": 5.03,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 5.03
+    }
+]

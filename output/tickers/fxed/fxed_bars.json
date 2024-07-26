@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "FXED",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 18.61,
+        "high": 18.61,
+        "low": 18.61,
+        "close": 18.61,
+        "volume": 1885.0,
+        "trade_count": 1.0,
+        "vwap": 18.61
+    },
+    {
+        "symbol": "FXED",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 18.6,
+        "high": 18.6,
+        "low": 18.6,
+        "close": 18.6,
+        "volume": 388.0,
+        "trade_count": 1.0,
+        "vwap": 18.6
+    },
+    {
+        "symbol": "FXED",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 18.602,
+        "high": 18.602,
+        "low": 18.602,
+        "close": 18.602,
+        "volume": 118.0,
+        "trade_count": 1.0,
+        "vwap": 18.602
+    }
+]

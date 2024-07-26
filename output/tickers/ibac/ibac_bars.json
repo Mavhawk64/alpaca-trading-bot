@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "IBAC",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 10.0094,
+        "high": 10.0094,
+        "low": 9.99,
+        "close": 9.99,
+        "volume": 938.0,
+        "trade_count": 2.0,
+        "vwap": 10.003195
+    },
+    {
+        "symbol": "IBAC",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 10.0093,
+        "high": 10.0093,
+        "low": 9.99,
+        "close": 9.99,
+        "volume": 938.0,
+        "trade_count": 2.0,
+        "vwap": 9.999012
+    },
+    {
+        "symbol": "IBAC",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 10.0,
+        "high": 10.0,
+        "low": 10.0,
+        "close": 10.0,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 10.0
+    },
+    {
+        "symbol": "IBAC",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 9.9901,
+        "high": 9.9901,
+        "low": 9.9901,
+        "close": 9.9901,
+        "volume": 1134.0,
+        "trade_count": 1.0,
+        "vwap": 9.9901
+    },
+    {
+        "symbol": "IBAC",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 9.9967,
+        "high": 9.9967,
+        "low": 9.99,
+        "close": 9.99,
+        "volume": 1298.0,
+        "trade_count": 2.0,
+        "vwap": 9.996184
+    }
+]

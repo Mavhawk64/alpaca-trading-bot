@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 17.87,
+        "high": 18.17,
+        "low": 17.87,
+        "close": 17.9244,
+        "volume": 2134.0,
+        "trade_count": 299.0,
+        "vwap": 17.972426
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 17.89,
+        "high": 17.89,
+        "low": 17.873,
+        "close": 17.873,
+        "volume": 582.0,
+        "trade_count": 17.0,
+        "vwap": 17.887647
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 17.87,
+        "high": 17.87,
+        "low": 17.87,
+        "close": 17.87,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 17.87
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 17.89,
+        "high": 17.89,
+        "low": 17.89,
+        "close": 17.89,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 17.89
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 17.91,
+        "high": 17.91,
+        "low": 17.91,
+        "close": 17.91,
+        "volume": 207.0,
+        "trade_count": 3.0,
+        "vwap": 17.909903
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 17.93,
+        "high": 17.93,
+        "low": 17.93,
+        "close": 17.93,
+        "volume": 174.0,
+        "trade_count": 6.0,
+        "vwap": 17.904253
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 17.895,
+        "high": 17.9298,
+        "low": 17.895,
+        "close": 17.9298,
+        "volume": 1663.0,
+        "trade_count": 10.0,
+        "vwap": 17.920661
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 17.874,
+        "high": 17.874,
+        "low": 17.8609,
+        "close": 17.873,
+        "volume": 1926.0,
+        "trade_count": 249.0,
+        "vwap": 17.874354
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 17.87,
+        "high": 17.87,
+        "low": 17.86,
+        "close": 17.86,
+        "volume": 615.0,
+        "trade_count": 6.0,
+        "vwap": 17.864106
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 17.86,
+        "high": 17.86,
+        "low": 17.86,
+        "close": 17.86,
+        "volume": 305.0,
+        "trade_count": 4.0,
+        "vwap": 17.860507
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 17.92,
+        "high": 17.92,
+        "low": 17.86,
+        "close": 17.92,
+        "volume": 938.0,
+        "trade_count": 4.0,
+        "vwap": 17.892846
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 17.8661,
+        "high": 17.8661,
+        "low": 17.8661,
+        "close": 17.8661,
+        "volume": 435.0,
+        "trade_count": 1.0,
+        "vwap": 17.8661
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 17.86,
+        "high": 17.86,
+        "low": 17.86,
+        "close": 17.86,
+        "volume": 1029.0,
+        "trade_count": 54.0,
+        "vwap": 17.860372
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 17.86,
+        "high": 17.86,
+        "low": 17.86,
+        "close": 17.86,
+        "volume": 511.0,
+        "trade_count": 5.0,
+        "vwap": 17.860191
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 17.86,
+        "high": 17.86,
+        "low": 17.86,
+        "close": 17.86,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 17.86
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 17.86,
+        "high": 17.86,
+        "low": 17.855,
+        "close": 17.86,
+        "volume": 3760.0,
+        "trade_count": 12.0,
+        "vwap": 17.859721
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 17.8524,
+        "high": 17.8524,
+        "low": 17.845,
+        "close": 17.8501,
+        "volume": 5338.0,
+        "trade_count": 79.0,
+        "vwap": 17.849596
+    },
+    {
+        "symbol": "SPSK",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 17.85,
+        "high": 17.85,
+        "low": 17.85,
+        "close": 17.85,
+        "volume": 1174.0,
+        "trade_count": 97.0,
+        "vwap": 17.856194
+    }
+]

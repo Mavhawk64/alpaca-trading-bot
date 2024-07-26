@@ -1,0 +1,189 @@
+[
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 16.19,
+        "high": 16.19,
+        "low": 16.19,
+        "close": 16.19,
+        "volume": 1471.0,
+        "trade_count": 4.0,
+        "vwap": 16.189266
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 16.2,
+        "high": 16.2,
+        "low": 16.2,
+        "close": 16.2,
+        "volume": 216.0,
+        "trade_count": 6.0,
+        "vwap": 16.188796
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 15.9,
+        "high": 15.9,
+        "low": 15.9,
+        "close": 15.9,
+        "volume": 463.0,
+        "trade_count": 4.0,
+        "vwap": 15.921447
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 16.21,
+        "high": 16.22,
+        "low": 16.21,
+        "close": 16.22,
+        "volume": 683.0,
+        "trade_count": 24.0,
+        "vwap": 16.234434
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 16.22,
+        "high": 16.22,
+        "low": 16.22,
+        "close": 16.22,
+        "volume": 217.0,
+        "trade_count": 6.0,
+        "vwap": 16.220138
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 16.22,
+        "high": 16.22,
+        "low": 16.22,
+        "close": 16.22,
+        "volume": 254.0,
+        "trade_count": 10.0,
+        "vwap": 16.235759
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 16.25,
+        "high": 16.25,
+        "low": 16.25,
+        "close": 16.25,
+        "volume": 573.0,
+        "trade_count": 22.0,
+        "vwap": 16.243229
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 16.18,
+        "high": 16.18,
+        "low": 16.17,
+        "close": 16.17,
+        "volume": 259.0,
+        "trade_count": 10.0,
+        "vwap": 16.205521
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 16.21,
+        "high": 16.21,
+        "low": 16.2,
+        "close": 16.2,
+        "volume": 522.0,
+        "trade_count": 14.0,
+        "vwap": 16.206015
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 16.29,
+        "high": 16.29,
+        "low": 16.29,
+        "close": 16.29,
+        "volume": 336.0,
+        "trade_count": 12.0,
+        "vwap": 16.288943
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 16.17,
+        "high": 16.18,
+        "low": 16.17,
+        "close": 16.18,
+        "volume": 519.0,
+        "trade_count": 27.0,
+        "vwap": 16.180347
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 16.1,
+        "high": 16.1,
+        "low": 16.1,
+        "close": 16.1,
+        "volume": 326.0,
+        "trade_count": 17.0,
+        "vwap": 16.098834
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 16.035,
+        "high": 16.035,
+        "low": 16.035,
+        "close": 16.035,
+        "volume": 111.0,
+        "trade_count": 7.0,
+        "vwap": 16.037523
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 16.035,
+        "high": 16.07,
+        "low": 16.035,
+        "close": 16.07,
+        "volume": 414.0,
+        "trade_count": 20.0,
+        "vwap": 16.046957
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 16.07,
+        "high": 16.07,
+        "low": 16.07,
+        "close": 16.07,
+        "volume": 103.0,
+        "trade_count": 2.0,
+        "vwap": 16.068252
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 15.98,
+        "high": 15.98,
+        "low": 15.98,
+        "close": 15.98,
+        "volume": 212.0,
+        "trade_count": 11.0,
+        "vwap": 15.981132
+    },
+    {
+        "symbol": "LYTS",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 16.0,
+        "high": 16.0,
+        "low": 16.0,
+        "close": 16.0,
+        "volume": 163.0,
+        "trade_count": 2.0,
+        "vwap": 16.000307
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "VISL",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 6.7,
+        "high": 6.7,
+        "low": 6.7,
+        "close": 6.7,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 6.7
+    },
+    {
+        "symbol": "VISL",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 6.68,
+        "high": 6.68,
+        "low": 6.68,
+        "close": 6.68,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.68
+    },
+    {
+        "symbol": "VISL",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 6.495,
+        "high": 6.495,
+        "low": 6.495,
+        "close": 6.495,
+        "volume": 133.0,
+        "trade_count": 2.0,
+        "vwap": 6.496241
+    },
+    {
+        "symbol": "VISL",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 6.5,
+        "high": 6.5,
+        "low": 6.5,
+        "close": 6.5,
+        "volume": 300.0,
+        "trade_count": 4.0,
+        "vwap": 6.5
+    },
+    {
+        "symbol": "VISL",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 6.69,
+        "high": 6.69,
+        "low": 6.69,
+        "close": 6.69,
+        "volume": 420.0,
+        "trade_count": 1.0,
+        "vwap": 6.69
+    },
+    {
+        "symbol": "VISL",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 6.6,
+        "high": 6.6,
+        "low": 6.6,
+        "close": 6.6,
+        "volume": 145.0,
+        "trade_count": 2.0,
+        "vwap": 6.6
+    }
+]

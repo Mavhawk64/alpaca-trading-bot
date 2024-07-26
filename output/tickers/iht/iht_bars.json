@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "IHT",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 1.54,
+        "high": 1.54,
+        "low": 1.5,
+        "close": 1.5,
+        "volume": 1039.0,
+        "trade_count": 7.0,
+        "vwap": 1.519509
+    },
+    {
+        "symbol": "IHT",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 1.57,
+        "high": 1.57,
+        "low": 1.57,
+        "close": 1.57,
+        "volume": 152.0,
+        "trade_count": 2.0,
+        "vwap": 1.566579
+    }
+]

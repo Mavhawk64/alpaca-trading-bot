@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T13:29:00+00:00",
+        "open": 16.79,
+        "high": 16.79,
+        "low": 16.79,
+        "close": 16.79,
+        "volume": 336.0,
+        "trade_count": 5.0,
+        "vwap": 16.784821
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 16.68,
+        "high": 16.79,
+        "low": 16.68,
+        "close": 16.79,
+        "volume": 6403.0,
+        "trade_count": 12.0,
+        "vwap": 16.68554
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 16.77,
+        "high": 16.77,
+        "low": 16.77,
+        "close": 16.77,
+        "volume": 120.0,
+        "trade_count": 2.0,
+        "vwap": 16.775
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 16.86,
+        "high": 16.8685,
+        "low": 16.81,
+        "close": 16.84,
+        "volume": 855.0,
+        "trade_count": 9.0,
+        "vwap": 16.837108
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 16.7,
+        "high": 16.7,
+        "low": 16.7,
+        "close": 16.7,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.7
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 16.685,
+        "high": 16.685,
+        "low": 16.685,
+        "close": 16.685,
+        "volume": 152.0,
+        "trade_count": 3.0,
+        "vwap": 16.684683
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 16.67,
+        "high": 16.67,
+        "low": 16.67,
+        "close": 16.67,
+        "volume": 145.0,
+        "trade_count": 1.0,
+        "vwap": 16.67
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 16.72,
+        "high": 16.72,
+        "low": 16.72,
+        "close": 16.72,
+        "volume": 315.0,
+        "trade_count": 3.0,
+        "vwap": 16.714375
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 16.7161,
+        "high": 16.7161,
+        "low": 16.7161,
+        "close": 16.7161,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 16.7161
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 16.6951,
+        "high": 16.6951,
+        "low": 16.6951,
+        "close": 16.6951,
+        "volume": 598.0,
+        "trade_count": 10.0,
+        "vwap": 16.685094
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 16.69,
+        "high": 16.69,
+        "low": 16.69,
+        "close": 16.69,
+        "volume": 1053.0,
+        "trade_count": 3.0,
+        "vwap": 16.69
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 16.73,
+        "high": 16.73,
+        "low": 16.73,
+        "close": 16.73,
+        "volume": 526.0,
+        "trade_count": 15.0,
+        "vwap": 16.73
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 16.68,
+        "high": 16.68,
+        "low": 16.68,
+        "close": 16.68,
+        "volume": 608.0,
+        "trade_count": 5.0,
+        "vwap": 16.680008
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 16.7548,
+        "high": 16.7548,
+        "low": 16.7548,
+        "close": 16.7548,
+        "volume": 125.0,
+        "trade_count": 1.0,
+        "vwap": 16.7548
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 16.6301,
+        "high": 16.66,
+        "low": 16.6301,
+        "close": 16.66,
+        "volume": 1395.0,
+        "trade_count": 3.0,
+        "vwap": 16.652841
+    },
+    {
+        "symbol": "NFLY",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 16.66,
+        "high": 16.66,
+        "low": 16.66,
+        "close": 16.66,
+        "volume": 130.0,
+        "trade_count": 1.0,
+        "vwap": 16.66
+    }
+]

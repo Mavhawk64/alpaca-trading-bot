@@ -1,0 +1,145 @@
+[
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.72,
+        "high": 1.72,
+        "low": 1.72,
+        "close": 1.72,
+        "volume": 801.0,
+        "trade_count": 3.0,
+        "vwap": 1.719981
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 1.7,
+        "high": 1.7,
+        "low": 1.7,
+        "close": 1.7,
+        "volume": 250.0,
+        "trade_count": 4.0,
+        "vwap": 1.706
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 1.69,
+        "high": 1.69,
+        "low": 1.69,
+        "close": 1.69,
+        "volume": 801.0,
+        "trade_count": 1.0,
+        "vwap": 1.69
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 1.6866,
+        "high": 1.6866,
+        "low": 1.6866,
+        "close": 1.6866,
+        "volume": 240.0,
+        "trade_count": 1.0,
+        "vwap": 1.6866
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 1.68,
+        "high": 1.68,
+        "low": 1.68,
+        "close": 1.68,
+        "volume": 190.0,
+        "trade_count": 4.0,
+        "vwap": 1.682105
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 1.6809,
+        "high": 1.6809,
+        "low": 1.6809,
+        "close": 1.6809,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 1.6809
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 1.6991,
+        "high": 1.6991,
+        "low": 1.6991,
+        "close": 1.6991,
+        "volume": 350.0,
+        "trade_count": 1.0,
+        "vwap": 1.6991
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 1.695,
+        "high": 1.695,
+        "low": 1.695,
+        "close": 1.695,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.695
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 1.695,
+        "high": 1.695,
+        "low": 1.695,
+        "close": 1.695,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.695
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 1.69,
+        "high": 1.71,
+        "low": 1.69,
+        "close": 1.71,
+        "volume": 800.0,
+        "trade_count": 3.0,
+        "vwap": 1.7025
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 1.6986,
+        "high": 1.6986,
+        "low": 1.6986,
+        "close": 1.6986,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.6986
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 1.68,
+        "high": 1.68,
+        "low": 1.68,
+        "close": 1.68,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.68
+    },
+    {
+        "symbol": "KIRK",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 1.68,
+        "high": 1.68,
+        "low": 1.68,
+        "close": 1.68,
+        "volume": 608.0,
+        "trade_count": 9.0,
+        "vwap": 1.67852
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 14.715,
+        "high": 14.74,
+        "low": 14.715,
+        "close": 14.74,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 14.7275
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 14.72,
+        "high": 14.72,
+        "low": 14.72,
+        "close": 14.72,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.72
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 14.735,
+        "high": 14.735,
+        "low": 14.72,
+        "close": 14.73,
+        "volume": 1900.0,
+        "trade_count": 9.0,
+        "vwap": 14.725526
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 14.72,
+        "high": 14.72,
+        "low": 14.72,
+        "close": 14.72,
+        "volume": 201.0,
+        "trade_count": 7.0,
+        "vwap": 14.723383
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 14.72,
+        "high": 14.72,
+        "low": 14.68,
+        "close": 14.68,
+        "volume": 1792.0,
+        "trade_count": 5.0,
+        "vwap": 14.684866
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 14.715,
+        "high": 14.715,
+        "low": 14.715,
+        "close": 14.715,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.715
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 14.69,
+        "high": 14.69,
+        "low": 14.69,
+        "close": 14.69,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.69
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 14.68,
+        "high": 14.68,
+        "low": 14.68,
+        "close": 14.68,
+        "volume": 327.0,
+        "trade_count": 6.0,
+        "vwap": 14.681101
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 14.6675,
+        "high": 14.6675,
+        "low": 14.6675,
+        "close": 14.6675,
+        "volume": 225.0,
+        "trade_count": 2.0,
+        "vwap": 14.67
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 14.685,
+        "high": 14.685,
+        "low": 14.685,
+        "close": 14.685,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.685
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 14.66,
+        "high": 14.66,
+        "low": 14.66,
+        "close": 14.66,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 14.66
+    },
+    {
+        "symbol": "GHI",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 14.66,
+        "high": 14.66,
+        "low": 14.66,
+        "close": 14.66,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 14.66
+    }
+]

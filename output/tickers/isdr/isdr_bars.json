@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "ISDR",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 8.76,
+        "high": 8.8,
+        "low": 8.76,
+        "close": 8.8,
+        "volume": 788.0,
+        "trade_count": 9.0,
+        "vwap": 8.782805
+    },
+    {
+        "symbol": "ISDR",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 8.62,
+        "high": 8.62,
+        "low": 8.62,
+        "close": 8.62,
+        "volume": 125.0,
+        "trade_count": 1.0,
+        "vwap": 8.62
+    }
+]

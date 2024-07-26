@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "AIRI",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 3.59,
+        "high": 3.59,
+        "low": 3.59,
+        "close": 3.59,
+        "volume": 134.0,
+        "trade_count": 1.0,
+        "vwap": 3.59
+    },
+    {
+        "symbol": "AIRI",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 3.534,
+        "high": 3.534,
+        "low": 3.534,
+        "close": 3.534,
+        "volume": 278.0,
+        "trade_count": 1.0,
+        "vwap": 3.534
+    },
+    {
+        "symbol": "AIRI",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 3.5999,
+        "high": 3.6,
+        "low": 3.5999,
+        "close": 3.6,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 3.59995
+    }
+]

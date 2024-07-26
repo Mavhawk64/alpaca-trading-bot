@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "DISO",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 16.05,
+        "high": 16.05,
+        "low": 16.05,
+        "close": 16.05,
+        "volume": 994.0,
+        "trade_count": 7.0,
+        "vwap": 16.049422
+    },
+    {
+        "symbol": "DISO",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 16.086,
+        "high": 16.086,
+        "low": 16.086,
+        "close": 16.086,
+        "volume": 943.0,
+        "trade_count": 5.0,
+        "vwap": 16.086089
+    },
+    {
+        "symbol": "DISO",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 16.103,
+        "high": 16.103,
+        "low": 16.103,
+        "close": 16.103,
+        "volume": 494.0,
+        "trade_count": 1.0,
+        "vwap": 16.103
+    },
+    {
+        "symbol": "DISO",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 16.12,
+        "high": 16.12,
+        "low": 16.085,
+        "close": 16.085,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 16.1025
+    },
+    {
+        "symbol": "DISO",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 16.07,
+        "high": 16.07,
+        "low": 16.07,
+        "close": 16.07,
+        "volume": 111.0,
+        "trade_count": 4.0,
+        "vwap": 16.070631
+    }
+]

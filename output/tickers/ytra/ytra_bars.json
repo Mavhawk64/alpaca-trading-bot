@@ -1,0 +1,211 @@
+[
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.33,
+        "high": 1.33,
+        "low": 1.33,
+        "close": 1.33,
+        "volume": 1475.0,
+        "trade_count": 2.0,
+        "vwap": 1.330003
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 1.3484,
+        "high": 1.35,
+        "low": 1.3484,
+        "close": 1.35,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.3492
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 1.34,
+        "high": 1.348,
+        "low": 1.34,
+        "close": 1.348,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.344
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.34,
+        "high": 1.34,
+        "low": 1.34,
+        "close": 1.34,
+        "volume": 700.0,
+        "trade_count": 2.0,
+        "vwap": 1.34
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T13:50:00+00:00",
+        "open": 1.34,
+        "high": 1.35,
+        "low": 1.34,
+        "close": 1.35,
+        "volume": 5100.0,
+        "trade_count": 7.0,
+        "vwap": 1.348939
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 1.345,
+        "high": 1.345,
+        "low": 1.345,
+        "close": 1.345,
+        "volume": 3000.0,
+        "trade_count": 1.0,
+        "vwap": 1.345
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 1.3401,
+        "high": 1.3401,
+        "low": 1.3401,
+        "close": 1.3401,
+        "volume": 384.0,
+        "trade_count": 1.0,
+        "vwap": 1.3401
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 1.345,
+        "high": 1.345,
+        "low": 1.345,
+        "close": 1.345,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 1.345
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 1.34,
+        "high": 1.36,
+        "low": 1.34,
+        "close": 1.36,
+        "volume": 16045.0,
+        "trade_count": 22.0,
+        "vwap": 1.351609
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 1.355,
+        "high": 1.37,
+        "low": 1.355,
+        "close": 1.37,
+        "volume": 16384.0,
+        "trade_count": 18.0,
+        "vwap": 1.359899
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 1.375,
+        "high": 1.375,
+        "low": 1.375,
+        "close": 1.375,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 1.375
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 1.37,
+        "high": 1.37,
+        "low": 1.37,
+        "close": 1.37,
+        "volume": 1013.0,
+        "trade_count": 2.0,
+        "vwap": 1.370064
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 1.3952,
+        "high": 1.3952,
+        "low": 1.3952,
+        "close": 1.3952,
+        "volume": 3575.0,
+        "trade_count": 3.0,
+        "vwap": 1.395191
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 1.3744,
+        "high": 1.3744,
+        "low": 1.3744,
+        "close": 1.3744,
+        "volume": 3000.0,
+        "trade_count": 1.0,
+        "vwap": 1.3744
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 1.38,
+        "high": 1.38,
+        "low": 1.38,
+        "close": 1.38,
+        "volume": 704.0,
+        "trade_count": 2.0,
+        "vwap": 1.38
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 1.371,
+        "high": 1.375,
+        "low": 1.37,
+        "close": 1.3701,
+        "volume": 6600.0,
+        "trade_count": 13.0,
+        "vwap": 1.372242
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:48:00+00:00",
+        "open": 1.38,
+        "high": 1.38,
+        "low": 1.38,
+        "close": 1.38,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.38
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 1.37,
+        "high": 1.37,
+        "low": 1.37,
+        "close": 1.37,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.37
+    },
+    {
+        "symbol": "YTRA",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 1.3753,
+        "high": 1.3753,
+        "low": 1.3753,
+        "close": 1.3753,
+        "volume": 125.0,
+        "trade_count": 2.0,
+        "vwap": 1.37432
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 8.04,
+        "high": 8.04,
+        "low": 8.04,
+        "close": 8.04,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 8.04
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T13:35:00+00:00",
+        "open": 8.2,
+        "high": 8.23,
+        "low": 8.2,
+        "close": 8.23,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 8.215
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 8.2835,
+        "high": 8.2835,
+        "low": 8.2835,
+        "close": 8.2835,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 8.2835
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 8.275,
+        "high": 8.275,
+        "low": 8.275,
+        "close": 8.275,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 8.275
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 8.24,
+        "high": 8.24,
+        "low": 8.24,
+        "close": 8.24,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 8.24
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 8.3,
+        "high": 8.3,
+        "low": 8.3,
+        "close": 8.3,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 8.3
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 8.2974,
+        "high": 8.2974,
+        "low": 8.2974,
+        "close": 8.2974,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 8.2974
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 8.34,
+        "high": 8.35,
+        "low": 8.34,
+        "close": 8.34,
+        "volume": 635.0,
+        "trade_count": 5.0,
+        "vwap": 8.337638
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T14:03:00+00:00",
+        "open": 8.36,
+        "high": 8.36,
+        "low": 8.36,
+        "close": 8.36,
+        "volume": 400.0,
+        "trade_count": 4.0,
+        "vwap": 8.358375
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 8.3259,
+        "high": 8.3259,
+        "low": 8.3259,
+        "close": 8.3259,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 8.3259
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 8.325,
+        "high": 8.325,
+        "low": 8.325,
+        "close": 8.325,
+        "volume": 500.0,
+        "trade_count": 1.0,
+        "vwap": 8.325
+    },
+    {
+        "symbol": "TSAT",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 8.3,
+        "high": 8.3,
+        "low": 8.29,
+        "close": 8.3,
+        "volume": 301.0,
+        "trade_count": 4.0,
+        "vwap": 8.296611
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "RVYL",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 1.82,
+        "high": 1.82,
+        "low": 1.82,
+        "close": 1.82,
+        "volume": 150.0,
+        "trade_count": 3.0,
+        "vwap": 1.816667
+    },
+    {
+        "symbol": "RVYL",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 1.825,
+        "high": 1.825,
+        "low": 1.825,
+        "close": 1.825,
+        "volume": 1400.0,
+        "trade_count": 1.0,
+        "vwap": 1.825
+    }
+]

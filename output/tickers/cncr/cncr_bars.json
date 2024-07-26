@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "CNCR",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 15.9075,
+        "high": 15.9075,
+        "low": 15.9075,
+        "close": 15.9075,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 15.9075
+    },
+    {
+        "symbol": "CNCR",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 15.6076,
+        "high": 15.6076,
+        "low": 15.6076,
+        "close": 15.6076,
+        "volume": 150.0,
+        "trade_count": 1.0,
+        "vwap": 15.6076
+    },
+    {
+        "symbol": "CNCR",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 15.6123,
+        "high": 15.6123,
+        "low": 15.6123,
+        "close": 15.6123,
+        "volume": 563.0,
+        "trade_count": 4.0,
+        "vwap": 15.612288
+    }
+]

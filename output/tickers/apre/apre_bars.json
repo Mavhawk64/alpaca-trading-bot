@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "APRE",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 3.84,
+        "high": 3.84,
+        "low": 3.84,
+        "close": 3.84,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 3.848333
+    },
+    {
+        "symbol": "APRE",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 3.8,
+        "high": 3.908,
+        "low": 3.8,
+        "close": 3.8,
+        "volume": 1562.0,
+        "trade_count": 11.0,
+        "vwap": 3.865178
+    },
+    {
+        "symbol": "APRE",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 3.96,
+        "high": 3.96,
+        "low": 3.96,
+        "close": 3.96,
+        "volume": 1163.0,
+        "trade_count": 3.0,
+        "vwap": 3.959114
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.98,
+        "high": 4.98,
+        "low": 4.885,
+        "close": 4.885,
+        "volume": 2403.0,
+        "trade_count": 6.0,
+        "vwap": 4.895135
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 4.885,
+        "high": 4.885,
+        "low": 4.885,
+        "close": 4.885,
+        "volume": 430.0,
+        "trade_count": 1.0,
+        "vwap": 4.885
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 4.88,
+        "high": 4.88,
+        "low": 4.88,
+        "close": 4.88,
+        "volume": 326.0,
+        "trade_count": 14.0,
+        "vwap": 4.881994
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:01:00+00:00",
+        "open": 4.86,
+        "high": 4.86,
+        "low": 4.86,
+        "close": 4.86,
+        "volume": 301.0,
+        "trade_count": 9.0,
+        "vwap": 4.861545
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 4.84,
+        "high": 4.9,
+        "low": 4.84,
+        "close": 4.9,
+        "volume": 1746.0,
+        "trade_count": 7.0,
+        "vwap": 4.886234
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 4.87,
+        "high": 4.87,
+        "low": 4.87,
+        "close": 4.87,
+        "volume": 211.0,
+        "trade_count": 3.0,
+        "vwap": 4.87
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 4.8405,
+        "high": 4.86,
+        "low": 4.8405,
+        "close": 4.86,
+        "volume": 267.0,
+        "trade_count": 3.0,
+        "vwap": 4.848169
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 4.855,
+        "high": 4.855,
+        "low": 4.855,
+        "close": 4.855,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.855
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 4.84,
+        "high": 4.84,
+        "low": 4.84,
+        "close": 4.84,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 4.84
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 4.86,
+        "high": 4.86,
+        "low": 4.86,
+        "close": 4.86,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.86
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 4.86,
+        "high": 4.86,
+        "low": 4.86,
+        "close": 4.86,
+        "volume": 630.0,
+        "trade_count": 2.0,
+        "vwap": 4.86
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 4.85,
+        "high": 4.85,
+        "low": 4.85,
+        "close": 4.85,
+        "volume": 1218.0,
+        "trade_count": 15.0,
+        "vwap": 4.85
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 4.84,
+        "high": 4.84,
+        "low": 4.84,
+        "close": 4.84,
+        "volume": 1197.0,
+        "trade_count": 17.0,
+        "vwap": 4.839708
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 4.83,
+        "high": 4.83,
+        "low": 4.83,
+        "close": 4.83,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 4.83
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 4.835,
+        "high": 4.835,
+        "low": 4.835,
+        "close": 4.835,
+        "volume": 211.0,
+        "trade_count": 4.0,
+        "vwap": 4.835171
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 4.835,
+        "high": 4.835,
+        "low": 4.835,
+        "close": 4.835,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.835
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T14:46:00+00:00",
+        "open": 4.85,
+        "high": 4.85,
+        "low": 4.83,
+        "close": 4.84,
+        "volume": 2887.0,
+        "trade_count": 36.0,
+        "vwap": 4.844977
+    },
+    {
+        "symbol": "GCTS",
+        "timestamp": "2024-07-26T15:00:00+00:00",
+        "open": 4.85,
+        "high": 4.88,
+        "low": 4.85,
+        "close": 4.88,
+        "volume": 1257.0,
+        "trade_count": 22.0,
+        "vwap": 4.858465
+    }
+]

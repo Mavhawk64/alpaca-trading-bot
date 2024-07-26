@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "MYY",
+        "timestamp": "2024-07-26T13:47:00+00:00",
+        "open": 19.59,
+        "high": 19.59,
+        "low": 19.59,
+        "close": 19.59,
+        "volume": 1200.0,
+        "trade_count": 1.0,
+        "vwap": 19.59
+    },
+    {
+        "symbol": "MYY",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 19.64,
+        "high": 19.64,
+        "low": 19.64,
+        "close": 19.64,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 19.64
+    }
+]

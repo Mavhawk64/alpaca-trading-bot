@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "SER",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 10.4951,
+        "high": 10.4951,
+        "low": 10.4951,
+        "close": 10.4951,
+        "volume": 425.0,
+        "trade_count": 1.0,
+        "vwap": 10.4951
+    },
+    {
+        "symbol": "SER",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 10.1101,
+        "high": 10.12,
+        "low": 9.77,
+        "close": 10.01,
+        "volume": 2306.0,
+        "trade_count": 14.0,
+        "vwap": 10.000186
+    },
+    {
+        "symbol": "SER",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 10.16,
+        "high": 10.16,
+        "low": 10.16,
+        "close": 10.16,
+        "volume": 103.0,
+        "trade_count": 2.0,
+        "vwap": 10.173139
+    },
+    {
+        "symbol": "SER",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 10.66,
+        "high": 10.66,
+        "low": 10.1727,
+        "close": 10.1727,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 10.4159
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "SBXC",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 10.68,
+        "high": 10.68,
+        "low": 10.68,
+        "close": 10.68,
+        "volume": 756.0,
+        "trade_count": 1.0,
+        "vwap": 10.68
+    },
+    {
+        "symbol": "SBXC",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 10.641,
+        "high": 10.641,
+        "low": 10.641,
+        "close": 10.641,
+        "volume": 756.0,
+        "trade_count": 3.0,
+        "vwap": 10.641667
+    },
+    {
+        "symbol": "SBXC",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 10.641,
+        "high": 10.641,
+        "low": 10.64,
+        "close": 10.64,
+        "volume": 2500.0,
+        "trade_count": 8.0,
+        "vwap": 10.64064
+    },
+    {
+        "symbol": "SBXC",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 10.64,
+        "high": 10.64,
+        "low": 10.64,
+        "close": 10.64,
+        "volume": 197.0,
+        "trade_count": 1.0,
+        "vwap": 10.64
+    }
+]

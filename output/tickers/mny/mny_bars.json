@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "MNY",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 1.6238,
+        "high": 1.6238,
+        "low": 1.6238,
+        "close": 1.6238,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.6238
+    },
+    {
+        "symbol": "MNY",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.6238,
+        "high": 1.6238,
+        "low": 1.6238,
+        "close": 1.6238,
+        "volume": 1600.0,
+        "trade_count": 2.0,
+        "vwap": 1.6238
+    },
+    {
+        "symbol": "MNY",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 1.64,
+        "high": 1.64,
+        "low": 1.64,
+        "close": 1.64,
+        "volume": 116.0,
+        "trade_count": 1.0,
+        "vwap": 1.64
+    },
+    {
+        "symbol": "MNY",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 1.6498,
+        "high": 1.6498,
+        "low": 1.6497,
+        "close": 1.6497,
+        "volume": 1400.0,
+        "trade_count": 2.0,
+        "vwap": 1.649764
+    },
+    {
+        "symbol": "MNY",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 1.64,
+        "high": 1.64,
+        "low": 1.64,
+        "close": 1.64,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 1.64
+    },
+    {
+        "symbol": "MNY",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 1.6215,
+        "high": 1.6215,
+        "low": 1.6215,
+        "close": 1.6215,
+        "volume": 2000.0,
+        "trade_count": 1.0,
+        "vwap": 1.6215
+    },
+    {
+        "symbol": "MNY",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 1.62,
+        "high": 1.62,
+        "low": 1.62,
+        "close": 1.62,
+        "volume": 345.0,
+        "trade_count": 6.0,
+        "vwap": 1.629072
+    },
+    {
+        "symbol": "MNY",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 1.61,
+        "high": 1.61,
+        "low": 1.61,
+        "close": 1.61,
+        "volume": 1350.0,
+        "trade_count": 4.0,
+        "vwap": 1.61
+    },
+    {
+        "symbol": "MNY",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 1.6199,
+        "high": 1.6199,
+        "low": 1.6199,
+        "close": 1.6199,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.6199
+    }
+]

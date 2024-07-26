@@ -1,0 +1,79 @@
+[
+    {
+        "symbol": "NXTC",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 1.61,
+        "high": 1.61,
+        "low": 1.61,
+        "close": 1.61,
+        "volume": 700.0,
+        "trade_count": 3.0,
+        "vwap": 1.61
+    },
+    {
+        "symbol": "NXTC",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 1.685,
+        "high": 1.685,
+        "low": 1.685,
+        "close": 1.685,
+        "volume": 120.0,
+        "trade_count": 2.0,
+        "vwap": 1.679167
+    },
+    {
+        "symbol": "NXTC",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 1.68,
+        "high": 1.68,
+        "low": 1.68,
+        "close": 1.68,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.68
+    },
+    {
+        "symbol": "NXTC",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 1.66,
+        "high": 1.66,
+        "low": 1.66,
+        "close": 1.66,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.66
+    },
+    {
+        "symbol": "NXTC",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 1.6302,
+        "high": 1.6302,
+        "low": 1.63,
+        "close": 1.63,
+        "volume": 287.0,
+        "trade_count": 5.0,
+        "vwap": 1.63007
+    },
+    {
+        "symbol": "NXTC",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 1.6,
+        "high": 1.6,
+        "low": 1.6,
+        "close": 1.6,
+        "volume": 386.0,
+        "trade_count": 2.0,
+        "vwap": 1.6
+    },
+    {
+        "symbol": "NXTC",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 1.62,
+        "high": 1.62,
+        "low": 1.62,
+        "close": 1.62,
+        "volume": 104.0,
+        "trade_count": 3.0,
+        "vwap": 1.619231
+    }
+]

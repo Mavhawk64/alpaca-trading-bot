@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 18.5,
+        "high": 18.5,
+        "low": 18.5,
+        "close": 18.5,
+        "volume": 2793.0,
+        "trade_count": 7.0,
+        "vwap": 18.501217
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 18.62,
+        "high": 18.62,
+        "low": 18.62,
+        "close": 18.62,
+        "volume": 111.0,
+        "trade_count": 3.0,
+        "vwap": 18.611663
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 18.61,
+        "high": 18.61,
+        "low": 18.61,
+        "close": 18.61,
+        "volume": 247.0,
+        "trade_count": 3.0,
+        "vwap": 18.613806
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 18.535,
+        "high": 18.535,
+        "low": 18.48,
+        "close": 18.53,
+        "volume": 1021.0,
+        "trade_count": 28.0,
+        "vwap": 18.497708
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 18.55,
+        "high": 18.55,
+        "low": 18.49,
+        "close": 18.49,
+        "volume": 1594.0,
+        "trade_count": 35.0,
+        "vwap": 18.534398
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 18.44,
+        "high": 18.44,
+        "low": 18.42,
+        "close": 18.42,
+        "volume": 276.0,
+        "trade_count": 12.0,
+        "vwap": 18.432536
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 18.425,
+        "high": 18.425,
+        "low": 18.425,
+        "close": 18.425,
+        "volume": 142.0,
+        "trade_count": 4.0,
+        "vwap": 18.415599
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 18.44,
+        "high": 18.44,
+        "low": 18.44,
+        "close": 18.44,
+        "volume": 138.0,
+        "trade_count": 7.0,
+        "vwap": 18.42808
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 18.29,
+        "high": 18.29,
+        "low": 18.29,
+        "close": 18.29,
+        "volume": 133.0,
+        "trade_count": 3.0,
+        "vwap": 18.280376
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 18.277,
+        "high": 18.277,
+        "low": 18.277,
+        "close": 18.277,
+        "volume": 210.0,
+        "trade_count": 7.0,
+        "vwap": 18.273176
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 18.33,
+        "high": 18.35,
+        "low": 18.33,
+        "close": 18.33,
+        "volume": 3242.0,
+        "trade_count": 66.0,
+        "vwap": 18.330728
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 18.405,
+        "high": 18.405,
+        "low": 18.4,
+        "close": 18.4,
+        "volume": 298.0,
+        "trade_count": 9.0,
+        "vwap": 18.398154
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 18.38,
+        "high": 18.43,
+        "low": 18.37,
+        "close": 18.43,
+        "volume": 1279.0,
+        "trade_count": 31.0,
+        "vwap": 18.388069
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 18.43,
+        "high": 18.43,
+        "low": 18.43,
+        "close": 18.43,
+        "volume": 102.0,
+        "trade_count": 3.0,
+        "vwap": 18.429412
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 18.43,
+        "high": 18.43,
+        "low": 18.425,
+        "close": 18.425,
+        "volume": 478.0,
+        "trade_count": 15.0,
+        "vwap": 18.426627
+    },
+    {
+        "symbol": "RDWR",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 18.42,
+        "high": 18.42,
+        "low": 18.42,
+        "close": 18.42,
+        "volume": 201.0,
+        "trade_count": 2.0,
+        "vwap": 18.420025
+    }
+]

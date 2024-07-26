@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "CVU",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 2.4101,
+        "high": 2.4101,
+        "low": 2.4101,
+        "close": 2.4101,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 2.41505
+    },
+    {
+        "symbol": "CVU",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 2.42,
+        "high": 2.42,
+        "low": 2.42,
+        "close": 2.42,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.42
+    },
+    {
+        "symbol": "CVU",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 2.45,
+        "high": 2.49,
+        "low": 2.45,
+        "close": 2.49,
+        "volume": 1000.0,
+        "trade_count": 13.0,
+        "vwap": 2.45645
+    },
+    {
+        "symbol": "CVU",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 2.4101,
+        "high": 2.4101,
+        "low": 2.4101,
+        "close": 2.4101,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.4101
+    },
+    {
+        "symbol": "CVU",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 2.44,
+        "high": 2.44,
+        "low": 2.44,
+        "close": 2.44,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.44
+    },
+    {
+        "symbol": "CVU",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 2.4899,
+        "high": 2.4899,
+        "low": 2.4899,
+        "close": 2.4899,
+        "volume": 192.0,
+        "trade_count": 1.0,
+        "vwap": 2.4899
+    }
+]

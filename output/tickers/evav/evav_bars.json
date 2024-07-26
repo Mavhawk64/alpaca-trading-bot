@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "EVAV",
+        "timestamp": "2024-07-26T13:38:00+00:00",
+        "open": 18.8399,
+        "high": 18.8399,
+        "low": 18.8399,
+        "close": 18.8399,
+        "volume": 2500.0,
+        "trade_count": 2.0,
+        "vwap": 18.8399
+    },
+    {
+        "symbol": "EVAV",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 18.62,
+        "high": 18.62,
+        "low": 18.62,
+        "close": 18.62,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 18.62
+    },
+    {
+        "symbol": "EVAV",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 18.605,
+        "high": 18.605,
+        "low": 18.605,
+        "close": 18.605,
+        "volume": 114.0,
+        "trade_count": 1.0,
+        "vwap": 18.605
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "LUXHP",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 14.65,
+        "high": 14.65,
+        "low": 14.65,
+        "close": 14.65,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 14.65
+    },
+    {
+        "symbol": "LUXHP",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 14.38,
+        "high": 14.38,
+        "low": 14.38,
+        "close": 14.38,
+        "volume": 470.0,
+        "trade_count": 2.0,
+        "vwap": 14.418489
+    }
+]

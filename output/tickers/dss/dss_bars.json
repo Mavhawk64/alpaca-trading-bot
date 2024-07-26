@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "DSS",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 1.5173,
+        "high": 1.5173,
+        "low": 1.5173,
+        "close": 1.5173,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.5173
+    },
+    {
+        "symbol": "DSS",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 1.5201,
+        "high": 1.5201,
+        "low": 1.5201,
+        "close": 1.5201,
+        "volume": 342.0,
+        "trade_count": 1.0,
+        "vwap": 1.5201
+    }
+]

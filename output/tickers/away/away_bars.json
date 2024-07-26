@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "AWAY",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 19.34,
+        "high": 19.49,
+        "low": 19.34,
+        "close": 19.49,
+        "volume": 1018.0,
+        "trade_count": 6.0,
+        "vwap": 19.355722
+    },
+    {
+        "symbol": "AWAY",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 19.28,
+        "high": 19.28,
+        "low": 19.28,
+        "close": 19.28,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 19.280587
+    },
+    {
+        "symbol": "AWAY",
+        "timestamp": "2024-07-26T14:10:00+00:00",
+        "open": 19.3,
+        "high": 19.3,
+        "low": 19.3,
+        "close": 19.3,
+        "volume": 410.0,
+        "trade_count": 2.0,
+        "vwap": 19.299512
+    },
+    {
+        "symbol": "AWAY",
+        "timestamp": "2024-07-26T14:36:00+00:00",
+        "open": 19.171,
+        "high": 19.171,
+        "low": 19.171,
+        "close": 19.171,
+        "volume": 2859.0,
+        "trade_count": 2.0,
+        "vwap": 19.171006
+    }
+]

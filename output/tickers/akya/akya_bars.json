@@ -1,0 +1,222 @@
+[
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.5,
+        "high": 2.5,
+        "low": 2.5,
+        "close": 2.5,
+        "volume": 583.0,
+        "trade_count": 4.0,
+        "vwap": 2.498834
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 2.49,
+        "high": 2.49,
+        "low": 2.49,
+        "close": 2.49,
+        "volume": 750.0,
+        "trade_count": 1.0,
+        "vwap": 2.49
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 2.49,
+        "high": 2.49,
+        "low": 2.49,
+        "close": 2.49,
+        "volume": 216.0,
+        "trade_count": 2.0,
+        "vwap": 2.488796
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 2.4816,
+        "high": 2.4816,
+        "low": 2.44,
+        "close": 2.44,
+        "volume": 6994.0,
+        "trade_count": 29.0,
+        "vwap": 2.457865
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 2.4694,
+        "high": 2.4694,
+        "low": 2.44,
+        "close": 2.44,
+        "volume": 1194.0,
+        "trade_count": 5.0,
+        "vwap": 2.465191
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 2.462,
+        "high": 2.462,
+        "low": 2.462,
+        "close": 2.462,
+        "volume": 166.0,
+        "trade_count": 5.0,
+        "vwap": 2.454699
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 2.442,
+        "high": 2.45,
+        "low": 2.43,
+        "close": 2.43,
+        "volume": 931.0,
+        "trade_count": 16.0,
+        "vwap": 2.436664
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 2.457,
+        "high": 2.457,
+        "low": 2.457,
+        "close": 2.457,
+        "volume": 789.0,
+        "trade_count": 2.0,
+        "vwap": 2.456975
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 2.43,
+        "high": 2.43,
+        "low": 2.43,
+        "close": 2.43,
+        "volume": 952.0,
+        "trade_count": 28.0,
+        "vwap": 2.430002
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 2.43,
+        "high": 2.43,
+        "low": 2.43,
+        "close": 2.43,
+        "volume": 396.0,
+        "trade_count": 6.0,
+        "vwap": 2.43
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 2.44,
+        "high": 2.445,
+        "low": 2.44,
+        "close": 2.445,
+        "volume": 450.0,
+        "trade_count": 8.0,
+        "vwap": 2.441556
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 2.445,
+        "high": 2.445,
+        "low": 2.445,
+        "close": 2.445,
+        "volume": 110.0,
+        "trade_count": 2.0,
+        "vwap": 2.445
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 2.45,
+        "high": 2.45,
+        "low": 2.45,
+        "close": 2.45,
+        "volume": 331.0,
+        "trade_count": 9.0,
+        "vwap": 2.45
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 2.45,
+        "high": 2.45,
+        "low": 2.45,
+        "close": 2.45,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.45
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 2.45,
+        "high": 2.45,
+        "low": 2.45,
+        "close": 2.45,
+        "volume": 280.0,
+        "trade_count": 6.0,
+        "vwap": 2.448321
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 2.45,
+        "high": 2.45,
+        "low": 2.45,
+        "close": 2.45,
+        "volume": 110.0,
+        "trade_count": 2.0,
+        "vwap": 2.45
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 2.45,
+        "high": 2.45,
+        "low": 2.45,
+        "close": 2.45,
+        "volume": 116.0,
+        "trade_count": 3.0,
+        "vwap": 2.450517
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 2.45,
+        "high": 2.45,
+        "low": 2.45,
+        "close": 2.45,
+        "volume": 120.0,
+        "trade_count": 3.0,
+        "vwap": 2.45
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 2.45,
+        "high": 2.45,
+        "low": 2.45,
+        "close": 2.45,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.45
+    },
+    {
+        "symbol": "AKYA",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 2.45,
+        "high": 2.45,
+        "low": 2.45,
+        "close": 2.45,
+        "volume": 125.0,
+        "trade_count": 2.0,
+        "vwap": 2.45
+    }
+]

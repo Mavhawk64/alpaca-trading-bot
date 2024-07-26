@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 16.01,
+        "high": 16.01,
+        "low": 16.01,
+        "close": 16.01,
+        "volume": 755.0,
+        "trade_count": 11.0,
+        "vwap": 16.009417
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 15.8886,
+        "high": 15.8886,
+        "low": 15.8886,
+        "close": 15.8886,
+        "volume": 154.0,
+        "trade_count": 3.0,
+        "vwap": 15.889149
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 15.99,
+        "high": 15.99,
+        "low": 15.98,
+        "close": 15.98,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 15.985
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 15.965,
+        "high": 15.965,
+        "low": 15.95,
+        "close": 15.95,
+        "volume": 436.0,
+        "trade_count": 11.0,
+        "vwap": 15.949289
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 15.94,
+        "high": 15.94,
+        "low": 15.94,
+        "close": 15.94,
+        "volume": 104.0,
+        "trade_count": 3.0,
+        "vwap": 15.939423
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 15.98,
+        "high": 15.98,
+        "low": 15.98,
+        "close": 15.98,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 15.979604
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 15.99,
+        "high": 15.99,
+        "low": 15.99,
+        "close": 15.99,
+        "volume": 416.0,
+        "trade_count": 6.0,
+        "vwap": 15.989941
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 15.99,
+        "high": 15.99,
+        "low": 15.99,
+        "close": 15.99,
+        "volume": 143.0,
+        "trade_count": 1.0,
+        "vwap": 15.99
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 15.98,
+        "high": 15.98,
+        "low": 15.98,
+        "close": 15.98,
+        "volume": 428.0,
+        "trade_count": 4.0,
+        "vwap": 15.98
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 15.98,
+        "high": 15.98,
+        "low": 15.98,
+        "close": 15.98,
+        "volume": 209.0,
+        "trade_count": 2.0,
+        "vwap": 15.98
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 15.99,
+        "high": 15.99,
+        "low": 15.99,
+        "close": 15.99,
+        "volume": 123.0,
+        "trade_count": 5.0,
+        "vwap": 15.986382
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 15.9801,
+        "high": 16.0,
+        "low": 15.9801,
+        "close": 15.9901,
+        "volume": 1083.0,
+        "trade_count": 8.0,
+        "vwap": 15.989122
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 15.995,
+        "high": 15.995,
+        "low": 15.995,
+        "close": 15.995,
+        "volume": 278.0,
+        "trade_count": 7.0,
+        "vwap": 15.995554
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 15.99,
+        "high": 15.99,
+        "low": 15.99,
+        "close": 15.99,
+        "volume": 232.0,
+        "trade_count": 7.0,
+        "vwap": 15.986379
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 15.9701,
+        "high": 15.9701,
+        "low": 15.9701,
+        "close": 15.9701,
+        "volume": 401.0,
+        "trade_count": 2.0,
+        "vwap": 15.970141
+    },
+    {
+        "symbol": "REFI",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 15.96,
+        "high": 15.96,
+        "low": 15.96,
+        "close": 15.96,
+        "volume": 281.0,
+        "trade_count": 6.0,
+        "vwap": 15.960285
+    }
+]

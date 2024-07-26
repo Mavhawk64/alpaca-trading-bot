@@ -1,0 +1,112 @@
+[
+    {
+        "symbol": "RLGT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 6.24,
+        "high": 6.24,
+        "low": 6.23,
+        "close": 6.23,
+        "volume": 1625.0,
+        "trade_count": 2.0,
+        "vwap": 6.239385
+    },
+    {
+        "symbol": "RLGT",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 6.22,
+        "high": 6.22,
+        "low": 6.22,
+        "close": 6.22,
+        "volume": 172.0,
+        "trade_count": 4.0,
+        "vwap": 6.224244
+    },
+    {
+        "symbol": "RLGT",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 6.23,
+        "high": 6.24,
+        "low": 6.23,
+        "close": 6.24,
+        "volume": 1043.0,
+        "trade_count": 11.0,
+        "vwap": 6.238434
+    },
+    {
+        "symbol": "RLGT",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 6.24,
+        "high": 6.24,
+        "low": 6.24,
+        "close": 6.24,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.24
+    },
+    {
+        "symbol": "RLGT",
+        "timestamp": "2024-07-26T13:54:00+00:00",
+        "open": 6.23,
+        "high": 6.23,
+        "low": 6.23,
+        "close": 6.23,
+        "volume": 213.0,
+        "trade_count": 5.0,
+        "vwap": 6.23
+    },
+    {
+        "symbol": "RLGT",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 6.225,
+        "high": 6.225,
+        "low": 6.225,
+        "close": 6.225,
+        "volume": 120.0,
+        "trade_count": 2.0,
+        "vwap": 6.225
+    },
+    {
+        "symbol": "RLGT",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 6.22,
+        "high": 6.22,
+        "low": 6.22,
+        "close": 6.22,
+        "volume": 201.0,
+        "trade_count": 6.0,
+        "vwap": 6.230414
+    },
+    {
+        "symbol": "RLGT",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 6.2,
+        "high": 6.215,
+        "low": 6.2,
+        "close": 6.215,
+        "volume": 362.0,
+        "trade_count": 7.0,
+        "vwap": 6.205746
+    },
+    {
+        "symbol": "RLGT",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 6.14,
+        "high": 6.14,
+        "low": 6.14,
+        "close": 6.14,
+        "volume": 212.0,
+        "trade_count": 5.0,
+        "vwap": 6.138132
+    },
+    {
+        "symbol": "RLGT",
+        "timestamp": "2024-07-26T14:48:00+00:00",
+        "open": 6.11,
+        "high": 6.11,
+        "low": 6.11,
+        "close": 6.11,
+        "volume": 431.0,
+        "trade_count": 12.0,
+        "vwap": 6.109617
+    }
+]

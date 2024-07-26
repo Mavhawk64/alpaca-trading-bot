@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "IH",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 1.6001,
+        "high": 1.6001,
+        "low": 1.6001,
+        "close": 1.6001,
+        "volume": 4476.0,
+        "trade_count": 1.0,
+        "vwap": 1.6001
+    },
+    {
+        "symbol": "IH",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 1.6,
+        "high": 1.6,
+        "low": 1.6,
+        "close": 1.6,
+        "volume": 4000.0,
+        "trade_count": 5.0,
+        "vwap": 1.6
+    },
+    {
+        "symbol": "IH",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 1.65,
+        "high": 1.65,
+        "low": 1.65,
+        "close": 1.65,
+        "volume": 110.0,
+        "trade_count": 1.0,
+        "vwap": 1.65
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "ICD",
+        "timestamp": "2024-07-26T13:26:00+00:00",
+        "open": 1.3595,
+        "high": 1.3595,
+        "low": 1.3595,
+        "close": 1.3595,
+        "volume": 955.0,
+        "trade_count": 1.0,
+        "vwap": 1.3595
+    },
+    {
+        "symbol": "ICD",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.35,
+        "high": 1.35,
+        "low": 1.35,
+        "close": 1.35,
+        "volume": 360.0,
+        "trade_count": 2.0,
+        "vwap": 1.350014
+    },
+    {
+        "symbol": "ICD",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 1.36,
+        "high": 1.36,
+        "low": 1.36,
+        "close": 1.36,
+        "volume": 144.0,
+        "trade_count": 1.0,
+        "vwap": 1.36
+    },
+    {
+        "symbol": "ICD",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 1.3843,
+        "high": 1.3843,
+        "low": 1.3843,
+        "close": 1.3843,
+        "volume": 1500.0,
+        "trade_count": 1.0,
+        "vwap": 1.3843
+    },
+    {
+        "symbol": "ICD",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 1.367,
+        "high": 1.367,
+        "low": 1.367,
+        "close": 1.367,
+        "volume": 150.0,
+        "trade_count": 2.0,
+        "vwap": 1.377533
+    },
+    {
+        "symbol": "ICD",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 1.3801,
+        "high": 1.3801,
+        "low": 1.3801,
+        "close": 1.3801,
+        "volume": 369.0,
+        "trade_count": 1.0,
+        "vwap": 1.3801
+    },
+    {
+        "symbol": "ICD",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 1.3997,
+        "high": 1.3997,
+        "low": 1.3997,
+        "close": 1.3997,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 1.399683
+    },
+    {
+        "symbol": "ICD",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 1.38,
+        "high": 1.38,
+        "low": 1.38,
+        "close": 1.38,
+        "volume": 435.0,
+        "trade_count": 6.0,
+        "vwap": 1.38
+    },
+    {
+        "symbol": "ICD",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 1.38,
+        "high": 1.38,
+        "low": 1.38,
+        "close": 1.38,
+        "volume": 103.0,
+        "trade_count": 2.0,
+        "vwap": 1.38
+    }
+]

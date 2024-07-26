@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "SPMC",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 19.57,
+        "high": 19.57,
+        "low": 19.57,
+        "close": 19.57,
+        "volume": 201.0,
+        "trade_count": 3.0,
+        "vwap": 19.572488
+    },
+    {
+        "symbol": "SPMC",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 19.65,
+        "high": 19.69,
+        "low": 19.6499,
+        "close": 19.69,
+        "volume": 742.0,
+        "trade_count": 6.0,
+        "vwap": 19.655348
+    },
+    {
+        "symbol": "SPMC",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 19.65,
+        "high": 19.65,
+        "low": 19.65,
+        "close": 19.65,
+        "volume": 102.0,
+        "trade_count": 3.0,
+        "vwap": 19.65
+    },
+    {
+        "symbol": "SPMC",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 19.7,
+        "high": 19.725,
+        "low": 19.7,
+        "close": 19.725,
+        "volume": 500.0,
+        "trade_count": 3.0,
+        "vwap": 19.71
+    },
+    {
+        "symbol": "SPMC",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 19.725,
+        "high": 19.725,
+        "low": 19.725,
+        "close": 19.725,
+        "volume": 346.0,
+        "trade_count": 6.0,
+        "vwap": 19.721821
+    }
+]

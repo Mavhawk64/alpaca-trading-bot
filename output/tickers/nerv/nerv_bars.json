@@ -1,0 +1,68 @@
+[
+    {
+        "symbol": "NERV",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 3.12,
+        "high": 3.12,
+        "low": 3.12,
+        "close": 3.12,
+        "volume": 165.0,
+        "trade_count": 4.0,
+        "vwap": 3.120152
+    },
+    {
+        "symbol": "NERV",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 3.12,
+        "high": 3.12,
+        "low": 3.1,
+        "close": 3.1,
+        "volume": 3257.0,
+        "trade_count": 12.0,
+        "vwap": 3.108928
+    },
+    {
+        "symbol": "NERV",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 3.07,
+        "high": 3.07,
+        "low": 3.07,
+        "close": 3.07,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.07
+    },
+    {
+        "symbol": "NERV",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 3.075,
+        "high": 3.075,
+        "low": 3.075,
+        "close": 3.075,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 3.075
+    },
+    {
+        "symbol": "NERV",
+        "timestamp": "2024-07-26T15:02:00+00:00",
+        "open": 3.075,
+        "high": 3.1,
+        "low": 3.075,
+        "close": 3.1,
+        "volume": 2025.0,
+        "trade_count": 16.0,
+        "vwap": 3.092099
+    },
+    {
+        "symbol": "NERV",
+        "timestamp": "2024-07-26T15:03:00+00:00",
+        "open": 3.11,
+        "high": 3.11,
+        "low": 3.11,
+        "close": 3.11,
+        "volume": 202.0,
+        "trade_count": 3.0,
+        "vwap": 3.109752
+    }
+]

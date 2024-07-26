@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "IKNA",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 1.69,
+        "high": 1.7,
+        "low": 1.69,
+        "close": 1.69,
+        "volume": 4017.0,
+        "trade_count": 42.0,
+        "vwap": 1.692825
+    },
+    {
+        "symbol": "IKNA",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 1.68,
+        "high": 1.69,
+        "low": 1.675,
+        "close": 1.69,
+        "volume": 10248.0,
+        "trade_count": 25.0,
+        "vwap": 1.68823
+    },
+    {
+        "symbol": "IKNA",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 1.69,
+        "high": 1.7,
+        "low": 1.69,
+        "close": 1.7,
+        "volume": 772.0,
+        "trade_count": 16.0,
+        "vwap": 1.695352
+    },
+    {
+        "symbol": "IKNA",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 1.695,
+        "high": 1.695,
+        "low": 1.69,
+        "close": 1.69,
+        "volume": 493.0,
+        "trade_count": 5.0,
+        "vwap": 1.691957
+    },
+    {
+        "symbol": "IKNA",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 1.68,
+        "high": 1.68,
+        "low": 1.68,
+        "close": 1.68,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.68
+    },
+    {
+        "symbol": "IKNA",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 1.675,
+        "high": 1.675,
+        "low": 1.675,
+        "close": 1.675,
+        "volume": 1030.0,
+        "trade_count": 2.0,
+        "vwap": 1.675
+    },
+    {
+        "symbol": "IKNA",
+        "timestamp": "2024-07-26T14:52:00+00:00",
+        "open": 1.69,
+        "high": 1.69,
+        "low": 1.69,
+        "close": 1.69,
+        "volume": 104.0,
+        "trade_count": 3.0,
+        "vwap": 1.689327
+    },
+    {
+        "symbol": "IKNA",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 1.68,
+        "high": 1.68,
+        "low": 1.68,
+        "close": 1.68,
+        "volume": 234.0,
+        "trade_count": 8.0,
+        "vwap": 1.679466
+    },
+    {
+        "symbol": "IKNA",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 1.6735,
+        "high": 1.6735,
+        "low": 1.6735,
+        "close": 1.6735,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.6735
+    }
+]

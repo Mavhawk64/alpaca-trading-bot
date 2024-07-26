@@ -1,0 +1,189 @@
+[
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 3.58,
+        "high": 3.58,
+        "low": 3.58,
+        "close": 3.58,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 3.58
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 3.5238,
+        "high": 3.5238,
+        "low": 3.5238,
+        "close": 3.5238,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 3.5238
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.5
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:16:00+00:00",
+        "open": 3.49,
+        "high": 3.49,
+        "low": 3.49,
+        "close": 3.49,
+        "volume": 458.0,
+        "trade_count": 5.0,
+        "vwap": 3.489973
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 3.49,
+        "high": 3.5,
+        "low": 3.49,
+        "close": 3.5,
+        "volume": 1182.0,
+        "trade_count": 7.0,
+        "vwap": 3.497411
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 3495.0,
+        "trade_count": 10.0,
+        "vwap": 3.5
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.5
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.494,
+        "close": 3.494,
+        "volume": 721.0,
+        "trade_count": 2.0,
+        "vwap": 3.499168
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:31:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 130.0,
+        "trade_count": 4.0,
+        "vwap": 3.5
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:35:00+00:00",
+        "open": 3.49,
+        "high": 3.49,
+        "low": 3.49,
+        "close": 3.49,
+        "volume": 300.0,
+        "trade_count": 5.0,
+        "vwap": 3.49
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 389.0,
+        "trade_count": 2.0,
+        "vwap": 3.5
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 321.0,
+        "trade_count": 2.0,
+        "vwap": 3.5
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 319.0,
+        "trade_count": 2.0,
+        "vwap": 3.5
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 171.0,
+        "trade_count": 2.0,
+        "vwap": 3.5
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 3.47,
+        "high": 3.5,
+        "low": 3.47,
+        "close": 3.5,
+        "volume": 17655.0,
+        "trade_count": 22.0,
+        "vwap": 3.472524
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 412.0,
+        "trade_count": 3.0,
+        "vwap": 3.5
+    },
+    {
+        "symbol": "MMLP",
+        "timestamp": "2024-07-26T14:59:00+00:00",
+        "open": 3.5,
+        "high": 3.5,
+        "low": 3.5,
+        "close": 3.5,
+        "volume": 300.0,
+        "trade_count": 4.0,
+        "vwap": 3.5
+    }
+]

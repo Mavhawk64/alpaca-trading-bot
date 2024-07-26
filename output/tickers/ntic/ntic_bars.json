@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "NTIC",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 13.57,
+        "high": 13.57,
+        "low": 13.57,
+        "close": 13.57,
+        "volume": 245.0,
+        "trade_count": 2.0,
+        "vwap": 13.569673
+    },
+    {
+        "symbol": "NTIC",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 13.63,
+        "high": 13.63,
+        "low": 13.6,
+        "close": 13.6,
+        "volume": 339.0,
+        "trade_count": 10.0,
+        "vwap": 13.627227
+    },
+    {
+        "symbol": "NTIC",
+        "timestamp": "2024-07-26T14:13:00+00:00",
+        "open": 13.46,
+        "high": 13.46,
+        "low": 13.46,
+        "close": 13.46,
+        "volume": 224.0,
+        "trade_count": 7.0,
+        "vwap": 13.498348
+    }
+]

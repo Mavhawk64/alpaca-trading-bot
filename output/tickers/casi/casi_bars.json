@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "CASI",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 6.6,
+        "high": 6.6,
+        "low": 6.6,
+        "close": 6.6,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.6
+    },
+    {
+        "symbol": "CASI",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 6.52,
+        "high": 6.52,
+        "low": 6.52,
+        "close": 6.52,
+        "volume": 233.0,
+        "trade_count": 4.0,
+        "vwap": 6.516695
+    },
+    {
+        "symbol": "CASI",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 6.555,
+        "high": 6.555,
+        "low": 6.555,
+        "close": 6.555,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.555
+    },
+    {
+        "symbol": "CASI",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 6.55,
+        "high": 6.55,
+        "low": 6.5,
+        "close": 6.55,
+        "volume": 1488.0,
+        "trade_count": 18.0,
+        "vwap": 6.507009
+    },
+    {
+        "symbol": "CASI",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 6.525,
+        "high": 6.525,
+        "low": 6.525,
+        "close": 6.525,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.525
+    },
+    {
+        "symbol": "CASI",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 6.5264,
+        "high": 6.5264,
+        "low": 6.5,
+        "close": 6.5,
+        "volume": 300.0,
+        "trade_count": 2.0,
+        "vwap": 6.5176
+    },
+    {
+        "symbol": "CASI",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 6.54,
+        "high": 6.6,
+        "low": 6.54,
+        "close": 6.6,
+        "volume": 500.0,
+        "trade_count": 6.0,
+        "vwap": 6.558
+    },
+    {
+        "symbol": "CASI",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 6.537,
+        "high": 6.6,
+        "low": 6.537,
+        "close": 6.6,
+        "volume": 603.0,
+        "trade_count": 3.0,
+        "vwap": 6.547761
+    },
+    {
+        "symbol": "CASI",
+        "timestamp": "2024-07-26T14:55:00+00:00",
+        "open": 6.52,
+        "high": 6.52,
+        "low": 6.52,
+        "close": 6.52,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.52
+    }
+]

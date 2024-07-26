@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "AENT",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 2.4,
+        "high": 2.4,
+        "low": 2.4,
+        "close": 2.4,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 2.4
+    },
+    {
+        "symbol": "AENT",
+        "timestamp": "2024-07-26T14:09:00+00:00",
+        "open": 2.4,
+        "high": 2.41,
+        "low": 2.4,
+        "close": 2.4,
+        "volume": 401.0,
+        "trade_count": 5.0,
+        "vwap": 2.404738
+    }
+]

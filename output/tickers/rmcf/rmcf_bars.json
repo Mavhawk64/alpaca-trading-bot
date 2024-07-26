@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "RMCF",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 2.1,
+        "high": 2.1,
+        "low": 2.1,
+        "close": 2.1,
+        "volume": 112.0,
+        "trade_count": 1.0,
+        "vwap": 2.1
+    },
+    {
+        "symbol": "RMCF",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 2.0,
+        "high": 2.0,
+        "low": 2.0,
+        "close": 2.0,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 2.0
+    },
+    {
+        "symbol": "RMCF",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 2.05,
+        "high": 2.05,
+        "low": 2.05,
+        "close": 2.05,
+        "volume": 999.0,
+        "trade_count": 1.0,
+        "vwap": 2.05
+    }
+]

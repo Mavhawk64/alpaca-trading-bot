@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "CURI",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.12,
+        "high": 1.12,
+        "low": 1.12,
+        "close": 1.12,
+        "volume": 2818.0,
+        "trade_count": 4.0,
+        "vwap": 1.119638
+    },
+    {
+        "symbol": "CURI",
+        "timestamp": "2024-07-26T13:34:00+00:00",
+        "open": 1.1001,
+        "high": 1.13,
+        "low": 1.1,
+        "close": 1.13,
+        "volume": 1200.0,
+        "trade_count": 4.0,
+        "vwap": 1.105042
+    },
+    {
+        "symbol": "CURI",
+        "timestamp": "2024-07-26T13:43:00+00:00",
+        "open": 1.1054,
+        "high": 1.1054,
+        "low": 1.1054,
+        "close": 1.1054,
+        "volume": 145.0,
+        "trade_count": 2.0,
+        "vwap": 1.104345
+    },
+    {
+        "symbol": "CURI",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 1.1172,
+        "high": 1.12,
+        "low": 1.1172,
+        "close": 1.12,
+        "volume": 1737.0,
+        "trade_count": 18.0,
+        "vwap": 1.118549
+    },
+    {
+        "symbol": "CURI",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 1.12,
+        "high": 1.12,
+        "low": 1.12,
+        "close": 1.12,
+        "volume": 570.0,
+        "trade_count": 10.0,
+        "vwap": 1.12
+    },
+    {
+        "symbol": "CURI",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 1.12,
+        "high": 1.12,
+        "low": 1.12,
+        "close": 1.12,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 1.12
+    },
+    {
+        "symbol": "CURI",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 1.1113,
+        "high": 1.13,
+        "low": 1.1113,
+        "close": 1.13,
+        "volume": 1322.0,
+        "trade_count": 12.0,
+        "vwap": 1.122844
+    },
+    {
+        "symbol": "CURI",
+        "timestamp": "2024-07-26T14:42:00+00:00",
+        "open": 1.12,
+        "high": 1.12,
+        "low": 1.12,
+        "close": 1.12,
+        "volume": 101.0,
+        "trade_count": 2.0,
+        "vwap": 1.12
+    },
+    {
+        "symbol": "CURI",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 1.12,
+        "high": 1.12,
+        "low": 1.1181,
+        "close": 1.1181,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.11905
+    }
+]

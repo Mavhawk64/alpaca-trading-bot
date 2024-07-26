@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "ASTLW",
+        "timestamp": "2024-07-26T13:48:00+00:00",
+        "open": 1.27,
+        "high": 1.27,
+        "low": 1.27,
+        "close": 1.27,
+        "volume": 300.0,
+        "trade_count": 1.0,
+        "vwap": 1.27
+    },
+    {
+        "symbol": "ASTLW",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 1.27,
+        "high": 1.28,
+        "low": 1.25,
+        "close": 1.28,
+        "volume": 3927.0,
+        "trade_count": 14.0,
+        "vwap": 1.269745
+    },
+    {
+        "symbol": "ASTLW",
+        "timestamp": "2024-07-26T13:52:00+00:00",
+        "open": 1.28,
+        "high": 1.28,
+        "low": 1.28,
+        "close": 1.28,
+        "volume": 900.0,
+        "trade_count": 3.0,
+        "vwap": 1.28
+    },
+    {
+        "symbol": "ASTLW",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 1.28,
+        "high": 1.28,
+        "low": 1.28,
+        "close": 1.28,
+        "volume": 873.0,
+        "trade_count": 3.0,
+        "vwap": 1.28
+    }
+]

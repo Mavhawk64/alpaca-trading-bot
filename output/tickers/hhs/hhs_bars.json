@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "HHS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 8.35,
+        "high": 8.39,
+        "low": 8.35,
+        "close": 8.39,
+        "volume": 1128.0,
+        "trade_count": 4.0,
+        "vwap": 8.353484
+    },
+    {
+        "symbol": "HHS",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 8.345,
+        "high": 8.345,
+        "low": 8.345,
+        "close": 8.345,
+        "volume": 439.0,
+        "trade_count": 1.0,
+        "vwap": 8.345
+    },
+    {
+        "symbol": "HHS",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 8.38,
+        "high": 8.38,
+        "low": 8.38,
+        "close": 8.38,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 8.38
+    }
+]

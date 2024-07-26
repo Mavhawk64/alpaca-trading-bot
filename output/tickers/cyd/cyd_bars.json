@@ -1,0 +1,167 @@
+[
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 9.845,
+        "high": 9.845,
+        "low": 9.845,
+        "close": 9.845,
+        "volume": 525.0,
+        "trade_count": 1.0,
+        "vwap": 9.845
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 9.83,
+        "high": 9.83,
+        "low": 9.83,
+        "close": 9.83,
+        "volume": 159.0,
+        "trade_count": 1.0,
+        "vwap": 9.83
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 9.83,
+        "high": 9.83,
+        "low": 9.83,
+        "close": 9.83,
+        "volume": 186.0,
+        "trade_count": 3.0,
+        "vwap": 9.818172
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 9.7,
+        "high": 9.7,
+        "low": 9.7,
+        "close": 9.7,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.7
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 9.74,
+        "high": 9.74,
+        "low": 9.74,
+        "close": 9.74,
+        "volume": 558.0,
+        "trade_count": 2.0,
+        "vwap": 9.73914
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 9.69,
+        "high": 9.69,
+        "low": 9.69,
+        "close": 9.69,
+        "volume": 550.0,
+        "trade_count": 1.0,
+        "vwap": 9.69
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 9.74,
+        "high": 9.74,
+        "low": 9.74,
+        "close": 9.74,
+        "volume": 600.0,
+        "trade_count": 1.0,
+        "vwap": 9.74
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 9.74,
+        "high": 9.74,
+        "low": 9.68,
+        "close": 9.68,
+        "volume": 700.0,
+        "trade_count": 2.0,
+        "vwap": 9.731429
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 9.68,
+        "high": 9.68,
+        "low": 9.68,
+        "close": 9.68,
+        "volume": 209.0,
+        "trade_count": 3.0,
+        "vwap": 9.68
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 9.65,
+        "high": 9.65,
+        "low": 9.65,
+        "close": 9.65,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 9.65
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 9.61,
+        "high": 9.61,
+        "low": 9.61,
+        "close": 9.61,
+        "volume": 110.0,
+        "trade_count": 3.0,
+        "vwap": 9.612273
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 9.61,
+        "high": 9.61,
+        "low": 9.61,
+        "close": 9.61,
+        "volume": 428.0,
+        "trade_count": 6.0,
+        "vwap": 9.625514
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:41:00+00:00",
+        "open": 9.71,
+        "high": 9.71,
+        "low": 9.69,
+        "close": 9.69,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 9.7
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:45:00+00:00",
+        "open": 9.69,
+        "high": 9.69,
+        "low": 9.69,
+        "close": 9.69,
+        "volume": 294.0,
+        "trade_count": 3.0,
+        "vwap": 9.69
+    },
+    {
+        "symbol": "CYD",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 9.5501,
+        "high": 9.5501,
+        "low": 9.5501,
+        "close": 9.5501,
+        "volume": 150.0,
+        "trade_count": 1.0,
+        "vwap": 9.5501
+    }
+]

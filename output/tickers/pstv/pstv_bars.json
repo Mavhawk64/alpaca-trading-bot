@@ -1,0 +1,200 @@
+[
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 1.77,
+        "high": 1.77,
+        "low": 1.77,
+        "close": 1.77,
+        "volume": 341.0,
+        "trade_count": 2.0,
+        "vwap": 1.769941
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 1.775,
+        "high": 1.775,
+        "low": 1.775,
+        "close": 1.775,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 1.775
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 1.77,
+        "high": 1.77,
+        "low": 1.77,
+        "close": 1.77,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 1.77
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T13:37:00+00:00",
+        "open": 1.77,
+        "high": 1.77,
+        "low": 1.75,
+        "close": 1.75,
+        "volume": 300.0,
+        "trade_count": 3.0,
+        "vwap": 1.763333
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 1.77,
+        "high": 1.77,
+        "low": 1.77,
+        "close": 1.77,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 1.77
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T13:51:00+00:00",
+        "open": 1.76,
+        "high": 1.76,
+        "low": 1.76,
+        "close": 1.76,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.76
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 1.7609,
+        "high": 1.7609,
+        "low": 1.7609,
+        "close": 1.7609,
+        "volume": 111.0,
+        "trade_count": 2.0,
+        "vwap": 1.761802
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 1.7601,
+        "high": 1.7601,
+        "low": 1.7601,
+        "close": 1.7601,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 1.7601
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 1.7799,
+        "high": 1.7799,
+        "low": 1.7799,
+        "close": 1.7799,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 1.7799
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:14:00+00:00",
+        "open": 1.751,
+        "high": 1.751,
+        "low": 1.751,
+        "close": 1.751,
+        "volume": 217.0,
+        "trade_count": 10.0,
+        "vwap": 1.753548
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 1.75,
+        "high": 1.75,
+        "low": 1.75,
+        "close": 1.75,
+        "volume": 319.0,
+        "trade_count": 7.0,
+        "vwap": 1.75
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 1.76,
+        "high": 1.76,
+        "low": 1.76,
+        "close": 1.76,
+        "volume": 292.0,
+        "trade_count": 7.0,
+        "vwap": 1.756284
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 1.75,
+        "high": 1.76,
+        "low": 1.75,
+        "close": 1.76,
+        "volume": 2245.0,
+        "trade_count": 13.0,
+        "vwap": 1.750339
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 1.7561,
+        "high": 1.77,
+        "low": 1.7561,
+        "close": 1.77,
+        "volume": 880.0,
+        "trade_count": 9.0,
+        "vwap": 1.762636
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 1.77,
+        "high": 1.77,
+        "low": 1.77,
+        "close": 1.77,
+        "volume": 280.0,
+        "trade_count": 7.0,
+        "vwap": 1.768086
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 1.76,
+        "high": 1.77,
+        "low": 1.76,
+        "close": 1.77,
+        "volume": 330.0,
+        "trade_count": 9.0,
+        "vwap": 1.76657
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 1.755,
+        "high": 1.79,
+        "low": 1.7506,
+        "close": 1.7804,
+        "volume": 3308.0,
+        "trade_count": 26.0,
+        "vwap": 1.772763
+    },
+    {
+        "symbol": "PSTV",
+        "timestamp": "2024-07-26T14:39:00+00:00",
+        "open": 1.78,
+        "high": 1.78,
+        "low": 1.78,
+        "close": 1.78,
+        "volume": 400.0,
+        "trade_count": 1.0,
+        "vwap": 1.78
+    }
+]

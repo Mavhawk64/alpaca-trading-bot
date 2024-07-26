@@ -1,0 +1,156 @@
+[
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 7.33,
+        "high": 7.33,
+        "low": 7.32,
+        "close": 7.32,
+        "volume": 236.0,
+        "trade_count": 5.0,
+        "vwap": 7.325127
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 7.27,
+        "high": 7.32,
+        "low": 7.27,
+        "close": 7.32,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 7.295
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T13:56:00+00:00",
+        "open": 7.32,
+        "high": 7.32,
+        "low": 7.32,
+        "close": 7.32,
+        "volume": 200.0,
+        "trade_count": 3.0,
+        "vwap": 7.3172
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 6.83,
+        "high": 6.84,
+        "low": 6.8,
+        "close": 6.8,
+        "volume": 880.0,
+        "trade_count": 14.0,
+        "vwap": 6.831227
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 6.7736,
+        "high": 6.7736,
+        "low": 6.7736,
+        "close": 6.7736,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 6.7736
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 6.77,
+        "high": 7.11,
+        "low": 6.77,
+        "close": 7.11,
+        "volume": 991.0,
+        "trade_count": 2.0,
+        "vwap": 6.804309
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 7.0,
+        "high": 7.0,
+        "low": 7.0,
+        "close": 7.0,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 7.0
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:12:00+00:00",
+        "open": 7.0,
+        "high": 7.0,
+        "low": 7.0,
+        "close": 7.0,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.0
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 7.0,
+        "high": 7.0,
+        "low": 7.0,
+        "close": 7.0,
+        "volume": 700.0,
+        "trade_count": 2.0,
+        "vwap": 7.0
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:22:00+00:00",
+        "open": 7.12,
+        "high": 7.12,
+        "low": 7.12,
+        "close": 7.12,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.12
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 7.0,
+        "high": 7.0,
+        "low": 7.0,
+        "close": 7.0,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 7.0
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 7.0,
+        "high": 7.0,
+        "low": 7.0,
+        "close": 7.0,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 7.0
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 7.0,
+        "high": 7.0,
+        "low": 7.0,
+        "close": 7.0,
+        "volume": 700.0,
+        "trade_count": 2.0,
+        "vwap": 7.0
+    },
+    {
+        "symbol": "CETU",
+        "timestamp": "2024-07-26T14:34:00+00:00",
+        "open": 7.12,
+        "high": 7.15,
+        "low": 7.12,
+        "close": 7.15,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 7.135
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "CMLS",
+        "timestamp": "2024-07-26T13:32:00+00:00",
+        "open": 2.1004,
+        "high": 2.1004,
+        "low": 2.1004,
+        "close": 2.1004,
+        "volume": 303.0,
+        "trade_count": 1.0,
+        "vwap": 2.1004
+    },
+    {
+        "symbol": "CMLS",
+        "timestamp": "2024-07-26T13:55:00+00:00",
+        "open": 2.045,
+        "high": 2.098,
+        "low": 2.045,
+        "close": 2.09,
+        "volume": 500.0,
+        "trade_count": 4.0,
+        "vwap": 2.08268
+    },
+    {
+        "symbol": "CMLS",
+        "timestamp": "2024-07-26T13:57:00+00:00",
+        "open": 2.045,
+        "high": 2.045,
+        "low": 2.045,
+        "close": 2.045,
+        "volume": 200.0,
+        "trade_count": 1.0,
+        "vwap": 2.045
+    }
+]

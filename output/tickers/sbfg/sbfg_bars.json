@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "SBFG",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 15.4,
+        "high": 15.4,
+        "low": 15.4,
+        "close": 15.4,
+        "volume": 357.0,
+        "trade_count": 15.0,
+        "vwap": 15.488257
+    },
+    {
+        "symbol": "SBFG",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 15.85,
+        "high": 15.99,
+        "low": 15.85,
+        "close": 15.99,
+        "volume": 1125.0,
+        "trade_count": 2.0,
+        "vwap": 15.924667
+    }
+]

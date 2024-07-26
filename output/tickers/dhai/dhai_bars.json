@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "DHAI",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 3.11,
+        "high": 3.11,
+        "low": 3.1,
+        "close": 3.1,
+        "volume": 610.0,
+        "trade_count": 8.0,
+        "vwap": 3.108197
+    },
+    {
+        "symbol": "DHAI",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 3.2,
+        "high": 3.2,
+        "low": 3.2,
+        "close": 3.2,
+        "volume": 612.0,
+        "trade_count": 5.0,
+        "vwap": 3.197141
+    },
+    {
+        "symbol": "DHAI",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 3.19,
+        "high": 3.19,
+        "low": 3.19,
+        "close": 3.19,
+        "volume": 3011.0,
+        "trade_count": 2.0,
+        "vwap": 3.189963
+    },
+    {
+        "symbol": "DHAI",
+        "timestamp": "2024-07-26T14:04:00+00:00",
+        "open": 3.12,
+        "high": 3.12,
+        "low": 3.12,
+        "close": 3.12,
+        "volume": 321.0,
+        "trade_count": 3.0,
+        "vwap": 3.120545
+    },
+    {
+        "symbol": "DHAI",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 3.1464,
+        "high": 3.1464,
+        "low": 3.1464,
+        "close": 3.1464,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 3.1464
+    },
+    {
+        "symbol": "DHAI",
+        "timestamp": "2024-07-26T14:19:00+00:00",
+        "open": 3.13,
+        "high": 3.13,
+        "low": 3.11,
+        "close": 3.11,
+        "volume": 3312.0,
+        "trade_count": 12.0,
+        "vwap": 3.121879
+    },
+    {
+        "symbol": "DHAI",
+        "timestamp": "2024-07-26T14:20:00+00:00",
+        "open": 3.12,
+        "high": 3.12,
+        "low": 3.12,
+        "close": 3.12,
+        "volume": 1711.0,
+        "trade_count": 10.0,
+        "vwap": 3.12
+    },
+    {
+        "symbol": "DHAI",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 3.14,
+        "high": 3.14,
+        "low": 3.14,
+        "close": 3.14,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.14
+    },
+    {
+        "symbol": "DHAI",
+        "timestamp": "2024-07-26T14:57:00+00:00",
+        "open": 3.1164,
+        "high": 3.1164,
+        "low": 3.1164,
+        "close": 3.1164,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 3.1164
+    }
+]

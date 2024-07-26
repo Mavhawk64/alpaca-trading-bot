@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 15.44,
+        "high": 15.44,
+        "low": 15.44,
+        "close": 15.44,
+        "volume": 19362.0,
+        "trade_count": 5.0,
+        "vwap": 15.44
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 15.428,
+        "high": 15.44,
+        "low": 15.41,
+        "close": 15.41,
+        "volume": 3128.0,
+        "trade_count": 8.0,
+        "vwap": 15.43538
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 15.49,
+        "high": 15.49,
+        "low": 15.49,
+        "close": 15.49,
+        "volume": 1475.0,
+        "trade_count": 4.0,
+        "vwap": 15.489834
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T13:39:00+00:00",
+        "open": 15.4,
+        "high": 15.4,
+        "low": 15.4,
+        "close": 15.4,
+        "volume": 330.0,
+        "trade_count": 5.0,
+        "vwap": 15.411864
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T13:46:00+00:00",
+        "open": 15.43,
+        "high": 15.44,
+        "low": 15.43,
+        "close": 15.44,
+        "volume": 3335.0,
+        "trade_count": 5.0,
+        "vwap": 15.437601
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T13:58:00+00:00",
+        "open": 15.41,
+        "high": 15.41,
+        "low": 15.41,
+        "close": 15.41,
+        "volume": 390.0,
+        "trade_count": 5.0,
+        "vwap": 15.411872
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 15.4,
+        "high": 15.4,
+        "low": 15.4,
+        "close": 15.4,
+        "volume": 166.0,
+        "trade_count": 6.0,
+        "vwap": 15.403072
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 15.4499,
+        "high": 15.4499,
+        "low": 15.4499,
+        "close": 15.4499,
+        "volume": 158.0,
+        "trade_count": 2.0,
+        "vwap": 15.442829
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 15.435,
+        "high": 15.435,
+        "low": 15.435,
+        "close": 15.435,
+        "volume": 760.0,
+        "trade_count": 2.0,
+        "vwap": 15.435164
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 15.38,
+        "high": 15.38,
+        "low": 15.37,
+        "close": 15.37,
+        "volume": 2020.0,
+        "trade_count": 3.0,
+        "vwap": 15.370792
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T14:37:00+00:00",
+        "open": 15.435,
+        "high": 15.435,
+        "low": 15.435,
+        "close": 15.435,
+        "volume": 102.0,
+        "trade_count": 3.0,
+        "vwap": 15.435278
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 15.43,
+        "high": 15.43,
+        "low": 15.43,
+        "close": 15.43,
+        "volume": 754.0,
+        "trade_count": 1.0,
+        "vwap": 15.43
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T14:48:00+00:00",
+        "open": 15.42,
+        "high": 15.42,
+        "low": 15.42,
+        "close": 15.42,
+        "volume": 224.0,
+        "trade_count": 1.0,
+        "vwap": 15.42
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 15.4499,
+        "high": 15.4499,
+        "low": 15.43,
+        "close": 15.43,
+        "volume": 1595.0,
+        "trade_count": 6.0,
+        "vwap": 15.438674
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T14:56:00+00:00",
+        "open": 15.43,
+        "high": 15.43,
+        "low": 15.43,
+        "close": 15.43,
+        "volume": 1531.0,
+        "trade_count": 6.0,
+        "vwap": 15.429996
+    },
+    {
+        "symbol": "CRSH",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 15.4899,
+        "high": 15.4899,
+        "low": 15.4899,
+        "close": 15.4899,
+        "volume": 225.0,
+        "trade_count": 1.0,
+        "vwap": 15.4899
+    }
+]

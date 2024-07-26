@@ -1,0 +1,101 @@
+[
+    {
+        "symbol": "RENT",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 15.91,
+        "high": 15.91,
+        "low": 15.91,
+        "close": 15.91,
+        "volume": 465.0,
+        "trade_count": 7.0,
+        "vwap": 15.86514
+    },
+    {
+        "symbol": "RENT",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 15.91,
+        "high": 15.91,
+        "low": 15.91,
+        "close": 15.91,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.91
+    },
+    {
+        "symbol": "RENT",
+        "timestamp": "2024-07-26T14:25:00+00:00",
+        "open": 15.7001,
+        "high": 15.7001,
+        "low": 15.7001,
+        "close": 15.7001,
+        "volume": 2525.0,
+        "trade_count": 2.0,
+        "vwap": 15.700198
+    },
+    {
+        "symbol": "RENT",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 15.9094,
+        "high": 15.9094,
+        "low": 15.9094,
+        "close": 15.9094,
+        "volume": 4000.0,
+        "trade_count": 2.0,
+        "vwap": 15.9094
+    },
+    {
+        "symbol": "RENT",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 15.56,
+        "high": 15.87,
+        "low": 15.56,
+        "close": 15.87,
+        "volume": 1292.0,
+        "trade_count": 16.0,
+        "vwap": 15.752926
+    },
+    {
+        "symbol": "RENT",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 15.79,
+        "high": 15.87,
+        "low": 15.79,
+        "close": 15.84,
+        "volume": 1399.0,
+        "trade_count": 27.0,
+        "vwap": 15.82812
+    },
+    {
+        "symbol": "RENT",
+        "timestamp": "2024-07-26T14:38:00+00:00",
+        "open": 15.6469,
+        "high": 15.6469,
+        "low": 15.6469,
+        "close": 15.6469,
+        "volume": 152.0,
+        "trade_count": 3.0,
+        "vwap": 15.647532
+    },
+    {
+        "symbol": "RENT",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 15.65,
+        "high": 15.65,
+        "low": 15.65,
+        "close": 15.65,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.65
+    },
+    {
+        "symbol": "RENT",
+        "timestamp": "2024-07-26T14:44:00+00:00",
+        "open": 15.715,
+        "high": 15.715,
+        "low": 15.715,
+        "close": 15.715,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 15.715
+    }
+]

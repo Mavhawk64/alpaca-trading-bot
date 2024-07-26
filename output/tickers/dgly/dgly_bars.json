@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "DGLY",
+        "timestamp": "2024-07-26T13:42:00+00:00",
+        "open": 2.01,
+        "high": 2.01,
+        "low": 1.99,
+        "close": 2.0,
+        "volume": 1660.0,
+        "trade_count": 11.0,
+        "vwap": 1.998193
+    },
+    {
+        "symbol": "DGLY",
+        "timestamp": "2024-07-26T13:45:00+00:00",
+        "open": 2.0,
+        "high": 2.0,
+        "low": 2.0,
+        "close": 2.0,
+        "volume": 1000.0,
+        "trade_count": 1.0,
+        "vwap": 2.0
+    },
+    {
+        "symbol": "DGLY",
+        "timestamp": "2024-07-26T15:01:00+00:00",
+        "open": 1.9894,
+        "high": 1.9894,
+        "low": 1.98,
+        "close": 1.98,
+        "volume": 482.0,
+        "trade_count": 7.0,
+        "vwap": 1.985114
+    }
+]

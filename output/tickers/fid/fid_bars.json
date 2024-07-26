@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "FID",
+        "timestamp": "2024-07-26T14:05:00+00:00",
+        "open": 16.2,
+        "high": 16.2001,
+        "low": 16.2,
+        "close": 16.2001,
+        "volume": 386.0,
+        "trade_count": 2.0,
+        "vwap": 16.20005
+    },
+    {
+        "symbol": "FID",
+        "timestamp": "2024-07-26T14:18:00+00:00",
+        "open": 16.27,
+        "high": 16.27,
+        "low": 16.27,
+        "close": 16.27,
+        "volume": 294.0,
+        "trade_count": 3.0,
+        "vwap": 16.27
+    },
+    {
+        "symbol": "FID",
+        "timestamp": "2024-07-26T14:24:00+00:00",
+        "open": 16.27,
+        "high": 16.27,
+        "low": 16.27,
+        "close": 16.27,
+        "volume": 2335.0,
+        "trade_count": 1.0,
+        "vwap": 16.27
+    }
+]

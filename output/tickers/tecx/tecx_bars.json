@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "TECX",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 17.23,
+        "high": 17.23,
+        "low": 17.23,
+        "close": 17.23,
+        "volume": 202.0,
+        "trade_count": 2.0,
+        "vwap": 17.229802
+    },
+    {
+        "symbol": "TECX",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 17.4556,
+        "high": 17.5,
+        "low": 17.18,
+        "close": 17.18,
+        "volume": 5447.0,
+        "trade_count": 25.0,
+        "vwap": 17.45846
+    },
+    {
+        "symbol": "TECX",
+        "timestamp": "2024-07-26T14:50:00+00:00",
+        "open": 17.5,
+        "high": 17.5,
+        "low": 17.5,
+        "close": 17.5,
+        "volume": 414.0,
+        "trade_count": 8.0,
+        "vwap": 17.487729
+    }
+]

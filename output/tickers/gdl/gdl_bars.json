@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "GDL",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 8.01,
+        "high": 8.01,
+        "low": 8.01,
+        "close": 8.01,
+        "volume": 211.0,
+        "trade_count": 2.0,
+        "vwap": 8.010379
+    },
+    {
+        "symbol": "GDL",
+        "timestamp": "2024-07-26T13:40:00+00:00",
+        "open": 8.006,
+        "high": 8.006,
+        "low": 8.006,
+        "close": 8.006,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 8.006
+    }
+]

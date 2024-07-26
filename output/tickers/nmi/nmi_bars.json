@@ -1,0 +1,46 @@
+[
+    {
+        "symbol": "NMI",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 10.05,
+        "high": 10.05,
+        "low": 10.05,
+        "close": 10.05,
+        "volume": 528.0,
+        "trade_count": 1.0,
+        "vwap": 10.05
+    },
+    {
+        "symbol": "NMI",
+        "timestamp": "2024-07-26T13:31:00+00:00",
+        "open": 10.0569,
+        "high": 10.0569,
+        "low": 10.0569,
+        "close": 10.0569,
+        "volume": 1700.0,
+        "trade_count": 1.0,
+        "vwap": 10.0569
+    },
+    {
+        "symbol": "NMI",
+        "timestamp": "2024-07-26T13:33:00+00:00",
+        "open": 9.98,
+        "high": 9.99,
+        "low": 9.98,
+        "close": 9.98,
+        "volume": 1471.0,
+        "trade_count": 7.0,
+        "vwap": 9.98136
+    },
+    {
+        "symbol": "NMI",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 10.05,
+        "high": 10.05,
+        "low": 10.05,
+        "close": 10.05,
+        "volume": 800.0,
+        "trade_count": 1.0,
+        "vwap": 10.05
+    }
+]

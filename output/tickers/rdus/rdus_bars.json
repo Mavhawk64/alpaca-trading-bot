@@ -1,0 +1,178 @@
+[
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 18.24,
+        "high": 18.24,
+        "low": 18.24,
+        "close": 18.24,
+        "volume": 2133.0,
+        "trade_count": 4.0,
+        "vwap": 18.23989
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 17.99,
+        "high": 17.99,
+        "low": 17.99,
+        "close": 17.99,
+        "volume": 102.0,
+        "trade_count": 2.0,
+        "vwap": 17.986667
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T13:44:00+00:00",
+        "open": 17.89,
+        "high": 17.9,
+        "low": 17.86,
+        "close": 17.9,
+        "volume": 599.0,
+        "trade_count": 20.0,
+        "vwap": 17.879633
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T13:49:00+00:00",
+        "open": 17.89,
+        "high": 17.9,
+        "low": 17.89,
+        "close": 17.9,
+        "volume": 822.0,
+        "trade_count": 37.0,
+        "vwap": 17.908759
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T13:59:00+00:00",
+        "open": 17.89,
+        "high": 17.9,
+        "low": 17.88,
+        "close": 17.88,
+        "volume": 1313.0,
+        "trade_count": 42.0,
+        "vwap": 17.890259
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:00:00+00:00",
+        "open": 17.82,
+        "high": 17.82,
+        "low": 17.82,
+        "close": 17.82,
+        "volume": 128.0,
+        "trade_count": 6.0,
+        "vwap": 17.827266
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 17.96,
+        "high": 17.97,
+        "low": 17.96,
+        "close": 17.96,
+        "volume": 769.0,
+        "trade_count": 29.0,
+        "vwap": 17.970923
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:08:00+00:00",
+        "open": 18.01,
+        "high": 18.01,
+        "low": 18.01,
+        "close": 18.01,
+        "volume": 172.0,
+        "trade_count": 11.0,
+        "vwap": 18.005465
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:17:00+00:00",
+        "open": 17.965,
+        "high": 17.965,
+        "low": 17.935,
+        "close": 17.935,
+        "volume": 495.0,
+        "trade_count": 33.0,
+        "vwap": 17.927126
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:21:00+00:00",
+        "open": 17.95,
+        "high": 17.95,
+        "low": 17.95,
+        "close": 17.95,
+        "volume": 146.0,
+        "trade_count": 6.0,
+        "vwap": 17.960274
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:23:00+00:00",
+        "open": 17.88,
+        "high": 17.88,
+        "low": 17.88,
+        "close": 17.88,
+        "volume": 214.0,
+        "trade_count": 21.0,
+        "vwap": 17.88579
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:26:00+00:00",
+        "open": 17.8,
+        "high": 17.8,
+        "low": 17.8,
+        "close": 17.8,
+        "volume": 249.0,
+        "trade_count": 6.0,
+        "vwap": 17.803333
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 17.82,
+        "high": 17.82,
+        "low": 17.82,
+        "close": 17.82,
+        "volume": 188.0,
+        "trade_count": 5.0,
+        "vwap": 17.821809
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:30:00+00:00",
+        "open": 17.87,
+        "high": 17.87,
+        "low": 17.87,
+        "close": 17.87,
+        "volume": 1021.0,
+        "trade_count": 22.0,
+        "vwap": 17.836988
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 17.84,
+        "high": 17.84,
+        "low": 17.84,
+        "close": 17.84,
+        "volume": 625.0,
+        "trade_count": 20.0,
+        "vwap": 17.845992
+    },
+    {
+        "symbol": "RDUS",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 17.81,
+        "high": 17.81,
+        "low": 17.81,
+        "close": 17.81,
+        "volume": 168.0,
+        "trade_count": 11.0,
+        "vwap": 17.81497
+    }
+]

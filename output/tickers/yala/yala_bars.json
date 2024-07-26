@@ -1,0 +1,222 @@
+[
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T13:30:00+00:00",
+        "open": 4.3,
+        "high": 4.3,
+        "low": 4.3,
+        "close": 4.3,
+        "volume": 304.0,
+        "trade_count": 15.0,
+        "vwap": 4.300099
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T13:36:00+00:00",
+        "open": 4.29,
+        "high": 4.29,
+        "low": 4.29,
+        "close": 4.29,
+        "volume": 167.0,
+        "trade_count": 5.0,
+        "vwap": 4.296166
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T13:41:00+00:00",
+        "open": 4.29,
+        "high": 4.29,
+        "low": 4.29,
+        "close": 4.29,
+        "volume": 314.0,
+        "trade_count": 4.0,
+        "vwap": 4.29
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T13:53:00+00:00",
+        "open": 4.295,
+        "high": 4.295,
+        "low": 4.28,
+        "close": 4.28,
+        "volume": 2867.0,
+        "trade_count": 12.0,
+        "vwap": 4.284887
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:02:00+00:00",
+        "open": 4.29,
+        "high": 4.29,
+        "low": 4.29,
+        "close": 4.29,
+        "volume": 200.0,
+        "trade_count": 2.0,
+        "vwap": 4.29
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:06:00+00:00",
+        "open": 4.28,
+        "high": 4.28,
+        "low": 4.28,
+        "close": 4.28,
+        "volume": 1075.0,
+        "trade_count": 15.0,
+        "vwap": 4.279729
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:07:00+00:00",
+        "open": 4.27,
+        "high": 4.27,
+        "low": 4.27,
+        "close": 4.27,
+        "volume": 364.0,
+        "trade_count": 3.0,
+        "vwap": 4.270003
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:11:00+00:00",
+        "open": 4.26,
+        "high": 4.265,
+        "low": 4.26,
+        "close": 4.265,
+        "volume": 501.0,
+        "trade_count": 3.0,
+        "vwap": 4.261004
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 4.26,
+        "high": 4.26,
+        "low": 4.26,
+        "close": 4.26,
+        "volume": 1431.0,
+        "trade_count": 11.0,
+        "vwap": 4.26
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:28:00+00:00",
+        "open": 4.2602,
+        "high": 4.2602,
+        "low": 4.2602,
+        "close": 4.2602,
+        "volume": 843.0,
+        "trade_count": 2.0,
+        "vwap": 4.260199
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:29:00+00:00",
+        "open": 4.265,
+        "high": 4.265,
+        "low": 4.265,
+        "close": 4.265,
+        "volume": 111.0,
+        "trade_count": 3.0,
+        "vwap": 4.265
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:32:00+00:00",
+        "open": 4.26,
+        "high": 4.26,
+        "low": 4.26,
+        "close": 4.26,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.26
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:33:00+00:00",
+        "open": 4.26,
+        "high": 4.26,
+        "low": 4.26,
+        "close": 4.26,
+        "volume": 104.0,
+        "trade_count": 2.0,
+        "vwap": 4.26
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:40:00+00:00",
+        "open": 4.265,
+        "high": 4.29,
+        "low": 4.265,
+        "close": 4.285,
+        "volume": 8755.0,
+        "trade_count": 29.0,
+        "vwap": 4.277932
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:43:00+00:00",
+        "open": 4.285,
+        "high": 4.285,
+        "low": 4.285,
+        "close": 4.285,
+        "volume": 102.0,
+        "trade_count": 2.0,
+        "vwap": 4.284902
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:47:00+00:00",
+        "open": 4.28,
+        "high": 4.28,
+        "low": 4.28,
+        "close": 4.28,
+        "volume": 105.0,
+        "trade_count": 3.0,
+        "vwap": 4.28
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:49:00+00:00",
+        "open": 4.28,
+        "high": 4.28,
+        "low": 4.28,
+        "close": 4.28,
+        "volume": 113.0,
+        "trade_count": 2.0,
+        "vwap": 4.28
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:51:00+00:00",
+        "open": 4.2701,
+        "high": 4.2701,
+        "low": 4.265,
+        "close": 4.265,
+        "volume": 1005.0,
+        "trade_count": 4.0,
+        "vwap": 4.269064
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 4.27,
+        "high": 4.27,
+        "low": 4.27,
+        "close": 4.27,
+        "volume": 100.0,
+        "trade_count": 1.0,
+        "vwap": 4.27
+    },
+    {
+        "symbol": "YALA",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 4.27,
+        "high": 4.3,
+        "low": 4.27,
+        "close": 4.295,
+        "volume": 9987.0,
+        "trade_count": 39.0,
+        "vwap": 4.28948
+    }
+]

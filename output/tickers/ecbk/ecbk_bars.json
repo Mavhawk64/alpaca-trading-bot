@@ -1,0 +1,35 @@
+[
+    {
+        "symbol": "ECBK",
+        "timestamp": "2024-07-26T14:15:00+00:00",
+        "open": 13.94,
+        "high": 13.94,
+        "low": 13.94,
+        "close": 13.94,
+        "volume": 365.0,
+        "trade_count": 6.0,
+        "vwap": 13.93474
+    },
+    {
+        "symbol": "ECBK",
+        "timestamp": "2024-07-26T14:54:00+00:00",
+        "open": 14.16,
+        "high": 14.16,
+        "low": 14.09,
+        "close": 14.09,
+        "volume": 850.0,
+        "trade_count": 6.0,
+        "vwap": 14.125882
+    },
+    {
+        "symbol": "ECBK",
+        "timestamp": "2024-07-26T14:58:00+00:00",
+        "open": 14.08,
+        "high": 14.08,
+        "low": 14.08,
+        "close": 14.08,
+        "volume": 893.0,
+        "trade_count": 1.0,
+        "vwap": 14.08
+    }
+]

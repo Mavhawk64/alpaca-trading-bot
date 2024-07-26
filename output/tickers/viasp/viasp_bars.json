@@ -1,0 +1,24 @@
+[
+    {
+        "symbol": "VIASP",
+        "timestamp": "2024-07-26T14:27:00+00:00",
+        "open": 19.58,
+        "high": 19.58,
+        "low": 19.2901,
+        "close": 19.2901,
+        "volume": 600.0,
+        "trade_count": 2.0,
+        "vwap": 19.43505
+    },
+    {
+        "symbol": "VIASP",
+        "timestamp": "2024-07-26T14:53:00+00:00",
+        "open": 19.83,
+        "high": 19.83,
+        "low": 19.83,
+        "close": 19.83,
+        "volume": 250.0,
+        "trade_count": 1.0,
+        "vwap": 19.83
+    }
+]
